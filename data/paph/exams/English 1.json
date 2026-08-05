@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "q": "A: Good morning! How was your weekend? B: ______",
+    "choices": {
+      "A": "It starts next month.",
+      "B": "It was great, thank you.",
+      "C": "I will check the schedule.",
+      "D": "Yes, I already sent it."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "q": "A: Can we move our meeting to 3 p.m. instead? B: ______",
+    "choices": {
+      "A": "I will bring the documents.",
+      "B": "I am not in the ofﬁce today.",
+      "C": "Yes, please sign here.",
+      "D": "Sure, that works for me."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "q": "A: I can't hear you clearly. Could you repeat that? B: ______",
+    "choices": {
+      "A": "Sure, I’ll say it again.",
+      "B": "Yes, I already booked it.",
+      "C": "It is on the second ﬂoor.",
+      "D": "I ﬁnished it yesterday."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "q": "A: I need your report by this afternoon. Is that possible? B: ______",
+    "choices": {
+      "A": "It was approved yesterday.",
+      "B": "I booked the meeting room.",
+      "C": "Yes, I can ﬁnish it by then.",
+      "D": "The ﬁle is too large. deadline."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "q": "A: Could we postpone today's meeting to tomorrow morning? B: ______",
+    "choices": {
+      "A": "I already sent the invoice.",
+      "B": "The ﬁle is on your desk.",
+      "C": "Yes, tomorrow works for me.",
+      "D": "I’ve never met him before."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "q": "A: Did you receive the updated project timeline I emailed earlier? B: ______",
+    "choices": {
+      "A": "Yes, I got it. Thanks.",
+      "B": "I will be there at 3 p.m.",
+      "C": "It should be on the second ﬂoor.",
+      "D": "No, I booked the room instead."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "q": "A: I’m not sure how to access the new system. Can you help me? B: ______",
+    "choices": {
+      "A": "I submitted it yesterday.",
+      "B": "The meeting starts at 10.",
+      "C": "I’ll check the invoice later.",
+      "D": "Sure, I can show you."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "q": "A: I’ll be out of the ofﬁce this afternoon. Can you handle the client call for me? B: ______",
+    "choices": {
+      "A": "It was delivered yesterday.",
+      "B": "Yes, I can take the call.",
+      "C": "I already approved the form.",
+      "D": "The meeting room is available."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "q": "A: I tried calling you earlier, but your line was busy. B: ______",
+    "choices": {
+      "A": "I left the documents on your desk.",
+      "B": "Yes, the meeting was canceled.",
+      "C": "I will review the report later.",
+      "D": "Sorry, I was on another call."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "q": "A: Could you send me the ﬁle before lunchtime? B: ______",
+    "choices": {
+      "A": "I booked the conference room.",
+      "B": "Sure, I’ll send it shortly.",
+      "C": "It was approved yesterday.",
+      "D": "The printer is not working."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "q": "A: Do you know who is presenting in today's meeting? B: ______",
+    "choices": {
+      "A": "Yes, it’s Mr. Carter.",
+      "B": "I will visit the warehouse later.",
+      "C": "The report is too long.",
+      "D": "I already signed the form."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "q": "A: I’m running late. Can you start the presentation without me? B: ______",
+    "choices": {
+      "A": "The document needs approval.",
+      "B": "I ordered lunch for everyone.",
+      "C": "Yes, I’ll begin the presentation.",
+      "D": "The meeting room is full."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "q": "A: I’m really sorry for sending the report late. B: ______",
+    "choices": {
+      "A": "I understand. Please send it earlier next time.",
+      "B": "The meeting room is on the left.",
+      "C": "I already booked the ﬂight.",
+      "D": "Yes, the ﬁle was too large. reminder."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "q": "A: There seems to be a mistake in this document. B: ______",
+    "choices": {
+      "A": "I don’t have my laptop today.",
+      "B": "The meeting starts at 4 p.m.",
+      "C": "Let me check it and ﬁx it right away.",
+      "D": "Yes, I ﬁnished the report yesterday."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "q": "A: We need someone to lead the team for this project. Would you be interested? B: ______",
+    "choices": {
+      "A": "It was submitted last week.",
+      "B": "The printer is still broken.",
+      "C": "Yes, the budget was approved.",
+      "D": "I’d be happy to take the role."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "q": "A: Could you remind me about the client meeting tomorrow? B: ______",
+    "choices": {
+      "A": "I sent the invoice this morning.",
+      "B": "Sure, I’ll message you in the morning.",
+      "C": "The report needs more data.",
+      "D": "It was delivered yesterday."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "q": "A: We need to ﬁnalize the agenda for tomorrow’s presentation. Can you review it today? B: ______",
+    "choices": {
+      "A": "The meeting was postponed.",
+      "B": "I already sent the invoice.",
+      "C": "It is on the third ﬂoor.",
+      "D": "Yes, I’ll review it this afternoon."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "q": "A: Could you let me know when the shipment arrives? B: ______",
+    "choices": {
+      "A": "Yes, I’ll notify you immediately.",
+      "B": "The report was too long.",
+      "C": "I need a bigger room.",
+      "D": "It was approved last week. arrives."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "q": "A: I’m preparing the quarterly report. Do you have the latest sales numbers? B: ______",
+    "choices": {
+      "A": "I sent the email yesterday.",
+      "B": "The meeting starts at 5 p.m.",
+      "C": "Yes, I’ll forward them to you now.",
+      "D": "I left my keys at home."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "q": "A: I won’t be able to join the afternoon meeting. Could you update me afterward? B: ______",
+    "choices": {
+      "A": "The document needs your approval.",
+      "B": "Sure, I’ll send you a summary.",
+      "C": "I already booked the ﬂight.",
+      "D": "The printer is out of ink. Part  2   –   Vocabulary"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "q": "Please submit your monthly ______ to the ﬁnance department.",
+    "choices": {
+      "A": "meeting",
+      "B": "journey",
+      "C": "report",
+      "D": "notice ﬁnance or management."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "q": "The manager asked everyone to ______ the revised schedule.",
+    "choices": {
+      "A": "review",
+      "B": "travel",
+      "C": "replace",
+      "D": "enjoy when checking updated information."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "q": "Please make sure to attach all the required ______ before sending the application.",
+    "choices": {
+      "A": "holidays",
+      "B": "meetings",
+      "C": "delays",
+      "D": "documents vocabulary item here."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "q": "The company is looking for new employees with strong communication ______.",
+    "choices": {
+      "A": "rooms",
+      "B": "skills",
+      "C": "printers",
+      "D": "details"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "q": "Please ensure all travel ______ are approved before booking the ﬂight.",
+    "choices": {
+      "A": "machines",
+      "B": "requests",
+      "C": "folders",
+      "D": "warnings before traveling for work."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "q": "The HR department will ______ the new employee orientation next Monday.",
+    "choices": {
+      "A": "divide",
+      "B": "borrow",
+      "C": "remove",
+      "D": "conduct sessions."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "q": "The team needs to ______ the issue before submitting the ﬁnal report.",
+    "choices": {
+      "A": "investigate",
+      "B": "decorate",
+      "C": "deliver",
+      "D": "relax or analysis."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "q": "The supervisor asked me to send a ______ summary of yesterday’s meeting.",
+    "choices": {
+      "A": "heavy",
+      "B": "lucky",
+      "C": "brief",
+      "D": "silent communication."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "q": "The manager wants to ______ a decision by the end of the day.",
+    "choices": {
+      "A": "walk",
+      "B": "repair",
+      "C": "celebrate",
+      "D": "make"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "q": "Please ______ the meeting room before our clients arrive.",
+    "choices": {
+      "A": "promise",
+      "B": "delay",
+      "C": "prepare",
+      "D": "remove guests."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "q": "We need to ______ the minutes after every meeting.",
+    "choices": {
+      "A": "record",
+      "B": "drive",
+      "C": "imagine",
+      "D": "repeat meeting summary)."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "q": "The IT department will ______ the issue and get back to us soon.",
+    "choices": {
+      "A": "protect",
+      "B": "investigate",
+      "C": "return",
+      "D": "collect problem."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "q": "The manager asked me to ______ the client to conﬁrm the delivery date.",
+    "choices": {
+      "A": "turn down",
+      "B": "follow up with",
+      "C": "look away from",
+      "D": "hand over someone again for conﬁrmation."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "q": "We will ______ the issue and provide a solution by tomorrow.",
+    "choices": {
+      "A": "turn off",
+      "B": "break into",
+      "C": "run over",
+      "D": "look into workplace usage."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "q": "Please ______ the meeting room before you leave.",
+    "choices": {
+      "A": "turn off",
+      "B": "go over",
+      "C": "bring up",
+      "D": "fall behind"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "q": "They need to ______ the project proposal before submitting it.",
+    "choices": {
+      "A": "break down",
+      "B": "hand over",
+      "C": "go over",
+      "D": "run into"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "q": "The company hired a new ______ to improve customer satisfaction.",
+    "choices": {
+      "A": "consultant",
+      "B": "receipt",
+      "C": "warehouse",
+      "D": "salary as customer satisfaction."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "q": "Please bring the original ______ when completing the reimbursement form.",
+    "choices": {
+      "A": "customer",
+      "B": "salary",
+      "C": "project",
+      "D": "receipt"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "q": "The HR team reviews each employee’s ______ at the end of the year.",
+    "choices": {
+      "A": "invoice",
+      "B": "performance",
+      "C": "warehouse",
+      "D": "customer evaluation. Part 3: Grammar"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "q": "You need to ______ the equipment, not borrow it.",
+    "choices": {
+      "A": "invoice",
+      "B": "client",
+      "C": "return",
+      "D": "salary"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "q": "The manager ______ the ﬁnal draft yesterday.",
+    "choices": {
+      "A": "approve",
+      "B": "approves",
+      "C": "approving",
+      "D": "approved correct."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "q": "I ______ for the meeting right now, so I’ll call you back later.",
+    "choices": {
+      "A": "prepare",
+      "B": "am preparing",
+      "C": "prepared",
+      "D": "will prepare this moment."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "q": "She ______ in the marketing department for ﬁve years.",
+    "choices": {
+      "A": "has worked",
+      "B": "works",
+      "C": "is working",
+      "D": "worked and continues to now."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "q": "We will reschedule the meeting ______ Friday morning.",
+    "choices": {
+      "A": "in",
+      "B": "at",
+      "C": "for",
+      "D": "on setting a future appointment."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "q": "The report has been on my desk ______ Monday.",
+    "choices": {
+      "A": "for",
+      "B": "during",
+      "C": "since",
+      "D": "until continues to the present."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "q": "You ______ submit the form today; tomorrow is also ﬁne.",
+    "choices": {
+      "A": "don’t have to",
+      "B": "must",
+      "C": "can’t",
+      "D": "shouldn’t context."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "q": "If the printer doesn’t work, we ______ call the IT department.",
+    "choices": {
+      "A": "would",
+      "B": "have",
+      "C": "had",
+      "D": "should"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "q": "She is responsible ______ coordinating the team’s weekly schedule.",
+    "choices": {
+      "A": "with",
+      "B": "for",
+      "C": "by",
+      "D": "on"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "q": "You ______ bring your ID card to enter the building.",
+    "choices": {
+      "A": "might",
+      "B": "must",
+      "C": "could",
+      "D": "would context."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "q": "If the team ﬁnishes early, they ______ leave the ofﬁce before 5 p.m.",
+    "choices": {
+      "A": "has",
+      "B": "is",
+      "C": "was",
+      "D": "may departure."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "q": "If I ______ more time, I would complete the entire report today.",
+    "choices": {
+      "A": "had",
+      "B": "have",
+      "C": "am having",
+      "D": "would have"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "q": "She will join the meeting after she ______ her presentation.",
+    "choices": {
+      "A": "ﬁnish",
+      "B": "ﬁnishing",
+      "C": "ﬁnishes",
+      "D": "to ﬁnish"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "q": "If you ______ any questions, feel free to contact me.",
+    "choices": {
+      "A": "to have",
+      "B": "having",
+      "C": "have",
+      "D": "had conditions and results."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "q": "The meeting will start as soon as everyone ______.",
+    "choices": {
+      "A": "arrives",
+      "B": "arriving",
+      "C": "arrived",
+      "D": "to arrive future meaning."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "q": "The report ______ by the end of the week if the team works overtime.",
+    "choices": {
+      "A": "completes",
+      "B": "is completing",
+      "C": "has completed",
+      "D": "will be completed expected to be ﬁnished."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "q": "She prefers working in the morning ______ she feels more focused.",
+    "choices": {
+      "A": "so",
+      "B": "because",
+      "C": "but",
+      "D": "or"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "q": "Which sentence is grammatically correct?",
+    "choices": {
+      "A": "She don’t like attending long meetings.",
+      "B": "She doesn’t like attending long meetings.",
+      "C": "She isn’t like attending long meetings.",
+      "D": "She not like attending long meetings."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "q": "Which sentence is written correctly for a formal email?",
+    "choices": {
+      "A": "I gonna send you the ﬁle later.",
+      "B": "I wanna know the update.",
+      "C": "I’m sending u the report now.",
+      "D": "I will send you the report shortly."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "q": "Which sentence is correct?",
+    "choices": {
+      "A": "The documents were reviewed by the team.",
+      "B": "The documents was reviewed by the team.",
+      "C": "The documents is reviewed by the team.",
+      "D": "The document were reviewed by the team."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "q": "Which sentence is appropriate for a workplace context?",
+    "choices": {
+      "A": "I hope you’re having a great party!",
+      "B": "The ﬁle is super cute!",
+      "C": "Please let me know if you need any clariﬁcation.",
+      "D": "This meeting is boring lol."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "q": "What is the main purpose of the new system?",
+    "choices": {
+      "A": "To provide more frequent feedback",
+      "B": "To reduce the number of employees",
+      "C": "To replace all managers",
+      "D": "To increase ofﬁce hours feedback."
+    },
+    "answer": "A",
+    "passage": "Part 4  –   Reading\nReading Passage (for Questions 6 1 – 6 4 )\nThe HR department will introduce a new performance evaluation system next month. The\nsystem aims to provide more frequent feedback, allowing employees to track their progress\nthroughout the year. Managers will meet with their teams every quarter to review  goals, identify\nchallenges, and offer support. Training sessions will be held next week to ensure all staff\nunderstand how the system works."
+  },
+  {
+    "id": 62,
+    "q": "How often will managers meet with their teams?",
+    "choices": {
+      "A": "Monthly",
+      "B": "Twice a year",
+      "C": "Every quarter",
+      "D": "Every week"
+    },
+    "answer": "C",
+    "passage": "Part 4  –   Reading\nReading Passage (for Questions 6 1 – 6 4 )\nThe HR department will introduce a new performance evaluation system next month. The\nsystem aims to provide more frequent feedback, allowing employees to track their progress\nthroughout the year. Managers will meet with their teams every quarter to review  goals, identify\nchallenges, and offer support. Training sessions will be held next week to ensure all staff\nunderstand how the system works."
+  },
+  {
+    "id": 63,
+    "q": "When will the training sessions take place?",
+    "choices": {
+      "A": "Next month",
+      "B": "Next week",
+      "C": "Today",
+      "D": "At the end of the year"
+    },
+    "answer": "B",
+    "passage": "Part 4  –   Reading\nReading Passage (for Questions 6 1 – 6 4 )\nThe HR department will introduce a new performance evaluation system next month. The\nsystem aims to provide more frequent feedback, allowing employees to track their progress\nthroughout the year. Managers will meet with their teams every quarter to review  goals, identify\nchallenges, and offer support. Training sessions will be held next week to ensure all staff\nunderstand how the system works."
+  },
+  {
+    "id": 64,
+    "q": "What is one beneﬁt mentioned in the passage?",
+    "choices": {
+      "A": "Employees will work shorter hours",
+      "B": "Managers will approve salaries",
+      "C": "Teams will change every quarter",
+      "D": "Employees can track their progress year."
+    },
+    "answer": "D",
+    "passage": "Part 4  –   Reading\nReading Passage (for Questions 6 1 – 6 4 )\nThe HR department will introduce a new performance evaluation system next month. The\nsystem aims to provide more frequent feedback, allowing employees to track their progress\nthroughout the year. Managers will meet with their teams every quarter to review  goals, identify\nchallenges, and offer support. Training sessions will be held next week to ensure all staff\nunderstand how the system works."
+  },
+  {
+    "id": 65,
+    "q": "When will the new security procedures begin?",
+    "choices": {
+      "A": "Tomorrow",
+      "B": "Today",
+      "C": "Next month",
+      "D": "Next Monday"
+    },
+    "answer": "D",
+    "passage": "Reading Passage (for Questions 65 – 68)\nThe company will implement new ofﬁce security procedures starting next Monday. All\nemployees will need to use their ID badges to enter the building, including restricted areas such\nas the server room. Visitors must register at the front desk and wear a te mporary badge at all\ntimes. The security team will also conduct random checks to ensure everyone follows the new\nrules."
+  },
+  {
+    "id": 66,
+    "q": "What must employees use to enter the building?",
+    "choices": {
+      "A": "Their ID badges",
+      "B": "A password",
+      "C": "A special code",
+      "D": "A printed form"
+    },
+    "answer": "A",
+    "passage": "Reading Passage (for Questions 65 – 68)\nThe company will implement new ofﬁce security procedures starting next Monday. All\nemployees will need to use their ID badges to enter the building, including restricted areas such\nas the server room. Visitors must register at the front desk and wear a te mporary badge at all\ntimes. The security team will also conduct random checks to ensure everyone follows the new\nrules."
+  },
+  {
+    "id": 67,
+    "q": "Who needs to register at the front desk?",
+    "choices": {
+      "A": "All employees",
+      "B": "The security team",
+      "C": "All visitors",
+      "D": "Only managers"
+    },
+    "answer": "C",
+    "passage": "Reading Passage (for Questions 65 – 68)\nThe company will implement new ofﬁce security procedures starting next Monday. All\nemployees will need to use their ID badges to enter the building, including restricted areas such\nas the server room. Visitors must register at the front desk and wear a te mporary badge at all\ntimes. The security team will also conduct random checks to ensure everyone follows the new\nrules."
+  },
+  {
+    "id": 68,
+    "q": "What additional measure will the security team take?",
+    "choices": {
+      "A": "They will lock all doors early.",
+      "B": "They will conduct random checks.",
+      "C": "They will cancel all visitor passes.",
+      "D": "They will issue new ID cards weekly."
+    },
+    "answer": "B",
+    "passage": "Reading Passage (for Questions 65 – 68)\nThe company will implement new ofﬁce security procedures starting next Monday. All\nemployees will need to use their ID badges to enter the building, including restricted areas such\nas the server room. Visitors must register at the front desk and wear a te mporary badge at all\ntimes. The security team will also conduct random checks to ensure everyone follows the new\nrules."
+  },
+  {
+    "id": 69,
+    "q": "What is the main purpose of the new social media campaign?",
+    "choices": {
+      "A": "To reduce company expenses",
+      "B": "To hire more employees",
+      "C": "To increase brand awareness",
+      "D": "To collect customer complaints awareness."
+    },
+    "answer": "C",
+    "passage": "Reading Passage (for Questions 69 – 72)\nThe company newsletter highlights several updates for the upcoming quarter. First, the\nmarketing team will launch a new social media campaign aimed at increasing brand awareness.\nAdditionally, the company plans to introduce a ﬂexible work arrangement, all owing employees\nto work from home up to two days per week. Finally, a new training program on digital skills\nwill be available to all staff starting next month."
+  },
+  {
+    "id": 70,
+    "q": "How many days per week may employees work from home?",
+    "choices": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four to two days per week."
+    },
+    "answer": "B",
+    "passage": "Reading Passage (for Questions 69 – 72)\nThe company newsletter highlights several updates for the upcoming quarter. First, the\nmarketing team will launch a new social media campaign aimed at increasing brand awareness.\nAdditionally, the company plans to introduce a ﬂexible work arrangement, all owing employees\nto work from home up to two days per week. Finally, a new training program on digital skills\nwill be available to all staff starting next month."
+  },
+  {
+    "id": 71,
+    "q": "When will the new training program be available?",
+    "choices": {
+      "A": "This week",
+      "B": "Today",
+      "C": "At the end of the year",
+      "D": "Next month"
+    },
+    "answer": "D",
+    "passage": "Reading Passage (for Questions 69 – 72)\nThe company newsletter highlights several updates for the upcoming quarter. First, the\nmarketing team will launch a new social media campaign aimed at increasing brand awareness.\nAdditionally, the company plans to introduce a ﬂexible work arrangement, all owing employees\nto work from home up to two days per week. Finally, a new training program on digital skills\nwill be available to all staff starting next month."
+  },
+  {
+    "id": 72,
+    "q": "Which department will launch the new campaign?",
+    "choices": {
+      "A": "The marketing team",
+      "B": "The ﬁnance team",
+      "C": "The HR team",
+      "D": "The IT team"
+    },
+    "answer": "A",
+    "passage": "Reading Passage (for Questions 69 – 72)\nThe company newsletter highlights several updates for the upcoming quarter. First, the\nmarketing team will launch a new social media campaign aimed at increasing brand awareness.\nAdditionally, the company plans to introduce a ﬂexible work arrangement, all owing employees\nto work from home up to two days per week. Finally, a new training program on digital skills\nwill be available to all staff starting next month."
+  },
+  {
+    "id": 73,
+    "q": "What contributed most to the increase in revenue?",
+    "choices": {
+      "A": "Reduced production costs",
+      "B": "Strong online sales and a new product line",
+      "C": "Fewer customer complaints",
+      "D": "Higher employee turnover"
+    },
+    "answer": "B",
+    "passage": "Reading Passage (for Questions 73 – 76)\nThe quarterly sales report shows a steady increase in revenue compared to the previous\nquarter. The growth is mainly driven by strong online sales and the successful launch of a new\nproduct line. However, the report also highlights challenges in the custom er support team,\nwhich has been experiencing longer response times due to a temporary staff shortage.\nManagement plans to hire additional team members to improve service quality."
+  },
+  {
+    "id": 74,
+    "q": "What challenge is mentioned in the customer support team?",
+    "choices": {
+      "A": "Low product quality",
+      "B": "High advertising expenses",
+      "C": "Outdated communication tools",
+      "D": "Longer response times"
+    },
+    "answer": "D",
+    "passage": "Reading Passage (for Questions 73 – 76)\nThe quarterly sales report shows a steady increase in revenue compared to the previous\nquarter. The growth is mainly driven by strong online sales and the successful launch of a new\nproduct line. However, the report also highlights challenges in the custom er support team,\nwhich has been experiencing longer response times due to a temporary staff shortage.\nManagement plans to hire additional team members to improve service quality."
+  },
+  {
+    "id": 75,
+    "q": "What action does management plan to take?",
+    "choices": {
+      "A": "Hire more team members",
+      "B": "Increase product prices",
+      "C": "Reduce ofﬁce hours",
+      "D": "Cancel the new product line"
+    },
+    "answer": "A",
+    "passage": "Reading Passage (for Questions 73 – 76)\nThe quarterly sales report shows a steady increase in revenue compared to the previous\nquarter. The growth is mainly driven by strong online sales and the successful launch of a new\nproduct line. However, the report also highlights challenges in the custom er support team,\nwhich has been experiencing longer response times due to a temporary staff shortage.\nManagement plans to hire additional team members to improve service quality."
+  },
+  {
+    "id": 76,
+    "q": "What caused the customer support delays?",
+    "choices": {
+      "A": "High customer demand",
+      "B": "Technical problems",
+      "C": "Temporary staff shortage",
+      "D": "Marketing errors"
+    },
+    "answer": "C",
+    "passage": "Reading Passage (for Questions 73 – 76)\nThe quarterly sales report shows a steady increase in revenue compared to the previous\nquarter. The growth is mainly driven by strong online sales and the successful launch of a new\nproduct line. However, the report also highlights challenges in the custom er support team,\nwhich has been experiencing longer response times due to a temporary staff shortage.\nManagement plans to hire additional team members to improve service quality."
+  },
+  {
+    "id": 77,
+    "q": "What is the main purpose of the new program?",
+    "choices": {
+      "A": "To reduce the number of meetings",
+      "B": "To train employees in computer programming",
+      "C": "To improve leadership and communication skills",
+      "D": "To prepare employees for retirement"
+    },
+    "answer": "C",
+    "passage": "Reading Passage (for Questions 77 – 80)\nThe company has announced a new professional development program designed to help\nemployees improve their leadership and communication skills. The program includes\nworkshops, online courses, and monthly mentoring sessions with senior managers. Participatio n\nis voluntary, but employees are encouraged to join if they are interested in career\nadvancement. Registration opens next Monday, and spaces are limited."
+  },
+  {
+    "id": 78,
+    "q": "What does the program include?",
+    "choices": {
+      "A": "Workshops, online courses, and mentoring sessions",
+      "B": "Free lunch and transportation",
+      "C": "Weekend team - building trips",
+      "D": "Daily performance evaluations"
+    },
+    "answer": "A",
+    "passage": "Reading Passage (for Questions 77 – 80)\nThe company has announced a new professional development program designed to help\nemployees improve their leadership and communication skills. The program includes\nworkshops, online courses, and monthly mentoring sessions with senior managers. Participatio n\nis voluntary, but employees are encouraged to join if they are interested in career\nadvancement. Registration opens next Monday, and spaces are limited."
+  },
+  {
+    "id": 79,
+    "q": "When does registration open?",
+    "choices": {
+      "A": "Today",
+      "B": "Next month",
+      "C": "Yesterday",
+      "D": "Next Monday"
+    },
+    "answer": "D",
+    "passage": "Reading Passage (for Questions 77 – 80)\nThe company has announced a new professional development program designed to help\nemployees improve their leadership and communication skills. The program includes\nworkshops, online courses, and monthly mentoring sessions with senior managers. Participatio n\nis voluntary, but employees are encouraged to join if they are interested in career\nadvancement. Registration opens next Monday, and spaces are limited."
+  },
+  {
+    "id": 80,
+    "q": "What is mentioned about participation?",
+    "choices": {
+      "A": "It is required for all employees",
+      "B": "It is voluntary but encouraged",
+      "C": "It is only for new employees",
+      "D": "It is limited to managers only required."
+    },
+    "answer": "B",
+    "passage": "Reading Passage (for Questions 77 – 80)\nThe company has announced a new professional development program designed to help\nemployees improve their leadership and communication skills. The program includes\nworkshops, online courses, and monthly mentoring sessions with senior managers. Participatio n\nis voluntary, but employees are encouraged to join if they are interested in career\nadvancement. Registration opens next Monday, and spaces are limited."
+  }
+]

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Secret Card ติวสอบราชการ</title>
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#061422" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root">
+      <div id="boot-loader" style="position:fixed;inset:0;background:#061422;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;font-family:system-ui,sans-serif;">
+        <div style="font-size:20px;font-weight:800;letter-spacing:4px;color:#ff8c30;">SECRET CARD</div>
+        <div style="width:220px;height:4px;background:#0c1f38;border-radius:99px;overflow:hidden;border:1px solid rgba(255,140,48,0.15);">
+          <div id="boot-bar" style="width:0%;height:100%;background:linear-gradient(90deg,#e86010,#ff8c30);border-radius:99px;transition:width .3s;"></div>
+        </div>
+        <div id="boot-pct" style="font-size:11px;color:rgba(255,255,255,0.5);font-family:monospace;">กำลังโหลดแอป 0%</div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      (function () {
+        var bar = document.getElementById('boot-bar');
+        var pct = document.getElementById('boot-pct');
+        if (!bar || !pct) return;
+        var v = 0;
+        var id = setInterval(function () {
+          v = Math.min(90, v + 1 + v * 0.02);
+          bar.style.width = v + '%';
+          pct.textContent = 'กำลังโหลดแอป ' + Math.round(v) + '%';
+          if (v >= 90) clearInterval(id);
+        }, 100);
+      })();
+    </script>
+  </body>
+</html>
+

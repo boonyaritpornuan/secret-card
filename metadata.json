@@ -1,0 +1,6 @@
+{
+  "name": "Secret Card ติวสอบราชการ",
+  "description": "คลังข้อสอบและ Flashcard สำหรับเตรียมสอบราชการ: นักวิเคราะห์นโยบายและแผน ปภ. ปี 2569 (1,000 ข้อ) และนักวิชาการคอมพิวเตอร์ปฏิบัติการ สพฐ. (700 ข้อ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

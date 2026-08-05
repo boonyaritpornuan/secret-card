@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "q": "The manager, along with his staff, _____ attending the meeting right now.",
+    "choices": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "was"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "q": "By the time we arrive at the station, the train _____.",
+    "choices": {
+      "A": "will have left",
+      "B": "has left",
+      "C": "will leave",
+      "D": "left"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "q": "If I _____ you, I would apply for that scholarship.",
+    "choices": {
+      "A": "had been",
+      "B": "were",
+      "C": "am",
+      "D": "was"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "q": "Neither the students nor the teacher _____ aware of the schedule change.",
+    "choices": {
+      "A": "being",
+      "B": "are",
+      "C": "is",
+      "D": "be"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "q": "She is looking forward to _____ from you soon.",
+    "choices": {
+      "A": "heard",
+      "B": "hear",
+      "C": "be heard",
+      "D": "hearing"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "q": "He asked me where _____.",
+    "choices": {
+      "A": "do I live",
+      "B": "did I live",
+      "C": "I lived",
+      "D": "I live"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "q": "I regret _____ you that your application has been rejected.",
+    "choices": {
+      "A": "informing",
+      "B": "informed",
+      "C": "to inform",
+      "D": "inform"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "q": "The new policy will be implemented _____ January 1st.",
+    "choices": {
+      "A": "on",
+      "B": "in",
+      "C": "by",
+      "D": "at"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "q": "It is essential that he _____ the report by tomorrow morning.",
+    "choices": {
+      "A": "finish",
+      "B": "has finished",
+      "C": "finishes",
+      "D": "finished"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "q": "Scarcely had I reached the station _____ the train departed.",
+    "choices": {
+      "A": "while",
+      "B": "than",
+      "C": "then",
+      "D": "when"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "q": "Despite _____ a lot of experience, she didn't get the job.",
+    "choices": {
+      "A": "have",
+      "B": "having",
+      "C": "had",
+      "D": "has"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "q": "You had better _____ an umbrella; it looks like it's going to rain.",
+    "choices": {
+      "A": "taking",
+      "B": "take",
+      "C": "took",
+      "D": "to take"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "q": "The book _____ I borrowed from the library is very interesting.",
+    "choices": {
+      "A": "which",
+      "B": "who",
+      "C": "whose",
+      "D": "whom"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "q": "I am not used to _____ up so early in the morning.",
+    "choices": {
+      "A": "got",
+      "B": "get",
+      "C": "have got",
+      "D": "getting"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "q": "Would you mind _____ the window? It's a bit cold in here.",
+    "choices": {
+      "A": "to close",
+      "B": "closed",
+      "C": "closing",
+      "D": "close"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "q": "The more you practice, _____ you will become.",
+    "choices": {
+      "A": "the better",
+      "B": "better",
+      "C": "best",
+      "D": "the best"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "q": "He is the man _____ car was stolen yesterday.",
+    "choices": {
+      "A": "whom",
+      "B": "whose",
+      "C": "who",
+      "D": "which"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "q": "Not only _____ late, but he also forgot his important documents.",
+    "choices": {
+      "A": "arrived he",
+      "B": "he did arrive",
+      "C": "did he arrive",
+      "D": "he arrived"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "q": "They suggested _____ a short break after two hours of working.",
+    "choices": {
+      "A": "take",
+      "B": "to take",
+      "C": "took",
+      "D": "taking"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "q": "I wish I _____ enough money to buy that house.",
+    "choices": {
+      "A": "will have",
+      "B": "had",
+      "C": "have had",
+      "D": "have"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "q": "The company plans to _____ a new branch in the city center next year.",
+    "choices": {
+      "A": "abandon",
+      "B": "ignore",
+      "C": "establish",
+      "D": "demolish"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "q": "It is strictly _____ to smoke in this air - conditioned area.",
+    "choices": {
+      "A": "prohibited",
+      "B": "allowed",
+      "C": "suggested",
+      "D": "permitted"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "q": "The new software will _____ the efficiency of our daily workflow.",
+    "choices": {
+      "A": "diminish",
+      "B": "decrease",
+      "C": "distract",
+      "D": "enhance"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "q": "The manager asked the team to _____ their progress reports by Friday.",
+    "choices": {
+      "A": "permit",
+      "B": "submit",
+      "C": "omit",
+      "D": "admit"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "q": "We need to find an _____ solution to this problem before it gets worse.",
+    "choices": {
+      "A": "offensive",
+      "B": "affectionate",
+      "C": "infectious",
+      "D": "effective"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "q": "Because of the heavy rain, the outdoor event was _____ to next week.",
+    "choices": {
+      "A": "preserved",
+      "B": "postponed",
+      "C": "promoted",
+      "D": "preceded"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "q": "Employees are expected to be _____ when dealing with customer complaints.",
+    "choices": {
+      "A": "courteous",
+      "B": "arrogant",
+      "C": "aggressive",
+      "D": "stubborn"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "q": "The board members reached a _____ after hours of intense discussion.",
+    "choices": {
+      "A": "controversy",
+      "B": "conflict",
+      "C": "consensus",
+      "D": "confusion"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "q": "Please _____ that all the doors are completely locked before leaving the building.",
+    "choices": {
+      "A": "assure",
+      "B": "endure",
+      "C": "insure",
+      "D": "ensure"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "q": "The government is implementing new policies to _____ poverty in rural areas.",
+    "choices": {
+      "A": "alleviate",
+      "B": "evaluate",
+      "C": "allocate",
+      "D": "elevate"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "q": "Due to financial difficulties, the company had to _____ several employees.",
+    "choices": {
+      "A": "put off",
+      "B": "turn down",
+      "C": "lay off",
+      "D": "take on"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "q": "His lack of management experience is a major _____ for this senior position.",
+    "choices": {
+      "A": "opportunity",
+      "B": "benefit",
+      "C": "advantage",
+      "D": "obstacle"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "q": "The employment contract is _____ for a period of two years.",
+    "choices": {
+      "A": "valid",
+      "B": "variable",
+      "C": "vague",
+      "D": "vacant"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "q": "To apply for this specific job, you must have a bachelor's _____.",
+    "choices": {
+      "A": "standard",
+      "B": "level",
+      "C": "degree",
+      "D": "grade"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "q": "The supervisor will _____ the performance of the new staff next month.",
+    "choices": {
+      "A": "escalate",
+      "B": "evaluate",
+      "C": "evacuate",
+      "D": "evaporate"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "q": "A: \"Would you like some more coffee?\" B: \"_____. I've had enough.\"",
+    "choices": {
+      "A": "Of course",
+      "B": "I don't mind",
+      "C": "Yes, please",
+      "D": "No, thanks"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "q": "A: \"I passed my driving test today!\" B: \"_____\"",
+    "choices": {
+      "A": "What a pity!",
+      "B": "Good luck!",
+      "C": "Congratulations!",
+      "D": "I'm sorry to hear that."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "q": "A: \"Could you please tell me the way to the post office?\" B: \"_____\"",
+    "choices": {
+      "A": "Yes, I need some stamps.",
+      "B": "Go straight and turn left.",
+      "C": "It opens at 9 AM.",
+      "D": "It's about 2 kilometers."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "q": "A: \"Thank you so much for your help with this project.\" B: \"_____\"",
+    "choices": {
+      "A": "Me too.",
+      "B": "Never mind.",
+      "C": "Same to you.",
+      "D": "You're welcome."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "q": "A: \"How often do you go to the fitness center?\" B: \"_____\"",
+    "choices": {
+      "A": "Twice a week.",
+      "B": "Since last month.",
+      "C": "For two hours.",
+      "D": "Very well."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "q": "A: \"I have a terrible headache.\" B: \"_____\"",
+    "choices": {
+      "A": "That's a good idea.",
+      "B": "You should take some medicine.",
+      "C": "Let's go to the party.",
+      "D": "You must work harder."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "q": "A: \"What does your older brother do?\" B: \"_____\"",
+    "choices": {
+      "A": "He likes reading.",
+      "B": "He is very tall.",
+      "C": "He is playing football.",
+      "D": "He is an engineer."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "q": "A: \"Would you mind if I opened the window?\" B: \"_____\"",
+    "choices": {
+      "A": "I think so.",
+      "B": "Yes, I would.",
+      "C": "No, not at all.",
+      "D": "Yes, please do."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "q": "A: \"I'm terribly sorry for being late for the meeting.\" B: \"_____\"",
+    "choices": {
+      "A": "It's my pleasure.",
+      "B": "I don't care.",
+      "C": "You're wrong.",
+      "D": "That's all right."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "q": "A: \"How long have you been working in this department?\" B: \"_____\"",
+    "choices": {
+      "A": "For 2020.",
+      "B": "In 2020.",
+      "C": "Since 2020.",
+      "D": "Three years ago."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "q": "_____ of the employees in this department have a master's degree.",
+    "choices": {
+      "A": "Every",
+      "B": "Much",
+      "C": "Almost",
+      "D": "Most"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "q": "He speaks English fluently, _____?",
+    "choices": {
+      "A": "isn't he",
+      "B": "doesn't he",
+      "C": "is he",
+      "D": "does he"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "q": "You must apologize _____ the manager _____ your rude behavior.",
+    "choices": {
+      "A": "with, about",
+      "B": "to, about",
+      "C": "to, for",
+      "D": "for, to"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "q": "I am totally _____ with the result of the recent examination.",
+    "choices": {
+      "A": "satisfied",
+      "B": "satisfies",
+      "C": "satisfying",
+      "D": "satisfy"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "q": "Please let me _____ when you are ready to leave the office.",
+    "choices": {
+      "A": "knowing",
+      "B": "known",
+      "C": "to know",
+      "D": "know"
+    },
+    "answer": "D",
+    "passage": null
+  }
+]

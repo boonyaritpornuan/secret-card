@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคือความหมายของเครือข่ายคอมพิวเตอร์ (Computer Network)?",
+    "options": {
+      "ก": "คอมพิวเตอร์เครื่องเดียวที่ทำงานได้หลายอย่าง",
+      "ข": "การเชื่อมต่อคอมพิวเตอร์ตั้งแต่สองเครื่องขึ้นไปเข้าด้วยกันเพื่อใช้ทรัพยากรร่วมกันและ แลกเปลี่ยนข้อมูล",
+      "ค": "ระบบปฏิบัติการที่ใช้ในการจัดการไฟล์",
+      "ง": "โปรแกรมสำหรับเล่นเกม"
+    },
+    "answer": "ข",
+    "answer_text": "การเชื่อมต่อคอมพิวเตอร์ตั้งแต่สองเครื่องขึ้นไปเข้าด้วยกันเพื่อใช้ทรัพยากรร่วมกันและ แลกเปลี่ยนข้อมูล",
+    "explanation": "เครือข่ายคอมพิวเตอร์ช่วยให้การสื่อสารและแบ่งปันทรัพยากรเป็นไปได้"
+  },
+  {
+    "id": 2,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคือประโยชน์หลักของการใช้เครือข่ายคอมพิวเตอร์?",
+    "options": {
+      "ก": "ทำให้คอมพิวเตอร์ทำงานช้าลง",
+      "ข": "การใช้ทรัพยากรร่วมกัน (Resource Sharing), การสื่อสาร (Communication), และการเข้า ถึงข้อมูลร่วมกัน",
+      "ค": "ทำให้คอมพิวเตอร์มีขนาดใหญ่ขึ้น",
+      "ง": "ทำให้คอมพิวเตอร์ไม่ปลอดภัย"
+    },
+    "answer": "ข",
+    "answer_text": "การใช้ทรัพยากรร่วมกัน (Resource Sharing), การสื่อสาร (Communication), และการเข้า ถึงข้อมูลร่วมกัน",
+    "explanation": "ประโยชน์หลักของเครือข่ายคือการแบ่งปันและสื่อสาร"
+  },
+  {
+    "id": 3,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "เครือข่ายประเภทใดที่ครอบคลุมพื้นที่ขนาดเล็กเช่นภายในบ้านหรือสำนักงาน?",
+    "options": {
+      "ก": "WAN (Wide Area Network)",
+      "ข": "MAN (Metropolitan Area Network)",
+      "ค": "LAN (Local Area Network)",
+      "ง": "GAN (Global Area Network)"
+    },
+    "answer": "ค",
+    "answer_text": "LAN (Local Area Network)",
+    "explanation": "LAN เป็นเครือข่ายที่ใช้ในพื้นที่จำกัด"
+  },
+  {
+    "id": 4,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "เครือข่ายประเภทใดที่ครอบคลุมพื้นที่ขนาดใหญ่เช่นระหว่างเมืองหรือประเทศ?",
+    "options": {
+      "ก": "LAN (Local Area Network)",
+      "ข": "MAN (Metropolitan Area Network)",
+      "ค": "WAN (Wide Area Network)",
+      "ง": "PAN (Personal Area Network)"
+    },
+    "answer": "ค",
+    "answer_text": "WAN (Wide Area Network)",
+    "explanation": "WAN เชื่อมต่อเครือข่ายระยะไกล"
+  },
+  {
+    "id": 5,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "เครือข่ายประเภทใดที่ครอบคลุมพื้นที่ขนาดปานกลางเช่นภายในเมือง?",
+    "options": {
+      "ก": "LAN",
+      "ข": "WAN",
+      "ค": "MAN",
+      "ง": "PAN"
+    },
+    "answer": "ค",
+    "answer_text": "MAN",
+    "explanation": "MAN มักใช้เชื่อมต่อ LAN หลายๆแห่งในเมืองเดียวกัน"
+  },
+  {
+    "id": 6,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคืออุปกรณ์ที่ทำหน้าที่เชื่อมต่อคอมพิวเตอร์เข้ากับเครือข่ายแบบมีสาย?",
+    "options": {
+      "ก": "Wireless Adapter",
+      "ข": "Network Interface Card (NIC) หรือ LAN Card",
+      "ค": "Bluetooth Adapter",
+      "ง": "Modem"
+    },
+    "answer": "ข",
+    "answer_text": "Network Interface Card (NIC) หรือ LAN Card",
+    "explanation": "NIC เป็นการ์ดที่จำเป็นสำหรับการเชื่อมต่อเครือข่ายแบบมีสาย"
+  },
+  {
+    "id": 7,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "สายสัญญาณประเภทใดที่นิยมใช้ในการเชื่อมต่อเครือข่ายแบบมีสาย (Ethernet)?",
+    "options": {
+      "ก": "Fiber Optic Cable",
+      "ข": "Coaxial Cable",
+      "ค": "Twisted Pair Cable (UTP/STP)",
+      "ง": "HDMI Cable"
+    },
+    "answer": "ค",
+    "answer_text": "Twisted Pair Cable (UTP/STP)",
+    "explanation": "Twisted Pair Cable เช่น Cat5e, Cat6 เป็นที่นิยมใช้ใน LAN"
+  },
+  {
+    "id": 8,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่ขยายสัญญาณและเชื่อมต่อคอมพิวเตอร์หลายเครื่องเข้าด้วยกันในเครือข่าย LAN?",
+    "options": {
+      "ก": "Router",
+      "ข": "Switch",
+      "ค": "Modem",
+      "ง": "Access Point"
+    },
+    "answer": "ข",
+    "answer_text": "Switch",
+    "explanation": "Switch ทำงานใน Layer 2 ของ OSI Model"
+  },
+  {
+    "id": 9,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่เชื่อมต่อเครือข่ายย่อย (Subnet) ต่างๆเข้าด้วยกันและส่งข้อมูลระหว่าง เครือข่ายที่แตกต่างกัน?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Hub",
+      "ค": "Router",
+      "ง": "Repeater"
+    },
+    "answer": "ค",
+    "answer_text": "Router",
+    "explanation": "Router ทำงานใน Layer 3 ของ OSI Model"
+  },
+  {
+    "id": 10,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคือโปรโตคอลหลักที่ใช้ในการสื่อสารบนอินเทอร์เน็ต?",
+    "options": {
+      "ก": "IPX/SPX",
+      "ข": "NetBEUI",
+      "ค": "TCP/IP",
+      "ง": "AppleTalk"
+    },
+    "answer": "ค",
+    "answer_text": "TCP/IP",
+    "explanation": "TCP/IP เป็นชุดโปรโตคอลมาตรฐานของอินเทอร์เน็ต"
+  },
+  {
+    "id": 11,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่อุปกรณ์ทุกตัวเชื่อมต่อเข้ากับ Hub หรือ Switch ตรงกลาง?",
+    "options": {
+      "ก": "Bus Topology",
+      "ข": "Ring Topology",
+      "ค": "Star Topology",
+      "ง": "Mesh Topology"
+    },
+    "answer": "ค",
+    "answer_text": "Star Topology",
+    "explanation": "Star Topology เป็นที่นิยมและง่ายต่อการจัดการ"
+  },
+  {
+    "id": 12,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่อุปกรณ์ทุกตัวเชื่อมต่อกันเป็นวงแหวน?",
+    "options": {
+      "ก": "Star Topology",
+      "ข": "Ring Topology",
+      "ค": "Bus Topology",
+      "ง": "Tree Topology"
+    },
+    "answer": "ข",
+    "answer_text": "Ring Topology",
+    "explanation": "Ring Topology ข้อมูลจะไหลไปในทิศทางเดียว"
+  },
+  {
+    "id": 13,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่อุปกรณ์ทุกตัวเชื่อมต่อเข้ากับสายสัญญาณหลักเพียงเส้น เดียว?",
+    "options": {
+      "ก": "Ring Topology",
+      "ข": "Star Topology",
+      "ค": "Bus Topology",
+      "ง": "Mesh Topology"
+    },
+    "answer": "ค",
+    "answer_text": "Bus Topology",
+    "explanation": "Bus Topology เป็นรูปแบบที่ง่ายแต่มีข้อจำกัดด้านความน่าเชื่อถือ"
+  },
+  {
+    "id": 14,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่อุปกรณ์ทุกตัวเชื่อมต่อถึงกันโดยตรงทั้งหมด?",
+    "options": {
+      "ก": "Star Topology",
+      "ข": "Ring Topology",
+      "ค": "Bus Topology",
+      "ง": "Mesh Topology"
+    },
+    "answer": "ง",
+    "answer_text": "Mesh Topology",
+    "explanation": "Mesh Topology ให้ความน่าเชื่อถือสูงแต่มีค่าใช้จ่ายสูง"
+  },
+  {
+    "id": 15,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่รวมเอา Star Topology หลายๆอันเข้าด้วยกัน?",
+    "options": {
+      "ก": "Bus Topology",
+      "ข": "Ring Topology",
+      "ค": "Tree Topology",
+      "ง": "Mesh Topology"
+    },
+    "answer": "ค",
+    "answer_text": "Tree Topology",
+    "explanation": "Tree Topology เหมาะสำหรับเครือข่ายขนาดใหญ่ที่มีหลายสาขา"
+  },
+  {
+    "id": 16,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "ข้อใดคือข้อดีของ Star Topology?",
+    "options": {
+      "ก": "ประหยัดสายสัญญาณ",
+      "ข": "หากสายสัญญาณเส้นใดเส้นหนึ่งขาดจะไม่กระทบต่อการทำงานของเครือข่ายโดยรวม",
+      "ค": "ติดตั้งง่ายและจัดการง่าย",
+      "ง": "ไม่ต้องใช้อุปกรณ์กลาง"
+    },
+    "answer": "ค",
+    "answer_text": "ติดตั้งง่ายและจัดการง่าย",
+    "explanation": "Star Topology มีข้อดีด้านการจัดการและแก้ไขปัญหา"
+  },
+  {
+    "id": 17,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "ข้อใดคือข้อเสียของ Bus Topology?",
+    "options": {
+      "ก": "ใช้สายสัญญาณจำนวนมาก",
+      "ข": "หากสายสัญญาณหลักขาดเครือข่ายทั้งหมดจะหยุดทำงาน",
+      "ค": "ติดตั้งยาก",
+      "ง": "มีค่าใช้จ่ายสูง"
+    },
+    "answer": "ข",
+    "answer_text": "หากสายสัญญาณหลักขาดเครือข่ายทั้งหมดจะหยุดทำงาน",
+    "explanation": "Bus Topology มีจุดอ่อนที่สายสัญญาณหลัก"
+  },
+  {
+    "id": 18,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "ข้อใดคือข้อดีของ Mesh Topology?",
+    "options": {
+      "ก": "ประหยัดสายสัญญาณ",
+      "ข": "มีความน่าเชื่อถือสูงมากเนื่องจากมีเส้นทางสำรองในการส่งข้อมูลหลายเส้นทาง",
+      "ค": "ติดตั้งง่าย",
+      "ง": "มีค่าใช้จ่ายตํ่า"
+    },
+    "answer": "ข",
+    "answer_text": "มีความน่าเชื่อถือสูงมากเนื่องจากมีเส้นทางสำรองในการส่งข้อมูลหลายเส้นทาง",
+    "explanation": "Mesh Topology เหมาะสำหรับระบบที่ต้องการความต่อเนื่องสูง"
+  },
+  {
+    "id": 19,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "ข้อใดคือข้อเสียของ Ring Topology?",
+    "options": {
+      "ก": "หากอุปกรณ์ตัวใดตัวหนึ่งเสียอาจทำให้เครือข่ายทั้งหมดหยุดทำงาน",
+      "ข": "ใช้สายสัญญาณจำนวนมาก",
+      "ค": "ติดตั้งยาก",
+      "ง": "มีค่าใช้จ่ายสูง"
+    },
+    "answer": "ก",
+    "answer_text": "หากอุปกรณ์ตัวใดตัวหนึ่งเสียอาจทำให้เครือข่ายทั้งหมดหยุดทำงาน",
+    "explanation": "Ring Topology มีจุดอ่อนที่อุปกรณ์แต่ละตัว"
+  },
+  {
+    "id": 20,
+    "context": "รูปแบบการเชื่อมต่อเครือข่าย (Network Topology)",
+    "question": "รูปแบบการเชื่อมต่อเครือข่ายแบบใดที่นิยมใช้ในเครือข่าย LAN ในปัจจุบันมากที่สุด?",
+    "options": {
+      "ก": "Bus Topology",
+      "ข": "Ring Topology",
+      "ค": "Star Topology",
+      "ง": "Mesh Topology"
+    },
+    "answer": "ค",
+    "answer_text": "Star Topology",
+    "explanation": "Star Topology เป็นที่นิยมเนื่องจากความง่ายในการจัดการและแก้ไขปัญหา"
+  },
+  {
+    "id": 21,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "โมเดล OSI มีทั้งหมดกี่ Layer?",
+    "options": {
+      "ก": "5 Layer",
+      "ข": "6 Layer",
+      "ค": "7 Layer",
+      "ง": "8 Layer"
+    },
+    "answer": "ค",
+    "answer_text": "7 Layer",
+    "explanation": "โมเดล OSI มี 7 Layer"
+  },
+  {
+    "id": 22,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่แปลงข้อมูลให้เป็นสัญญาณไฟฟ้าหรือแสงเพื่อส่งผ่านสื่อ กลาง?",
+    "options": {
+      "ก": "Data Link Layer",
+      "ข": "Physical Layer",
+      "ค": "Network Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Physical Layer",
+    "explanation": "Physical Layer เป็น Layer ล่างสุดที่เกี่ยวข้องกับสื่อกลางทางกายภาพ"
+  },
+  {
+    "id": 23,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่จัดการการส่งข้อมูลระหว่างอุปกรณ์ที่อยู่บนเครือข่ายเดียวกัน และควบคุมการเข้าถึงสื่อกลาง (MAC Address)?",
+    "options": {
+      "ก": "Physical Layer",
+      "ข": "Data Link Layer",
+      "ค": "Network Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Data Link Layer",
+    "explanation": "Data Link Layer เกี่ยวข้องกับ MAC Address และ Frame"
+  },
+  {
+    "id": 24,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่กำหนดเส้นทาง (Routing) ในการส่งข้อมูลข้ามเครือข่ายโดย ใช้ IP Address?",
+    "options": {
+      "ก": "Data Link Layer",
+      "ข": "Network Layer",
+      "ค": "Transport Layer",
+      "ง": "Session Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Network Layer",
+    "explanation": "Network Layer เกี่ยวข้องกับ IP Address และ Packet"
+  },
+  {
+    "id": 25,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่ควบคุมการไหลของข้อมูล (Flow Control) และการตรวจสอบ ความผิดพลาดของข้อมูล (Error Checking) ระหว่างต้นทางและปลายทาง?",
+    "options": {
+      "ก": "Network Layer",
+      "ข": "Transport Layer",
+      "ค": "Session Layer",
+      "ง": "Presentation Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Transport Layer",
+    "explanation": "Transport Layer เกี่ยวข้องกับ TCP/UDP และ Segment"
+  },
+  {
+    "id": 26,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่สร้าง, ดูแล, และยุติ Session การสื่อสารระหว่าง แอปพลิเคชัน?",
+    "options": {
+      "ก": "Transport Layer",
+      "ข": "Session Layer",
+      "ค": "Presentation Layer",
+      "ง": "Application Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Session Layer",
+    "explanation": "Session Layer จัดการการเชื่อมต่อแบบ Logical"
+  },
+  {
+    "id": 27,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่ทำหน้าที่แปลงรูปแบบข้อมูล (Data Formatting) และการเข้ารหัส/ ถอดรหัสข้อมูล (Encryption/Decryption)?",
+    "options": {
+      "ก": "Session Layer",
+      "ข": "Presentation Layer",
+      "ค": "Application Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Presentation Layer",
+    "explanation": "Presentation Layer จัดการการนำเสนอข้อมูล"
+  },
+  {
+    "id": 28,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "Layer ใดในโมเดล OSI ที่เป็น Layer บนสุดและเป็นส่วนที่แอปพลิเคชันใช้งานโดยตรงในการ สื่อสารกับเครือข่าย?",
+    "options": {
+      "ก": "Session Layer",
+      "ข": "Presentation Layer",
+      "ค": "Application Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ค",
+    "answer_text": "Application Layer",
+    "explanation": "Application Layer เป็นส่วนที่ผู้ใช้และแอปพลิเคชันโต้ตอบด้วย"
+  },
+  {
+    "id": 29,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "อุปกรณ์ Switch ทำงานอยู่ที่ Layer ใดของโมเดล OSI?",
+    "options": {
+      "ก": "Physical Layer",
+      "ข": "Data Link Layer",
+      "ค": "Network Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Data Link Layer",
+    "explanation": "Switch ทำงานโดยใช้ MAC Address"
+  },
+  {
+    "id": 30,
+    "context": "โมเดล OSI (Open Systems Interconnection Model)",
+    "question": "อุปกรณ์ Router ทำงานอยู่ที่ Layer ใดของโมเดล OSI?",
+    "options": {
+      "ก": "Data Link Layer",
+      "ข": "Network Layer",
+      "ค": "Transport Layer",
+      "ง": "Application Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Network Layer",
+    "explanation": "Router ทำงานโดยใช้ IP Address"
+  },
+  {
+    "id": 31,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ทำหน้าที่สร้างการเชื่อมต่อแบบ Connection-oriented และรับประกันการส่ง ข้อมูลถึงปลายทางอย่างถูกต้องและครบถ้วน?",
+    "options": {
+      "ก": "UDP (User Datagram Protocol)",
+      "ข": "TCP (Transmission Control Protocol)",
+      "ค": "IP (Internet Protocol)",
+      "ง": "ICMP (Internet Control Message Protocol)"
+    },
+    "answer": "ข",
+    "answer_text": "TCP (Transmission Control Protocol)",
+    "explanation": "TCP มีกลไกการตรวจสอบและแก้ไขข้อผิดพลาด"
+  },
+  {
+    "id": 32,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ทำหน้าที่ส่งข้อมูลแบบ Connectionless และไม่รับประกันการส่งข้อมูลถึงปลาย ทางเหมาะสำหรับข้อมูลที่ต้องการความเร็วสูงและยอมรับการสูญหายของข้อมูลได้?",
+    "options": {
+      "ก": "TCP (Transmission Control Protocol)",
+      "ข": "UDP (User Datagram Protocol)",
+      "ค": "IP (Internet Protocol)",
+      "ง": "HTTP (Hypertext Transfer Protocol)"
+    },
+    "answer": "ข",
+    "answer_text": "UDP (User Datagram Protocol)",
+    "explanation": "UDP เหมาะสำหรับ Real-time Application เช่น Video Streaming"
+  },
+  {
+    "id": 33,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการกำหนดค่า IP Address ให้กับอุปกรณ์ในเครือข่ายโดยอัตโนมัติ ?",
+    "options": {
+      "ก": "DNS (Domain Name System)",
+      "ข": "DHCP (Dynamic Host Configuration Protocol)",
+      "ค": "HTTP (Hypertext Transfer Protocol)",
+      "ง": "FTP (File Transfer Protocol)"
+    },
+    "answer": "ข",
+    "answer_text": "DHCP (Dynamic Host Configuration Protocol)",
+    "explanation": "DHCP ช่วยลดภาระการกำหนดค่า IP Address ด้วยมือ"
+  },
+  {
+    "id": 34,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการแปลงชื่อโดเมน (Domain Name) เป็น IP Address?",
+    "options": {
+      "ก": "DHCP (Dynamic Host Configuration Protocol)",
+      "ข": "DNS (Domain Name System)",
+      "ค": "HTTP (Hypertext Transfer Protocol)",
+      "ง": "SMTP (Simple Mail Transfer Protocol)"
+    },
+    "answer": "ข",
+    "answer_text": "DNS (Domain Name System)",
+    "explanation": "DNS เป็นระบบที่สำคัญในการเข้าถึงเว็บไซต์"
+  },
+  {
+    "id": 35,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการเข้าถึงเว็บไซต์บน World Wide Web?",
+    "options": {
+      "ก": "FTP (File Transfer Protocol)",
+      "ข": "SMTP (Simple Mail Transfer Protocol)",
+      "ค": "HTTP (Hypertext Transfer Protocol)",
+      "ง": "POP3 (Post Office Protocol version 3)"
+    },
+    "answer": "ค",
+    "answer_text": "HTTP (Hypertext Transfer Protocol)",
+    "explanation": "HTTP เป็นโปรโตคอลพื้นฐานของเว็บ"
+  },
+  {
+    "id": 36,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการส่งอีเมล?",
+    "options": {
+      "ก": "POP3 (Post Office Protocol version 3)",
+      "ข": "IMAP (Internet Message Access Protocol)",
+      "ค": "SMTP (Simple Mail Transfer Protocol)",
+      "ง": "HTTP (Hypertext Transfer Protocol)"
+    },
+    "answer": "ค",
+    "answer_text": "SMTP (Simple Mail Transfer Protocol)",
+    "explanation": "SMTP ใช้สำหรับส่งอีเมลจาก Client ไป Server"
+  },
+  {
+    "id": 37,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการรับอีเมลโดยจะดาวน์โหลดอีเมลจาก Server มาเก็บไว้ที่ Client และลบ ออกจาก Server?",
+    "options": {
+      "ก": "IMAP (Internet Message Access Protocol)",
+      "ข": "SMTP (Simple Mail Transfer Protocol)",
+      "ค": "POP3 (Post Office Protocol version 3)",
+      "ง": "HTTP (Hypertext Transfer Protocol)"
+    },
+    "answer": "ค",
+    "answer_text": "POP3 (Post Office Protocol version 3)",
+    "explanation": "POP3 เหมาะสำหรับผู้ที่ต้องการเก็บอีเมลไว้ในเครื่อง"
+  },
+  {
+    "id": 38,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการรับอีเมลโดยจะเก็บอีเมลไว้บน Server และอนุญาตให้ Client หลาย เครื่องเข้าถึงอีเมลเดียวกันได้?",
+    "options": {
+      "ก": "POP3 (Post Office Protocol version 3)",
+      "ข": "SMTP (Simple Mail Transfer Protocol)",
+      "ค": "IMAP (Internet Message Access Protocol)",
+      "ง": "HTTP (Hypertext Transfer Protocol)"
+    },
+    "answer": "ค",
+    "answer_text": "IMAP (Internet Message Access Protocol)",
+    "explanation": "IMAP เหมาะสำหรับผู้ที่เข้าถึงอีเมลจากหลายอุปกรณ์"
+  },
+  {
+    "id": 39,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการถ่ายโอนไฟล์ระหว่างคอมพิวเตอร์ในเครือข่าย?",
+    "options": {
+      "ก": "HTTP (Hypertext Transfer Protocol)",
+      "ข": "FTP (File Transfer Protocol)",
+      "ค": "SMTP (Simple Mail Transfer Protocol)",
+      "ง": "DNS (Domain Name System)"
+    },
+    "answer": "ข",
+    "answer_text": "FTP (File Transfer Protocol)",
+    "explanation": "FTP ใช้สำหรับการอัปโหลดและดาวน์โหลดไฟล์"
+  },
+  {
+    "id": 40,
+    "context": "โปรโตคอลเครือข่าย",
+    "question": "โปรโตคอลใดที่ใช้ในการเข้าถึงและควบคุมคอมพิวเตอร์ระยะไกลผ่าน Command Line Interface?",
+    "options": {
+      "ก": "HTTP",
+      "ข": "FTP",
+      "ค": "Telnet",
+      "ง": "SSH (Secure Shell)"
+    },
+    "answer": "ง",
+    "answer_text": "SSH (Secure Shell)",
+    "explanation": "SSH ให้การเชื่อมต่อที่ปลอดภัยกว่า Telnet"
+  },
+  {
+    "id": 41,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่เชื่อมต่อคอมพิวเตอร์หลายเครื่องเข้าด้วยกันในเครือข่าย LAN และส่งข้อมูล ไปยังทุกพอร์ตที่เชื่อมต่อ?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Hub",
+      "ค": "Router",
+      "ง": "Access Point"
+    },
+    "answer": "ข",
+    "answer_text": "Hub",
+    "explanation": "Hub เป็นอุปกรณ์ที่ทำงานใน Physical Layer และส่งข้อมูลแบบ Broadcast"
+  },
+  {
+    "id": 42,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่เชื่อมต่อคอมพิวเตอร์หลายเครื่องเข้าด้วยกันในเครือข่าย LAN และส่งข้อมูล ไปยังพอร์ตปลายทางที่ถูกต้องเท่านั้นโดยใช้ MAC Address?",
+    "options": {
+      "ก": "Hub",
+      "ข": "Switch",
+      "ค": "Router",
+      "ง": "Repeater"
+    },
+    "answer": "ข",
+    "answer_text": "Switch",
+    "explanation": "Switch ทำงานใน Data Link Layer และส่งข้อมูลแบบ Unicast"
+  },
+  {
+    "id": 43,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่เชื่อมต่อเครือข่ายย่อย (Subnet) ต่างๆเข้าด้วยกันและส่งข้อมูลระหว่าง เครือข่ายที่แตกต่างกันโดยใช้ IP Address?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Hub",
+      "ค": "Router",
+      "ง": "Modem"
+    },
+    "answer": "ค",
+    "answer_text": "Router",
+    "explanation": "Router ทำงานใน Network Layer และใช้ในการ Routing"
+  },
+  {
+    "id": 44,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่แปลงสัญญาณดิจิทัลจากคอมพิวเตอร์ให้เป็นสัญญาณอนาล็อกเพื่อส่งผ่าน สายโทรศัพท์และแปลงกลับจากอนาล็อกเป็นดิจิทัล?",
+    "options": {
+      "ก": "Router",
+      "ข": "Switch",
+      "ค": "Modem (Modulator-Demodulator)",
+      "ง": "Access Point"
+    },
+    "answer": "ค",
+    "answer_text": "Modem (Modulator-Demodulator)",
+    "explanation": "Modem ใช้สำหรับการเชื่อมต่ออินเทอร์เน็ตผ่านสายโทรศัพท์"
+  },
+  {
+    "id": 45,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่กระจายสัญญาณ Wi-Fi เพื่อให้อุปกรณ์ไร้สายสามารถเชื่อมต่อเครือข่ายได้ ?",
+    "options": {
+      "ก": "Router",
+      "ข": "Switch",
+      "ค": "Modem",
+      "ง": "Access Point (AP)"
+    },
+    "answer": "ง",
+    "answer_text": "Access Point (AP)",
+    "explanation": "Access Point สร้างสัญญาณ Wi-Fi"
+  },
+  {
+    "id": 46,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่ขยายสัญญาณเครือข่ายเพื่อเพิ่มระยะทางในการส่งข้อมูล?",
+    "options": {
+      "ก": "Router",
+      "ข": "Switch",
+      "ค": "Repeater",
+      "ง": "Firewall"
+    },
+    "answer": "ค",
+    "answer_text": "Repeater",
+    "explanation": "Repeater ใช้ในการทวนสัญญาณ"
+  },
+  {
+    "id": 47,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่ป้องกันเครือข่ายจากการเข้าถึงโดยไม่ได้รับอนุญาตจากภายนอก?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Router",
+      "ค": "Firewall",
+      "ง": "Hub"
+    },
+    "answer": "ค",
+    "answer_text": "Firewall",
+    "explanation": "Firewall เป็นระบบรักษาความปลอดภัยเครือข่าย"
+  },
+  {
+    "id": 48,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่รวมสายสัญญาณหลายเส้นเข้าด้วยกันเป็นสายสัญญาณหลักเพื่อลดความ ซับซ้อนของการเดินสาย?",
+    "options": {
+      "ก": "Patch Panel",
+      "ข": "Switch",
+      "ค": "Router",
+      "ง": "Modem"
+    },
+    "answer": "ก",
+    "answer_text": "Patch Panel",
+    "explanation": "Patch Panel ใช้ในการจัดการสายสัญญาณในตู้ Rack"
+  },
+  {
+    "id": 49,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่แปลงสัญญาณแสงเป็นสัญญาณไฟฟ้าและแปลงกลับจากไฟฟ้าเป็นแสง สำหรับการเชื่อมต่อเครือข่ายแบบ Fiber Optic?",
+    "options": {
+      "ก": "Media Converter",
+      "ข": "Switch",
+      "ค": "Router",
+      "ง": "Modem"
+    },
+    "answer": "ก",
+    "answer_text": "Media Converter",
+    "explanation": "Media Converter ใช้เชื่อมต่อเครือข่ายที่ใช้สื่อกลางต่างกัน"
+  },
+  {
+    "id": 50,
+    "context": "อุปกรณ์เครือข่าย",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่จ่ายไฟผ่านสาย Ethernet (Power over Ethernet - PoE) ให้กับอุปกรณ์ เครือข่ายเช่น IP Camera หรือ Access Point?",
+    "options": {
+      "ก": "PoE Switch",
+      "ข": "Hub",
+      "ค": "Router",
+      "ง": "Modem"
+    },
+    "answer": "ก",
+    "answer_text": "PoE Switch",
+    "explanation": "PoE Switch ช่วยลดความยุ่งยากในการเดินสายไฟ"
+  },
+  {
+    "id": 51,
+    "context": "การจัดการ IP Address",
+    "question": "IP Address คืออะไร?",
+    "options": {
+      "ก": "ชื่อของคอมพิวเตอร์ในเครือข่าย",
+      "ข": "หมายเลขประจำตัวของอุปกรณ์ในเครือข่ายที่ใช้ในการระบุตำแหน่งและสื่อสารกัน",
+      "ค": "ชื่อของเว็บไซต์",
+      "ง": "รหัสผ่านสำหรับเข้าถึงเครือข่าย"
+    },
+    "answer": "ข",
+    "answer_text": "หมายเลขประจำตัวของอุปกรณ์ในเครือข่ายที่ใช้ในการระบุตำแหน่งและสื่อสารกัน",
+    "explanation": "IP Address เป็นสิ่งจำเป็นสำหรับการสื่อสารบนเครือข่าย TCP/IP"
+  },
+  {
+    "id": 52,
+    "context": "การจัดการ IP Address",
+    "question": "IP Address เวอร์ชั่นใดที่ประกอบด้วยตัวเลข 4 ชุดคั่นด้วยจุดแต่ละชุดมีค่าตั้งแต่ 0-255?",
+    "options": {
+      "ก": "IPv6",
+      "ข": "IPv4",
+      "ค": "IPX",
+      "ง": "NetBEUI"
+    },
+    "answer": "ข",
+    "answer_text": "IPv4",
+    "explanation": "IPv4 เป็นเวอร์ชั่นที่ใช้กันมานาน"
+  },
+  {
+    "id": 53,
+    "context": "การจัดการ IP Address",
+    "question": "IP Address เวอร์ชั่นใดที่ประกอบด้วยตัวเลขและตัวอักษร 8 ชุดคั่นด้วยโคลอนแต่ละชุดมีค่าเป็น เลขฐานสิบหก?",
+    "options": {
+      "ก": "IPv4",
+      "ข": "IPv6",
+      "ค": "IPX",
+      "ง": "NetBEUI"
+    },
+    "answer": "ข",
+    "answer_text": "IPv6",
+    "explanation": "IPv6 ถูกพัฒนาขึ้นเพื่อแก้ปัญหาการขาดแคลน IP Address ของ IPv4"
+  },
+  {
+    "id": 54,
+    "context": "การจัดการ IP Address",
+    "question": "Subnet Mask คืออะไร?",
+    "options": {
+      "ก": "หมายเลขประจำตัวของอุปกรณ์",
+      "ข": "ค่าที่ใช้ในการแบ่งแยกส่วนขอ",
+      "ง": "IP Address ว่าส่วนใดคือ Network ID และส่วนใดคือ Host ID รหัสผ่านสำหรับเข้าถึงเครือข่าย",
+      "ค": "ชื่อของเครือข่าย"
+    },
+    "answer": "ข",
+    "answer_text": "ค่าที่ใช้ในการแบ่งแยกส่วนขอ",
+    "explanation": "Subnet Mask ใช้ในการกำหนดขนาดของ Subnet"
+  },
+  {
+    "id": 55,
+    "context": "การจัดการ IP Address",
+    "question": "Default Gateway คืออะไร?",
+    "options": {
+      "ก": "IP Address ของคอมพิวเตอร์เครื่องอื่นในเครือข่ายเดียวกัน",
+      "ข": "IP Address ขอ",
+      "ง": "Router ที่ทำหน้าที่เป็นประตูทางออกไปยังเครือข่ายภายนอก DNS Server IP Address ขอ DHCP Server",
+      "ค": "IP Address ขอ"
+    },
+    "answer": "ข",
+    "answer_text": "IP Address ขอ",
+    "explanation": "Default Gateway เป็นจุดเชื่อมต่อออกสู่โลกภายนอก"
+  },
+  {
+    "id": 56,
+    "context": "การจัดการ IP Address",
+    "question": "DNS Server คืออะไร?",
+    "options": {
+      "ก": "Server ที่ทำหน้าที่แจกจ่าย IP Address โดยอัตโนมัติ",
+      "ข": "Server ที่ทำหน้าที่แปลงชื่อโดเมนเป็น IP Address",
+      "ค": "Server ที่ทำหน้าที่เก็บข้อมูลเว็บไซต์",
+      "ง": "Server ที่ทำหน้าที่ส่งอีเมล"
+    },
+    "answer": "ข",
+    "answer_text": "Server ที่ทำหน้าที่แปลงชื่อโดเมนเป็น IP Address",
+    "explanation": "DNS Server เป็นสิ่งจำเป็นในการเข้าถึงเว็บไซต์ด้วยชื่อโดเมน"
+  },
+  {
+    "id": 57,
+    "context": "การจัดการ IP Address",
+    "question": "ข้อใดคือ IP Address Class A ที่ใช้สำหรับเครือข่ายขนาดใหญ่?",
+    "options": {
+      "ก": "192.168.x.x",
+      "ข": "10.x.x.x",
+      "ค": "172.16.x.x",
+      "ง": "127.0.0.1"
+    },
+    "answer": "ข",
+    "answer_text": "10.x.x.x",
+    "explanation": "Class A มีช่วง IP Address ตั้งแต่ 1.0.0.0 ถึง 126.255.255.255"
+  },
+  {
+    "id": 58,
+    "context": "การจัดการ IP Address",
+    "question": "ข้อใดคือ IP Address Class B ที่ใช้สำหรับเครือข่ายขนาดกลาง?",
+    "options": {
+      "ก": "10.x.x.x",
+      "ข": "192.168.x.x",
+      "ค": "172.16.x.x ถึ",
+      "ง": "172.31.x.x 127.0.0.1"
+    },
+    "answer": "ค",
+    "answer_text": "172.16.x.x ถึ",
+    "explanation": "Class B มีช่วง IP Address ตั้งแต่ 128.0.0.0 ถึง 191.255.255.255"
+  },
+  {
+    "id": 59,
+    "context": "การจัดการ IP Address",
+    "question": "ข้อใดคือ IP Address Class C ที่ใช้สำหรับเครือข่ายขนาดเล็ก?",
+    "options": {
+      "ก": "10.x.x.x",
+      "ข": "172.16.x.x",
+      "ค": "192.168.x.x",
+      "ง": "127.0.0.1"
+    },
+    "answer": "ค",
+    "answer_text": "192.168.x.x",
+    "explanation": "Class C มีช่วง IP Address ตั้งแต่ 192.0.0.0 ถึง 223.255.255.255"
+  },
+  {
+    "id": 60,
+    "context": "การจัดการ IP Address",
+    "question": "IP Address 127.0.0.1 มีความหมายว่าอะไร?",
+    "options": {
+      "ก": "IP Address ขอ",
+      "ง": "Router Network Adapter ในเครื่องตัวเอง DNS Server IP Address ขอ DHCP Server",
+      "ข": "Loopback Address ใช้สำหรับทดสอบการทำงานขอ",
+      "ค": "IP Address ขอ"
+    },
+    "answer": "ข",
+    "answer_text": "Loopback Address ใช้สำหรับทดสอบการทำงานขอ",
+    "explanation": "Loopback Address ใช้ในการทดสอบภายในเครื่อง"
+  },
+  {
+    "id": 61,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "เทคโนโลยีใดที่ใช้ในการเชื่อมต่อเครือข่ายแบบไร้สายระยะใกล้เช่นหูฟัง, เมาส์, คีย์บอร์ด?",
+    "options": {
+      "ก": "Wi-Fi",
+      "ข": "Bluetooth",
+      "ค": "Infrared",
+      "ง": "NFC"
+    },
+    "answer": "ข",
+    "answer_text": "Bluetooth",
+    "explanation": "Bluetooth เหมาะสำหรับการเชื่อมต่ออุปกรณ์ส่วนบุคคลระยะสั้น"
+  },
+  {
+    "id": 62,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "มาตรฐานใดที่ใช้สำหรับเครือข่ายไร้สาย (Wi-Fi)?",
+    "options": {
+      "ก": "IEEE 802.3",
+      "ข": "IEEE 802.11",
+      "ค": "IEEE 802.1Q",
+      "ง": "IEEE 802.1X"
+    },
+    "answer": "ข",
+    "answer_text": "IEEE 802.11",
+    "explanation": "IEEE 802.11 เป็นมาตรฐานสำหรับ Wi-Fi"
+  },
+  {
+    "id": 63,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือประโยชน์ของการใช้ Wi-Fi ในการเชื่อมต่ออินเทอร์เน็ต?",
+    "options": {
+      "ก": "ต้องใช้สาย LAN เท่านั้น",
+      "ข": "สามารถเชื่อมต่ออินเทอร์เน็ตแบบไร้สายได้สะดวกและรวดเร็ว",
+      "ค": "มีความปลอดภัยตํ่ากว่าการเชื่อมต่อแบบมีสาย",
+      "ง": "มีความเร็วตํ่ากว่าการเชื่อมต่อแบบมีสาย"
+    },
+    "answer": "ข",
+    "answer_text": "สามารถเชื่อมต่ออินเทอร์เน็ตแบบไร้สายได้สะดวกและรวดเร็ว",
+    "explanation": "Wi-Fi ให้ความสะดวกสบายในการเชื่อมต่อไร้สาย"
+  },
+  {
+    "id": 64,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่กระจายสัญญาณ Wi-Fi?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Router (หรือ Access Point)",
+      "ค": "Modem",
+      "ง": "Hub"
+    },
+    "answer": "ข",
+    "answer_text": "Router (หรือ Access Point)",
+    "explanation": "Router หรือ Access Point เป็นอุปกรณ์หลักในการกระจายสัญญาณ Wi-Fi"
+  },
+  {
+    "id": 65,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือสิ่งที่ควรทำเพื่อเพิ่มความปลอดภัยของเครือข่าย Wi-Fi?",
+    "options": {
+      "ก": "ใช้รหัสผ่านที่ง่ายต่อการคาดเดา",
+      "ข": "เปลี่ยนชื่อ SSID, ใช้การเข้ารหัสแบบ WPA2/WPA3, และใช้รหัสผ่านที่ซับซ้อน",
+      "ค": "ไม่ตั้งรหัสผ่าน",
+      "ง": "เปิดเผยรหัสผ่านให้ผู้อื่นทราบ"
+    },
+    "answer": "ข",
+    "answer_text": "เปลี่ยนชื่อ SSID, ใช้การเข้ารหัสแบบ WPA2/WPA3, และใช้รหัสผ่านที่ซับซ้อน",
+    "explanation": "การตั้งค่าความปลอดภัยที่เหมาะสมช่วยป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต"
+  },
+  {
+    "id": 66,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือความหมายของ SSID (Service Set Identifier)?",
+    "options": {
+      "ก": "รหัสผ่านขอ",
+      "ง": "Wi-Fi Router MAC Address ขอ Access Point",
+      "ข": "ชื่อของเครือข่าย Wi-Fi ที่ปรากฏให้เห็นเมื่อค้นหาสัญญาณ",
+      "ค": "IP Address ขอ"
+    },
+    "answer": "ข",
+    "answer_text": "ชื่อของเครือข่าย Wi-Fi ที่ปรากฏให้เห็นเมื่อค้นหาสัญญาณ",
+    "explanation": "SSID คือชื่อที่ใช้ระบุเครือข่าย Wi-Fi"
+  },
+  {
+    "id": 67,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "การเข้ารหัสแบบใดที่ถือว่ามีความปลอดภัยสูงสุดสำหรับเครือข่าย Wi-Fi ในปัจจุบัน?",
+    "options": {
+      "ก": "WEP",
+      "ข": "WPA",
+      "ค": "WPA2/WPA3",
+      "ง": "Open (ไม่มีการเข้ารหัส)"
+    },
+    "answer": "ค",
+    "answer_text": "WPA2/WPA3",
+    "explanation": "WPA2 และ WPA3 ให้การเข้ารหัสที่แข็งแกร่งที่สุด"
+  },
+  {
+    "id": 68,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือประโยชน์ของการซ่อน SSID (Hide SSID)?",
+    "options": {
+      "ก": "ทำให้เครือข่าย Wi-Fi ปลอดภัย 100%",
+      "ข": "ช่วยลดโอกาสที่ผู้ไม่หวังดีจะค้นพบเครือข่ายของคุณแต่ไม่ได้ป้องกันการเข้าถึงโดย สมบูรณ์",
+      "ค": "ทำให้เครือข่าย Wi-Fi ทำงานเร็วขึ้น",
+      "ง": "ทำให้เครือข่าย Wi-Fi มีสัญญาณแรงขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "ช่วยลดโอกาสที่ผู้ไม่หวังดีจะค้นพบเครือข่ายของคุณแต่ไม่ได้ป้องกันการเข้าถึงโดย สมบูรณ์",
+    "explanation": "การซ่อน SSID เป็นมาตรการความปลอดภัยเบื้องต้น"
+  },
+  {
+    "id": 69,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือความหมายของ “Wi-Fi Hotspot”?",
+    "options": {
+      "ก": "จุดเชื่อมต่ออินเทอร์เน็ตแบบมีสาย",
+      "ข": "จุดเชื่อมต่ออินเทอร์เน็ตไร้สายที่เปิดให้ผู้ใช้งานสามารถเชื่อมต่ออินเทอร์เน็ตได้",
+      "ค": "อุปกรณ์ที่ใช้ในการขยายสัญญาณ Wi-Fi",
+      "ง": "อุปกรณ์ที่ใช้ในการป้องกันเครือข่าย"
+    },
+    "answer": "ข",
+    "answer_text": "จุดเชื่อมต่ออินเทอร์เน็ตไร้สายที่เปิดให้ผู้ใช้งานสามารถเชื่อมต่ออินเทอร์เน็ตได้",
+    "explanation": "Wi-Fi Hotspot มักพบในที่สาธารณะ"
+  },
+  {
+    "id": 70,
+    "context": "เครือข่ายไร้สาย (Wireless Network)",
+    "question": "ข้อใดคือความหมายของ “Tethering” ในบริบทของ Mobile Hotspot?",
+    "options": {
+      "ก": "การเชื่อมต่ออินเทอร์เน็ตผ่านสาย LAN",
+      "ข": "การแชร์การเชื่อมต่ออินเทอร์เน็ตจากโทรศัพท์มือถือไปยังอุปกรณ์อื่นผ่าน Wi-Fi, Bluetooth, หรือ USB",
+      "ค": "การเชื่อมต่ออินเทอร์เน็ตผ่านดาวเทียม",
+      "ง": "การเชื่อมต่ออินเทอร์เน็ตผ่านสายโทรศัพท์"
+    },
+    "answer": "ข",
+    "answer_text": "การแชร์การเชื่อมต่ออินเทอร์เน็ตจากโทรศัพท์มือถือไปยังอุปกรณ์อื่นผ่าน Wi-Fi, Bluetooth, หรือ USB",
+    "explanation": "Tethering ช่วยให้อุปกรณ์อื่นสามารถใช้อินเทอร์เน็ตจากมือถือได้"
+  },
+  {
+    "id": 71,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Firewall” ในเครือข่าย?",
+    "options": {
+      "ก": "อุปกรณ์ที่ทำหน้าที่ขยายสัญญาณเครือข่าย",
+      "ข": "ระบบที่ทำหน้าที่ควบคุมและกรอ",
+      "ง": "Traffic เข้า-ออกเครือข่ายเพื่อป้องกันการเข้าถึงโดยไม่ ได้รับอนุญาต อุปกรณ์ที่ทำหน้าที่แปลงสัญญาณอนาล็อกเป็นดิจิทัล",
+      "ค": "อุปกรณ์ที่ทำหน้าที่กระจายสัญญาณ Wi-Fi"
+    },
+    "answer": "ข",
+    "answer_text": "ระบบที่ทำหน้าที่ควบคุมและกรอ",
+    "explanation": "Firewall เป็นด่านป้องกันแรกของเครือข่าย"
+  },
+  {
+    "id": 72,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการใช้ VPN (Virtual Private Network)?",
+    "options": {
+      "ก": "ทำให้การเชื่อมต่ออินเทอร์เน็ตช้าลง",
+      "ข": "สร้างการเชื่อมต่อเครือข่ายส่วนตัวที่เข้ารหัสผ่านเครือข่ายสาธารณะเพื่อเพิ่มความ ปลอดภัยและความเป็นส่วนตัว",
+      "ค": "ทำให้การเชื่อมต่ออินเทอร์เน็ตไม่ปลอดภัย",
+      "ง": "ทำให้ไม่สามารถเข้าถึงเว็บไซต์บางแห่งได้"
+    },
+    "answer": "ข",
+    "answer_text": "สร้างการเชื่อมต่อเครือข่ายส่วนตัวที่เข้ารหัสผ่านเครือข่ายสาธารณะเพื่อเพิ่มความ ปลอดภัยและความเป็นส่วนตัว",
+    "explanation": "VPN ช่วยเพิ่มความปลอดภัยในการเชื่อมต่อเครือข่าย"
+  },
+  {
+    "id": 73,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือการโจมตีเครือข่ายประเภท DoS (Denial of Service)?",
+    "options": {
+      "ก": "การขโมยข้อมูลส่วนตัว",
+      "ข": "การโจมตีที่ทำให้ระบบหรือบริการไม่สามารถให้บริการแก่ผู้ใช้งานได้ตามปกติโดยการส่ง Traffic จำนวนมากเข้าสู่ระบบ",
+      "ค": "การติดตั้",
+      "ง": "Malware การเปลี่ยนรหัสผ่าน"
+    },
+    "answer": "ข",
+    "answer_text": "การโจมตีที่ทำให้ระบบหรือบริการไม่สามารถให้บริการแก่ผู้ใช้งานได้ตามปกติโดยการส่ง Traffic จำนวนมากเข้าสู่ระบบ",
+    "explanation": "DoS/DDoS เป็นการโจมตีที่มุ่งเป้าไปที่การทำให้ระบบล่ม"
+  },
+  {
+    "id": 74,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือการโจมตีเครือข่ายประเภท Phishing?",
+    "options": {
+      "ก": "การขโมยข้อมูลส่วนตัวโดยการหลอกลวงให้ผู้ใช้งานเปิดเผยข้อมูลผ่านอีเมลหรือเว็บไซต์ ปลอม",
+      "ข": "การโจมตีที่ทำให้ระบบไม่สามารถให้บริการได้",
+      "ค": "การติดตั้",
+      "ง": "Malware การเปลี่ยนรหัสผ่าน"
+    },
+    "answer": "ก",
+    "answer_text": "การขโมยข้อมูลส่วนตัวโดยการหลอกลวงให้ผู้ใช้งานเปิดเผยข้อมูลผ่านอีเมลหรือเว็บไซต์ ปลอม",
+    "explanation": "Phishing เป็นการโจมตีทางสังคม"
+  },
+  {
+    "id": 75,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือการโจมตีเครือข่ายประเภท Man-in-the-Middle (MITM)?",
+    "options": {
+      "ก": "การขโมยข้อมูลส่วนตัว",
+      "ข": "การโจมตีที่ผู้โจมตีแทรกตัวอยู่ระหว่างการสื่อสารของสองฝ่ายเพื่อดักฟังหรือเปลี่ยนแปลง ข้อมูล",
+      "ค": "การติดตั้",
+      "ง": "Malware การเปลี่ยนรหัสผ่าน"
+    },
+    "answer": "ข",
+    "answer_text": "การโจมตีที่ผู้โจมตีแทรกตัวอยู่ระหว่างการสื่อสารของสองฝ่ายเพื่อดักฟังหรือเปลี่ยนแปลง ข้อมูล",
+    "explanation": "MITM เป็นการโจมตีที่อันตรายต่อความเป็นส่วนตัวของข้อมูล"
+  },
+  {
+    "id": 76,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการใช้ IDS (Intrusion Detection System) ในเครือข่าย?",
+    "options": {
+      "ก": "ป้องกันการโจมตีได้ 100%",
+      "ข": "ตรวจจับกิจกรรมที่น่าสงสัยหรือการบุกรุกในเครือข่ายและแจ้งเตือนผู้ดูแลระบบ",
+      "ค": "ป้องกัน Malware",
+      "ง": "เข้ารหัสข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ตรวจจับกิจกรรมที่น่าสงสัยหรือการบุกรุกในเครือข่ายและแจ้งเตือนผู้ดูแลระบบ",
+    "explanation": "IDS ช่วยในการเฝ้าระวังความปลอดภัย"
+  },
+  {
+    "id": 77,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการใช้ IPS (Intrusion Prevention System) ในเครือข่าย?",
+    "options": {
+      "ก": "ตรวจจับกิจกรรมที่น่าสงสัยเท่านั้น",
+      "ข": "ตรวจจับและป้องกันการบุกรุกในเครือข่ายโดยอัตโนมัติ",
+      "ค": "ป้องกัน Malware",
+      "ง": "เข้ารหัสข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ตรวจจับและป้องกันการบุกรุกในเครือข่ายโดยอัตโนมัติ",
+    "explanation": "IPS มีความสามารถในการป้องกันเชิงรุก"
+  },
+  {
+    "id": 78,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Encryption” ในเครือข่าย?",
+    "options": {
+      "ก": "การแปลงข้อมูลให้อยู่ในรูปแบบที่อ่านเข้าใจได้ง่าย",
+      "ข": "กระบวนการแปลงข้อมูลให้อยู่ในรูปแบบที่อ่านไม่เข้าใจเพื่อป้องกันการเข้าถึงข้อมูลโดยไม่ ได้รับอนุญาต",
+      "ค": "การบีบอัดข้อมูล",
+      "ง": "การสำรองข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "กระบวนการแปลงข้อมูลให้อยู่ในรูปแบบที่อ่านไม่เข้าใจเพื่อป้องกันการเข้าถึงข้อมูลโดยไม่ ได้รับอนุญาต",
+    "explanation": "Encryption เป็นสิ่งสำคัญในการรักษาความลับของข้อมูล"
+  },
+  {
+    "id": 79,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการใช้ SSL/TLS ในการเชื่อมต่อเว็บไซต์?",
+    "options": {
+      "ก": "ทำให้เว็บไซต์โหลดเร็วขึ้น",
+      "ข": "เข้ารหัสการสื่อสารระหว่างเว็บเบราว์เซอร์และเว็บเซิร์ฟเวอร์เพื่อป้องกันการดักฟังข้อมูล",
+      "ค": "ทำให้เว็บไซต์สวยงามขึ้น",
+      "ง": "ทำให้เว็บไซต์เข้าถึงได้ง่ายขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "เข้ารหัสการสื่อสารระหว่างเว็บเบราว์เซอร์และเว็บเซิร์ฟเวอร์เพื่อป้องกันการดักฟังข้อมูล",
+    "explanation": "SSL/TLS เป็นโปรโตคอลที่ใช้ในการสร้าง HTTPS"
+  },
+  {
+    "id": 80,
+    "context": "ความปลอดภัยเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Port Scanning” ในบริบทของความปลอดภัยเครือข่าย?",
+    "options": {
+      "ก": "การตรวจสอบความเร็วของเครือข่าย",
+      "ข": "การสแกนหา Port ที่เปิดอยู่บน Server หรืออุปกรณ์เครือข่ายเพื่อค้นหาช่องโหว่หรือบริการ ที่อาจถูกโจมตีได้",
+      "ค": "การตรวจสอบ IP Address",
+      "ง": "การตรวจสอบ MAC Address"
+    },
+    "answer": "ข",
+    "answer_text": "การสแกนหา Port ที่เปิดอยู่บน Server หรืออุปกรณ์เครือข่ายเพื่อค้นหาช่องโหว่หรือบริการ ที่อาจถูกโจมตีได้",
+    "explanation": "Port Scanning เป็นเทคนิคที่ผู้โจมตีใช้ในการสำรวจเป้าหมาย"
+  },
+  {
+    "id": 81,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Network Administrator”?",
+    "options": {
+      "ก": "ผู้ใช้งานทั่วไปในเครือข่าย",
+      "ข": "ผู้ที่รับผิดชอบในการติดตั้ง, กำหนดค่า, บำรุงรักษา, และแก้ไขปัญหาเครือข่ายคอมพิวเตอร์",
+      "ค": "ผู้ที่เขียนโปรแกรมคอมพิวเตอร์",
+      "ง": "ผู้ที่ออกแบบเว็บไซต์"
+    },
+    "answer": "ข",
+    "answer_text": "ผู้ที่รับผิดชอบในการติดตั้ง, กำหนดค่า, บำรุงรักษา, และแก้ไขปัญหาเครือข่ายคอมพิวเตอร์",
+    "explanation": "Network Administrator มีบทบาทสำคัญในการดูแลเครือข่าย"
+  },
+  {
+    "id": 82,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือเครื่องมือที่ใช้ในการตรวจสอบสถานะการเชื่อมต่อเครือข่ายและ IP Address ของ อุปกรณ์?",
+    "options": {
+      "ก": "ping",
+      "ข": "ipconfig (Windows) หรือ ifconfig (Linux)",
+      "ค": "tracert",
+      "ง": "netstat"
+    },
+    "answer": "ข",
+    "answer_text": "ipconfig (Windows) หรือ ifconfig (Linux)",
+    "explanation": "ipconfig / ifconfig ใช้แสดงข้อมูลการตั้งค่าเครือข่าย"
+  },
+  {
+    "id": 83,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือเครื่องมือที่ใช้ในการทดสอบการเชื่อมต่อระหว่างอุปกรณ์ในเครือข่าย?",
+    "options": {
+      "ก": "ipconfig",
+      "ข": "ping",
+      "ค": "tracert",
+      "ง": "netstat"
+    },
+    "answer": "ข",
+    "answer_text": "ping",
+    "explanation": "ping ใช้ทดสอบการเชื่อมต่อและเวลาในการตอบสนอง"
+  },
+  {
+    "id": 84,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือเครื่องมือที่ใช้ในการตรวจสอบเส้นทางการส่งข้อมูลไปยังปลายทาง?",
+    "options": {
+      "ก": "ping",
+      "ข": "ipconfig",
+      "ค": "tracert (Windows) หรือ traceroute (Linux)",
+      "ง": "netstat"
+    },
+    "answer": "ค",
+    "answer_text": "tracert (Windows) หรือ traceroute (Linux)",
+    "explanation": "tracert / traceroute ใช้แสดงเส้นทางของ Packet"
+  },
+  {
+    "id": 85,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือเครื่องมือที่ใช้ในการตรวจสอบสถานะการเชื่อมต่อเครือข่ายและ Port ที่เปิดอยู่ ?",
+    "options": {
+      "ก": "ping",
+      "ข": "ipconfig",
+      "ค": "tracert",
+      "ง": "netstat"
+    },
+    "answer": "ง",
+    "answer_text": "netstat",
+    "explanation": "netstat ใช้แสดง Connection และ Port ที่ใช้งานอยู่"
+  },
+  {
+    "id": 86,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการทำ Network Diagram?",
+    "options": {
+      "ก": "ทำให้เครือข่ายทำงานเร็วขึ้น",
+      "ข": "ช่วยในการออกแบบ, ทำความเข้าใจ, และแก้ไขปัญหาเครือข่ายได้อย่างมีประสิทธิภาพ",
+      "ค": "ทำให้เครือข่ายไม่ปลอดภัย",
+      "ง": "ทำให้เครือข่ายซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "ช่วยในการออกแบบ, ทำความเข้าใจ, และแก้ไขปัญหาเครือข่ายได้อย่างมีประสิทธิภาพ",
+    "explanation": "Network Diagram เป็นเอกสารสำคัญในการจัดการเครือข่าย"
+  },
+  {
+    "id": 87,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Bandwidth” ในเครือข่าย?",
+    "options": {
+      "ก": "ความเร็วในการประมวลผลขอ",
+      "ง": "CPU จำนวนอุปกรณ์ที่เชื่อมต่อกับเครือข่าย",
+      "ข": "ปริมาณข้อมูลสูงสุดที่สามารถส่งผ่านเครือข่ายได้ในช่วงเวลาหนึ่งๆ",
+      "ค": "ระยะทางในการส่งสัญญาณ"
+    },
+    "answer": "ข",
+    "answer_text": "ปริมาณข้อมูลสูงสุดที่สามารถส่งผ่านเครือข่ายได้ในช่วงเวลาหนึ่งๆ",
+    "explanation": "Bandwidth เป็นตัวชี้วัดความจุของเครือข่าย"
+  },
+  {
+    "id": 88,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Latency” ในเครือข่าย?",
+    "options": {
+      "ก": "ความเร็วในการส่งข้อมูล",
+      "ข": "ระยะเวลาที่ข้อมูลใช้ในการเดินทางจากต้นทางไปยังปลายทาง",
+      "ค": "ปริมาณข้อมูลที่ส่งได้",
+      "ง": "จำนวนอุปกรณ์ที่เชื่อมต่อกับเครือข่าย"
+    },
+    "answer": "ข",
+    "answer_text": "ระยะเวลาที่ข้อมูลใช้ในการเดินทางจากต้นทางไปยังปลายทาง",
+    "explanation": "Latency คือความหน่วงในการส่งข้อมูล"
+  },
+  {
+    "id": 89,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือประโยชน์ของการทำ Network Monitoring?",
+    "options": {
+      "ก": "ทำให้เครือข่ายทำงานช้าลง",
+      "ข": "ช่วยในการตรวจสอบสถานะ, ประสิทธิภาพ, และความปลอดภัยของเครือข่ายแบบ Real- time เพื่อตรวจจับปัญหาและแก้ไขได้อย่างรวดเร็ว",
+      "ค": "ทำให้เครือข่ายไม่ปลอดภัย",
+      "ง": "ทำให้เครือข่ายซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "ช่วยในการตรวจสอบสถานะ, ประสิทธิภาพ, และความปลอดภัยของเครือข่ายแบบ Real- time เพื่อตรวจจับปัญหาและแก้ไขได้อย่างรวดเร็ว",
+    "explanation": "Network Monitoring เป็นสิ่งสำคัญในการดูแลเครือข่าย"
+  },
+  {
+    "id": 90,
+    "context": "การจัดการเครือข่าย",
+    "question": "ข้อใดคือความหมายของ “Quality of Service (QoS)” ในเครือข่าย?",
+    "options": {
+      "ก": "การทำให้เครือข่ายทำงานช้าลง",
+      "ข": "การจัดการทรัพยากรเครือข่ายเพื่อให้แอปพลิเคชันหรือบริการบางประเภทได้รับการจัด ลำดับความสำคัญในการส่งข้อมูลเพื่อให้มีประสิทธิภาพตามที่ต้องการ",
+      "ค": "การทำให้เครือข่ายไม่ปลอดภัย",
+      "ง": "การทำให้เครือข่ายซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "การจัดการทรัพยากรเครือข่ายเพื่อให้แอปพลิเคชันหรือบริการบางประเภทได้รับการจัด ลำดับความสำคัญในการส่งข้อมูลเพื่อให้มีประสิทธิภาพตามที่ต้องการ",
+    "explanation": "QoS ช่วยให้แอปพลิเคชันที่สำคัญได้รับ Bandwidth เพียงพอ"
+  },
+  {
+    "id": 91,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากไม่สามารถเชื่อมต่ออินเทอร์เน็ตได้ควรตรวจสอบอะไรเป็นอันดับแรก?",
+    "options": {
+      "ก": "สาย LAN หรือ Wi-Fi Connection, Router/Modem, และ Driver ขอ",
+      "ง": "Network Adapter จอภาพ",
+      "ข": "เมาส์",
+      "ค": "คีย์บอร์ด"
+    },
+    "answer": "ก",
+    "answer_text": "สาย LAN หรือ Wi-Fi Connection, Router/Modem, และ Driver ขอ",
+    "explanation": "การตรวจสอบการเชื่อมต่อทางกายภาพและซอฟต์แวร์เป็นสิ่งสำคัญ"
+  },
+  {
+    "id": 92,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากเชื่อมต่อ Wi-Fi ได้แต่ไม่สามารถเข้าถึงอินเทอร์เน็ตได้ควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "รหัสผ่าน Wi-Fi",
+      "ข": "การตั้งค่า IP Address, DNS Server, และสถานะขอ",
+      "ง": "Router/Modem Bluetooth",
+      "ค": "สาย LAN"
+    },
+    "answer": "ข",
+    "answer_text": "การตั้งค่า IP Address, DNS Server, และสถานะขอ",
+    "explanation": "ปัญหาอาจเกิดจากการตั้งค่า IP หรือ DNS"
+  },
+  {
+    "id": 93,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากคอมพิวเตอร์เครื่องอื่นในเครือข่ายสามารถเข้าถึงอินเทอร์เน็ตได้แต่เครื่องของคุณไม่สามารถ เข้าถึงได้ควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "Router/Modem",
+      "ข": "การตั้งค่า Network Adapter, Firewall, และ Driver ของเครื่องคุณ",
+      "ค": "DNS Server",
+      "ง": "DHCP Server"
+    },
+    "answer": "ข",
+    "answer_text": "การตั้งค่า Network Adapter, Firewall, และ Driver ของเครื่องคุณ",
+    "explanation": "ปัญหาอาจอยู่ที่การตั้งค่าเฉพาะเครื่องของคุณ"
+  },
+  {
+    "id": 94,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากไม่สามารถเข้าถึงเว็บไซต์บางเว็บไซต์ได้ควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "Router/Modem",
+      "ข": "DNS Server, Firewall, หรือ Proxy Server",
+      "ค": "สาย LAN",
+      "ง": "Bluetooth"
+    },
+    "answer": "ข",
+    "answer_text": "DNS Server, Firewall, หรือ Proxy Server",
+    "explanation": "ปัญหาอาจเกิดจาก DNS หรือการบล็อกของ Firewall/Proxy"
+  },
+  {
+    "id": 95,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากการเชื่อมต่อเครือข่ายช้าผิดปกติควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "สาย LAN หรือ Wi-Fi Signal Strength, Bandwidth Usage, และ Router/Modem",
+      "ข": "เมาส์",
+      "ค": "คีย์บอร์ด",
+      "ง": "จอภาพ"
+    },
+    "answer": "ก",
+    "answer_text": "สาย LAN หรือ Wi-Fi Signal Strength, Bandwidth Usage, และ Router/Modem",
+    "explanation": "ปัญหาอาจเกิดจากสัญญาณอ่อน, การใช้งาน Bandwidth สูง, หรือ Router มีปัญหา"
+  },
+  {
+    "id": 96,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากไม่สามารถ Ping ไปยัง IP Address ของ Router ได้ควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "DNS Server",
+      "ข": "สาย LAN หรือ Wi-Fi Connection, และสถานะขอ",
+      "ง": "Router Firewall",
+      "ค": "DHCP Server"
+    },
+    "answer": "ข",
+    "answer_text": "สาย LAN หรือ Wi-Fi Connection, และสถานะขอ",
+    "explanation": "หาก Ping Router ไม่ได้แสดงว่าการเชื่อมต่อกับ Router มีปัญหา"
+  },
+  {
+    "id": 97,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากไม่สามารถเข้าถึง File Share บนเครือข่ายได้ควรตรวจสอบอะไร?",
+    "options": {
+      "ก": "การตั้งค่า Firewall, Permissions ขอ",
+      "ง": "Folder, และ Network Discovery DHCP Server",
+      "ข": "Router/Modem",
+      "ค": "DNS Server"
+    },
+    "answer": "ก",
+    "answer_text": "การตั้งค่า Firewall, Permissions ขอ",
+    "explanation": "ปัญหาอาจเกิดจากการบล็อกของ Firewall หรือสิทธิ์การเข้าถึง"
+  },
+  {
+    "id": 98,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "หากมีข้อความแจ้งเตือน IP Address Conflict ควรดำเนินการใด?",
+    "options": {
+      "ก": "ไม่ต้องทำอะไร",
+      "ข": "ตรวจสอบการตั้งค่า IP Address ของอุปกรณ์ในเครือข่ายเพื่อแก้ไขให้ไม่ซํ้ากัน",
+      "ค": "Format Hard Drive ทันที",
+      "ง": "ติดตั้งระบบปฏิบัติการใหม่"
+    },
+    "answer": "ข",
+    "answer_text": "ตรวจสอบการตั้งค่า IP Address ของอุปกรณ์ในเครือข่ายเพื่อแก้ไขให้ไม่ซํ้ากัน",
+    "explanation": "IP Address Conflict เกิดขึ้นเมื่อมีอุปกรณ์สองเครื่องใช้ IP Address เดียวกัน"
+  },
+  {
+    "id": 99,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "ข้อใดคือประโยชน์ของการทำ Network Troubleshooting?",
+    "options": {
+      "ก": "ทำให้เครือข่ายทำงานช้าลง",
+      "ข": "กระบวนการในการค้นหา, วิเคราะห์, และแก้ไขปัญหาที่เกิดขึ้นในเครือข่ายเพื่อให้เครือ ข่ายกลับมาทำงานได้ตามปกติ",
+      "ค": "ทำให้เครือข่ายไม่ปลอดภัย",
+      "ง": "ทำให้เครือข่ายซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "กระบวนการในการค้นหา, วิเคราะห์, และแก้ไขปัญหาที่เกิดขึ้นในเครือข่ายเพื่อให้เครือ ข่ายกลับมาทำงานได้ตามปกติ",
+    "explanation": "Network Troubleshooting เป็นทักษะสำคัญของ Network Administrator"
+  },
+  {
+    "id": 100,
+    "context": "การแก้ไขปัญหาเครือข่ายเบื้องต้น",
+    "question": "ข้อใดคือขั้นตอนแรกในการแก้ไขปัญหาเครือข่าย?",
+    "options": {
+      "ก": "เปลี่ยนอุปกรณ์ทั้งหมด",
+      "ข": "ระบุปัญหาและรวบรวมข้อมูลที่เกี่ยวข้อง",
+      "ค": "ติดตั้งระบบปฏิบัติการใหม่",
+      "ง": "ไม่ต้องทำอะไร"
+    },
+    "answer": "ข",
+    "answer_text": "ระบุปัญหาและรวบรวมข้อมูลที่เกี่ยวข้อง",
+    "explanation": "การระบุปัญหาที่ชัดเจนเป็นจุดเริ่มต้นของการแก้ไขปัญหา"
+  }
+]

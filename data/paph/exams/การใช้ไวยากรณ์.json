@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "q": "The editor - in - chief demanded that the article ________ rewritten before the evening deadline.",
+    "choices": {
+      "A": "will be",
+      "B": "is",
+      "C": "was",
+      "D": "be"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "q": "Neither the reporters nor the editor ________ aware of the breaking news until it was too late.",
+    "choices": {
+      "A": "has been",
+      "B": "having been",
+      "C": "was",
+      "D": "were"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "q": "The controversial ________ was anonymously leaked to the press yesterday.",
+    "choices": {
+      "A": "documentary",
+      "B": "document",
+      "C": "documenting",
+      "D": "documents"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "q": "After reviewing all the evidence, the investigative journalist ________ to write the exposé.",
+    "choices": {
+      "A": "decided",
+      "B": "has decided",
+      "C": "deciding",
+      "D": "decides"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "q": "The company's profits have fallen drastically; ________, they are planning to expand their operations overseas.",
+    "choices": {
+      "A": "moreover",
+      "B": "consequently",
+      "C": "however",
+      "D": "therefore"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "q": "As a journalist, you need to cut down on wordiness. Which phrase is the most concise?",
+    "choices": {
+      "A": "Now",
+      "B": "At this point in time",
+      "C": "In the event that",
+      "D": "Due to the fact that"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "q": "The suspect, ________ the police arrested yesterday, has officially pleaded not guilty.",
+    "choices": {
+      "A": "which",
+      "B": "whose",
+      "C": "whom",
+      "D": "who"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "q": "The ethics committee ________ its final report on the incident tomorrow morning.",
+    "choices": {
+      "A": "releases",
+      "B": "are releasing",
+      "C": "release",
+      "D": "releasing"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "q": "Please ensure that all direct quotes are accurately ________ to their original sources.",
+    "choices": {
+      "A": "retracted",
+      "B": "distributed",
+      "C": "contributed",
+      "D": "attributed"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "q": "The newly proposed tax law will directly ________ middle - class families in the suburbs.",
+    "choices": {
+      "A": "infect",
+      "B": "defect",
+      "C": "affect",
+      "D": "effect"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "q": "The opinion piece was heavily criticized for its lack of ________.",
+    "choices": {
+      "A": "objectivity",
+      "B": "subjective",
+      "C": "prejudice",
+      "D": "bias"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "q": "The source spoke ________ the record, so we cannot publish his real name.",
+    "choices": {
+      "A": "under",
+      "B": "on",
+      "C": "off",
+      "D": "over"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "q": "Which of the following sentences uses the active voice?",
+    "choices": {
+      "A": "The press conference has been held.",
+      "B": "The press conference is being held by the mayor.",
+      "C": "The mayor held the press conference.",
+      "D": "The press conference was held by the mayor."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "q": "There are ________ opportunities for long - form investigative journalism in the digital age.",
+    "choices": {
+      "A": "fewer",
+      "B": "lesser",
+      "C": "little",
+      "D": "less"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "q": "The publisher, along with the senior editors, ________ attending the annual media gala.",
+    "choices": {
+      "A": "were",
+      "B": "have been",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "q": "Make sure you don't ________ the facts when writing a sensational headline.",
+    "choices": {
+      "A": "misspell",
+      "B": "misunderstand",
+      "C": "misrepresent",
+      "D": "misplace"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "q": "She has a strong reputation for writing ________ and engaging feature stories.",
+    "choices": {
+      "A": "concisely",
+      "B": "concision",
+      "C": "concise",
+      "D": "conciseness"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "q": "The grand jury reached ________ verdict after three exhausting days of deliberation.",
+    "choices": {
+      "A": "their",
+      "B": "its",
+      "C": "theirs",
+      "D": "it's"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "q": "The whistleblower asked to remain ________ to protect their career and family.",
+    "choices": {
+      "A": "anonymous",
+      "B": "synonymous",
+      "C": "unanimous",
+      "D": "anomalous"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "q": "Between you and ________, I think the official narrative is completely fabricated.",
+    "choices": {
+      "A": "myself",
+      "B": "I",
+      "C": "mine",
+      "D": "me"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "q": "All professional journalists must always protect ________ confidential sources.",
+    "choices": {
+      "A": "its",
+      "B": "their",
+      "C": "his",
+      "D": "her"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "q": "The politician categorically ________ the corruption allegations made against him in the morning paper.",
+    "choices": {
+      "A": "rejected",
+      "B": "declined",
+      "C": "refused",
+      "D": "denied"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "q": "Which of the following sentences is punctuated correctly according to standard journalistic style?",
+    "choices": {
+      "A": "\"I will not resign,\" the mayor said.",
+      "B": "\"I will not resign\", the mayor said",
+      "C": "\"I will not resign\" the mayor said.",
+      "D": "\"I will not resign\", the mayor said."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "q": "A short, catchy phrase used to draw attention to a news article is called a ________.",
+    "choices": {
+      "A": "headline",
+      "B": "caption",
+      "C": "byline",
+      "D": "dateline"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "q": "The suspect's alibi was completely ________ by the newly discovered CCTV video evidence.",
+    "choices": {
+      "A": "fabricated",
+      "B": "speculated",
+      "C": "contradicted",
+      "D": "corroborated"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "q": "________ the heavy rain, the peaceful protest continued in the city square.",
+    "choices": {
+      "A": "Despite",
+      "B": "However",
+      "C": "Furthermore",
+      "D": "Although"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "q": "We need to ________ this breaking news before our rival network does.",
+    "choices": {
+      "A": "broadcasts",
+      "B": "broadcast",
+      "C": "broadcasted",
+      "D": "broadcasting"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "q": "The number of digital subscribers ________ steadily increasing over the past fiscal year.",
+    "choices": {
+      "A": "have been",
+      "B": "is",
+      "C": "are",
+      "D": "has been"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "q": "When writing a hard news report, the most important information should go in the ________.",
+    "choices": {
+      "A": "editorial",
+      "B": "conclusion",
+      "C": "lead paragraph",
+      "D": "body paragraph"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "q": "It is crucial that the sensitive facts ________ verified before final publication.",
+    "choices": {
+      "A": "are",
+      "B": "be",
+      "C": "to be",
+      "D": "is"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "q": "The reporter was fired and accused of ________ because she copied paragraphs from another author without credit.",
+    "choices": {
+      "A": "plagiarism",
+      "B": "libel",
+      "C": "forgery",
+      "D": "slander"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "q": "Libel refers to written defamation, while ________ refers to spoken defamation.",
+    "choices": {
+      "A": "censorship",
+      "B": "slander",
+      "C": "bias",
+      "D": "plagiarism"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "q": "The copy editor told the reporter to ________ the lengthy quotes to save page space.",
+    "choices": {
+      "A": "exaggerate",
+      "B": "expand",
+      "C": "eliminate",
+      "D": "paraphrase"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "q": "The local government will officially ________ the new infrastructure project next month.",
+    "choices": {
+      "A": "unmask",
+      "B": "unveil",
+      "C": "undo",
+      "D": "uncover"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "q": "The news anchor accidentally stumbled over her words during the ________ broadcast.",
+    "choices": {
+      "A": "live",
+      "B": "lively",
+      "C": "living",
+      "D": "alive"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "q": "Which sentence is grammatically correct?",
+    "choices": {
+      "A": "She lay the newspaper on the editor's desk.",
+      "B": "She lied the newspaper on the editor's desk.",
+      "C": "She laid the newspaper on the editor's desk.",
+      "D": "She lain the newspaper on the editor's desk."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "q": "The press release was full of corporate ________ that the general public wouldn't easily understand.",
+    "choices": {
+      "A": "slang",
+      "B": "accent",
+      "C": "jargon",
+      "D": "dialect"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "q": "Only a small ________ of the local population actually reads the daily print edition anymore.",
+    "choices": {
+      "A": "quantity",
+      "B": "number",
+      "C": "percentage",
+      "D": "amount"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "q": "The journalist's deep ________ into the corrupt multinational corporation won a Pulitzer Prize.",
+    "choices": {
+      "A": "investigator",
+      "B": "investigative",
+      "C": "investigate",
+      "D": "investigation"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "q": "If I ________ you, I would thoroughly double - check those government statistics.",
+    "choices": {
+      "A": "were",
+      "B": "was",
+      "C": "be",
+      "D": "am"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "q": "The dedicated team of reporters ________ working around the clock to cover the general election.",
+    "choices": {
+      "A": "have been",
+      "B": "were",
+      "C": "are",
+      "D": "is"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "q": "In journalistic writing, you must avoid redundancies. Which of the following is a redundant phrase?",
+    "choices": {
+      "A": "free gift",
+      "B": "All of the above",
+      "C": "unexpected surprise",
+      "D": "past history"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "q": "We will instantly publish the story online ________ we receive official confirmation from the police.",
+    "choices": {
+      "A": "so that",
+      "B": "unless",
+      "C": "as soon as",
+      "D": "whereas"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "q": "It is difficult to accurately predict what the long - term ________ of this foreign policy will be.",
+    "choices": {
+      "A": "effects",
+      "B": "effective",
+      "C": "affects",
+      "D": "defect"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "q": "Every reporter and editor ________ strictly required to attend the mandatory media ethics training.",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "is",
+      "D": "was"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "q": "The anonymous source provided ________ information that directly led to the arrest of the primary suspect.",
+    "choices": {
+      "A": "mundane",
+      "B": "trivial",
+      "C": "classified",
+      "D": "crucial"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "q": "We must avoid making any ________ statements in our articles that cannot be proven in a court of law.",
+    "choices": {
+      "A": "libelous",
+      "B": "factual",
+      "C": "impartial",
+      "D": "objective"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "q": "The CEO abruptly stepped down from his executive position, citing ________ reasons.",
+    "choices": {
+      "A": "personalize",
+      "B": "personal",
+      "C": "personnel",
+      "D": "personality"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "q": "Let's make sure the complex timeline of events is completely ________ before we print the graphic.",
+    "choices": {
+      "A": "chronically",
+      "B": "chronicle",
+      "C": "chronological",
+      "D": "chronology"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "q": "The ________ editor is primarily responsible for checking the final proofs for errors before the paper goes to the printing press.",
+    "choices": {
+      "A": "managing",
+      "B": "copy",
+      "C": "sports",
+      "D": "photo"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "q": "The managing editor insisted that the reporter ________ the sources before publishing.",
+    "choices": {
+      "A": "verified",
+      "B": "verify",
+      "C": "verifying",
+      "D": "verifies"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "q": "________ the tight deadline, the team managed to produce a high - quality broadcast.",
+    "choices": {
+      "A": "Because",
+      "B": "However",
+      "C": "In spite of",
+      "D": "Although"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "q": "The mayor refused to comment ________ the ongoing investigation.",
+    "choices": {
+      "A": "in",
+      "B": "with",
+      "C": "on",
+      "D": "at"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "q": "By the time the press conference started, the journalist ________ all her questions.",
+    "choices": {
+      "A": "had prepared",
+      "B": "prepared",
+      "C": "preparing",
+      "D": "has prepared"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "q": "The article was accused of being heavily ________ towards the ruling party.",
+    "choices": {
+      "A": "objective",
+      "B": "biased",
+      "C": "neutral",
+      "D": "unbiased"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "q": "\"Off the ________\" means information provided to a journalist that cannot be published.",
+    "choices": {
+      "A": "mark",
+      "B": "book",
+      "C": "paper",
+      "D": "record"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "q": "The new evidence completely ________ the suspect's previous claims.",
+    "choices": {
+      "A": "constructs",
+      "B": "establishes",
+      "C": "undermines",
+      "D": "supports"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "q": "The photojournalist took several shots ________ capture the perfect moment.",
+    "choices": {
+      "A": "for",
+      "B": "in order to",
+      "C": "because",
+      "D": "so that"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "q": "Neither the writers nor the photographer ________ allowed to enter the crime scene.",
+    "choices": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "q": "Every word in the headline ________ to count when space is limited.",
+    "choices": {
+      "A": "had",
+      "B": "has",
+      "C": "having",
+      "D": "have"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "q": "The source was considered extremely ________, having provided accurate tips for years.",
+    "choices": {
+      "A": "credible",
+      "B": "unreliable",
+      "C": "skeptical",
+      "D": "dubious"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "q": "If the newspaper ________ the error, they would have issued a retraction immediately.",
+    "choices": {
+      "A": "noticing",
+      "B": "had noticed",
+      "C": "notices",
+      "D": "noticed"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "q": "Make sure to strictly follow the style ________ when formatting your article.",
+    "choices": {
+      "A": "law",
+      "B": "code",
+      "C": "guide",
+      "D": "rule"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "q": "The anchor ________ the news every evening at 6 PM.",
+    "choices": {
+      "A": "broadcast",
+      "B": "has broadcast",
+      "C": "is broadcasting",
+      "D": "broadcasts"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "q": "The editorial board decided to ________ the controversial op - ed from the weekend edition.",
+    "choices": {
+      "A": "print",
+      "B": "publish",
+      "C": "pull",
+      "D": "push"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "q": "A journalist's primary duty is to uncover the truth, ________ difficult it may be.",
+    "choices": {
+      "A": "however",
+      "B": "no matter",
+      "C": "although",
+      "D": "whatever"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 67,
+    "q": "The interview was cut short ________ a sudden power outage.",
+    "choices": {
+      "A": "due to",
+      "B": "as",
+      "C": "because",
+      "D": "since"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 68,
+    "q": "Which word is closest in meaning to \"exclusive\" in journalism?",
+    "choices": {
+      "A": "Widespread",
+      "B": "Common",
+      "C": "Shared",
+      "D": "Scoop"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 69,
+    "q": "The magazine has seen a sharp decline ________ its print circulation.",
+    "choices": {
+      "A": "in",
+      "B": "with",
+      "C": "at",
+      "D": "of"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 70,
+    "q": "He is the reporter ________ uncovered the local corruption scandal.",
+    "choices": {
+      "A": "who",
+      "B": "whose",
+      "C": "whom",
+      "D": "which"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 71,
+    "q": "You should double - check the facts; ________, you risk publishing false information.",
+    "choices": {
+      "A": "moreover",
+      "B": "similarly",
+      "C": "furthermore",
+      "D": "otherwise"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "q": "The newspaper ________ for libel after printing the defamatory claims.",
+    "choices": {
+      "A": "was sued",
+      "B": "has sued",
+      "C": "sued",
+      "D": "is suing"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "q": "She requested a brief ________ of the press conference before writing her piece.",
+    "choices": {
+      "A": "summarize",
+      "B": "summary",
+      "C": "summarizing",
+      "D": "summarily"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "q": "A compelling ________ is essential to hook the reader in the first paragraph.",
+    "choices": {
+      "A": "dateline",
+      "B": "caption",
+      "C": "lead",
+      "D": "byline"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "q": "The documentary shed ________ on the poor working conditions in the factory.",
+    "choices": {
+      "A": "weight",
+      "B": "truth",
+      "C": "dark",
+      "D": "light"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 76,
+    "q": "The editor - in - chief was extremely ________ of the reporter's sloppy research.",
+    "choices": {
+      "A": "critically",
+      "B": "critical",
+      "C": "critic",
+      "D": "criticize"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "q": "To protect his identity, the whistleblower's face was ________ during the broadcast.",
+    "choices": {
+      "A": "emphasized",
+      "B": "exposed",
+      "C": "highlighted",
+      "D": "blurred"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "q": "The article failed to mention a key detail, which was a significant ________.",
+    "choices": {
+      "A": "omission",
+      "B": "commission",
+      "C": "permission",
+      "D": "admission"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "q": "Reporters often have to ________ through hundreds of pages of documents to find a story.",
+    "choices": {
+      "A": "shift",
+      "B": "lift",
+      "C": "sift",
+      "D": "drift"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "q": "There is a fine line between reporting the news and ________ fear.",
+    "choices": {
+      "A": "creating",
+      "B": "doing",
+      "C": "making",
+      "D": "mongering"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "q": "The news agency has correspondents ________ the globe.",
+    "choices": {
+      "A": "around",
+      "B": "between",
+      "C": "over",
+      "D": "through"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "q": "In journalism, it is unethical to ________ quotes to change their meaning.",
+    "choices": {
+      "A": "retain",
+      "B": "alter",
+      "C": "preserve",
+      "D": "alternate"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "q": "The ________ section of the newspaper usually contains opinions and commentary.",
+    "choices": {
+      "A": "sports",
+      "B": "obituary",
+      "C": "editorial",
+      "D": "classified"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "q": "The court issued a gag order to prevent the media from ________ the ongoing trial.",
+    "choices": {
+      "A": "covers",
+      "B": "cover",
+      "C": "covered",
+      "D": "covering"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 85,
+    "q": "The journalist won an award for her ________ coverage of the war zone.",
+    "choices": {
+      "A": "fear",
+      "B": "fearsome",
+      "C": "fearless",
+      "D": "fearful"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 86,
+    "q": "By next week, the investigative team ________ their months - long project.",
+    "choices": {
+      "A": "completed",
+      "B": "will have completed",
+      "C": "completes",
+      "D": "will complete"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 87,
+    "q": "She speaks English ________ enough to interview international politicians.",
+    "choices": {
+      "A": "fluency",
+      "B": "more fluent",
+      "C": "fluent",
+      "D": "fluently"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 88,
+    "q": "The leaked documents are completely ________ to the current investigation.",
+    "choices": {
+      "A": "disrelevant",
+      "B": "irrelevant",
+      "C": "unrelevant",
+      "D": "inrelevant"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 89,
+    "q": "A good journalist must remain ________ even when covering highly emotional stories.",
+    "choices": {
+      "A": "detached",
+      "B": "biased",
+      "C": "passionate",
+      "D": "attached"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 90,
+    "q": "The freelance writer pitched his story idea ________ three different magazines.",
+    "choices": {
+      "A": "to",
+      "B": "at",
+      "C": "with",
+      "D": "for"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 91,
+    "q": "________ you need further information, please contact our press office.",
+    "choices": {
+      "A": "Might",
+      "B": "Could",
+      "C": "Would",
+      "D": "Should"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 92,
+    "q": "The public ________ a right to know how their tax dollars are being spent.",
+    "choices": {
+      "A": "has",
+      "B": "to have",
+      "C": "have",
+      "D": "having"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 93,
+    "q": "Which of these is a synonym for 'verify'?",
+    "choices": {
+      "A": "Conceal",
+      "B": "Fabricate",
+      "C": "Confirm",
+      "D": "Deny"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 94,
+    "q": "It's vital that the headline accurately ________ the content of the article.",
+    "choices": {
+      "A": "inflects",
+      "B": "connects",
+      "C": "reflects",
+      "D": "deflects"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 95,
+    "q": "The news outlet had to ________ the story after discovering the source lied.",
+    "choices": {
+      "A": "subtract",
+      "B": "extract",
+      "C": "contract",
+      "D": "retract"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 96,
+    "q": "She wrote a scathing ________ piece about the government's new healthcare policy.",
+    "choices": {
+      "A": "objective",
+      "B": "opinion",
+      "C": "factual",
+      "D": "neutral"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 97,
+    "q": "The CEO gave an exclusive interview to the leading ________ newspaper.",
+    "choices": {
+      "A": "financed",
+      "B": "financially",
+      "C": "finance",
+      "D": "financial"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 98,
+    "q": "Many traditional newspapers have transitioned to digital formats to stay ________.",
+    "choices": {
+      "A": "relevant",
+      "B": "redundant",
+      "C": "obsolete",
+      "D": "archaic"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 99,
+    "q": "The reporter was accused of taking the politician's words out of ________.",
+    "choices": {
+      "A": "content",
+      "B": "pretext",
+      "C": "context",
+      "D": "text"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 100,
+    "q": "A successful interview requires asking ________ questions that encourage detailed answers.",
+    "choices": {
+      "A": "open - ended",
+      "B": "rhetorical",
+      "C": "yes - or - no",
+      "D": "closed - ended"
+    },
+    "answer": "A",
+    "passage": null
+  }
+]

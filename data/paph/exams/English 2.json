@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1,
+    "q": "You need to ask your colleague to repeat something because you couldn’t hear clearly. What should you say?",
+    "choices": {
+      "A": "Say it again.",
+      "B": "What did you say?",
+      "C": "I didn’t hear anything.",
+      "D": "Could you repeat that, please? information in a workplace setting."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 2,
+    "q": "Your manager asks if you can ﬁnish the report today. Which response is the most appropriate?",
+    "choices": {
+      "A": "I can’t do it.",
+      "B": "Yes, I can ﬁnish it today.",
+      "C": "Why today?",
+      "D": "Maybe later. that you can complete a task."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 3,
+    "q": "You call a client, but the person you want to speak to is unavailable. What should you say?",
+    "choices": {
+      "A": "Could you take a message for me, please?",
+      "B": "Why is he not there?",
+      "C": "I will call again sometime.",
+      "D": "Tell him to call me now. when the intended person is not available."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 4,
+    "q": "You want to politely interrupt a meeting to add important information. What should you say?",
+    "choices": {
+      "A": "Stop talking for a moment.",
+      "B": "I need to speak now.",
+      "C": "Excuse me, may I add something?",
+      "D": "You must listen to me. meeting."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 5,
+    "q": "You answer the ofﬁce phone. How should you start the conversation politely?",
+    "choices": {
+      "A": "Good morning, this is the HR department. How may I help you?",
+      "B": "Hello, who is this?",
+      "C": "Yes, what do you want?",
+      "D": "Talk to me now. offers help, which is appropriate in a workplace phone call."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 6,
+    "q": "You need to change a meeting from 3 PM to 4 PM. What is the most polite way to ask?",
+    "choices": {
+      "A": "The meeting is at 4 PM now.",
+      "B": "I don’t want the meeting at 3 PM.",
+      "C": "We move the meeting to 4 PM.",
+      "D": "Would it be possible to move the meeting to 4 PM? suitable for professional communication when requesting a change."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 7,
+    "q": "Your colleague looks very busy. You want to offer help. What should you say?",
+    "choices": {
+      "A": "You have too much work.",
+      "B": "Would you like me to help you with that?",
+      "C": "You cannot ﬁnish this alone.",
+      "D": "Give me your work. respectful and supportive in the workplace."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 8,
+    "q": "You received an email but you do not understand one part. What should you write in your reply?",
+    "choices": {
+      "A": "Your email is not clear.",
+      "B": "I don’t understand your message.",
+      "C": "Could you please clarify what you mean by the last paragraph?",
+      "D": "Explain it again better. formal phrase used in professional emails."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 9,
+    "q": "You need to politely ask someone to wait for a moment while you check some information. What should you say?",
+    "choices": {
+      "A": "Wait a minute.",
+      "B": "Don’t move.",
+      "C": "Could you hold on for a moment, please?",
+      "D": "I will come back later. asking someone to wait brieﬂy."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 10,
+    "q": "You want to ask a colleague if they are available for a quick discussion. What should you say?",
+    "choices": {
+      "A": "Do you have a moment to talk?",
+      "B": "Talk to me now.",
+      "C": "I need you immediately.",
+      "D": "Are you free only for me? workplace environment."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 11,
+    "q": "You need to decline an invitation to a meeting because you already have another appointment. What should you say?",
+    "choices": {
+      "A": "I don’t want to join your meeting.",
+      "B": "Your meeting is not important.",
+      "C": "You should change the schedule.",
+      "D": "I’m afraid I have another appointment at that time."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 12,
+    "q": "You want to conﬁrm that your colleague received your email. What should you say?",
+    "choices": {
+      "A": "Check your email now.",
+      "B": "Did you receive my email?",
+      "C": "Why didn’t you reply?",
+      "D": "You must answer my email. demanding."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 13,
+    "q": "You want to start a meeting formally. What should you say?",
+    "choices": {
+      "A": "Let’s begin the meeting.",
+      "B": "Start talking now.",
+      "C": "Go ahead everyone.",
+      "D": "Say something ﬁrst."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 14,
+    "q": "You need to let your colleague know you will be slightly late. What should you say?",
+    "choices": {
+      "A": "I will come when I want.",
+      "B": "Don’t wait for me.",
+      "C": "You start without me always.",
+      "D": "I might be a few minutes late. informing about minor delays."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 15,
+    "q": "You want to politely ask someone to speak more slowly. What should you say?",
+    "choices": {
+      "A": "Slow down your mouth.",
+      "B": "You talk too fast.",
+      "C": "Could you please speak a little more slowly?",
+      "D": "Stop talking fast. professionally."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 16,
+    "q": "You want to conﬁrm the time of tomorrow’s meeting. What should you say?",
+    "choices": {
+      "A": "When is the meeting?",
+      "B": "Could you conﬁrm the meeting time for tomorrow?",
+      "C": "Tell me the time again.",
+      "D": "What time do you prefer?"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 17,
+    "q": "You want to check if your colleague has ﬁnished the task you assigned. What should you say?",
+    "choices": {
+      "A": "Is it done yet?",
+      "B": "Did you ﬁnish everything already?",
+      "C": "You must ﬁnish now.",
+      "D": "Have you had a chance to complete the task? time."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 18,
+    "q": "You want to ask a client how you can assist them. What should you say?",
+    "choices": {
+      "A": "How may I help you today?",
+      "B": "What is your problem?",
+      "C": "Tell me what you need quickly.",
+      "D": "Why did you come here? communication."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 19,
+    "q": "You want to request more details about a project. What should you say?",
+    "choices": {
+      "A": "Give me more information.",
+      "B": "You didn’t explain it well.",
+      "C": "Could you provide more details about the project?",
+      "D": "Tell me everything now."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 20,
+    "q": "You need to ask your coworker if they can cover your shift tomorrow. What should you say?",
+    "choices": {
+      "A": "You must work for me tomorrow.",
+      "B": "Could you possibly cover my shift tomorrow?",
+      "C": "You will do my shift.",
+      "D": "Change your plan and help me."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 21,
+    "q": "You want to politely ask your coworker to join a quick discussion in the meeting room. What should you say?",
+    "choices": {
+      "A": "Come with me now.",
+      "B": "Could you join me in the meeting room for a quick discussion?",
+      "C": "I need you immediately.",
+      "D": "Go to the meeting room with me."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 22,
+    "q": "You want to inform your team that the presentation ﬁle has been updated. What should you say?",
+    "choices": {
+      "A": "I changed everything.",
+      "B": "Check the ﬁle again.",
+      "C": "You must read the new version.",
+      "D": "The presentation ﬁle has been updated to the latest version. now updated."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 23,
+    "q": "You need to ask your supervisor for permission to leave early. What should you say?",
+    "choices": {
+      "A": "May I leave a little early today?",
+      "B": "I’m going home now.",
+      "C": "I don’t want to stay longer.",
+      "D": "You don’t need me this afternoon. the workplace."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 24,
+    "q": "You want to check if your coworker understood the instructions. What should you say?",
+    "choices": {
+      "A": "You understand, right?",
+      "B": "I explained clearly.",
+      "C": "Could you conﬁrm if the instructions are clear?",
+      "D": "You must follow the steps."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 25,
+    "q": "Which word best completes the sentence? “Our team must submit the monthly ______ by Friday.”**",
+    "choices": {
+      "A": "meeting",
+      "B": "training",
+      "C": "report",
+      "D": "holiday"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 26,
+    "q": "Which word has the closest meaning to “assistance”?",
+    "choices": {
+      "A": "help",
+      "B": "warning",
+      "C": "payment",
+      "D": "meeting"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 27,
+    "q": "Choose the best word to complete the sentence: “Please check the ﬁle attached to this ______.”",
+    "choices": {
+      "A": "system",
+      "B": "project",
+      "C": "meeting",
+      "D": "email communication."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 28,
+    "q": "Which word is most suitable for the sentence? “The company is reviewing its new safety ______.”",
+    "choices": {
+      "A": "vacation",
+      "B": "policy",
+      "C": "employee",
+      "D": "ofﬁce term. Part 2  –   Vocabulary"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 29,
+    "q": "Please submit your travel ______ before the end of the week.",
+    "choices": {
+      "A": "meeting",
+      "B": "ofﬁce",
+      "C": "holiday",
+      "D": "request travel matters in some workplaces."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 30,
+    "q": "Which word is closest in meaning to “require”?",
+    "choices": {
+      "A": "ﬁnish",
+      "B": "adjust",
+      "C": "explain",
+      "D": "need English."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 31,
+    "q": "The project cannot start until we receive the ﬁnal ______.",
+    "choices": {
+      "A": "approval",
+      "B": "holiday",
+      "C": "location",
+      "D": "reminder something."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 32,
+    "q": "The manager asked the team to provide a brief ______ after the meeting.",
+    "choices": {
+      "A": "vacation",
+      "B": "warning",
+      "C": "summary",
+      "D": "laptop"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 33,
+    "q": "The company plans to increase its marketing ______ next year.",
+    "choices": {
+      "A": "window",
+      "B": "dinner",
+      "C": "budget",
+      "D": "message money allocated for marketing."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 34,
+    "q": "Please send me the updated project ______ as soon as possible.",
+    "choices": {
+      "A": "schedule",
+      "B": "conﬂict",
+      "C": "holiday",
+      "D": "visitor"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 35,
+    "q": "Before you sign the contract, make sure you read every ______ carefully.",
+    "choices": {
+      "A": "travel",
+      "B": "position",
+      "C": "weekend",
+      "D": "detail thoroughly."
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 36,
+    "q": "The team will organize a short ______ to explain the new system.",
+    "choices": {
+      "A": "laptop",
+      "B": "brieﬁng",
+      "C": "vacation",
+      "D": "product systems or procedures."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 37,
+    "q": "The HR department will post a job ______ on the company website tomorrow.",
+    "choices": {
+      "A": "announcement",
+      "B": "holiday",
+      "C": "error",
+      "D": "table"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 38,
+    "q": "The new employee will receive a full ______ of the system on the ﬁrst day.",
+    "choices": {
+      "A": "contract",
+      "B": "position",
+      "C": "summary",
+      "D": "orientation"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 39,
+    "q": "Please follow the company’s security ______ when entering the building.",
+    "choices": {
+      "A": "laptop",
+      "B": "weather",
+      "C": "guidelines",
+      "D": "vacation"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 40,
+    "q": "The accountant needs the latest sales ______ to prepare the report.",
+    "choices": {
+      "A": "holiday",
+      "B": "data",
+      "C": "weekend",
+      "D": "phone"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 41,
+    "q": "The manager asked the team to prepare a short ______ for tomorrow’s presentation.",
+    "choices": {
+      "A": "weekend",
+      "B": "phone",
+      "C": "outline",
+      "D": "visitor"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 42,
+    "q": "The company is planning to upgrade its computer ______ next year.",
+    "choices": {
+      "A": "weather",
+      "B": "system",
+      "C": "employee",
+      "D": "summary"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 43,
+    "q": "Before sending the email, make sure the correct ﬁle is ______.",
+    "choices": {
+      "A": "holiday",
+      "B": "contract",
+      "C": "visitor",
+      "D": "attached"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 44,
+    "q": "The team will conduct a training ______ for new staff next Monday.",
+    "choices": {
+      "A": "session",
+      "B": "position",
+      "C": "brieﬁng",
+      "D": "error"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 45,
+    "q": "She ______ to the ofﬁce every day.",
+    "choices": {
+      "A": "are walking",
+      "B": "walks",
+      "C": "walking",
+      "D": "walk"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 46,
+    "q": "They ______ the report before the deadline.",
+    "choices": {
+      "A": "ﬁnishes",
+      "B": "ﬁnishs",
+      "C": "ﬁnish",
+      "D": "ﬁnished"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 47,
+    "q": "The meeting ______ at 2 PM tomorrow.",
+    "choices": {
+      "A": "will start",
+      "B": "started",
+      "C": "starts yesterday",
+      "D": "starting"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 48,
+    "q": "The documents ______ by the manager yesterday.",
+    "choices": {
+      "A": "approve",
+      "B": "approving",
+      "C": "were approved",
+      "D": "approves"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 49,
+    "q": "The report needs to be ______ before we submit it.",
+    "choices": {
+      "A": "send",
+      "B": "sending",
+      "C": "reviewed",
+      "D": "review"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 50,
+    "q": "She ______ in this company since 2019.",
+    "choices": {
+      "A": "has worked",
+      "B": "worked",
+      "C": "is working",
+      "D": "was work present."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 51,
+    "q": "If you have any questions, please ______ me.",
+    "choices": {
+      "A": "letting",
+      "B": "to let",
+      "C": "lets",
+      "D": "let"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 52,
+    "q": "The meeting room is not available ______ 3 PM.",
+    "choices": {
+      "A": "on",
+      "B": "until",
+      "C": "in",
+      "D": "for"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 53,
+    "q": "The new software ______ tested before everyone uses it.",
+    "choices": {
+      "A": "is",
+      "B": "are",
+      "C": "be",
+      "D": "must be"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 54,
+    "q": "She didn’t attend the meeting ______ she was sick.",
+    "choices": {
+      "A": "so",
+      "B": "because",
+      "C": "but",
+      "D": "although"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 55,
+    "q": "The manager asked the team ______ the report by noon.",
+    "choices": {
+      "A": "to ﬁnish",
+      "B": "ﬁnishing",
+      "C": "ﬁnish",
+      "D": "to ﬁnishing"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 56,
+    "q": "The policy applies to everyone ______ the company.",
+    "choices": {
+      "A": "under",
+      "B": "over",
+      "C": "in",
+      "D": "against"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 57,
+    "q": "The meeting ______ at 10 AM, so please be on time.",
+    "choices": {
+      "A": "starts",
+      "B": "starting",
+      "C": "start",
+      "D": "is start"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 58,
+    "q": "The documents ______ by the supervisor before being sent.",
+    "choices": {
+      "A": "checking",
+      "B": "check",
+      "C": "are checked",
+      "D": "checked"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 59,
+    "q": "The team will begin the project as soon as the manager ______ the plan.",
+    "choices": {
+      "A": "approve",
+      "B": "is approving",
+      "C": "will approve",
+      "D": "approves"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 60,
+    "q": "The new policy will be effective ______ January 1st.",
+    "choices": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "for"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 61,
+    "q": "The ﬁles ______ saved automatically every ﬁve minutes.",
+    "choices": {
+      "A": "is",
+      "B": "was",
+      "C": "are",
+      "D": "be"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 62,
+    "q": "She ______ to ﬁnish the assignment by tomorrow.",
+    "choices": {
+      "A": "needs",
+      "B": "needing",
+      "C": "need",
+      "D": "is need"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 63,
+    "q": "I couldn’t join the meeting because I ______ an urgent call.",
+    "choices": {
+      "A": "take",
+      "B": "was taking",
+      "C": "taken",
+      "D": "am take"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 64,
+    "q": "The project will be successful ______ everyone works together.",
+    "choices": {
+      "A": "unless",
+      "B": "so",
+      "C": "although",
+      "D": "if"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 65,
+    "q": "Read the email below and answer the question. “Dear Team, Please remember that the system will be down for maintenance this Friday from 7 PM to 10 PM. Make sure to save your work before leaving the ofﬁce. Best regards, IT Department” What is the purpose of this email?",
+    "choices": {
+      "A": "To ask employees to work late",
+      "B": "To inform employees about system maintenance",
+      "C": "To announce a new system",
+      "D": "To request a meeting"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 66,
+    "q": "Read the short notice: “Please be informed that the monthly staff meeting has been changed from Tuesday to Thursday at 9 AM.” What changed?",
+    "choices": {
+      "A": "The room",
+      "B": "The agenda",
+      "C": "The presenter",
+      "D": "The date"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 67,
+    "q": "Choose the best sentence to complete the email: “Dear Sir, I look forward to hearing from you soon. Best regards, Anna”",
+    "choices": {
+      "A": "I am writing to request more information about the training program.",
+      "B": "I hope you enjoy your holiday this weekend.",
+      "C": "The weather is very nice today.",
+      "D": "I saw your message yesterday."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 68,
+    "q": "Choose the best subject line for an email asking for a document.",
+    "choices": {
+      "A": "Hello",
+      "B": "The document",
+      "C": "Request for Updated Document",
+      "D": "About yesterday"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 69,
+    "q": "Read the message: “Hi Team, Please submit your weekly reports by 4 PM today so we can prepare the summary for management. Thanks,   Lisa” What must be done by 4 PM?",
+    "choices": {
+      "A": "Prepare the summary",
+      "B": "Attend a meeting",
+      "C": "Submit project plans",
+      "D": "Submit weekly reports"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 70,
+    "q": "Choose the best closing sentence for a formal email.",
+    "choices": {
+      "A": "Thank you for your time and assistance.",
+      "B": "See you later.",
+      "C": "Talk to you soon!",
+      "D": "Bye!"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 71,
+    "q": "Read the email: “Dear Mr. Carter, I would like to conﬁrm our appointment scheduled for tomorrow at 10 AM. Please let me know if the time is still convenient for you. Best regards, Maria” What is the purpose of this email?",
+    "choices": {
+      "A": "To cancel the appointment",
+      "B": "To request a new meeting",
+      "C": "To conﬁrm the appointment time",
+      "D": "To ask for directions"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 72,
+    "q": "Choose the correct sentence for asking a colleague to review your draft.",
+    "choices": {
+      "A": "I need you to ﬁx everything now.",
+      "B": "Could you please review my draft and give me your feedback?",
+      "C": "Check this.",
+      "D": "Tell me what you think quickly."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 73,
+    "q": "Read the message: “Hello everyone, The ofﬁce will be closed next Monday due to a public holiday. Normal operations will resume on Tuesday. Regards, Admin” Why will the ofﬁce be closed?",
+    "choices": {
+      "A": "Because of a public holiday",
+      "B": "Because of maintenance",
+      "C": "Because of a staff meeting",
+      "D": "Because of an event"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 74,
+    "q": "Choose the best sentence to complete the email: “Dear Ms. Brown,   Please let me know your available time. Best regards, Kevin”",
+    "choices": {
+      "A": "I forgot the meeting yesterday.",
+      "B": "I am upset about the changes.",
+      "C": "I would like to schedule a short meeting with you.",
+      "D": "The weather is very nice today."
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 75,
+    "q": "Read the note: “Please remember to sign the attendance sheet before leaving the training room.” What must participants do before leaving?",
+    "choices": {
+      "A": "Submit a report",
+      "B": "Turn off the lights",
+      "C": "Return the equipment",
+      "D": "Sign the attendance sheet"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 76,
+    "q": "Choose the most appropriate reply to this message: “Could you send me the updated ﬁle today?”",
+    "choices": {
+      "A": "I don’t have time.",
+      "B": "Sure, I will send it to you this afternoon.",
+      "C": "Why do you need it?",
+      "D": "Maybe later."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 77,
+    "q": "Read the email: “Dear All, This is a reminder that the deadline for submitting your project proposals is this Friday at noon. Late submissions will not be accepted. Best regards,   Project Ofﬁce” What is the main purpose of this email?",
+    "choices": {
+      "A": "To change the deadline",
+      "B": "To ask for new ideas",
+      "C": "To remind about the submission deadline",
+      "D": "To cancel the submission process"
+    },
+    "answer": "C",
+    "passage": null
+  },
+  {
+    "id": 78,
+    "q": "Choose the best opening sentence for a formal request email.",
+    "choices": {
+      "A": "I am writing to request your approval for the new plan.",
+      "B": "I want you to approve this now.",
+      "C": "Approve this plan quickly.",
+      "D": "You must read the plan today."
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 79,
+    "q": "Read the note: “Please turn off all lights and air conditioners before leaving the meeting room.” What should be done before leaving?",
+    "choices": {
+      "A": "Check the email",
+      "B": "Turn off lights and air conditioners",
+      "C": "Arrange the chairs",
+      "D": "Lock the door"
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 80,
+    "q": "Choose the most appropriate response to the email: “Could you help me prepare the presentation slides?”",
+    "choices": {
+      "A": "I don’t have time to help.",
+      "B": "Why do you need help?",
+      "C": "Do it yourself.",
+      "D": "Sure, I’d be happy to help with that. อานบทความยาวตอไปนี้เพื่อตอบคําถามขอ   77 – 80 “Over the past few months, our company has been preparing to introduce a new digital workﬂow system designed to reduce paperwork, improve communication, and make daily tasks easier for all employees. The system will allow staff to submit requests online,  track progress in real time, and receive automated notiﬁcations when approvals are completed. Managers will also have access to dashboards that summarize team performance and highlight pending actions. Before launching the system, the IT Department conducted several training sessions to ensure everyone felt comfortable using the new tools. These sessions included step - by - step demonstrations, hands - on practice, and opportunities to ask questions. Accordin g to the feedback collected, most employees found the system easy to understand, though some mentioned they would need more time to adjust to the new process. Next Monday, the system will ofﬁcially go live across all departments. During the ﬁrst week, support staff will be available on each ﬂoor to help solve any issues. Employees are encouraged to report problems immediately so they can be ﬁxed as quickly a s possible. The company believes that, although the transition may be challenging at ﬁrst, the long - term beneﬁts will greatly improve overall efﬁciency and reduce unnecessary delays.”"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 81,
+    "q": "What is the main purpose of the new digital workﬂow system?",
+    "choices": {
+      "A": "To train employees on new tasks",
+      "B": "To reduce paperwork and improve communication",
+      "C": "To replace all staff with automation",
+      "D": "To increase the number of meetings communication, and make tasks easier."
+    },
+    "answer": "B",
+    "passage": null
+  },
+  {
+    "id": 82,
+    "q": "What did the company do before launching the system?",
+    "choices": {
+      "A": "Hired new employees",
+      "B": "Reduced working hours",
+      "C": "Closed several departments",
+      "D": "Conducted training sessions"
+    },
+    "answer": "D",
+    "passage": null
+  },
+  {
+    "id": 83,
+    "q": "When will the digital workﬂow system go live?",
+    "choices": {
+      "A": "Next Monday",
+      "B": "Tomorrow morning",
+      "C": "Next month",
+      "D": "On Friday afternoon"
+    },
+    "answer": "A",
+    "passage": null
+  },
+  {
+    "id": 84,
+    "q": "What support will employees receive during the ﬁrst week?",
+    "choices": {
+      "A": "Free meals",
+      "B": "Additional vacation days",
+      "C": "On - site support staff on each ﬂoor",
+      "D": "New ofﬁce equipment issues."
+    },
+    "answer": "C",
+    "passage": null
+  }
+]

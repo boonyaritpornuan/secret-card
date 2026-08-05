@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือองค์ประกอบพื้นฐานของระบบสารสนเทศ?",
+    "options": {
+      "ก": "ฮาร์ดแวร์ซอฟต์แวร์ข้อมูลบุคลากรและกระบวนการ",
+      "ข": "อินเทอร์เน็ตเว็บไซต์และอีเมล",
+      "ค": "โทรศัพท์มือถือและแอปพลิเคชัน",
+      "ง": "เครือข่ายคอมพิวเตอร์และเซิร์ฟเวอร์"
+    },
+    "answer": "ก",
+    "answer_text": "ฮาร์ดแวร์ซอฟต์แวร์ข้อมูลบุคลากรและกระบวนการ",
+    "explanation": "องค์ประกอบพื้นฐานของระบบสารสนเทศตามแนวคิดทั่วไป"
+  },
+  {
+    "id": 2,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือความหมายของ “ข้อมูล (Data)” ในระบบสารสนเทศ?",
+    "options": {
+      "ก": "ข้อเท็จจริงหรือเหตุการณ์ที่ยังไม่ผ่านการประมวลผล",
+      "ข": "ข้อเท็จจริงที่ผ่านการประมวลผลและมีความหมาย",
+      "ค": "โปรแกรมคอมพิวเตอร์ที่ใช้ในการทำงาน",
+      "ง": "อุปกรณ์คอมพิวเตอร์ที่ใช้ในการจัดเก็บ"
+    },
+    "answer": "ก",
+    "answer_text": "ข้อเท็จจริงหรือเหตุการณ์ที่ยังไม่ผ่านการประมวลผล",
+    "explanation": "ข้อมูลคือข้อเท็จจริงดิบที่ยังไม่ผ่านการวิเคราะห์"
+  },
+  {
+    "id": 3,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือความหมายของ “สารสนเทศ (Information)” ในระบบสารสนเทศ?",
+    "options": {
+      "ก": "ข้อเท็จจริงหรือเหตุการณ์ที่ยังไม่ผ่านการประมวลผล",
+      "ข": "ข้อเท็จจริงที่ผ่านการประมวลผลจัดระเบียบและมีความหมายสามารถนำไปใช้ในการ ตัดสินใจได้",
+      "ค": "โปรแกรมคอมพิวเตอร์ที่ใช้ในการทำงาน",
+      "ง": "อุปกรณ์คอมพิวเตอร์ที่ใช้ในการจัดเก็บ"
+    },
+    "answer": "ข",
+    "answer_text": "ข้อเท็จจริงที่ผ่านการประมวลผลจัดระเบียบและมีความหมายสามารถนำไปใช้ในการ ตัดสินใจได้",
+    "explanation": "สารสนเทศคือข้อมูลที่ผ่านการประมวลผลแล้ว"
+  },
+  {
+    "id": 4,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ระบบสารสนเทศประเภทใดที่ช่วยสนับสนุนการตัดสินใจของผู้บริหารระดับสูงโดยนำเสนอข้อมูล สรุปในรูปแบบที่เข้าใจง่าย?",
+    "options": {
+      "ก": "Transaction Processing System (TPS)",
+      "ข": "Management Information System (MIS)",
+      "ค": "Decision Support System (DSS)",
+      "ง": "Executive Information System (EIS)"
+    },
+    "answer": "ง",
+    "answer_text": "Executive Information System (EIS)",
+    "explanation": "EIS เน้นการสนับสนุนการตัดสินใจเชิงกลยุทธ์ของผู้บริหารระดับสูง"
+  },
+  {
+    "id": 5,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ระบบสารสนเทศประเภทใดที่ใช้ในการประมวลผลรายการประจำวันเช่นการบันทึกการขายการ รับชำระเงิน?",
+    "options": {
+      "ก": "Transaction Processing System (TPS)",
+      "ข": "Management Information System (MIS)",
+      "ค": "Decision Support System (DSS)",
+      "ง": "Executive Information System (EIS)"
+    },
+    "answer": "ก",
+    "answer_text": "Transaction Processing System (TPS)",
+    "explanation": "TPS เป็นระบบพื้นฐานที่จัดการรายการประจำวัน"
+  },
+  {
+    "id": 6,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ระบบสารสนเทศประเภทใดที่รวบรวมและนำเสนอข้อมูลสรุปจาก TPS เพื่อช่วยผู้บริหารระดับ กลางในการวางแผนและควบคุม?",
+    "options": {
+      "ก": "Transaction Processing System (TPS)",
+      "ข": "Management Information System (MIS)",
+      "ค": "Decision Support System (DSS)",
+      "ง": "Executive Information System (EIS)"
+    },
+    "answer": "ข",
+    "answer_text": "Management Information System (MIS)",
+    "explanation": "MIS เน้นการนำเสนอรายงานสรุปเพื่อการจัดการ"
+  },
+  {
+    "id": 7,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ระบบสารสนเทศประเภทใดที่ช่วยผู้ใช้ในการวิเคราะห์ข้อมูลที่ซับซ้อนและสร้างแบบจำลองเพื่อ สนับสนุนการตัดสินใจในสถานการณ์ที่ไม่แน่นอน?",
+    "options": {
+      "ก": "Transaction Processing System (TPS)",
+      "ข": "Management Information System (MIS)",
+      "ค": "Decision Support System (DSS)",
+      "ง": "Executive Information System (EIS)"
+    },
+    "answer": "ค",
+    "answer_text": "Decision Support System (DSS)",
+    "explanation": "DSS เน้นการวิเคราะห์และสร้างแบบจำลองเพื่อการตัดสินใจ"
+  },
+  {
+    "id": 8,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือประโยชน์หลักของการนำระบบสารสนเทศมาใช้ในองค์กร?",
+    "options": {
+      "ก": "ลดความจำเป็นในการใช้บุคลากร",
+      "ข": "เพิ่มประสิทธิภาพในการดำเนินงาน, สนับสนุนการตัดสินใจ, และสร้างความได้เปรียบใน การแข่งขัน",
+      "ค": "ทำให้องค์กรไม่ต้องปรับตัวตามการเปลี่ยนแปลง",
+      "ง": "ลดค่าใช้จ่ายด้านฮาร์ดแวร์และซอฟต์แวร์"
+    },
+    "answer": "ข",
+    "answer_text": "เพิ่มประสิทธิภาพในการดำเนินงาน, สนับสนุนการตัดสินใจ, และสร้างความได้เปรียบใน การแข่งขัน",
+    "explanation": "ประโยชน์หลักของระบบสารสนเทศ"
+  },
+  {
+    "id": 9,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือความท้าทายในการพัฒนาระบบสารสนเทศ?",
+    "options": {
+      "ก": "การเลือกสีของโปรแกรม",
+      "ข": "การเปลี่ยนแปลงความต้องการของผู้ใช้, งบประมาณที่จำกัด, และการขาดแคลนบุคลากรที่ มีความรู้ความสามารถ",
+      "ค": "การเลือกยี่ห้อของคอมพิวเตอร์",
+      "ง": "การตั้งชื่อไฟล์"
+    },
+    "answer": "ข",
+    "answer_text": "การเปลี่ยนแปลงความต้องการของผู้ใช้, งบประมาณที่จำกัด, และการขาดแคลนบุคลากรที่ มีความรู้ความสามารถ",
+    "explanation": "ความท้าทายที่พบบ่อยในการพัฒนาระบบ"
+  },
+  {
+    "id": 10,
+    "context": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "question": "ข้อใดคือบทบาทของนักวิเคราะห์ระบบ (System Analyst)?",
+    "options": {
+      "ก": "เขียนโปรแกรมคอมพิวเตอร์เท่านั้น",
+      "ข": "ทำหน้าที่เป็นตัวกลางระหว่างผู้ใช้และนักพัฒนาเพื่อวิเคราะห์ความต้องการและออกแบบ ระบบ",
+      "ค": "ติดตั้งฮาร์ดแวร์และซอฟต์แวร์",
+      "ง": "ทดสอบระบบที่พัฒนาเสร็จแล้วเท่านั้น"
+    },
+    "answer": "ข",
+    "answer_text": "ทำหน้าที่เป็นตัวกลางระหว่างผู้ใช้และนักพัฒนาเพื่อวิเคราะห์ความต้องการและออกแบบ ระบบ",
+    "explanation": "นักวิเคราะห์ระบบมีบทบาทสำคัญในการเชื่อมโยงความต้องการทางธุรกิจกับ เทคนิค"
+  },
+  {
+    "id": 11,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ข้อใดคือขั้นตอนแรกของวงจรการพัฒนาระบบ (System Development Life Cycle - SDLC)?",
+    "options": {
+      "ก": "การออกแบบระบบ (System Design)",
+      "ข": "การวิเคราะห์ระบบ (System Analysis)",
+      "ค": "การวางแผนระบบ (System Planning)",
+      "ง": "การพัฒนาระบบ (System Development)"
+    },
+    "answer": "ค",
+    "answer_text": "การวางแผนระบบ (System Planning)",
+    "explanation": "System Planning หรือการกำหนดปัญหาและโอกาสเป็นขั้นตอนแรก"
+  },
+  {
+    "id": 12,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ในขั้นตอนการศึกษาความเป็นไปได้ (Feasibility Study) ข้อใดคือสิ่งที่ต้องพิจารณาด้านเทคนิค (Technical Feasibility)?",
+    "options": {
+      "ก": "งบประมาณและผลตอบแทน",
+      "ข": "เทคโนโลยีและบุคลากรที่มีอยู่สามารถรองรับระบบใหม่ได้หรือไม่",
+      "ค": "ผู้ใช้จะยอมรับและใช้งานระบบใหม่ได้จริงหรือไม่",
+      "ง": "กฎหมายและข้อบังคับที่เกี่ยวข้อง"
+    },
+    "answer": "ข",
+    "answer_text": "เทคโนโลยีและบุคลากรที่มีอยู่สามารถรองรับระบบใหม่ได้หรือไม่",
+    "explanation": "Technical Feasibility เน้นความพร้อมด้านเทคโนโลยี"
+  },
+  {
+    "id": 13,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ในขั้นตอนการศึกษาความเป็นไปได้ (Feasibility Study) ข้อใดคือสิ่งที่ต้องพิจารณาด้าน เศรษฐศาสตร์ (Economic Feasibility)?",
+    "options": {
+      "ก": "เทคโนโลยีและบุคลากรที่มีอยู่",
+      "ข": "การวิเคราะห์ต้นทุนและผลตอบแทน (Cost-Benefit Analysis)",
+      "ค": "ผู้ใช้จะยอมรับและใช้งานระบบใหม่ได้จริงหรือไม่",
+      "ง": "กฎหมายและข้อบังคับที่เกี่ยวข้อง"
+    },
+    "answer": "ข",
+    "answer_text": "การวิเคราะห์ต้นทุนและผลตอบแทน (Cost-Benefit Analysis)",
+    "explanation": "Economic Feasibility เน้นความคุ้มค่าทางการเงิน"
+  },
+  {
+    "id": 14,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ในขั้นตอนการวิเคราะห์ระบบ (System Analysis) ข้อใดคือเครื่องมือที่ใช้ในการสร้างแบบจำลอง กระบวนการ (Process Modeling)?",
+    "options": {
+      "ก": "Entity Relationship Diagram (ERD)",
+      "ข": "Data Flow Diagram (DFD)",
+      "ค": "Use Case Diagram",
+      "ง": "Class Diagram"
+    },
+    "answer": "ข",
+    "answer_text": "Data Flow Diagram (DFD)",
+    "explanation": "DFD ใช้แสดงการไหลของข้อมูลและกระบวนการทำงาน"
+  },
+  {
+    "id": 15,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ในขั้นตอนการวิเคราะห์ระบบ (System Analysis) ข้อใดคือเครื่องมือที่ใช้ในการสร้างแบบจำลอง ข้อมูล (Data Modeling)?",
+    "options": {
+      "ก": "Data Flow Diagram (DFD)",
+      "ข": "Entity Relationship Diagram (ERD)",
+      "ค": "Use Case Diagram",
+      "ง": "Activity Diagram"
+    },
+    "answer": "ข",
+    "answer_text": "Entity Relationship Diagram (ERD)",
+    "explanation": "ERD ใช้แสดงความสัมพันธ์ระหว่าง Entity และ Attribute"
+  },
+  {
+    "id": 16,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "การออกแบบระบบที่เน้นการกำหนดโครงสร้างการทำงานโดยไม่ระบุฮาร์ดแวร์เฉพาะเรียกว่าการ ออกแบบระบบแบบใด?",
+    "options": {
+      "ก": "การออกแบบเชิงกายภาพ (Physical Design)",
+      "ข": "การออกแบบเชิงตรรกะ (Logical Design)",
+      "ค": "การออกแบบส่วนติดต่อผู้ใช้ (User Interface Design)",
+      "ง": "การออกแบบฐานข้อมูล (Database Design)"
+    },
+    "answer": "ข",
+    "answer_text": "การออกแบบเชิงตรรกะ (Logical Design)",
+    "explanation": "Logical Design เน้นโครงสร้างการทำงานโดยไม่ขึ้นกับเทคโนโลยี"
+  },
+  {
+    "id": 17,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "การทดสอบระบบที่ทำโดยผู้ใช้จริงเพื่อยืนยันว่าระบบตรงตามความต้องการและสามารถนำไปใช้ งานได้จริงเรียกว่าการทดสอบแบบใด?",
+    "options": {
+      "ก": "Unit Testing",
+      "ข": "Integration Testing",
+      "ค": "System Testing",
+      "ง": "Acceptance Testing (UAT)"
+    },
+    "answer": "ง",
+    "answer_text": "Acceptance Testing (UAT)",
+    "explanation": "UAT เป็นการทดสอบขั้นสุดท้ายก่อนส่งมอบระบบ"
+  },
+  {
+    "id": 18,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "การเปลี่ยนผ่านระบบจากระบบเก่าไปสู่ระบบใหม่โดยการเลิกใช้ระบบเก่าและเริ่มใช้ระบบใหม่ ทันทีเรียกว่าการเปลี่ยนผ่านแบบใด?",
+    "options": {
+      "ก": "Parallel Conversion",
+      "ข": "Pilot Conversion",
+      "ค": "Direct Conversion",
+      "ง": "Phased Conversion"
+    },
+    "answer": "ค",
+    "answer_text": "Direct Conversion",
+    "explanation": "Direct Conversion มีความเสี่ยงสูงที่สุด"
+  },
+  {
+    "id": 19,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "การเปลี่ยนผ่านระบบจากระบบเก่าไปสู่ระบบใหม่โดยการใช้งานระบบเก่าและระบบใหม่ควบคู่กัน ไปในช่วงระยะเวลาหนึ่งเรียกว่าการเปลี่ยนผ่านแบบใด?",
+    "options": {
+      "ก": "Direct Conversion",
+      "ข": "Parallel Conversion",
+      "ค": "Pilot Conversion",
+      "ง": "Phased Conversion"
+    },
+    "answer": "ข",
+    "answer_text": "Parallel Conversion",
+    "explanation": "Parallel Conversion มีความปลอดภัยที่สุด"
+  },
+  {
+    "id": 20,
+    "context": "การวิเคราะห์และออกแบบระบบ (System Analysis and",
+    "question": "ในขั้นตอนการบำรุงรักษาระบบ (System Maintenance) การแก้ไขข้อผิดพลาดที่พบในระบบ เรียกว่าการบำรุงรักษาแบบใด?",
+    "options": {
+      "ก": "Corrective Maintenance",
+      "ข": "Perfective Maintenance",
+      "ค": "Adaptive Maintenance",
+      "ง": "Preventive Maintenance"
+    },
+    "answer": "ก",
+    "answer_text": "Corrective Maintenance",
+    "explanation": "Corrective Maintenance คือการแก้ไข Bug"
+  },
+  {
+    "id": 21,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือความหมายของ “Entity” ในการออกแบบฐานข้อมูลเชิงสัมพันธ์ ?",
+    "options": {
+      "ก": "คุณลักษณะของข้อมูล",
+      "ข": "สิ่งที่เราสนใจเก็บข้อมูลเช่นบุคคลสถานที่สิ่งของเหตุการณ์",
+      "ค": "คีย์หลักที่ใช้ระบุข้อมูล",
+      "ง": "ความสัมพันธ์ระหว่างตาราง"
+    },
+    "answer": "ข",
+    "answer_text": "สิ่งที่เราสนใจเก็บข้อมูลเช่นบุคคลสถานที่สิ่งของเหตุการณ์",
+    "explanation": "Entity คือวัตถุหรือแนวคิดที่ต้องการจัดเก็บข้อมูล"
+  },
+  {
+    "id": 22,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือความหมายของ “Attribute” ในการออกแบบฐานข้อมูลเชิงสัมพันธ์?",
+    "options": {
+      "ก": "สิ่งที่เราสนใจเก็บข้อมูล",
+      "ข": "คุณลักษณะหรือคุณสมบัติขอ",
+      "ง": "Entity ความสัมพันธ์ระหว่างตาราง",
+      "ค": "คีย์หลักที่ใช้ระบุข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "คุณลักษณะหรือคุณสมบัติขอ",
+    "explanation": "Attribute คือคุณสมบัติของ Entity"
+  },
+  {
+    "id": 23,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือความหมายของ “Primary Key (PK)” ในฐานข้อมูล?",
+    "options": {
+      "ก": "คีย์ที่ใช้เชื่อมโยงความสัมพันธ์ระหว่างตาราง",
+      "ข": "คีย์หลักที่ใช้ระบุข้อมูลแต่ละแถวในตารางได้อย่างไม่ซํ้ากัน",
+      "ค": "คีย์ที่ใช้ในการค้นหาข้อมูลอย่างรวดเร็ว",
+      "ง": "คีย์ที่ใช้ในการจัดเรียงข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "คีย์หลักที่ใช้ระบุข้อมูลแต่ละแถวในตารางได้อย่างไม่ซํ้ากัน",
+    "explanation": "Primary Key เป็นตัวระบุที่ไม่ซํ้ากันสำหรับแต่ละ Record"
+  },
+  {
+    "id": 24,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือความหมายของ “Foreign Key (FK)” ในฐานข้อมูล?",
+    "options": {
+      "ก": "คีย์หลักที่ใช้ระบุข้อมูลแต่ละแถวในตาราง",
+      "ข": "คีย์ที่ใช้เชื่อมโยงความสัมพันธ์ระหว่างตารางโดยเป็น Primary Key ของอีกตารางหนึ่ง",
+      "ค": "คีย์ที่ใช้ในการค้นหาข้อมูลอย่างรวดเร็ว",
+      "ง": "คีย์ที่ใช้ในการจัดเรียงข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "คีย์ที่ใช้เชื่อมโยงความสัมพันธ์ระหว่างตารางโดยเป็น Primary Key ของอีกตารางหนึ่ง",
+    "explanation": "Foreign Key ใช้สร้างความสัมพันธ์ระหว่างตาราง"
+  },
+  {
+    "id": 25,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ในกระบวนการทำนอร์มัลไลเซชัน (Normalization) ข้อใดคือเงื่อนไขของ First Normal Form (1NF)?",
+    "options": {
+      "ก": "ทุ Attribute ต้องเป็น Atomic Value และไม่มี Repeating Groups Determinant ในตารางต้องเป็น Candidate Key",
+      "ข": "ต้องเป็น 1NF และไม่มี Partial Dependency",
+      "ค": "ต้องเป็น 2NF และไม่มี Transitive Dependency",
+      "ง": "ทุ"
+    },
+    "answer": "ก",
+    "answer_text": "ทุ Attribute ต้องเป็น Atomic Value และไม่มี Repeating Groups Determinant ในตารางต้องเป็น Candidate Key",
+    "explanation": "1NF เป็นรูปแบบ Normalization ขั้นพื้นฐานที่สุด"
+  },
+  {
+    "id": 26,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ในกระบวนการทำนอร์มัลไลเซชัน (Normalization) ข้อใดคือเงื่อนไขของ Second Normal Form (2NF)?",
+    "options": {
+      "ก": "ทุ Attribute ต้องเป็น Atomic Value และไม่มี Repeating Groups Attribute ที่ไม่ใช่คีย์หลักต้องขึ้นตรงกับ Determinant ในตารางต้องเป็น Candidate Key",
+      "ข": "ต้องเป็น 1NF และไม่มี Partial Dependency (ทุ คีย์หลักทั้งหมด)",
+      "ค": "ต้องเป็น 2NF และไม่มี Transitive Dependency",
+      "ง": "ทุ"
+    },
+    "answer": "ข",
+    "answer_text": "ต้องเป็น 1NF และไม่มี Partial Dependency (ทุ คีย์หลักทั้งหมด)",
+    "explanation": "2NF แก้ปัญหา Partial Dependency"
+  },
+  {
+    "id": 27,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ในกระบวนการทำนอร์มัลไลเซชัน (Normalization) ข้อใดคือเงื่อนไขของ Third Normal Form (3NF)?",
+    "options": {
+      "ก": "ทุ Attribute ต้องเป็น Atomic Value และไม่มี Repeating Groups Determinant ในตารางต้องเป็น Candidate Key",
+      "ข": "ต้องเป็น 1NF และไม่มี Partial Dependency",
+      "ค": "ต้องเป็น 2NF และไม่มี Transitive Dependency (Attribute ที่ไม่ใช่คีย์หลักต้องไม่ขึ้นตรงกับ Attribute อื่นที่ไม่ใช่คีย์หลัก)",
+      "ง": "ทุ"
+    },
+    "answer": "ค",
+    "answer_text": "ต้องเป็น 2NF และไม่มี Transitive Dependency (Attribute ที่ไม่ใช่คีย์หลักต้องไม่ขึ้นตรงกับ Attribute อื่นที่ไม่ใช่คีย์หลัก)",
+    "explanation": "3NF แก้ปัญหา Transitive Dependency"
+  },
+  {
+    "id": 28,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือภาษาที่ใช้ในการจัดการโครงสร้างของฐานข้อมูลเช่นการสร้างตารางการแก้ไข ตาราง?",
+    "options": {
+      "ก": "Data Manipulation Language (DML)",
+      "ข": "Data Definition Language (DDL)",
+      "ค": "Data Control Language (DCL)",
+      "ง": "Transaction Control Language (TCL)"
+    },
+    "answer": "ข",
+    "answer_text": "Data Definition Language (DDL)",
+    "explanation": "DDL ใช้ในการสร้างและแก้ไขโครงสร้างฐานข้อมูล"
+  },
+  {
+    "id": 29,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือคำสั่งในกลุ่ม Data Manipulation Language (DML)?",
+    "options": {
+      "ก": "CREATE TABLE",
+      "ข": "ALTER TABLE",
+      "ค": "SELECT, INSERT, UPDATE, DELETE",
+      "ง": "GRANT, REVOKE"
+    },
+    "answer": "ค",
+    "answer_text": "SELECT, INSERT, UPDATE, DELETE",
+    "explanation": "DML ใช้ในการจัดการข้อมูลในตาราง"
+  },
+  {
+    "id": 30,
+    "context": "ระบบฐานข้อมูล (Database Management System - DBMS)",
+    "question": "ข้อใดคือคำสั่งในกลุ่ม Data Control Language (DCL)?",
+    "options": {
+      "ก": "SELECT, INSERT, UPDATE, DELETE",
+      "ข": "CREATE TABLE, DROP TABLE",
+      "ค": "GRANT, REVOKE",
+      "ง": "COMMIT, ROLLBACK"
+    },
+    "answer": "ค",
+    "answer_text": "GRANT, REVOKE",
+    "explanation": "DCL ใช้ในการจัดการสิทธิ์การเข้าถึงฐานข้อมูล"
+  },
+  {
+    "id": 31,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือภาษาโปรแกรมที่ใกล้เคียงกับภาษามนุษย์มากที่สุด?",
+    "options": {
+      "ก": "Machine Code",
+      "ข": "Assembly Language",
+      "ค": "High-level Language (เช่น Python, Java)",
+      "ง": "Binary Code"
+    },
+    "answer": "ค",
+    "answer_text": "High-level Language (เช่น Python, Java)",
+    "explanation": "High-level Language ถูกออกแบบมาให้เข้าใจง่าย"
+  },
+  {
+    "id": 32,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือภาษาโปรแกรมที่คอมพิวเตอร์เข้าใจได้โดยตรง?",
+    "options": {
+      "ก": "Python",
+      "ข": "Java",
+      "ค": "Machine Code",
+      "ง": "C#"
+    },
+    "answer": "ค",
+    "answer_text": "Machine Code",
+    "explanation": "Machine Code คือภาษาเครื่องที่ประกอบด้วยเลขฐานสอง"
+  },
+  {
+    "id": 33,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "แนวคิดการเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming - OOP) ข้อใดคือการห่อ หุ้มข้อมูลและเมธอดไว้ด้วยกัน?",
+    "options": {
+      "ก": "Inheritance",
+      "ข": "Polymorphism",
+      "ค": "Encapsulation",
+      "ง": "Abstraction"
+    },
+    "answer": "ค",
+    "answer_text": "Encapsulation",
+    "explanation": "Encapsulation คือการรวมข้อมูลและฟังก์ชันที่ทำงานกับข้อมูลนั้นไว้ในหน่วย เดียวกัน"
+  },
+  {
+    "id": 34,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "แนวคิดการเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming - OOP) ข้อใดคือการ สืบทอดคุณสมบัติจากคลาสแม่สู่คลาสลูก?",
+    "options": {
+      "ก": "Encapsulation",
+      "ข": "Polymorphism",
+      "ค": "Inheritance",
+      "ง": "Abstraction"
+    },
+    "answer": "ค",
+    "answer_text": "Inheritance",
+    "explanation": "Inheritance ช่วยให้สามารถนำโค้ดกลับมาใช้ใหม่ได้"
+  },
+  {
+    "id": 35,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "แนวคิดการเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming - OOP) ข้อใดคือการที่ วัตถุสามารถมีได้หลายรูปแบบ (เช่น Overloading, Overriding)?",
+    "options": {
+      "ก": "Encapsulation",
+      "ข": "Inheritance",
+      "ค": "Polymorphism",
+      "ง": "Abstraction"
+    },
+    "answer": "ค",
+    "answer_text": "Polymorphism",
+    "explanation": "Polymorphism คือความสามารถในการแสดงพฤติกรรมที่แตกต่างกันตามบริบท"
+  },
+  {
+    "id": 36,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือบทบาทของ Compiler ในกระบวนการเขียนโปรแกรม?",
+    "options": {
+      "ก": "แปลงโปรแกรมภาษาเครื่องเป็นภาษาโปรแกรมระดับสูง",
+      "ข": "แปลงโปรแกรมภาษาโปรแกรมระดับสูงเป็นภาษาเครื่องทั้งหมดในครั้งเดียว",
+      "ค": "ทำหน้าที่รันโปรแกรมทีละบรรทัด",
+      "ง": "จัดการหน่วยความจำของโปรแกรม"
+    },
+    "answer": "ข",
+    "answer_text": "แปลงโปรแกรมภาษาโปรแกรมระดับสูงเป็นภาษาเครื่องทั้งหมดในครั้งเดียว",
+    "explanation": "Compiler จะแปลโปรแกรมทั้งหมดก่อนรัน"
+  },
+  {
+    "id": 37,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือบทบาทของ Interpreter ในกระบวนการเขียนโปรแกรม?",
+    "options": {
+      "ก": "แปลงโปรแกรมภาษาเครื่องเป็นภาษาโปรแกรมระดับสูง",
+      "ข": "แปลงโปรแกรมภาษาโปรแกรมระดับสูงเป็นภาษาเครื่องทั้งหมดในครั้งเดียว",
+      "ค": "ทำหน้าที่รันโปรแกรมทีละบรรทัดโดยแปลและประมวลผลไปพร้อมกัน",
+      "ง": "จัดการหน่วยความจำของโปรแกรม"
+    },
+    "answer": "ค",
+    "answer_text": "ทำหน้าที่รันโปรแกรมทีละบรรทัดโดยแปลและประมวลผลไปพร้อมกัน",
+    "explanation": "Interpreter จะแปลและรันโปรแกรมทีละบรรทัด"
+  },
+  {
+    "id": 38,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือโครงสร้างควบคุม (Control Structure) ที่ใช้ในการตัดสินใจ (Decision Making)?",
+    "options": {
+      "ก": "Loop (เช่น for, while)",
+      "ข": "Sequence",
+      "ค": "Selection (เช่น if-else, switch-case)",
+      "ง": "Function Call"
+    },
+    "answer": "ค",
+    "answer_text": "Selection (เช่น if-else, switch-case)",
+    "explanation": "Selection ใช้ในการเลือกทำตามเงื่อนไข"
+  },
+  {
+    "id": 39,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือโครงสร้างควบคุม (Control Structure) ที่ใช้ในการทำซํ้า (Repetition)?",
+    "options": {
+      "ก": "Selection (เช่น if-else)",
+      "ข": "Sequence",
+      "ค": "Loop (เช่น for, while)",
+      "ง": "Function Call"
+    },
+    "answer": "ค",
+    "answer_text": "Loop (เช่น for, while)",
+    "explanation": "Loop ใช้ในการทำซํ้าคำสั่งหลายครั้ง"
+  },
+  {
+    "id": 40,
+    "context": "ภาษาคอมพิวเตอร์และการเขียนโปรแกรม",
+    "question": "ข้อใดคือประโยชน์ของการใช้ Function หรือ Subroutine ในการเขียนโปรแกรม?",
+    "options": {
+      "ก": "ทำให้โปรแกรมมีขนาดใหญ่ขึ้น",
+      "ข": "ทำให้โค้ดสามารถนำกลับมาใช้ใหม่ได้ (Reusability) และทำให้โปรแกรมอ่านง่ายขึ้น",
+      "ค": "ทำให้โปรแกรมทำงานช้าลง",
+      "ง": "ทำให้โปรแกรมซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "ทำให้โค้ดสามารถนำกลับมาใช้ใหม่ได้ (Reusability) และทำให้โปรแกรมอ่านง่ายขึ้น",
+    "explanation": "Function ช่วยจัดระเบียบโค้ดและเพิ่มประสิทธิภาพในการพัฒนา"
+  },
+  {
+    "id": 41,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ข้อใดคืออุปกรณ์ที่เปรียบเสมือนสมองของคอมพิวเตอร์ทำหน้าที่คำนวณและประมวลผลคำสั่ง?",
+    "options": {
+      "ก": "RAM",
+      "ข": "CPU",
+      "ค": "Hard Disk Drive",
+      "ง": "Mainboard"
+    },
+    "answer": "ข",
+    "answer_text": "CPU",
+    "explanation": "CPU คือหน่วยประมวลผลกลาง"
+  },
+  {
+    "id": 42,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "หน่วยความจำประเภทใดที่ข้อมูลจะหายไปเมื่อไม่มีกระแสไฟ (Volatile Memory)?",
+    "options": {
+      "ก": "ROM",
+      "ข": "RAM",
+      "ค": "Hard Disk Drive",
+      "ง": "SSD"
+    },
+    "answer": "ข",
+    "answer_text": "RAM",
+    "explanation": "RAM เป็นหน่วยความจำชั่วคราว"
+  },
+  {
+    "id": 43,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "อุปกรณ์เก็บข้อมูลประเภทใดที่ไม่มีชิ้นส่วนเคลื่อนที่มีความเร็วในการอ่าน/เขียนข้อมูลสูงกว่า HDD มาก?",
+    "options": {
+      "ก": "Hard Disk Drive (HDD)",
+      "ข": "Solid State Drive (SSD)",
+      "ค": "Floppy Disk",
+      "ง": "CD-ROM"
+    },
+    "answer": "ข",
+    "answer_text": "Solid State Drive (SSD)",
+    "explanation": "SSD ใช้ Flash Memory"
+  },
+  {
+    "id": 44,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "อุปกรณ์ใดที่ทำหน้าที่เป็นแผงวงจรหลักที่เชื่อมต่ออุปกรณ์ทุกอย่างเข้าด้วยกันในคอมพิวเตอร์ ?",
+    "options": {
+      "ก": "CPU",
+      "ข": "RAM",
+      "ค": "Mainboard (Motherboard)",
+      "ง": "Power Supply"
+    },
+    "answer": "ค",
+    "answer_text": "Mainboard (Motherboard)",
+    "explanation": "Mainboard เป็นศูนย์กลางการเชื่อมต่อ"
+  },
+  {
+    "id": 45,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ข้อใดคืออุปกรณ์ Input Device?",
+    "options": {
+      "ก": "Monitor",
+      "ข": "Printer",
+      "ค": "Keyboard",
+      "ง": "Speaker"
+    },
+    "answer": "ค",
+    "answer_text": "Keyboard",
+    "explanation": "Keyboard ใช้สำหรับป้อนข้อมูลเข้าสู่คอมพิวเตอร์"
+  },
+  {
+    "id": 46,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ข้อใดคืออุปกรณ์ Output Device?",
+    "options": {
+      "ก": "Mouse",
+      "ข": "Scanner",
+      "ค": "Microphone",
+      "ง": "Printer"
+    },
+    "answer": "ง",
+    "answer_text": "Printer",
+    "explanation": "Printer ใช้สำหรับแสดงผลข้อมูลออกมาในรูปแบบกระดาษ"
+  },
+  {
+    "id": 47,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ในขั้นตอนการติดตั้งระบบปฏิบัติการ (OS) ขั้นตอนใดที่ควรทำเป็นอันดับแรก?",
+    "options": {
+      "ก": "การติดตั้",
+      "ง": "Driver การติดตั้งโปรแกรมประยุกต์",
+      "ข": "การตั้งค่า BIOS/UEFI",
+      "ค": "การอัปเดตระบบ"
+    },
+    "answer": "ข",
+    "answer_text": "การตั้งค่า BIOS/UEFI",
+    "explanation": "การตั้งค่า BIOS/UEFI เป็นการกำหนดค่าเริ่มต้นของฮาร์ดแวร์"
+  },
+  {
+    "id": 48,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ข้อใดคือประโยชน์ของการทำ Preventive Maintenance (การบำรุงรักษาเชิงป้องกัน) คอมพิวเตอร์?",
+    "options": {
+      "ก": "ทำให้คอมพิวเตอร์เสียเร็วขึ้น",
+      "ข": "ช่วยยืดอายุการใช้งานของอุปกรณ์และลดโอกาสการเกิดปัญหา",
+      "ค": "เพิ่มความร้อนให้กับ CPU",
+      "ง": "ทำให้ข้อมูลหาย"
+    },
+    "answer": "ข",
+    "answer_text": "ช่วยยืดอายุการใช้งานของอุปกรณ์และลดโอกาสการเกิดปัญหา",
+    "explanation": "Preventive Maintenance ช่วยป้องกันปัญหาที่จะเกิดขึ้น"
+  },
+  {
+    "id": 49,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "หลักการสำรองข้อมูลแบบ 3-2-1 Rule หมายถึงอะไร?",
+    "options": {
+      "ก": "มีข้อมูล 3 ชุด, เก็บในสื่อ 2 ชนิด, 1 ชุดเก็บไว้นอกสถานที่/Cloud",
+      "ข": "มีข้อมูล 3 ชุด, เก็บในสื่อ 1 ชนิด, 2 ชุดเก็บไว้นอกสถานที่",
+      "ค": "มีข้อมูล 1 ชุด, เก็บในสื่อ 2 ชนิด, 3 ชุดเก็บไว้นอกสถานที่",
+      "ง": "มีข้อมูล 2 ชุด, เก็บในสื่อ 3 ชนิด, 1 ชุดเก็บไว้นอกสถานที่"
+    },
+    "answer": "ก",
+    "answer_text": "มีข้อมูล 3 ชุด, เก็บในสื่อ 2 ชนิด, 1 ชุดเก็บไว้นอกสถานที่/Cloud",
+    "explanation": "เป็นหลักการสำรองข้อมูลที่แนะนำเพื่อความปลอดภัยสูงสุด"
+  },
+  {
+    "id": 50,
+    "context": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "question": "ข้อใดคือสิ่งที่ควรทำในการบำรุงรักษาฮาร์ดดิสก์แบบ HDD เป็นประจำ?",
+    "options": {
+      "ก": "Defragmentation (การจัดเรียงข้อมูล)",
+      "ข": "การลบไฟล์ระบบปฏิบัติการ",
+      "ค": "การเพิ่มขนาด Partition",
+      "ง": "การเปลี่ยนประเภทของไฟล์ระบบ"
+    },
+    "answer": "ก",
+    "answer_text": "Defragmentation (การจัดเรียงข้อมูล)",
+    "explanation": "Defragmentation ช่วยจัดเรียงข้อมูลบน HDD ให้เป็นระเบียบทำให้การเข้าถึง ข้อมูลเร็วขึ้น"
+  },
+  {
+    "id": 51,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือหน้าที่หลักของระบบปฏิบัติการ (Operating System - OS)?",
+    "options": {
+      "ก": "สร้างเอกสารและนำเสนอข้อมูล",
+      "ข": "จัดการทรัพยากรฮาร์ดแวร์และซอฟต์แวร์, จัดการไฟล์, และให้บริการส่วนติดต่อผู้ใช้",
+      "ค": "เล่นเกมและดูหนังเท่านั้น",
+      "ง": "เชื่อมต่ออินเทอร์เน็ตเท่านั้น"
+    },
+    "answer": "ข",
+    "answer_text": "จัดการทรัพยากรฮาร์ดแวร์และซอฟต์แวร์, จัดการไฟล์, และให้บริการส่วนติดต่อผู้ใช้",
+    "explanation": "หน้าที่หลักของ OS คือการบริหารจัดการระบบคอมพิวเตอร์"
+  },
+  {
+    "id": 52,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ระบบปฏิบัติการประเภทใดที่นิยมใช้ในงาน Server และเป็น Open Source?",
+    "options": {
+      "ก": "Windows",
+      "ข": "macOS",
+      "ค": "Linux",
+      "ง": "iOS"
+    },
+    "answer": "ค",
+    "answer_text": "Linux",
+    "explanation": "Linux เป็นที่นิยมใน Server เนื่องจากความเสถียรและยืดหยุ่น"
+  },
+  {
+    "id": 53,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือส่วนติดต่อผู้ใช้แบบ GUI (Graphical User Interface)?",
+    "options": {
+      "ก": "การพิมพ์คำสั่งผ่าน Command Prompt",
+      "ข": "การใช้เมาส์คลิกไอคอนและหน้าต่างต่างๆ",
+      "ค": "การใช้คีย์บอร์ดพิมพ์ข้อความเท่านั้น",
+      "ง": "การใช้เสียงสั่งงาน"
+    },
+    "answer": "ข",
+    "answer_text": "การใช้เมาส์คลิกไอคอนและหน้าต่างต่างๆ",
+    "explanation": "GUI ใช้ภาพกราฟิกในการติดต่อกับผู้ใช้"
+  },
+  {
+    "id": 54,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือซอฟต์แวร์ประมวลผลคำ (Word Processing) ที่นิยมใช้ในปัจจุบัน?",
+    "options": {
+      "ก": "Microsoft Excel",
+      "ข": "Microsoft Word",
+      "ค": "Microsoft PowerPoint",
+      "ง": "Microsoft Access"
+    },
+    "answer": "ข",
+    "answer_text": "Microsoft Word",
+    "explanation": "Microsoft Word ใช้สำหรับสร้างและแก้ไขเอกสาร"
+  },
+  {
+    "id": 55,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือซอฟต์แวร์ตารางทำการ (Spreadsheet) ที่นิยมใช้ในปัจจุบัน?",
+    "options": {
+      "ก": "Microsoft Word",
+      "ข": "Microsoft Excel",
+      "ค": "Microsoft PowerPoint",
+      "ง": "Microsoft Access"
+    },
+    "answer": "ข",
+    "answer_text": "Microsoft Excel",
+    "explanation": "Microsoft Excel ใช้สำหรับคำนวณและวิเคราะห์ข้อมูล"
+  },
+  {
+    "id": 56,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือซอฟต์แวร์นำเสนอ (Presentation) ที่นิยมใช้ในปัจจุบัน?",
+    "options": {
+      "ก": "Microsoft Word",
+      "ข": "Microsoft Excel",
+      "ค": "Microsoft PowerPoint",
+      "ง": "Microsoft Access"
+    },
+    "answer": "ค",
+    "answer_text": "Microsoft PowerPoint",
+    "explanation": "Microsoft PowerPoint ใช้สำหรับสร้างงานนำเสนอ"
+  },
+  {
+    "id": 57,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือซอฟต์แวร์จัดการฐานข้อมูล (Database) ที่นิยมใช้สำหรับผู้ใช้ทั่วไป?",
+    "options": {
+      "ก": "Microsoft Word",
+      "ข": "Microsoft Excel",
+      "ค": "Microsoft PowerPoint",
+      "ง": "Microsoft Access"
+    },
+    "answer": "ง",
+    "answer_text": "Microsoft Access",
+    "explanation": "Microsoft Access เป็น DBMS ขนาดเล็กที่ใช้งานง่าย"
+  },
+  {
+    "id": 58,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือประโยชน์หลักของการใช้ซอฟต์แวร์สำเร็จรูป?",
+    "options": {
+      "ก": "ต้องเขียนโปรแกรมเองทั้งหมด",
+      "ข": "ใช้งานง่าย, มีฟังก์ชันการทำงานที่หลากหลาย, และไม่ต้องเสียเวลาพัฒนาเอง",
+      "ค": "มีราคาแพงมากและใช้งานยาก",
+      "ง": "ไม่สามารถปรับแต่งการทำงานได้เลย"
+    },
+    "answer": "ข",
+    "answer_text": "ใช้งานง่าย, มีฟังก์ชันการทำงานที่หลากหลาย, และไม่ต้องเสียเวลาพัฒนาเอง",
+    "explanation": "ซอฟต์แวร์สำเร็จรูปช่วยเพิ่มประสิทธิภาพในการทำงาน"
+  },
+  {
+    "id": 59,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือระบบปฏิบัติการสำหรับอุปกรณ์พกพา (Mobile OS)?",
+    "options": {
+      "ก": "Windows Server",
+      "ข": "macOS",
+      "ค": "Android",
+      "ง": "Ubuntu Desktop"
+    },
+    "answer": "ค",
+    "answer_text": "Android",
+    "explanation": "Android และ iOS เป็น Mobile OS ที่นิยม"
+  },
+  {
+    "id": 60,
+    "context": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "question": "ข้อใดคือหน้าที่ของ Driver ในระบบปฏิบัติการ?",
+    "options": {
+      "ก": "เป็นโปรแกรมสำหรับเล่นเกม",
+      "ข": "เป็นซอฟต์แวร์ที่ช่วยให้ระบบปฏิบัติการสามารถสื่อสารและควบคุมอุปกรณ์ฮาร์ดแวร์ได้",
+      "ค": "เป็นโปรแกรมสำหรับสร้างเอกสาร",
+      "ง": "เป็นโปรแกรมสำหรับเชื่อมต่ออินเทอร์เน็ต"
+    },
+    "answer": "ข",
+    "answer_text": "เป็นซอฟต์แวร์ที่ช่วยให้ระบบปฏิบัติการสามารถสื่อสารและควบคุมอุปกรณ์ฮาร์ดแวร์ได้",
+    "explanation": "Driver เป็นสิ่งจำเป็นสำหรับการทำงานของฮาร์ดแวร์"
+  },
+  {
+    "id": 61,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "แบบจำลอง OSI Model มีทั้งหมดกี่ Layer?",
+    "options": {
+      "ก": "5 Layer",
+      "ข": "6 Layer",
+      "ค": "7 Layer",
+      "ง": "8 Layer"
+    },
+    "answer": "ค",
+    "answer_text": "7 Layer",
+    "explanation": "OSI Model มี 7 Layer"
+  },
+  {
+    "id": 62,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "Layer ใดใน OSI Model ที่เกี่ยวข้องกับ MAC Address และการควบคุมการเข้าถึงสื่อ (MAC)?",
+    "options": {
+      "ก": "Physical Layer",
+      "ข": "Data Link Layer",
+      "ค": "Network Layer",
+      "ง": "Transport Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Data Link Layer",
+    "explanation": "Data Link Layer รับผิดชอบการสื่อสารในระดับ Local Network"
+  },
+  {
+    "id": 63,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "Layer ใดใน OSI Model ที่เกี่ยวข้องกับ IP Address และการหาเส้นทาง (Routing)?",
+    "options": {
+      "ก": "Data Link Layer",
+      "ข": "Network Layer",
+      "ค": "Transport Layer",
+      "ง": "Application Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Network Layer",
+    "explanation": "Network Layer รับผิดชอบการส่งข้อมูลข้ามเครือข่าย"
+  },
+  {
+    "id": 64,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "Layer ใดใน OSI Model ที่เกี่ยวข้องกับการส่งข้อมูลแบบ End-to-End และ Port Number?",
+    "options": {
+      "ก": "Network Layer",
+      "ข": "Transport Layer",
+      "ค": "Session Layer",
+      "ง": "Presentation Layer"
+    },
+    "answer": "ข",
+    "answer_text": "Transport Layer",
+    "explanation": "Transport Layer รับผิดชอบการส่งข้อมูลระหว่าง Process"
+  },
+  {
+    "id": 65,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "โปรโตคอลใดที่ใช้ในการแปลงชื่อโดเมน (Domain Name) เป็น IP Address?",
+    "options": {
+      "ก": "HTTP",
+      "ข": "FTP",
+      "ค": "DNS",
+      "ง": "DHCP"
+    },
+    "answer": "ค",
+    "answer_text": "DNS",
+    "explanation": "DNS เป็นระบบที่สำคัญในการเข้าถึงเว็บไซต์"
+  },
+  {
+    "id": 66,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "โปรโตคอลใดที่ใช้ในการแจกจ่าย IP Address ให้กับอุปกรณ์ในเครือข่ายโดยอัตโนมัติ ?",
+    "options": {
+      "ก": "DNS",
+      "ข": "DHCP",
+      "ค": "HTTP",
+      "ง": "FTP"
+    },
+    "answer": "ข",
+    "answer_text": "DHCP",
+    "explanation": "DHCP ช่วยให้การจัดการ IP Address ง่ายขึ้น"
+  },
+  {
+    "id": 67,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "อุปกรณ์เครือข่ายใดที่ทำหน้าที่เชื่อมต่อเครือข่ายย่อย (Subnet) ต่างๆเข้าด้วยกันและทำการหา เส้นทาง (Routing) ของข้อมูล?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Hub",
+      "ค": "Router",
+      "ง": "Repeater"
+    },
+    "answer": "ค",
+    "answer_text": "Router",
+    "explanation": "Router เป็นอุปกรณ์หลักในการเชื่อมต่อเครือข่าย"
+  },
+  {
+    "id": 68,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "อุปกรณ์เครือข่ายใดที่ทำหน้าที่เชื่อมต่ออุปกรณ์ในเครือข่ายเดียวกันและส่งข้อมูลไปยัง Port ที่ถูก ต้องเท่านั้น?",
+    "options": {
+      "ก": "Hub",
+      "ข": "Switch",
+      "ค": "Router",
+      "ง": "Modem"
+    },
+    "answer": "ข",
+    "answer_text": "Switch",
+    "explanation": "Switch ทำงานใน Layer 2 ของ OSI Model"
+  },
+  {
+    "id": 69,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคือความแตกต่างหลักระหว่าง IPv4 และ IPv6?",
+    "options": {
+      "ก": "IPv4 มีขนาด 128-bit, IPv6 มีขนาด 32-bit",
+      "ข": "IPv4 มีขนาด 32-bit, IPv6 มีขนาด 128-bit",
+      "ค": "IPv4 ใช้สำหรับเครือข่ายภายใน, IPv6 ใช้สำหรับอินเทอร์เน็ต",
+      "ง": "IPv4 มีความเร็วสูงกว่า IPv6"
+    },
+    "answer": "ข",
+    "answer_text": "IPv4 มีขนาด 32-bit, IPv6 มีขนาด 128-bit",
+    "explanation": "IPv6 ถูกพัฒนาขึ้นเพื่อรองรับจำนวน IP Address ที่เพิ่มขึ้น"
+  },
+  {
+    "id": 70,
+    "context": "ระบบเครือข่ายคอมพิวเตอร์และอุปกรณ์ที่เกี่ยวข้อง",
+    "question": "ข้อใดคือประโยชน์ของการใช้ VLAN (Virtual LAN)?",
+    "options": {
+      "ก": "ทำให้เครือข่ายมีขนาดใหญ่ขึ้น",
+      "ข": "ช่วยแบ่งเครือข่ายทางกายภาพออกเป็นเครือข่ายย่อยเสมือนเพื่อเพิ่มความปลอดภัยและ ประสิทธิภาพ",
+      "ค": "ลดความเร็วของเครือข่าย",
+      "ง": "ทำให้การจัดการเครือข่ายซับซ้อนขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "ช่วยแบ่งเครือข่ายทางกายภาพออกเป็นเครือข่ายย่อยเสมือนเพื่อเพิ่มความปลอดภัยและ ประสิทธิภาพ",
+    "explanation": "VLAN ช่วยในการจัดการเครือข่ายให้มีประสิทธิภาพและปลอดภัย"
+  },
+  {
+    "id": 71,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "หลักการใดใน CIA Triad ที่เกี่ยวข้องกับการป้องกันการเปิดเผยข้อมูลแก่ผู้ที่ไม่ได้รับอนุญาต?",
+    "options": {
+      "ก": "Integrity",
+      "ข": "Availability",
+      "ค": "Confidentiality",
+      "ง": "Non-repudiation"
+    },
+    "answer": "ค",
+    "answer_text": "Confidentiality",
+    "explanation": "Confidentiality คือการรักษาความลับ"
+  },
+  {
+    "id": 72,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "หลักการใดใน CIA Triad ที่เกี่ยวข้องกับการรับประกันว่าข้อมูลถูกต้องครบถ้วนไม่ถูกแก้ไขหรือ ทำลายโดยไม่ได้รับอนุญาต?",
+    "options": {
+      "ก": "Confidentiality",
+      "ข": "Availability",
+      "ค": "Integrity",
+      "ง": "Authentication"
+    },
+    "answer": "ค",
+    "answer_text": "Integrity",
+    "explanation": "Integrity คือความถูกต้องครบถ้วน"
+  },
+  {
+    "id": 73,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "หลักการใดใน CIA Triad ที่เกี่ยวข้องกับการรับประกันว่าระบบและข้อมูลพร้อมใช้งานเมื่อผู้ใช้ที่ได้ รับอนุญาตต้องการ?",
+    "options": {
+      "ก": "Confidentiality",
+      "ข": "Integrity",
+      "ค": "Availability",
+      "ง": "Authorization"
+    },
+    "answer": "ค",
+    "answer_text": "Availability",
+    "explanation": "Availability คือความพร้อมใช้งาน"
+  },
+  {
+    "id": 74,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ “Vulnerability” ในบริบทของความมั่นคงปลอดภัยสารสนเทศ?",
+    "options": {
+      "ก": "เหตุการณ์ที่อาจก่อให้เกิดความเสียหาย",
+      "ข": "จุดอ่อนในระบบ, ซอฟต์แวร์, ฮาร์ดแวร์, หรือกระบวนการที่ผู้โจมตีสามารถใช้ประโยชน์ได้",
+      "ค": "การกระทำที่ผิดกฎหมาย",
+      "ง": "ผลกระทบที่เกิดขึ้นจากการโจมตี"
+    },
+    "answer": "ข",
+    "answer_text": "จุดอ่อนในระบบ, ซอฟต์แวร์, ฮาร์ดแวร์, หรือกระบวนการที่ผู้โจมตีสามารถใช้ประโยชน์ได้",
+    "explanation": "Vulnerability คือช่องโหว่"
+  },
+  {
+    "id": 75,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ “Threat” ในบริบทของความมั่นคงปลอดภัยสารสนเทศ?",
+    "options": {
+      "ก": "จุดอ่อนในระบบ",
+      "ข": "โอกาสที่ภัยคุกคามจะใช้ประโยชน์จากช่องโหว่",
+      "ค": "เหตุการณ์หรือการกระทำที่อาจก่อให้เกิดความเสียหายต่อระบบหรือข้อมูล",
+      "ง": "มาตรการป้องกัน"
+    },
+    "answer": "ค",
+    "answer_text": "เหตุการณ์หรือการกระทำที่อาจก่อให้เกิดความเสียหายต่อระบบหรือข้อมูล",
+    "explanation": "Threat คือภัยคุกคาม"
+  },
+  {
+    "id": 76,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ “Risk” ในบริบทของความมั่นคงปลอดภัยสารสนเทศ?",
+    "options": {
+      "ก": "จุดอ่อนในระบบ",
+      "ข": "เหตุการณ์ที่อาจก่อให้เกิดความเสียหาย",
+      "ค": "โอกาสที่ภัยคุกคามจะใช้ประโยชน์จากช่องโหว่และก่อให้เกิดความเสียหาย",
+      "ง": "มาตรการป้องกัน"
+    },
+    "answer": "ค",
+    "answer_text": "โอกาสที่ภัยคุกคามจะใช้ประโยชน์จากช่องโหว่และก่อให้เกิดความเสียหาย",
+    "explanation": "Risk คือความเสี่ยง"
+  },
+  {
+    "id": 77,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "Malware ประเภทใดที่เข้ารหัสไฟล์ทั้งหมดและเรียกค่าไถ่เพื่อปลดล็อก?",
+    "options": {
+      "ก": "Virus",
+      "ข": "Worm",
+      "ค": "Ransomware",
+      "ง": "Trojan Horse"
+    },
+    "answer": "ค",
+    "answer_text": "Ransomware",
+    "explanation": "Ransomware เป็นภัยคุกคามที่สำคัญในปัจจุบัน"
+  },
+  {
+    "id": 78,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "การโจมตีแบบใดที่หลอกลวงเพื่อขโมยข้อมูลส่วนตัวผ่านอีเมลหรือเว็บไซต์ปลอม?",
+    "options": {
+      "ก": "DoS Attack",
+      "ข": "SQL Injection",
+      "ค": "Phishing",
+      "ง": "Brute-force Attack"
+    },
+    "answer": "ค",
+    "answer_text": "Phishing",
+    "explanation": "Phishing เป็นการโจมตีแบบ Social Engineering"
+  },
+  {
+    "id": 79,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "อุปกรณ์เครือข่ายใดที่ทำหน้าที่เป็นด่านแรกในการกรอง Traffic ระหว่างเครือข่ายภายในและ ภายนอก?",
+    "options": {
+      "ก": "Switch",
+      "ข": "Router",
+      "ค": "Firewall",
+      "ง": "Access Point"
+    },
+    "answer": "ค",
+    "answer_text": "Firewall",
+    "explanation": "Firewall เป็นอุปกรณ์ป้องกันที่สำคัญ"
+  },
+  {
+    "id": 80,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ระบบใดที่ทำหน้าที่ตรวจจับกิจกรรมที่น่าสงสัยหรือการบุกรุกในเครือข่ายและแจ้งเตือนผู้ดูแล ระบบ?",
+    "options": {
+      "ก": "Intrusion Prevention System (IPS)",
+      "ข": "Intrusion Detection System (IDS)",
+      "ค": "Firewall",
+      "ง": "Antivirus"
+    },
+    "answer": "ข",
+    "answer_text": "Intrusion Detection System (IDS)",
+    "explanation": "IDS ทำหน้าที่เฝ้าระวังและแจ้งเตือน"
+  },
+  {
+    "id": 81,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "มาตรฐานสากลใดที่เกี่ยวข้องกับระบบบริหารจัดการความมั่นคงปลอดภัยสารสนเทศ (ISMS)?",
+    "options": {
+      "ก": "ISO 9001",
+      "ข": "ISO 14001",
+      "ค": "ISO 27001",
+      "ง": "ISO 45001"
+    },
+    "answer": "ค",
+    "answer_text": "ISO 27001",
+    "explanation": "ISO 27001 เป็นมาตรฐานที่ได้รับการยอมรับทั่วโลก"
+  },
+  {
+    "id": 82,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือขั้นตอนแรกของกระบวนการบริหารความเสี่ยงด้าน IT?",
+    "options": {
+      "ก": "การประเมินความเสี่ย",
+      "ง": "(Risk Assessment) การตรวจสอบความเสี่ย (Risk Monitoring)",
+      "ข": "การระบุสินทรัพย์ (Asset Identification)",
+      "ค": "การเลือกมาตรการควบคุม (Control Selection)"
+    },
+    "answer": "ข",
+    "answer_text": "การระบุสินทรัพย์ (Asset Identification)",
+    "explanation": "ต้องรู้ก่อนว่ามีอะไรที่ต้องปกป้อง"
+  },
+  {
+    "id": 83,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "การจัดการความเสี่ยงแบบใดที่ใช้มาตรการเพื่อลดโอกาสหรือผลกระทบของความเสี่ยง?",
+    "options": {
+      "ก": "Risk Acceptance",
+      "ข": "Risk Avoidance",
+      "ค": "Risk Mitigation",
+      "ง": "Risk Transfer"
+    },
+    "answer": "ค",
+    "answer_text": "Risk Mitigation",
+    "explanation": "Risk Mitigation คือการลดความเสี่ยง"
+  },
+  {
+    "id": 84,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "การจัดการความเสี่ยงแบบใดที่โอนภาระความเสี่ยงไปยังบุคคลที่สามเช่นการซื้อประกันภัย ไซเบอร์?",
+    "options": {
+      "ก": "Risk Acceptance",
+      "ข": "Risk Avoidance",
+      "ค": "Risk Mitigation",
+      "ง": "Risk Transfer"
+    },
+    "answer": "ง",
+    "answer_text": "Risk Transfer",
+    "explanation": "Risk Transfer คือการถ่ายโอนความเสี่ยง"
+  },
+  {
+    "id": 85,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ RTO (Recovery Time Objective) ในบริบทของ Disaster Recovery Plan?",
+    "options": {
+      "ก": "ปริมาณข้อมูลสูงสุดที่ยอมให้สูญหายได้",
+      "ข": "ระยะเวลาสูงสุดที่ระบบหรือบริการสามารถหยุดทำงานได้หลังจากเกิดภัยพิบัติก่อนที่จะส่ง ผลกระทบอย่างร้ายแรงต่อธุรกิจ",
+      "ค": "ระยะเวลาที่ใช้ในการสำรองข้อมูล",
+      "ง": "ระยะเวลาที่ใช้ในการกู้คืนข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ระยะเวลาสูงสุดที่ระบบหรือบริการสามารถหยุดทำงานได้หลังจากเกิดภัยพิบัติก่อนที่จะส่ง ผลกระทบอย่างร้ายแรงต่อธุรกิจ",
+    "explanation": "RTO คือเป้าหมายเวลาในการกู้คืนระบบ"
+  },
+  {
+    "id": 86,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ RPO (Recovery Point Objective) ในบริบทของ Disaster Recovery Plan?",
+    "options": {
+      "ก": "ระยะเวลาสูงสุดที่ระบบหรือบริการสามารถหยุดทำงานได้",
+      "ข": "ปริมาณข้อมูลสูงสุดที่ยอมให้สูญหายได้หลังจากเกิดภัยพิบัติโดยวัดจากจุดเวลาล่าสุดที่ สามารถกู้คืนข้อมูลได้",
+      "ค": "ระยะเวลาที่ใช้ในการสำรองข้อมูล",
+      "ง": "ระยะเวลาที่ใช้ในการกู้คืนข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ปริมาณข้อมูลสูงสุดที่ยอมให้สูญหายได้หลังจากเกิดภัยพิบัติโดยวัดจากจุดเวลาล่าสุดที่ สามารถกู้คืนข้อมูลได้",
+    "explanation": "RPO คือเป้าหมายปริมาณข้อมูลที่ยอมให้สูญหายได้"
+  },
+  {
+    "id": 87,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือหลักการของ Least Privilege ในการบริหารจัดการสิทธิ์การเข้าถึง?",
+    "options": {
+      "ก": "ให้สิทธิ์ผู้ใช้งานสูงสุดเท่าที่จะทำได้",
+      "ข": "ให้สิทธิ์ผู้ใช้งานเท่าที่จำเป็นสำหรับการปฏิบัติงานเท่านั้น",
+      "ค": "ให้สิทธิ์ผู้ใช้งานทุกคนเท่ากัน",
+      "ง": "ไม่ให้สิทธิ์ผู้ใช้งานใดๆเลย"
+    },
+    "answer": "ข",
+    "answer_text": "ให้สิทธิ์ผู้ใช้งานเท่าที่จำเป็นสำหรับการปฏิบัติงานเท่านั้น",
+    "explanation": "Least Privilege ช่วยลดความเสี่ยงจากการเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต"
+  },
+  {
+    "id": 88,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือประโยชน์ของการทำ Security Awareness Training ให้กับบุคลากรในหน่วยงาน?",
+    "options": {
+      "ก": "ลดค่าใช้จ่ายด้าน IT",
+      "ข": "เพิ่มความตระหนักรู้และทักษะด้านความปลอดภัยให้กับบุคลากรเพื่อลดความเสี่ยงจากการ โจมตีแบบ Social Engineering",
+      "ค": "เพิ่มความเร็วของระบบ",
+      "ง": "ป้องกันการโจมตีแบบ DDoS"
+    },
+    "answer": "ข",
+    "answer_text": "เพิ่มความตระหนักรู้และทักษะด้านความปลอดภัยให้กับบุคลากรเพื่อลดความเสี่ยงจากการ โจมตีแบบ Social Engineering",
+    "explanation": "บุคลากรเป็นแนวป้องกันด่านแรกที่สำคัญที่สุด"
+  },
+  {
+    "id": 89,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Data Loss Prevention (DLP)?",
+    "options": {
+      "ก": "ระบบที่ป้องกันการโจมตีแบบ DDoS",
+      "ข": "ระบบที่ช่วยป้องกันไม่ให้ข้อมูลสำคัญขององค์กรรั่วไหลออกไปภายนอก",
+      "ค": "ระบบที่สำรองข้อมูล",
+      "ง": "ระบบที่เข้ารหัสข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ระบบที่ช่วยป้องกันไม่ให้ข้อมูลสำคัญขององค์กรรั่วไหลออกไปภายนอก",
+    "explanation": "DLP เป็นมาตรการสำคัญในการป้องกัน Data Breach"
+  },
+  {
+    "id": 90,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือประโยชน์ของการทำ Penetration Testing (PT) หรือ Ethical Hacking?",
+    "options": {
+      "ก": "เพื่อติดตั้",
+      "ง": "Antivirus เพื่อเพิ่มความเร็วของระบบ",
+      "ข": "เพื่อจำลองการโจมตีระบบโดยผู้เชี่ยวชาญเพื่อค้นหาช่องโหว่และประเมินความแข็งแกร่ง ของระบบป้องกัน",
+      "ค": "เพื่อสำรองข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "เพื่อจำลองการโจมตีระบบโดยผู้เชี่ยวชาญเพื่อค้นหาช่องโหว่และประเมินความแข็งแกร่ง ของระบบป้องกัน",
+    "explanation": "PT ช่วยให้ค้นพบช่องโหว่ที่อาจถูกผู้โจมตีใช้ประโยชน์ได้"
+  },
+  {
+    "id": 91,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Zero Trust Security Model?",
+    "options": {
+      "ก": "เชื่อถืออุปกรณ์หรือผู้ใช้งานใดๆโดยปริยาย",
+      "ข": "ไม่เชื่อถืออุปกรณ์หรือผู้ใช้งานใดๆโดยปริยายไม่ว่าจะอยู่ภายในหรือภายนอกเครือข่าย และต้องมีการตรวจสอบสิทธิ์ทุกครั้งที่มีการเข้าถึงทรัพยากร",
+      "ค": "เชื่อถือเฉพาะผู้ใช้งานภายในเครือข่ายเท่านั้น",
+      "ง": "ไม่จำเป็นต้องมีการตรวจสอบสิทธิ์"
+    },
+    "answer": "ข",
+    "answer_text": "ไม่เชื่อถืออุปกรณ์หรือผู้ใช้งานใดๆโดยปริยายไม่ว่าจะอยู่ภายในหรือภายนอกเครือข่าย และต้องมีการตรวจสอบสิทธิ์ทุกครั้งที่มีการเข้าถึงทรัพยากร",
+    "explanation": "Zero Trust เป็นโมเดลความปลอดภัยที่กำลังได้รับความนิยมอย่างมาก"
+  },
+  {
+    "id": 92,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือประโยชน์ของการใช้ Multi-Factor Authentication (MFA)?",
+    "options": {
+      "ก": "ใช้รหัสผ่านเพียงอย่างเดียว",
+      "ข": "เพิ่มความปลอดภัยในการเข้าถึงระบบโดยกำหนดให้ผู้ใช้งานต้องยืนยันตัวตนด้วยปัจจัย ตั้งแต่สองอย่างขึ้นไป",
+      "ค": "ลดขั้นตอนการยืนยันตัวตน",
+      "ง": "ทำให้ระบบเข้าถึงได้ง่ายขึ้น"
+    },
+    "answer": "ข",
+    "answer_text": "เพิ่มความปลอดภัยในการเข้าถึงระบบโดยกำหนดให้ผู้ใช้งานต้องยืนยันตัวตนด้วยปัจจัย ตั้งแต่สองอย่างขึ้นไป",
+    "explanation": "MFA ช่วยเพิ่มความแข็งแกร่งของการยืนยันตัวตน"
+  },
+  {
+    "id": 93,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Security Information and Event Management (SIEM)?",
+    "options": {
+      "ก": "ระบบที่ป้องกันการโจมตีแบบ DDoS",
+      "ข": "ระบบที่รวบรวม, วิเคราะห์, และจัดการ Log และ Event ด้านความปลอดภัยจากแหล่งต่างๆ เพื่อตรวจจับภัยคุกคามและตอบสนองต่อเหตุการณ์",
+      "ค": "ระบบที่สำรองข้อมูล",
+      "ง": "ระบบที่เข้ารหัสข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "ระบบที่รวบรวม, วิเคราะห์, และจัดการ Log และ Event ด้านความปลอดภัยจากแหล่งต่างๆ เพื่อตรวจจับภัยคุกคามและตอบสนองต่อเหตุการณ์",
+    "explanation": "SIEM เป็นเครื่องมือสำคัญในการบริหารจัดการความปลอดภัยแบบรวมศูนย์"
+  },
+  {
+    "id": 94,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือประโยชน์ของการทำ Vulnerability Assessment (VA)?",
+    "options": {
+      "ก": "เพื่อจำลองการโจมตีระบบ",
+      "ข": "เพื่อค้นหาและระบุช่องโหว่ด้านความปลอดภัยในระบบสารสนเทศโดยการสแกนและ วิเคราะห์ระบบ",
+      "ค": "เพื่อสำรองข้อมูล",
+      "ง": "เพื่อเพิ่มความเร็วของระบบ"
+    },
+    "answer": "ข",
+    "answer_text": "เพื่อค้นหาและระบุช่องโหว่ด้านความปลอดภัยในระบบสารสนเทศโดยการสแกนและ วิเคราะห์ระบบ",
+    "explanation": "VA เป็นการประเมินช่องโหว่เชิงรุก"
+  },
+  {
+    "id": 95,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Incident Response Plan?",
+    "options": {
+      "ก": "แผนการป้องกันการโจมตี",
+      "ข": "แผนการตอบสนองต่อเหตุการณ์ด้านความปลอดภัยเพื่อให้สามารถตอบสนองต่อการโจมตี ได้อย่างรวดเร็วและมีประสิทธิภาพ",
+      "ค": "แผนการสำรองข้อมูล",
+      "ง": "แผนการกู้คืนระบบ"
+    },
+    "answer": "ข",
+    "answer_text": "แผนการตอบสนองต่อเหตุการณ์ด้านความปลอดภัยเพื่อให้สามารถตอบสนองต่อการโจมตี ได้อย่างรวดเร็วและมีประสิทธิภาพ",
+    "explanation": "Incident Response Plan เป็นแผนการรับมือเมื่อเกิดเหตุการณ์ด้านความปลอดภัย"
+  },
+  {
+    "id": 96,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Data Classification?",
+    "options": {
+      "ก": "การเข้ารหัสข้อมูล",
+      "ข": "การจัดหมวดหมู่ข้อมูลตามระดับความสำคัญและความอ่อนไหวเพื่อกำหนดมาตรการ ป้องกันที่เหมาะสม",
+      "ค": "การสำรองข้อมูล",
+      "ง": "การลบข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "การจัดหมวดหมู่ข้อมูลตามระดับความสำคัญและความอ่อนไหวเพื่อกำหนดมาตรการ ป้องกันที่เหมาะสม",
+    "explanation": "Data Classification ช่วยให้สามารถปกป้องข้อมูลได้อย่างมีประสิทธิภาพ"
+  },
+  {
+    "id": 97,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือประโยชน์ของการทำ Security Audit?",
+    "options": {
+      "ก": "เพื่อติดตั้",
+      "ง": "Antivirus เพื่อเพิ่มความเร็วของระบบ",
+      "ข": "เพื่อตรวจสอบและประเมินประสิทธิภาพของมาตรการความปลอดภัยที่ใช้อยู่และระบุจุดที่ ต้องปรับปรุง",
+      "ค": "เพื่อสำรองข้อมูล"
+    },
+    "answer": "ข",
+    "answer_text": "เพื่อตรวจสอบและประเมินประสิทธิภาพของมาตรการความปลอดภัยที่ใช้อยู่และระบุจุดที่ ต้องปรับปรุง",
+    "explanation": "Security Audit ช่วยให้มั่นใจว่าระบบมีความปลอดภัยตามมาตรฐาน"
+  },
+  {
+    "id": 98,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความหมายของ Cyber Threat Intelligence (CTI)?",
+    "options": {
+      "ก": "ข้อมูลเกี่ยวกับภัยคุกคามทางไซเบอร์ที่รวบรวมจากแหล่งต่างๆเพื่อช่วยให้องค์กรสามารถ ป้องกัน, ตรวจจับ, และตอบสนองต่อการโจมตีได้อย่างมีประสิทธิภาพ",
+      "ข": "ซอฟต์แวร์ Antivirus",
+      "ค": "ระบบ Firewall",
+      "ง": "ระบบสำรองข้อมูล"
+    },
+    "answer": "ก",
+    "answer_text": "ข้อมูลเกี่ยวกับภัยคุกคามทางไซเบอร์ที่รวบรวมจากแหล่งต่างๆเพื่อช่วยให้องค์กรสามารถ ป้องกัน, ตรวจจับ, และตอบสนองต่อการโจมตีได้อย่างมีประสิทธิภาพ",
+    "explanation": "CTI ช่วยให้องค์กรเข้าใจภัยคุกคามและเตรียมพร้อมรับมือ"
+  },
+  {
+    "id": 99,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือความสำคัญของการทำ Log Management และ Monitoring ในการบริหารความมั่นคง ปลอดภัยสารสนเทศ?",
+    "options": {
+      "ก": "เพื่อเพิ่มความเร็วของระบบ",
+      "ข": "เพื่อรวบรวม, จัดเก็บ, และวิเคราะห์ Log File จากระบบและอุปกรณ์ต่างๆเพื่อตรวจจับ กิจกรรมที่น่าสงสัย, ตรวจสอบเหตุการณ์, และสนับสนุนการสอบสวนทางนิติวิทยาศาสตร์",
+      "ค": "เพื่อลดค่าใช้จ่ายด้าน IT",
+      "ง": "เพื่อป้องกันการโจมตีแบบ DDoS"
+    },
+    "answer": "ข",
+    "answer_text": "เพื่อรวบรวม, จัดเก็บ, และวิเคราะห์ Log File จากระบบและอุปกรณ์ต่างๆเพื่อตรวจจับ กิจกรรมที่น่าสงสัย, ตรวจสอบเหตุการณ์, และสนับสนุนการสอบสวนทางนิติวิทยาศาสตร์",
+    "explanation": "Log Management เป็นสิ่งสำคัญในการตรวจจับและตอบสนองต่อเหตุการณ์ด้าน ความปลอดภัย"
+  },
+  {
+    "id": 100,
+    "context": "ความมั่นคงปลอดภัยสารสนเทศและการบริหารความเสี่ยง",
+    "question": "ข้อใดคือหลักการของ Defense in Depth ในความมั่นคงปลอดภัยสารสนเทศ?",
+    "options": {
+      "ก": "การใช้มาตรการป้องกันเพียงชั้นเดียว",
+      "ข": "การใช้มาตรการป้องกันหลายชั้นเพื่อให้มีแนวป้องกันที่แข็งแกร่งและลดโอกาสที่ผู้โจมตีจะ เข้าถึงระบบได้สำเร็จ",
+      "ค": "การใช้มาตรการป้องกันที่ซับซ้อนที่สุด",
+      "ง": "การใช้มาตรการป้องกันที่ราคาแพงที่สุด"
+    },
+    "answer": "ข",
+    "answer_text": "การใช้มาตรการป้องกันหลายชั้นเพื่อให้มีแนวป้องกันที่แข็งแกร่งและลดโอกาสที่ผู้โจมตีจะ เข้าถึงระบบได้สำเร็จ",
+    "explanation": "Defense in Depth คือการป้องกันแบบหลายชั้น"
+  }
+]
