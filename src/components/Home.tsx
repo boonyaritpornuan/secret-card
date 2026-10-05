@@ -28,6 +28,29 @@ export default function Home({
   const [showApkGuide, setShowApkGuide] = useState<boolean>(false);
   const [showResetModal, setShowResetModal] = useState<boolean>(false);
   const [toastMessage, setToastMessage] = useState<string>('');
+  const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
+
+  useEffect(() => {
+    const handler = (e: any) => {
+      e.preventDefault();
+      setDeferredPrompt(e);
+    };
+    window.addEventListener('beforeinstallprompt', handler);
+    return () => window.removeEventListener('beforeinstallprompt', handler);
+  }, []);
+
+  const handleInstallClick = () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      deferredPrompt.userChoice.then((choiceResult: any) => {
+        if (choiceResult.outcome === 'accepted') {
+          setDeferredPrompt(null);
+        }
+      });
+    } else {
+      setShowInstallGuide(true);
+    }
+  };
 
   useEffect(() => {
     if (!toastMessage) return;
@@ -230,7 +253,7 @@ export default function Home({
 
         <div className="flex gap-2.5 mt-4">
           <button
-            onClick={() => setShowInstallGuide(true)}
+            onClick={handleInstallClick}
             className="flex-1 bg-gradient-to-r from-[#e86010] to-[#ff8c30] text-white font-extrabold py-2.5 px-3 rounded-xl text-[11px] flex items-center justify-center gap-1.5 active:scale-[0.98] transition-all cursor-pointer shadow-[0_4px_12px_rgba(232,96,16,0.3)]"
           >
             <Smartphone className="h-4 w-4" />
@@ -274,11 +297,15 @@ export default function Home({
                   <span className="w-5 h-5 rounded-full bg-[#ff8c30]/10 flex items-center justify-center text-[10px]">1</span>
                   <span>สำหรับ Android (Chrome)</span>
                 </div>
-                <ul className="text-[11.5px] text-white/60 space-y-1.5 list-disc pl-5 leading-relaxed">
-                  <li>เปิดบราวเซอร์ Chrome เข้ามาที่ลิงก์หน้าแอปนี้</li>
-                  <li>กดปุ่มเมนู <strong className="text-white">ไอคอน 3 จุด (⋮)</strong> ที่มุมขวาบนสุด</li>
-                  <li>เลือกคำสั่ง <strong className="text-white">"ติดตั้งแอป" (Install app)</strong> หรือ <strong className="text-white">"เพิ่มลงในหน้าจอหลัก"</strong></li>
-                  <li>แอปจะดาวน์โหลดและติดตั้งในเครื่องทันที เปิดใช้งานผ่านหน้าจอหลักได้ทันที</li>
+                <ul className="text-[11.5px] text-white/60 space-y-2 list-disc pl-5 leading-relaxed">
+                  <li>แตะปุ่มเมนู <strong className="text-white">ไอคอน 3 จุด (⋮)</strong> ที่มุมขวาบนของเบราว์เซอร์ Chrome</li>
+                  <li>
+                    เลือกคำสั่ง <strong className="text-[#ff8c30]">"เพิ่มลงในหน้าจอหลัก" (Add to Home screen)</strong> หรือ <strong className="text-[#ff8c30]">"ติดตั้งแอป" (Install app)</strong>
+                    <div className="text-[10px] text-white/40 mt-1 bg-white/5 p-2 rounded-lg">
+                      💡 <strong>ข้อสังเกต:</strong> หากเข้าผ่าน Wi-Fi ในบ้าน (http://) เบราว์เซอร์จะไม่แสดงคำว่า "ติดตั้งแอป" แต่จะแสดงคำว่า <strong>"เพิ่มลงในหน้าจอหลัก"</strong> แทน ซึ่งใช้งานได้เต็มจอเหมือนกันครับ
+                    </div>
+                  </li>
+                  <li>ไอคอนแอปจะไปปรากฏบนหน้าจอมือถือของคุณทันที แตะเปิดใช้งานแบบ Fullscreen ได้เลย</li>
                 </ul>
               </div>
 
