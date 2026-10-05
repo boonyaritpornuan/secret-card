@@ -386,14 +386,53 @@ export default function App() {
     setCurrentView('study');
   };
 
-  // Delete all scores and history progress
+  // Delete all scores and history progress (both flashcards and exams)
   const handleResetAllProgress = () => {
     setProgressRecords([]);
     setExamProgressRecords([]);
     try {
       localStorage.removeItem(activePosition.progressKey);
       localStorage.removeItem(activePosition.examProgressKey);
-    } catch (e) {}
+      if (activePositionId === 'paph') {
+        localStorage.removeItem('sc_progress_records');
+        localStorage.removeItem('sc_exam_progress_records');
+      } else {
+        localStorage.removeItem('sc_progress_records_sphu');
+        localStorage.removeItem('sc_exam_progress_records_sphu');
+      }
+    } catch (e) {
+      console.warn("Could not clear progress from localStorage:", e);
+    }
+  };
+
+  // Reset flashcards progress only
+  const handleResetFlashcardProgress = () => {
+    setProgressRecords([]);
+    try {
+      localStorage.removeItem(activePosition.progressKey);
+      if (activePositionId === 'paph') {
+        localStorage.removeItem('sc_progress_records');
+      } else {
+        localStorage.removeItem('sc_progress_records_sphu');
+      }
+    } catch (e) {
+      console.warn("Could not clear flashcard progress from localStorage:", e);
+    }
+  };
+
+  // Reset exam scores only
+  const handleResetExamProgress = () => {
+    setExamProgressRecords([]);
+    try {
+      localStorage.removeItem(activePosition.examProgressKey);
+      if (activePositionId === 'paph') {
+        localStorage.removeItem('sc_exam_progress_records');
+      } else {
+        localStorage.removeItem('sc_exam_progress_records_sphu');
+      }
+    } catch (e) {
+      console.warn("Could not clear exam progress from localStorage:", e);
+    }
   };
 
   // Flashcard calculations
@@ -462,6 +501,7 @@ export default function App() {
               totalExamQuestions={totalExamQuestions}
               onSelectFlashcards={() => setCurrentView('home')}
               onSelectExams={() => setCurrentView('examList')}
+              onResetAll={handleResetAllProgress}
             />
           )}
 
@@ -472,7 +512,7 @@ export default function App() {
               onSelectPart={setActivePartId}
               onSelectSet={handleSelectSet}
               progressRecords={progressRecords}
-              onResetAllProgress={handleResetAllProgress}
+              onResetAllProgress={handleResetFlashcardProgress}
               onOpenExamMode={() => setCurrentView('examList')}
               onGoToHub={() => setCurrentView('hub')}
             />
@@ -519,6 +559,7 @@ export default function App() {
               totalCorrectExamAnswers={totalCorrectExamAnswers}
               totalExamQuestions={totalExamQuestions}
               examProgressRecords={examProgressRecords}
+              onResetExamProgress={handleResetExamProgress}
             />
           )}
 
@@ -551,7 +592,7 @@ export default function App() {
                     updatedExams.push(record);
                   }
                   
-                  localStorage.setItem('sc_exam_progress_records', JSON.stringify(updatedExams));
+                  localStorage.setItem(activePosition.examProgressKey, JSON.stringify(updatedExams));
                   setExamProgressRecords(updatedExams);
                 }
                 

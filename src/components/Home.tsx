@@ -1,6 +1,7 @@
-import { useState } from 'react';
-import { Award, BookOpen, CheckCircle, Flame, Play, RefreshCw, Trophy, Zap, Smartphone, Code, X, ArrowLeft } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Award, BookOpen, CheckCircle, Flame, Play, RefreshCw, Trophy, Zap, Smartphone, Code, X, ArrowLeft, Check } from 'lucide-react';
 import { Part, SetProgress } from '../types';
+import ConfirmResetModal from './ConfirmResetModal';
 
 interface HomeProps {
   parts: Part[];
@@ -25,6 +26,14 @@ export default function Home({
 }: HomeProps) {
   const [showInstallGuide, setShowInstallGuide] = useState<boolean>(false);
   const [showApkGuide, setShowApkGuide] = useState<boolean>(false);
+  const [showResetModal, setShowResetModal] = useState<boolean>(false);
+  const [toastMessage, setToastMessage] = useState<string>('');
+
+  useEffect(() => {
+    if (!toastMessage) return;
+    const t = setTimeout(() => setToastMessage(''), 2500);
+    return () => clearTimeout(t);
+  }, [toastMessage]);
 
   // Find current active part
   const activePart = parts.find((p) => p.id === selectedPartId) || parts[0];
@@ -44,13 +53,12 @@ export default function Home({
   }, 0);
 
   const totalCardsInPart = partSets.reduce((sum, s) => sum + s.cards.length, 0);
+  const hasProgress = progressRecords.length > 0 || completedSets > 0 || totalRemembered > 0;
 
-  // Simple confirmation logic for reset
-  const handleResetClick = () => {
-    const ok = window.confirm("ต้องการรีเซ็ตประวัติการเข้าฝึกและสถิติทั้งหมดหรือไม่?");
-    if (ok) {
-      onResetAllProgress();
-    }
+  const handleConfirmReset = () => {
+    setShowResetModal(false);
+    onResetAllProgress();
+    setToastMessage('ล้างสถิติเรียบร้อยแล้ว');
   };
 
   return (
@@ -136,10 +144,11 @@ export default function Home({
           รายการชุดข้อสอบ ({partSets.length} ชุด)
         </h3>
         
-        {progressRecords.length > 0 && (
+        {hasProgress && (
           <button
-            onClick={handleResetClick}
-            className="flex items-center gap-1.5 text-[10px] font-bold text-white/30 hover:text-[#f87171] transition-colors cursor-pointer bg-white/5 px-2.5 py-1 rounded-lg"
+            onClick={() => setShowResetModal(true)}
+            className="flex items-center gap-1.5 text-[11px] font-bold text-white/50 hover:text-red-400 bg-white/5 hover:bg-red-500/10 border border-white/10 hover:border-red-500/30 transition-all cursor-pointer px-3 py-1.5 rounded-lg active:scale-95"
+            title="ล้างสถิติทั้งหมด"
           >
             <RefreshCw className="h-3 w-3" />
             <span>ล้างสถิติ</span>
@@ -371,6 +380,24 @@ export default function Home({
               เข้าใจแล้ว ปิดหน้าต่างนี้
             </button>
           </div>
+        </div>
+      )}
+
+      {/* Confirmation Modal */}
+      <ConfirmResetModal
+        isOpen={showResetModal}
+        title="ยืนยันการล้างสถิติ"
+        description="คุณต้องการล้างสถิติการฝึกจำ Flashcard ทั้งหมดของตำแหน่งนี้ใช่หรือไม่?"
+        confirmText="ยืนยันล้างสถิติ"
+        onConfirm={handleConfirmReset}
+        onCancel={() => setShowResetModal(false)}
+      />
+
+      {/* Success Toast */}
+      {toastMessage && (
+        <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[110] bg-[#0c1f38] border border-green-500/50 shadow-[0_4px_20px_rgba(0,0,0,0.7)] px-4 py-2.5 rounded-xl flex items-center gap-2 text-xs font-bold text-green-400 animate-[fadeIn_150ms_ease-out]">
+          <Check className="h-4 w-4 text-green-400" />
+          <span>{toastMessage}</span>
         </div>
       )}
     </div>

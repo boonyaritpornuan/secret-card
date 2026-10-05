@@ -1,6 +1,7 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { ExamProgress, ExamQuestion } from '../types';
-import { ArrowLeft, Trophy, Play, Search, Layers } from 'lucide-react';
+import { ArrowLeft, Trophy, Play, Search, Layers, RefreshCw, Check } from 'lucide-react';
+import ConfirmResetModal from './ConfirmResetModal';
 
 export default function ExamList({
   exams,
@@ -12,6 +13,7 @@ export default function ExamList({
   totalCorrectExamAnswers,
   totalExamQuestions,
   examProgressRecords,
+  onResetExamProgress,
 }: {
   exams: { id: string; title: string; count: number }[];
   loaders: Record<string, () => Promise<any>>;
@@ -22,9 +24,24 @@ export default function ExamList({
   totalCorrectExamAnswers: number;
   totalExamQuestions: number;
   examProgressRecords: ExamProgress[];
+  onResetExamProgress?: () => void;
 }) {
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState<string>('');
+  const [showResetModal, setShowResetModal] = useState<boolean>(false);
+  const [toastMessage, setToastMessage] = useState<string>('');
+
+  useEffect(() => {
+    if (!toastMessage) return;
+    const t = setTimeout(() => setToastMessage(''), 2500);
+    return () => clearTimeout(t);
+  }, [toastMessage]);
+
+  const handleConfirmReset = () => {
+    setShowResetModal(false);
+    if (onResetExamProgress) onResetExamProgress();
+    setToastMessage('ล้างสถิติสอบเรียบร้อยแล้ว');
+  };
 
   const handleStart = async (examId: string) => {
     try {
@@ -146,16 +163,30 @@ export default function ExamList({
             </h2>
           </div>
 
-          {/* Search Box */}
-          <div className="relative w-full sm:w-64">
-            <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-3.5 w-3.5 text-white/40" />
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="ค้นหาชุดข้อสอบ..."
-              className="w-full bg-[#0c1f38] border border-white/10 rounded-xl pl-8 pr-3 py-1.5 text-xs text-white placeholder-white/40 focus:outline-none focus:border-indigo-500/50"
-            />
+          {/* Actions & Search */}
+          <div className="flex items-center gap-2 w-full sm:w-auto">
+            {onResetExamProgress && (examProgressRecords.length > 0 || completedExams > 0) && (
+              <button
+                onClick={() => setShowResetModal(true)}
+                className="flex items-center gap-1.5 text-[11px] font-bold text-white/50 hover:text-red-400 bg-white/5 hover:bg-red-500/10 border border-white/10 hover:border-red-500/30 transition-all cursor-pointer px-3 py-1.5 rounded-xl shrink-0 active:scale-95"
+                title="ล้างสถิติการสอบ"
+              >
+                <RefreshCw className="h-3 w-3" />
+                <span>ล้างสถิติสอบ</span>
+              </button>
+            )}
+
+            {/* Search Box */}
+            <div className="relative w-full sm:w-64">
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-3.5 w-3.5 text-white/40" />
+              <input
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="ค้นหาชุดข้อสอบ..."
+                className="w-full bg-[#0c1f38] border border-white/10 rounded-xl pl-8 pr-3 py-1.5 text-xs text-white placeholder-white/40 focus:outline-none focus:border-indigo-500/50"
+              />
+            </div>
           </div>
         </div>
 
@@ -227,6 +258,24 @@ export default function ExamList({
           })
         )}
       </div>
+
+      {/* Reset Confirmation Modal */}
+      <ConfirmResetModal
+        isOpen={showResetModal}
+        title="ยืนยันการล้างสถิติสอบ"
+        description="คุณต้องการล้างคะแนนและประวัติการสอบทั้งหมดของตำแหน่งนี้ใช่หรือไม่?"
+        confirmText="ยืนยันล้างสถิติสอบ"
+        onConfirm={handleConfirmReset}
+        onCancel={() => setShowResetModal(false)}
+      />
+
+      {/* Success Toast */}
+      {toastMessage && (
+        <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[110] bg-[#0c1f38] border border-green-500/50 shadow-[0_4px_20px_rgba(0,0,0,0.7)] px-4 py-2.5 rounded-xl flex items-center gap-2 text-xs font-bold text-green-400 animate-[fadeIn_150ms_ease-out]">
+          <Check className="h-4 w-4 text-green-400" />
+          <span>{toastMessage}</span>
+        </div>
+      )}
     </div>
   );
 }
