@@ -53,9 +53,23 @@ jobs:
           npx --yes @capacitor/cli sync android || npx --yes @capacitor/cli copy android || true
 
       - name: Build Debug APK with Gradle
+        id: gradle_build
         run: |
           cd android
-          ./gradlew assembleDebug --stacktrace --no-daemon
+          ./gradlew assembleDebug --stacktrace --no-daemon 2>&1 | tee ../gradle.log
+        continue-on-error: true
+
+      - name: Check Gradle Result
+        if: always()
+        run: |
+          if [ "${{ steps.gradle_build.outcome }}" != "success" ]; then
+            echo "### ❌ Gradle Build Failed" >> $GITHUB_STEP_SUMMARY
+            echo '```text' >> $GITHUB_STEP_SUMMARY
+            tail -n 80 gradle.log >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            cat gradle.log | grep -E "FAILURE|ERROR|Exception|error:" -B 2 -A 5 || true
+            exit 1
+          fi
 
       - name: Upload Debug APK Artifact
         uses: actions/upload-artifact@v4
