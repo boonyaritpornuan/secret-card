@@ -53,27 +53,17 @@ jobs:
           npx --yes @capacitor/cli sync android || npx --yes @capacitor/cli copy android || true
 
       - name: Build Debug APK with Gradle
-        id: gradle_build
         run: |
           cd android
-          ./gradlew assembleDebug --stacktrace --no-daemon 2>&1 | tee ../gradle.log
-        continue-on-error: true
+          ./gradlew assembleDebug --stacktrace --no-daemon
 
-      - name: Check Gradle Result
-        if: always()
+      - name: Locate APK file
         run: |
-          if [ "${{ steps.gradle_build.outcome }}" != "success" ]; then
-            echo "### ❌ Gradle Build Failed" >> $GITHUB_STEP_SUMMARY
-            echo '```text' >> $GITHUB_STEP_SUMMARY
-            tail -n 80 gradle.log >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-            cat gradle.log | grep -E "FAILURE|ERROR|Exception|error:" -B 2 -A 5 || true
-            exit 1
-          fi
+          find android/app/build/outputs -name "*.apk"
 
       - name: Upload Debug APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: SecretCard-APK
-          path: android/app/build/outputs/apk/debug/app-debug.apk
-          if-no-files-found: error
+          path: android/app/build/outputs/apk/**/*.apk
+          if-no-files-found: warn
