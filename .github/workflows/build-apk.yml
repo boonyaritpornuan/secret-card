@@ -20,13 +20,11 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
@@ -37,13 +35,14 @@ jobs:
       - name: Sync Capacitor Android
         run: npx cap sync android
 
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v4
+      - name: Fix line endings and permissions for Gradle
+        run: |
+          sed -i 's/\r$//' android/gradlew
+          chmod +x android/gradlew
 
       - name: Build Debug APK with Gradle
         run: |
           cd android
-          chmod +x gradlew
           ./gradlew assembleDebug --stacktrace --no-daemon
 
       - name: Upload Debug APK Artifact
