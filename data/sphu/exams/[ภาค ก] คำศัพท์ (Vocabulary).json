@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "The new software will ___ the process of data entry.",
+    "choices": {
+      "A": "complicate",
+      "B": "hesitate",
+      "C": "simplify",
+      "D": "dominate"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "simplify ( ทำให้ง่ายขึ้น ) - ประโยคระบุว่าซอฟต์แวร์ใหม่จะช่วย \" ทำให้ ... ง่ายขึ้น \" ใน กระบวนการป้อนข้อมูล   ส่วน   complicate =  ทำให้ซับซ้อน , hesitate =  ลังเล , dominate =  ครอบงำ"
+  },
+  {
+    "id": 2,
+    "q": "It is strictly ___ to park in front of the emergency exit.",
+    "choices": {
+      "A": "prohibited",
+      "B": "allowed",
+      "C": "suggested",
+      "D": "encouraged"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "prohibited ( ถูกห้าม ) - บริบทคือการจอดรถหน้าทางออกฉุกเฉินเป็นสิ่งที่ \" ถูกห้าม \" อย่าง เด็ดขาด  ( strictly prohibited)"
+  },
+  {
+    "id": 3,
+    "q": "She has a ___ memory and can remember details from years ago.",
+    "choices": {
+      "A": "fragile",
+      "B": "remarkable",
+      "C": "vague",
+      "D": "temporary"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "remarkable ( ยอดเยี่ยม / โดดเด่น ) - เธอมีความจำที่ยอดเยี่ยมและจำรายละเอียดจากหลายปี ก่อนได้   ส่วน   fragile =  เปราะบาง , vague =  คลุมเครือ , temporary =  ชั่วคราว"
+  },
+  {
+    "id": 4,
+    "q": "The company plans to ___ its operations into the Asian market.",
+    "choices": {
+      "A": "shrink",
+      "B": "conclude",
+      "C": "maintain",
+      "D": "expand"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "expand ( ขยาย ) - บริษัทมีแผนที่จะ \" ขยาย \" กิจการเข้าสู่ตลาดเอเชีย ส่วน shrink = หดลง , conclude =  สรุป , maintain =  รักษาไว้"
+  },
+  {
+    "id": 5,
+    "q": "After the long hike, everyone felt completely ___.",
+    "choices": {
+      "A": "relieved",
+      "B": "exhausted",
+      "C": "enthusiastic",
+      "D": "energetic"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "exhausted ( เหนื่อยล้า ) - หลังจากเดินป่าทางไกล ทุกคนรู้สึก \" เหนื่อยล้า \" อย่างสมบูรณ์ ส่วน relieved =  โล่งใจ , enthusiastic/energetic =  กระตือรือร้น / มีพลัง"
+  },
+  {
+    "id": 6,
+    "q": "We need to ___ our expenses if we want to save money for the trip.",
+    "choices": {
+      "A": "double",
+      "B": "increase",
+      "C": "reduce",
+      "D": "ignore"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "reduce ( ลดลง ) - เราจำเป็นต้อง \" ลด \" ค่าใช้จ่ายหากต้องการเก็บเงินไว้ไปเที่ยว ส่วน double = เพิ่มเป็นสองเท่า , increase =  เพิ่มขึ้น , ignore =  เพิกเฉย"
+  },
+  {
+    "id": 7,
+    "q": "The instructions were so ___ that nobody knew what to do.",
+    "choices": {
+      "A": "simple",
+      "B": "confusing",
+      "C": "clear",
+      "D": "helpful"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "confusing ( น่าสับสน ) - คำแนะนำนั้น \" น่าสับสน \" มากจนไม่มีใครรู้ว่าต้องทำอย่างไร ส่วน simple =  ง่าย , clear =  ชัดเจน , helpful =  มีประโยชน์"
+  },
+  {
+    "id": 8,
+    "q": "The scientist conducted an ___ to test the new theory.",
+    "choices": {
+      "A": "operation",
+      "B": "investment",
+      "C": "experiment",
+      "D": "interview"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "experiment ( การทดลอง ) - นักวิทยาศาสตร์ทำการ \" ทดลอง \" เพื่อทดสอบทฤษฎีใหม่ ส่วน operation =  การผ่าตัด / ปฏิบัติการ , investment =  การลงทุน , interview =  การสัมภาษณ์"
+  },
+  {
+    "id": 9,
+    "q": "He was completely ___ of the changes made to the schedule.",
+    "choices": {
+      "A": "conscious",
+      "B": "unaware",
+      "C": "familiar",
+      "D": "informed"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "unaware ( ไม่รู้ตัว / ไม่ทราบมาก่อน ) - เขา \" ไม่ทราบมาก่อน \" เลยเกี่ยวกับการเปลี่ยนแปลง ตารางเวลา   ส่วน   conscious/familiar/informed =  รู้สึกตัว / คุ้นเคย / ได้รับแจ้ง"
+  },
+  {
+    "id": 10,
+    "q": "The team achieved a ___ victory in the championship game.",
+    "choices": {
+      "A": "massive",
+      "B": "losing",
+      "C": "minor",
+      "D": "failing"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "massive ( ใหญ่โต ) - ทีมบรรลุชัยชนะ \" ครั้งใหญ่ \" ในเกมชิงแชมป์ ส่วน losing/minor/failing = พ่ายแพ้ / เล็กน้อย / ล้มเหลว"
+  },
+  {
+    "id": 11,
+    "q": "Eating a balanced diet is ___ for maintaining good health.",
+    "choices": {
+      "A": "rare",
+      "B": "essential",
+      "C": "optional",
+      "D": "harmful"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "essential ( จำเป็น ) - การรับประทานอาหารให้ครบถ้วนเป็นสิ่ง \" จำเป็น \" สำหรับการรักษา สุขภาพ   ส่วน   rare =  หายาก , optional =  เป็นทางเลือก , harmful =  เป็นอันตราย"
+  },
+  {
+    "id": 12,
+    "q": "The detective found a crucial piece of ___ at the crime scene.",
+    "choices": {
+      "A": "evidence",
+      "B": "clothing",
+      "C": "gossip",
+      "D": "furniture"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "evidence ( หลักฐาน ) - นักสืบพบ \" หลักฐาน \" ชิ้นสำคัญที่จุดเกิดเหตุ ส่วน clothing = เสื้อผ้า , gossip =  ข่าวลือ , furniture =  เฟอร์นิเจอร์"
+  },
+  {
+    "id": 13,
+    "q": "Please ___ to the email as soon as possible.",
+    "choices": {
+      "A": "delete",
+      "B": "forward",
+      "C": "respond",
+      "D": "ignore"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "respond ( ตอบกลับ ) - กรุณา \" ตอบกลับ \" อีเมลโดยเร็วที่สุด ส่วน delete = ลบ , forward = ส่งต่อ , ignore =  เพิกเฉย"
+  },
+  {
+    "id": 14,
+    "q": "The heavy rain will ___ the construction of the new bridge.",
+    "choices": {
+      "A": "assist",
+      "B": "accelerate",
+      "C": "improve",
+      "D": "delay"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "delay ( ทำให้ล่าช้า ) - ฝนที่ตกหนักจะ \" ทำให้ \" การก่อสร้างสะพานใหม่ \" ล่าช้า \" ส่วน assist = ช่วยเหลือ , accelerate =  เร่ง , improve =  ปรับปรุง"
+  },
+  {
+    "id": 15,
+    "q": "She made a ___ effort to finish the project on time.",
+    "choices": {
+      "A": "genuine",
+      "B": "fake",
+      "C": "careless",
+      "D": "lazy"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "genuine ( แท้จริง / จริงใจ ) - เธอใช้ความพยายามอย่าง \" แท้จริง \" ในการทำงานให้เสร็จตรงเวลา ส่วน   fake =  ปลอม , careless =  ประมาท , lazy =  ขี้เกียจ"
+  },
+  {
+    "id": 16,
+    "q": "The ancient ruins are a popular tourist ___.",
+    "choices": {
+      "A": "destination",
+      "B": "reduction",
+      "C": "distraction",
+      "D": "rejection"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "destination ( จุดหมายปลายทาง ) - ซากปรักหักพังโบราณเป็น \" จุดหมายปลายทาง \" ยอดนิยม ของนักท่องเที่ยว   ส่วน   reduction =  การลดลง , distraction =  สิ่งเบี่ยงเบนความสนใจ"
+  },
+  {
+    "id": 17,
+    "q": "The teacher asked the students to ___ the main points of the story.",
+    "choices": {
+      "A": "confuse",
+      "B": "forget",
+      "C": "summarize",
+      "D": "expand"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "summarize ( สรุป ) - ครูให้นักเรียน \" สรุป \" ประเด็นสำคัญของเรื่อง ส่วน confuse = ทำให้ สับสน , forget =  ลืม , expand =  ขยายความ"
+  },
+  {
+    "id": 18,
+    "q": "Due to the bad weather, the flight was unfortunately ___.",
+    "choices": {
+      "A": "canceled",
+      "B": "boarded",
+      "C": "upgraded",
+      "D": "scheduled"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "canceled ( ถูกยกเลิก ) - เนื่องจากสภาพอากาศเลวร้าย เที่ยวบินจึง \" ถูกยกเลิก \" ส่วน boarded =  ขึ้นเครื่อง , upgraded =  เลื่อนชั้น , scheduled =  มีกำหนดการ"
+  },
+  {
+    "id": 19,
+    "q": "His sudden resignation came as a complete ___ to everyone.",
+    "choices": {
+      "A": "expectation",
+      "B": "surprise",
+      "C": "routine",
+      "D": "relief"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "surprise ( เรื่องประหลาดใจ ) - การลาออกกะทันหันของเขากลายเป็น \" เรื่องประหลาดใจ \" สำหรับทุกคน   ส่วน   expectation =  ความคาดหวัง , routine =  กิจวัตร , relief =  ความโล่งใจ"
+  },
+  {
+    "id": 20,
+    "q": "The two companies decided to ___ and form a single corporation.",
+    "choices": {
+      "A": "merge",
+      "B": "split",
+      "C": "divide",
+      "D": "compete"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "merge ( ควบรวม ) - ทั้งสองบริษัทตัดสินใจ \" ควบรวมกิจการ \" และตั้งเป็นบริษัทเดียว ส่วน split/divide =  แบ่งแยก , compete =  แข่งขัน"
+  },
+  {
+    "id": 21,
+    "q": "It is important to ___ your skin from the sun's harmful rays.",
+    "choices": {
+      "A": "reveal",
+      "B": "expose",
+      "C": "burn",
+      "D": "protect"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "protect ( ปกป้อง ) - สิ่งสำคัญคือต้อง \" ปกป้อง \" ผิวของคุณจากรังสีที่เป็นอันตรายของดวง อาทิตย์   ส่วน   reveal/expose =  เปิดเผย , burn =  เผาไหม้"
+  },
+  {
+    "id": 22,
+    "q": "The new law will have a significant ___ on small businesses.",
+    "choices": {
+      "A": "origin",
+      "B": "impact",
+      "C": "failure",
+      "D": "attempt"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "impact ( ผลกระทบ ) - กฎหมายใหม่จะมี \" ผลกระทบ \" อย่างมากต่อธุรกิจขนาดเล็ก ส่วน origin =  จุดกำเนิด , failure =  ความล้มเหลว , attempt =  ความพยายาม"
+  },
+  {
+    "id": 23,
+    "q": "The artist used ___ colors to make the painting stand out.",
+    "choices": {
+      "A": "vibrant",
+      "B": "dull",
+      "C": "invisible",
+      "D": "boring"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "vibrant ( สดใส / มีชีวิตชีวา ) - ศิลปินใช้สีที่ \" สดใส \" เพื่อให้ภาพวาดโดดเด่น ส่วน dull/boring = น่าเบื่อ / จืดชืด , invisible =  มองไม่เห็น"
+  },
+  {
+    "id": 24,
+    "q": "The doctor prescribed medication to ___ the patient's pain.",
+    "choices": {
+      "A": "multiply",
+      "B": "worsen",
+      "C": "alleviate",
+      "D": "increase"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "alleviate ( บรรเทา ) - หมอสั่งยาเพื่อ \" บรรเทา \" อาการปวดของผู้ป่วย ส่วน multiply/increase =  เพิ่มขึ้น , worsen =  ทำให้แย่ลง"
+  },
+  {
+    "id": 25,
+    "q": "The building was completely ___ by the fire.",
+    "choices": {
+      "A": "repaired",
+      "B": "destroyed",
+      "C": "constructed",
+      "D": "cleaned"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "destroyed ( ถูกทำลาย ) - อาคาร \" ถูกทำลาย \" อย่างสมบูรณ์โดยกองเพลิง ส่วน repaired = ซ่อมแซม , constructed =  สร้าง , cleaned =  ทำความสะอาด"
+  },
+  {
+    "id": 26,
+    "q": "She had to ___ her fear of public speaking to deliver the presentation.",
+    "choices": {
+      "A": "overcome",
+      "B": "ignore",
+      "C": "avoid",
+      "D": "embrace"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "overcome ( เอาชนะ ) - เธอต้อง \" เอาชนะ \" ความกลัวการพูดต่อหน้าสาธารณชนเพื่อนำเสนอ งาน   ส่วน   ignore =  เพิกเฉย , avoid =  หลีกเลี่ยง , embrace =  น้อมรับ"
+  },
+  {
+    "id": 27,
+    "q": "The manager is looking for an ___ way to boost sales.",
+    "choices": {
+      "A": "illogical",
+      "B": "outdated",
+      "C": "impossible",
+      "D": "effective"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "effective ( มีประสิทธิภาพ ) - ผู้จัดการกำลังหาวิธีที่ \" มีประสิทธิภาพ \" ในการเพิ่มยอดขาย ส่วน illogical =  ไม่มีเหตุผล , outdated =  ล้าสมัย , impossible =  เป็นไปไม่ได้"
+  },
+  {
+    "id": 28,
+    "q": "The negotiations reached an agreement that was strictly ___.",
+    "choices": {
+      "A": "public",
+      "B": "open",
+      "C": "confidential",
+      "D": "broadcasted"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "confidential ( เป็นความลับ ) - การเจรจาบรรลุข้อตกลงซึ่งถือ \" เป็นความลับ \" อย่างเข้มงวด ส่วน   public/open/broadcasted =  สาธารณะ / เปิดเผย"
+  },
+  {
+    "id": 29,
+    "q": "He is highly ___ and always arrives at the office before anyone else.",
+    "choices": {
+      "A": "lazy",
+      "B": "motivated",
+      "C": "tired",
+      "D": "careless"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "motivated ( มีแรงจูงใจ ) - เขา \" กระตือรือร้น / มีแรงจูงใจ \" สูงและมักจะมาถึงออฟฟิศก่อนคน อื่นเสมอ   ส่วน   lazy =  ขี้เกียจ , tired =  เหนื่อย , careless =  ประมาท"
+  },
+  {
+    "id": 30,
+    "q": "The factory produces a vast ___ of electronic devices.",
+    "choices": {
+      "A": "quantity",
+      "B": "absence",
+      "C": "shortage",
+      "D": "limitation"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "quantity ( ปริมาณ ) - โรงงานผลิตอุปกรณ์อิเล็กทรอนิกส์ใน \" ปริมาณ \" มหาศาล ส่วน absence =  การขาดหาย , shortage =  ความขาดแคลน , limitation =  ข้อจำกัด"
+  },
+  {
+    "id": 31,
+    "q": "The river is highly ___ due to the factory waste dumped into it.",
+    "choices": {
+      "A": "clean",
+      "B": "fresh",
+      "C": "purified",
+      "D": "polluted"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "polluted ( เป็นมลพิษ ) - แม่นํ้ามี \" มลพิษ \" สูงเนื่องจากของเสียจากโรงงานที่ทิ้งลงไป ส่วน clean/fresh/purified =  สะอาด / สดชื่น / บริสุทธิ์"
+  },
+  {
+    "id": 32,
+    "q": "They need to ___ the problem before they can find a solution.",
+    "choices": {
+      "A": "complicate",
+      "B": "ignore",
+      "C": "identify",
+      "D": "create"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "identify ( ระบุ ) - พวกเขาจำเป็นต้อง \" ระบุ \" ปัญหาให้ได้ก่อนจึงจะสามารถหาวิธีแก้ได้ ส่วน complicate =  ทำให้ซับซ้อน , ignore =  เพิกเฉย , create =  สร้าง"
+  },
+  {
+    "id": 33,
+    "q": "The old bridge is no longer ___ for heavy vehicles.",
+    "choices": {
+      "A": "narrow",
+      "B": "safe",
+      "C": "dangerous",
+      "D": "risky"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "safe ( ปลอดภัย ) - สะพานเก่าไม่ \" ปลอดภัย \" สำหรับยานพาหนะหนักอีกต่อไป ส่วน narrow = แคบ , dangerous/risky =  อันตราย / เสี่ยง"
+  },
+  {
+    "id": 34,
+    "q": "She has a strong ___ to become a doctor and help people.",
+    "choices": {
+      "A": "regret",
+      "B": "hesitation",
+      "C": "desire",
+      "D": "fear"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "desire ( ความปรารถนา ) - เธอมี \" ความปรารถนา \" อย่างแรงกล้าที่จะเป็นหมอและช่วยเหลือ ผู้คน   ส่วน   regret =  ความเสียใจ , hesitation =  ความลังเล , fear =  ความกลัว"
+  },
+  {
+    "id": 35,
+    "q": "The witness provided an ___ account of what happened.",
+    "choices": {
+      "A": "accurate",
+      "B": "incorrect",
+      "C": "unknown",
+      "D": "false"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "accurate ( แม่นยำ / ถูกต้อง ) - พยานให้การถึงเรื่องที่เกิดขึ้นได้อย่าง \" แม่นยำ \" ส่วน incorrect/false =  ไม่ถูกต้อง / เท็จ , unknown =  ไม่ทราบ"
+  },
+  {
+    "id": 36,
+    "q": "The government plans to ___ a new tax on luxury goods.",
+    "choices": {
+      "A": "impose",
+      "B": "remove",
+      "C": "withdraw",
+      "D": "cancel"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "impose ( กำหนด / บังคับใช้ ) - รัฐบาลวางแผนที่จะ \" บังคับใช้ \" ภาษีใหม่ ( impose a tax) สำหรับสินค้าฟุ่มเฟือย   ส่วน   remove/withdraw/cancel =  ถอดถอน / ยกเลิก"
+  },
+  {
+    "id": 37,
+    "q": "The company's profits have been ___ increasing over the last year.",
+    "choices": {
+      "A": "barely",
+      "B": "steadily",
+      "C": "never",
+      "D": "rarely"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "steadily ( อย่างมั่นคง / ต่อเนื่อง ) - ผลกำไรของบริษัทเพิ่มขึ้น \" อย่างต่อเนื่อง \" ตลอดปีที่ผ่านมา ส่วน   barely/rarely =  แทบจะไม่ , never =  ไม่เคย"
+  },
+  {
+    "id": 38,
+    "q": "His rude behavior was highly ___ to the guests.",
+    "choices": {
+      "A": "charming",
+      "B": "pleasing",
+      "C": "polite",
+      "D": "offensive"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "offensive ( ก้าวร้าว / ทำให้ขุ่นเคือง ) - พฤติกรรมที่หยาบคายของเขานั้น \" ทำให้ขุ่นเคือง \" ต่อ แขกอย่างมาก   ส่วน   charming/pleasing/polite =  มีเสน่ห์ / น่ายินดี / สุภาพ"
+  },
+  {
+    "id": 39,
+    "q": "She possesses the necessary ___ to complete this complex task.",
+    "choices": {
+      "A": "skills",
+      "B": "failures",
+      "C": "fears",
+      "D": "weaknesses"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "skills ( ทักษะ ) - เธอมี \" ทักษะ \" ที่จำเป็นในการทำงานที่ซับซ้อนนี้ให้สำเร็จ ส่วน failures = ความล้มเหลว , fears =  ความกลัว , weaknesses =  จุดอ่อน"
+  },
+  {
+    "id": 40,
+    "q": "The medicine should be taken strictly according to the ___.",
+    "choices": {
+      "A": "instructions",
+      "B": "rumors",
+      "C": "colors",
+      "D": "suggestions"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "instructions ( คำแนะนำ / วิธีใช้ ) - ควรรับประทานยาตาม \" คำแนะนำการใช้ \" อย่างเคร่งครัด ส่วน   rumors =  ข่าวลือ , colors =  สี , suggestions =  ข้อเสนอแนะ  ( ยาต้องใช้คู่กับ   instruction)"
+  },
+  {
+    "id": 41,
+    "q": "The athlete suffered a ___ injury that ended his career.",
+    "choices": {
+      "A": "temporary",
+      "B": "severe",
+      "C": "mild",
+      "D": "minor"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "severe ( รุนแรง ) - นักกีฬาได้รับบาดเจ็บอย่าง \" รุนแรง \" ซึ่งทำให้อาชีพของเขาสิ้นสุดลง ส่วน temporary =  ชั่วคราว , mild/minor =  เล็กน้อย"
+  },
+  {
+    "id": 42,
+    "q": "The speaker's voice was barely ___ over the loud music.",
+    "choices": {
+      "A": "audible",
+      "B": "quiet",
+      "C": "visual",
+      "D": "invisible"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "audible ( สามารถได้ยิน ) - เสียงของผู้พูดแทบจะ \" ไม่ได้ยิน \" ( barely audible) ท่ามกลาง เสียงดนตรีที่ดัง   ส่วน   quiet =  เงียบ , visual =  มองเห็น , invisible =  มองไม่เห็น"
+  },
+  {
+    "id": 43,
+    "q": "We must ___ the rules if we want to participate in the game.",
+    "choices": {
+      "A": "challenge",
+      "B": "obey",
+      "C": "break",
+      "D": "ignore"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "obey ( เชื่อฟัง / ปฏิบัติตาม ) - เราต้อง \" ปฏิบัติตาม \" กฎหากต้องการเข้าร่วมในเกม ส่วน challenge =  ท้าทาย , break =  ละเมิด , ignore =  เพิกเฉย"
+  },
+  {
+    "id": 44,
+    "q": "The new evidence will ___ the theory that he is innocent.",
+    "choices": {
+      "A": "disprove",
+      "B": "support",
+      "C": "weaken",
+      "D": "hide"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "disprove ( พิสูจน์ว่าไม่จริง / หักล้าง ) - หลักฐานใหม่จะ \" หักล้าง \" ทฤษฎีที่ว่าเขาบริสุทธิ์ ส่วน support =  สนับสนุน , weaken =  ทำให้ร่นแอ , hide =  ซ่อน"
+  },
+  {
+    "id": 45,
+    "q": "The sudden drop in temperature is highly ___.",
+    "choices": {
+      "A": "expected",
+      "B": "common",
+      "C": "abnormal",
+      "D": "typical"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "abnormal ( ผิดปกติ ) - อุณหภูมิที่ลดลงอย่างกะทันหันเป็นเรื่อง \" ผิดปกติ \" อย่างมาก ส่วน expected =  ที่คาดไว้ , common/typical =  ทั่วไป"
+  },
+  {
+    "id": 46,
+    "q": "He carefully ___ the fragile vase in bubble wrap.",
+    "choices": {
+      "A": "cracked",
+      "B": "smashed",
+      "C": "dropped",
+      "D": "enclosed"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "enclosed ( ห่อหุ้ม / บรรจุ ) - เขา \" ห่อหุ้ม \" แจกันที่เปราะบางด้วยบับเบิ้ลกันกระแทกอย่าง ระมัดระวัง   ส่วน   cracked/smashed =  แตกร้าว / ถูกทุบ , dropped =  ทำตก"
+  },
+  {
+    "id": 47,
+    "q": "The CEO gave a brief ___ of the company's financial status.",
+    "choices": {
+      "A": "overview",
+      "B": "secret",
+      "C": "mystery",
+      "D": "silence"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "overview ( ภาพรวม ) - ซีอีโอได้ให้ \" ภาพรวม \" สั้นๆ เกี่ยวกับสถานะทางการเงินของบริษัท ส่วน secret =  ความลับ , mystery =  ความลึกลับ , silence =  ความเงียบ"
+  },
+  {
+    "id": 48,
+    "q": "The students were asked to ___ their answers before submitting the test.",
+    "choices": {
+      "A": "guess",
+      "B": "erase",
+      "C": "review",
+      "D": "ignore"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "review ( ทบทวน ) - นักเรียนถูกขอให้ \" ทบทวน \" คำตอบของตนก่อนส่งข้อสอบ ส่วน guess = เดา , erase =  ลบ , ignore =  เพิกเฉย"
+  },
+  {
+    "id": 49,
+    "q": "The museum contains a ___ collection of ancient artifacts.",
+    "choices": {
+      "A": "worthless",
+      "B": "rare",
+      "C": "common",
+      "D": "modern"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "rare ( หายาก ) - พิพิธภัณฑ์มีคอลเล็กชันสิ่งประดิษฐ์โบราณที่ \" หายาก \" ส่วน worthless = ไร้ค่า , common =  ธรรมดา , modern =  สมัยใหม่"
+  },
+  {
+    "id": 50,
+    "q": "The two friends had a ___ argument over money.",
+    "choices": {
+      "A": "bitter",
+      "B": "friendly",
+      "C": "peaceful",
+      "D": "silent"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "bitter ( ขมขื่น / รุนแรง ) - เพื่อนสองคนโต้เถียงกันอย่าง \" รุนแรง \" ( bitter argument) เรื่องเงิน ส่วน   friendly/peaceful =  เป็นมิตร / สงบ , silent =  เงียบ"
+  }
+]

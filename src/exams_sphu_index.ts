@@ -9,48 +9,348 @@ export interface ExamIndexItem {
 
 export const examsSphuIndex: ExamIndexItem[] = [
   {
-    "id": "../data/sphu/exams/การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json",
-    "title": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
+    "id": "../data/sphu/exams/[ภาค ก] Conversation.json",
+    "title": "[ภาค ก] Conversation",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] Grammar.json",
+    "title": "[ภาค ก] Grammar",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] Reading comprehension.json",
+    "title": "[ภาค ก] Reading comprehension",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] การคำนวณขั้นพื้นฐาน.json",
+    "title": "[ภาค ก] การคำนวณขั้นพื้นฐาน",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] การอ่าน การเขียน.json",
+    "title": "[ภาค ก] การอ่าน การเขียน",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] การเลือกใช้ภาษา.json",
+    "title": "[ภาค ก] การเลือกใช้ภาษา",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] การแก้ปัญหาโดยใช้เซต.json",
+    "title": "[ภาค ก] การแก้ปัญหาโดยใช้เซต",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] การใช้ถ้อยคำ สำนวน.json",
+    "title": "[ภาค ก] การใช้ถ้อยคำ สำนวน",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] ความน่าจะเป็น.json",
+    "title": "[ภาค ก] ความน่าจะเป็น",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] คำศัพท์ (Vocabulary).json",
+    "title": "[ภาค ก] คำศัพท์ (Vocabulary)",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] บทความยาว.json",
+    "title": "[ภาค ก] บทความยาว",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] บทความสั้น.json",
+    "title": "[ภาค ก] บทความสั้น",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] มิติสัมพันธ์.json",
+    "title": "[ภาค ก] มิติสัมพันธ์",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] สถิติพื้นฐาน.json",
+    "title": "[ภาค ก] สถิติพื้นฐาน",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] สมการและอสมการ.json",
+    "title": "[ภาค ก] สมการและอสมการ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] อนุกรม.json",
+    "title": "[ภาค ก] อนุกรม",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] อัตราส่วนและร้อยละ.json",
+    "title": "[ภาค ก] อัตราส่วนและร้อยละ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ก] อุปมาอุปไมย.json",
+    "title": "[ภาค ก] อุปมาอุปไมย",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] กระทรวงศึกษาธิการ.json",
+    "title": "[ภาค ข 1] กระทรวงศึกษาธิการ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] คำขึ้นต้น สรรพนาม คำลงท้าย.json",
+    "title": "[ภาค ข 1] คำขึ้นต้น สรรพนาม คำลงท้าย",
+    "count": 70
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] จริยธรรมข้าราชการครู.json",
+    "title": "[ภาค ข 1] จริยธรรมข้าราชการครู",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] นโยบายการศึกษา.json",
+    "title": "[ภาค ข 1] นโยบายการศึกษา",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] นโยบายรัฐบาล.json",
+    "title": "[ภาค ข 1] นโยบายรัฐบาล",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] ประวัติศาสตร์.json",
+    "title": "[ภาค ข 1] ประวัติศาสตร์",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรฎ กิจการบ้านเมืองที่ดี.json",
+    "title": "[ภาค ข 1] พรฎ กิจการบ้านเมืองที่ดี",
+    "count": 150
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรบ กระทรวงศึกษาธิการ.json",
+    "title": "[ภาค ข 1] พรบ กระทรวงศึกษาธิการ",
+    "count": 150
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรบ การศึกษาแห่งชาติ.json",
+    "title": "[ภาค ข 1] พรบ การศึกษาแห่งชาติ",
+    "count": 147
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรบ ข้อมูลข่าวสาร.json",
+    "title": "[ภาค ข 1] พรบ ข้อมูลข่าวสาร",
+    "count": 150
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรบ ข้าราชการครู.json",
+    "title": "[ภาค ข 1] พรบ ข้าราชการครู",
+    "count": 150
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] พรบ ภาครัฐผ่านระบบดิจิทัล.json",
+    "title": "[ภาค ข 1] พรบ ภาครัฐผ่านระบบดิจิทัล",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json",
-    "title": "ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง",
+    "id": "../data/sphu/exams/[ภาค ข 1] ยุทธศาสตร์ชาติ 20 ปี.json",
+    "title": "[ภาค ข 1] ยุทธศาสตร์ชาติ 20 ปี",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] ระเบียบ สารบรรณ.json",
+    "title": "[ภาค ข 1] ระเบียบ สารบรรณ",
+    "count": 150
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] ระเบียบการลา.json",
+    "title": "[ภาค ข 1] ระเบียบการลา",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json",
-    "title": "พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง",
+    "id": "../data/sphu/exams/[ภาค ข 1] สถานการณ์.json",
+    "title": "[ภาค ข 1] สถานการณ์",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] สถาบันหลักของชาติ.json",
+    "title": "[ภาค ข 1] สถาบันหลักของชาติ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] สพฐ.json",
+    "title": "[ภาค ข 1] สพฐ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] สารบรรณอิเล็กทรอนิกส์.json",
+    "title": "[ภาค ข 1] สารบรรณอิเล็กทรอนิกส์",
+    "count": 80
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] หน้าที่พลเมือง.json",
+    "title": "[ภาค ข 1] หน้าที่พลเมือง",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] แผนพัฒนาเศรษฐกิจและสังคม.json",
+    "title": "[ภาค ข 1] แผนพัฒนาเศรษฐกิจและสังคม",
+    "count": 80
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 1] แผนแม่บทภายใต้ยุทธศาสตร์ชาติ.json",
+    "title": "[ภาค ข 1] แผนแม่บทภายใต้ยุทธศาสตร์ชาติ",
+    "count": 80
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] การติดตั้งเครื่องคอมพิวเตอร์ส่วนบุคคล.json",
+    "title": "[ภาค ข 2] การติดตั้งเครื่องคอมพิวเตอร์ส่วนบุคคล",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json",
+    "title": "[ภาค ข 2] การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json",
-    "title": "ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม",
+    "id": "../data/sphu/exams/[ภาค ข 2] การพัฒนาระบบฐานข้อมูล.json",
+    "title": "[ภาค ข 2] การพัฒนาระบบฐานข้อมูล",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] การใช้ภาษาทางคอมพิวเตอร์.json",
+    "title": "[ภาค ข 2] การใช้ภาษาทางคอมพิวเตอร์",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json",
-    "title": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "id": "../data/sphu/exams/[ภาค ข 2] ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json",
+    "title": "[ภาค ข 2] ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json",
-    "title": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "id": "../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งระบบปฏิบัติการ.json",
+    "title": "[ภาค ข 2] ชุดคำสั่งระบบปฏิบัติการ",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งสำเร็จรูป.json",
+    "title": "[ภาค ข 2] ชุดคำสั่งสำเร็จรูป",
+    "count": 50
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json",
+    "title": "[ภาค ข 2] พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง",
     "count": 100
   },
   {
-    "id": "../data/sphu/exams/ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json",
-    "title": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "id": "../data/sphu/exams/[ภาค ข 2] พรบ ความผิดทางคอมพิวเตอร์.json",
+    "title": "[ภาค ข 2] พรบ ความผิดทางคอมพิวเตอร์",
+    "count": 97
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json",
+    "title": "[ภาค ข 2] ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม",
     "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ระบบการบริหารความปลอดภัย.....json",
+    "title": "[ภาค ข 2] ระบบการบริหารความปลอดภัย....",
+    "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json",
+    "title": "[ภาค ข 2] ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป",
+    "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json",
+    "title": "[ภาค ข 2] ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล",
+    "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ.json",
+    "title": "[ภาค ข 2] ระบบสารสนเทศ",
+    "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json",
+    "title": "[ภาค ข 2] ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง",
+    "count": 100
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบ ระบบเครือข่าย.json",
+    "title": "[ภาค ข 2] วิเคราะห์ ออกแบบ ระบบเครือข่าย",
+    "count": 80
+  },
+  {
+    "id": "../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบพัฒนาระบบสารสนเทศ.json",
+    "title": "[ภาค ข 2] วิเคราะห์ ออกแบบพัฒนาระบบสารสนเทศ",
+    "count": 70
   }
 ];
 
 export const examsSphuLoaders: Record<string, () => Promise<any>> = {
-  '../data/sphu/exams/การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json': () => import('../data/sphu/exams/การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json'),
-  '../data/sphu/exams/ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json': () => import('../data/sphu/exams/ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json'),
-  '../data/sphu/exams/พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json': () => import('../data/sphu/exams/พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json'),
-  '../data/sphu/exams/ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json': () => import('../data/sphu/exams/ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json'),
-  '../data/sphu/exams/ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json': () => import('../data/sphu/exams/ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json'),
-  '../data/sphu/exams/ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json': () => import('../data/sphu/exams/ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json'),
-  '../data/sphu/exams/ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json': () => import('../data/sphu/exams/ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json'),
+  '../data/sphu/exams/[ภาค ก] Conversation.json': () => import('../data/sphu/exams/[ภาค ก] Conversation.json'),
+  '../data/sphu/exams/[ภาค ก] Grammar.json': () => import('../data/sphu/exams/[ภาค ก] Grammar.json'),
+  '../data/sphu/exams/[ภาค ก] Reading comprehension.json': () => import('../data/sphu/exams/[ภาค ก] Reading comprehension.json'),
+  '../data/sphu/exams/[ภาค ก] การคำนวณขั้นพื้นฐาน.json': () => import('../data/sphu/exams/[ภาค ก] การคำนวณขั้นพื้นฐาน.json'),
+  '../data/sphu/exams/[ภาค ก] การอ่าน การเขียน.json': () => import('../data/sphu/exams/[ภาค ก] การอ่าน การเขียน.json'),
+  '../data/sphu/exams/[ภาค ก] การเลือกใช้ภาษา.json': () => import('../data/sphu/exams/[ภาค ก] การเลือกใช้ภาษา.json'),
+  '../data/sphu/exams/[ภาค ก] การแก้ปัญหาโดยใช้เซต.json': () => import('../data/sphu/exams/[ภาค ก] การแก้ปัญหาโดยใช้เซต.json'),
+  '../data/sphu/exams/[ภาค ก] การใช้ถ้อยคำ สำนวน.json': () => import('../data/sphu/exams/[ภาค ก] การใช้ถ้อยคำ สำนวน.json'),
+  '../data/sphu/exams/[ภาค ก] ความน่าจะเป็น.json': () => import('../data/sphu/exams/[ภาค ก] ความน่าจะเป็น.json'),
+  '../data/sphu/exams/[ภาค ก] คำศัพท์ (Vocabulary).json': () => import('../data/sphu/exams/[ภาค ก] คำศัพท์ (Vocabulary).json'),
+  '../data/sphu/exams/[ภาค ก] บทความยาว.json': () => import('../data/sphu/exams/[ภาค ก] บทความยาว.json'),
+  '../data/sphu/exams/[ภาค ก] บทความสั้น.json': () => import('../data/sphu/exams/[ภาค ก] บทความสั้น.json'),
+  '../data/sphu/exams/[ภาค ก] มิติสัมพันธ์.json': () => import('../data/sphu/exams/[ภาค ก] มิติสัมพันธ์.json'),
+  '../data/sphu/exams/[ภาค ก] สถิติพื้นฐาน.json': () => import('../data/sphu/exams/[ภาค ก] สถิติพื้นฐาน.json'),
+  '../data/sphu/exams/[ภาค ก] สมการและอสมการ.json': () => import('../data/sphu/exams/[ภาค ก] สมการและอสมการ.json'),
+  '../data/sphu/exams/[ภาค ก] อนุกรม.json': () => import('../data/sphu/exams/[ภาค ก] อนุกรม.json'),
+  '../data/sphu/exams/[ภาค ก] อัตราส่วนและร้อยละ.json': () => import('../data/sphu/exams/[ภาค ก] อัตราส่วนและร้อยละ.json'),
+  '../data/sphu/exams/[ภาค ก] อุปมาอุปไมย.json': () => import('../data/sphu/exams/[ภาค ก] อุปมาอุปไมย.json'),
+  '../data/sphu/exams/[ภาค ข 1] กระทรวงศึกษาธิการ.json': () => import('../data/sphu/exams/[ภาค ข 1] กระทรวงศึกษาธิการ.json'),
+  '../data/sphu/exams/[ภาค ข 1] คำขึ้นต้น สรรพนาม คำลงท้าย.json': () => import('../data/sphu/exams/[ภาค ข 1] คำขึ้นต้น สรรพนาม คำลงท้าย.json'),
+  '../data/sphu/exams/[ภาค ข 1] จริยธรรมข้าราชการครู.json': () => import('../data/sphu/exams/[ภาค ข 1] จริยธรรมข้าราชการครู.json'),
+  '../data/sphu/exams/[ภาค ข 1] นโยบายการศึกษา.json': () => import('../data/sphu/exams/[ภาค ข 1] นโยบายการศึกษา.json'),
+  '../data/sphu/exams/[ภาค ข 1] นโยบายรัฐบาล.json': () => import('../data/sphu/exams/[ภาค ข 1] นโยบายรัฐบาล.json'),
+  '../data/sphu/exams/[ภาค ข 1] ประวัติศาสตร์.json': () => import('../data/sphu/exams/[ภาค ข 1] ประวัติศาสตร์.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรฎ กิจการบ้านเมืองที่ดี.json': () => import('../data/sphu/exams/[ภาค ข 1] พรฎ กิจการบ้านเมืองที่ดี.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรบ กระทรวงศึกษาธิการ.json': () => import('../data/sphu/exams/[ภาค ข 1] พรบ กระทรวงศึกษาธิการ.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรบ การศึกษาแห่งชาติ.json': () => import('../data/sphu/exams/[ภาค ข 1] พรบ การศึกษาแห่งชาติ.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรบ ข้อมูลข่าวสาร.json': () => import('../data/sphu/exams/[ภาค ข 1] พรบ ข้อมูลข่าวสาร.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรบ ข้าราชการครู.json': () => import('../data/sphu/exams/[ภาค ข 1] พรบ ข้าราชการครู.json'),
+  '../data/sphu/exams/[ภาค ข 1] พรบ ภาครัฐผ่านระบบดิจิทัล.json': () => import('../data/sphu/exams/[ภาค ข 1] พรบ ภาครัฐผ่านระบบดิจิทัล.json'),
+  '../data/sphu/exams/[ภาค ข 1] ยุทธศาสตร์ชาติ 20 ปี.json': () => import('../data/sphu/exams/[ภาค ข 1] ยุทธศาสตร์ชาติ 20 ปี.json'),
+  '../data/sphu/exams/[ภาค ข 1] ระเบียบ สารบรรณ.json': () => import('../data/sphu/exams/[ภาค ข 1] ระเบียบ สารบรรณ.json'),
+  '../data/sphu/exams/[ภาค ข 1] ระเบียบการลา.json': () => import('../data/sphu/exams/[ภาค ข 1] ระเบียบการลา.json'),
+  '../data/sphu/exams/[ภาค ข 1] สถานการณ์.json': () => import('../data/sphu/exams/[ภาค ข 1] สถานการณ์.json'),
+  '../data/sphu/exams/[ภาค ข 1] สถาบันหลักของชาติ.json': () => import('../data/sphu/exams/[ภาค ข 1] สถาบันหลักของชาติ.json'),
+  '../data/sphu/exams/[ภาค ข 1] สพฐ.json': () => import('../data/sphu/exams/[ภาค ข 1] สพฐ.json'),
+  '../data/sphu/exams/[ภาค ข 1] สารบรรณอิเล็กทรอนิกส์.json': () => import('../data/sphu/exams/[ภาค ข 1] สารบรรณอิเล็กทรอนิกส์.json'),
+  '../data/sphu/exams/[ภาค ข 1] หน้าที่พลเมือง.json': () => import('../data/sphu/exams/[ภาค ข 1] หน้าที่พลเมือง.json'),
+  '../data/sphu/exams/[ภาค ข 1] แผนพัฒนาเศรษฐกิจและสังคม.json': () => import('../data/sphu/exams/[ภาค ข 1] แผนพัฒนาเศรษฐกิจและสังคม.json'),
+  '../data/sphu/exams/[ภาค ข 1] แผนแม่บทภายใต้ยุทธศาสตร์ชาติ.json': () => import('../data/sphu/exams/[ภาค ข 1] แผนแม่บทภายใต้ยุทธศาสตร์ชาติ.json'),
+  '../data/sphu/exams/[ภาค ข 2] การติดตั้งเครื่องคอมพิวเตอร์ส่วนบุคคล.json': () => import('../data/sphu/exams/[ภาค ข 2] การติดตั้งเครื่องคอมพิวเตอร์ส่วนบุคคล.json'),
+  '../data/sphu/exams/[ภาค ข 2] การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json': () => import('../data/sphu/exams/[ภาค ข 2] การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล.json'),
+  '../data/sphu/exams/[ภาค ข 2] การพัฒนาระบบฐานข้อมูล.json': () => import('../data/sphu/exams/[ภาค ข 2] การพัฒนาระบบฐานข้อมูล.json'),
+  '../data/sphu/exams/[ภาค ข 2] การใช้ภาษาทางคอมพิวเตอร์.json': () => import('../data/sphu/exams/[ภาค ข 2] การใช้ภาษาทางคอมพิวเตอร์.json'),
+  '../data/sphu/exams/[ภาค ข 2] ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json': () => import('../data/sphu/exams/[ภาค ข 2] ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง.json'),
+  '../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งระบบปฏิบัติการ.json': () => import('../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งระบบปฏิบัติการ.json'),
+  '../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งสำเร็จรูป.json': () => import('../data/sphu/exams/[ภาค ข 2] ชุดคำสั่งสำเร็จรูป.json'),
+  '../data/sphu/exams/[ภาค ข 2] พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json': () => import('../data/sphu/exams/[ภาค ข 2] พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง.json'),
+  '../data/sphu/exams/[ภาค ข 2] พรบ ความผิดทางคอมพิวเตอร์.json': () => import('../data/sphu/exams/[ภาค ข 2] พรบ ความผิดทางคอมพิวเตอร์.json'),
+  '../data/sphu/exams/[ภาค ข 2] ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json': () => import('../data/sphu/exams/[ภาค ข 2] ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม.json'),
+  '../data/sphu/exams/[ภาค ข 2] ระบบการบริหารความปลอดภัย.....json': () => import('../data/sphu/exams/[ภาค ข 2] ระบบการบริหารความปลอดภัย.....json'),
+  '../data/sphu/exams/[ภาค ข 2] ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json': () => import('../data/sphu/exams/[ภาค ข 2] ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป.json'),
+  '../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json': () => import('../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล.json'),
+  '../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ.json': () => import('../data/sphu/exams/[ภาค ข 2] ระบบสารสนเทศ.json'),
+  '../data/sphu/exams/[ภาค ข 2] ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json': () => import('../data/sphu/exams/[ภาค ข 2] ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง.json'),
+  '../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบ ระบบเครือข่าย.json': () => import('../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบ ระบบเครือข่าย.json'),
+  '../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบพัฒนาระบบสารสนเทศ.json': () => import('../data/sphu/exams/[ภาค ข 2] วิเคราะห์ ออกแบบพัฒนาระบบสารสนเทศ.json'),
 };

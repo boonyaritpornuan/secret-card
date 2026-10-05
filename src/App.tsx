@@ -15,6 +15,7 @@ import Hub from './components/Hub';
 import { Card, Part, SetProgress, ExamProgress, Position, PositionId } from './types';
 import { examsIndex, examLoaders } from './exams_index';
 import { examsSphuIndex, examsSphuLoaders } from './exams_sphu_index';
+import sphuPartsMeta from '../data/sphu/new_parts_meta.json';
 
 export default function App() {
   const [currentView, setCurrentView] = useState<'positionList' | 'hub' | 'home' | 'study' | 'finish' | 'examList' | 'examSession' | 'examResult'>('positionList');
@@ -188,23 +189,45 @@ export default function App() {
     },
   ];
 
-  const sphuSets = [
-    { id: 'sp-s1', label: 'ชุดที่ 1', cards: data.rawCards_s1 || [] },
-    { id: 'sp-s2', label: 'ชุดที่ 2', cards: data.rawCards_s2 || [] },
-    { id: 'sp-s3', label: 'ชุดที่ 3', cards: data.rawCards_s3 || [] },
-    { id: 'sp-s4', label: 'ชุดที่ 4', cards: data.rawCards_s4 || [] },
-    { id: 'sp-s5', label: 'ชุดที่ 5', cards: data.rawCards_s5 || [] },
-    { id: 'sp-s6', label: 'ชุดที่ 6', cards: data.rawCards_s6 || [] },
-    { id: 'sp-s7', label: 'ชุดที่ 7', cards: data.rawCards_s7 || [] },
-  ];
+  const sphuPart1Sets = sphuPartsMeta[0]?.sets.map((s: any) => ({
+    id: s.id,
+    label: s.label,
+    cards: data[s.cardKey] || []
+  })) || [];
+
+  const sphuPart2Sets = sphuPartsMeta[1]?.sets.map((s: any) => ({
+    id: s.id,
+    label: s.label,
+    cards: data[s.cardKey] || []
+  })) || [];
+
+  const sphuPart3Sets = sphuPartsMeta[2]?.sets.map((s: any) => ({
+    id: s.id,
+    label: s.label,
+    cards: data[s.cardKey] || []
+  })) || [];
 
   const sphuParts: Part[] = [
     {
       id: 1,
-      title: 'ความรู้เฉพาะตำแหน่ง',
-      subtitle: 'นักวิชาการคอมพิวเตอร์ปฏิบัติการ 2569 (700 ข้อ)',
-      description: 'เนื้อหาด้านคอมพิวเตอร์ กฎหมาย และเทคโนโลยีสารสนเทศ',
-      sets: sphuSets,
+      title: 'ภาค ก (18 ชุด)',
+      subtitle: 'ความรู้ความสามารถทั่วไป 18 หมวด',
+      description: 'คณิตศาสตร์ อนุกรม ภาษาไทย ภาษาอังกฤษ และการใช้เหตุผล',
+      sets: sphuPart1Sets,
+    },
+    {
+      id: 2,
+      title: 'ภาค ข 1 (22 ชุด)',
+      subtitle: 'ระเบียบ นโยบาย และกฎหมาย สพฐ. 22 หมวด',
+      description: 'พรบ. การศึกษา, พรบ. ข้าราชการครู, ระเบียบสารบรรณ, นโยบายรัฐบาล และแผนแม่บท',
+      sets: sphuPart2Sets,
+    },
+    {
+      id: 3,
+      title: 'ภาค ข 2 (17 ชุด)',
+      subtitle: 'ความรู้เฉพาะตำแหน่ง นักวิชาการคอมพิวเตอร์ สพฐ. (รวมชุดเดิมและชุดใหม่ 17 หมวด)',
+      description: 'ระบบสารสนเทศ, เครือข่าย, ฐานข้อมูล, ความปลอดภัย, การเขียนโปรแกรม, บำรุงรักษา และ พรบ. คอมพิวเตอร์',
+      sets: sphuPart3Sets,
     },
   ];
 

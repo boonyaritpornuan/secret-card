@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "ข้อใดคือความหมายของชุดคำสั่งสำเร็จรูป ( Packaged Software) ที่ถูกต้องที่สุด",
+    "choices": {
+      "A": "โปรแกรมที่สร้างขึ้นเพื่อจำหน่ายและนำไปใช้งานทั่วไปได้ทันที",
+      "B": "โปรแกรมที่ผู้ใช้เขียนขึ้นเองเพื่อใช้งานเฉพาะด้าน",
+      "C": "โปรแกรมที่เขียนขึ้นเพื่อควบคุมฮาร์ดแวร์",
+      "D": "โปรแกรมที่ใช้สำหรับแปลภาษาคอมพิวเตอร์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "ซอฟต์แวร์สำเร็จรูปประเภทใดที่เหมาะสำหรับการพิมพ์รายงานหรือทำหนังสือราชการมากที่สุด",
+    "choices": {
+      "A": "Spreadsheet Software",
+      "B": "Word Processing Software",
+      "C": "Presentation Software",
+      "D": "Database Management Software"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "โปรแกรมใดต่อไปนี้จัดอยู่ในกลุ่มชุดคำสั่งสำเร็จรูปประเภทตารางงาน ( Spreadsheet)",
+    "choices": {
+      "A": "Microsoft Word",
+      "B": "Microsoft PowerPoint",
+      "C": "Microsoft Excel",
+      "D": "Microsoft Access"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "ข้อใดไม่ใช่ชุดคำสั่งสำเร็จรูปประยุกต์ ( Application Software)",
+    "choices": {
+      "A": "Microsoft Office",
+      "B": "Adobe Photoshop",
+      "C": "CorelDRAW",
+      "D": "Microsoft Windows 11"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "ชุดคำสั่งสำเร็จรูปประเภทใดที่ใช้สำหรับการจัดการระบบฐานข้อมูล",
+    "choices": {
+      "A": "Microsoft Access",
+      "B": "Microsoft Excel",
+      "C": "Microsoft PowerPoint",
+      "D": "Microsoft Word"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "ในโปรแกรม Microsoft Word หากต้องการคัดลอกข้อความต้องใช้คีย์ลัดใด",
+    "choices": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + C",
+      "C": "Ctrl + X",
+      "D": "Ctrl + Z"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "ในโปรแกรม Microsoft Word คีย์ลัด Ctrl + S ใช้สำหรับทำสิ่งใด",
+    "choices": {
+      "A": "สร้างเอกสารใหม่",
+      "B": "เปิดเอกสาร",
+      "C": "บันทึกเอกสาร",
+      "D": "พิมพ์เอกสาร"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "การบันทึกเอกสาร Microsoft Word รุ่นปัจจุบัน จะได้นามสกุลไฟล์ตามข้อใด",
+    "choices": {
+      "A": ". txt",
+      "B": ". doc",
+      "C": ". rtf",
+      "D": ". docx"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "หากต้องการตั้งค่าหน้ากระดาษใน Microsoft Word ต้องไปที่แท็บ ( Tab) ใด",
+    "choices": {
+      "A": "เค้าโครง ( Layout)",
+      "B": "หน้าแรก ( Home)",
+      "C": "แทรก ( Insert)",
+      "D": "มุมมอง ( View)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "คีย์ลัดใดใน Microsoft Word ที่ใช้สำหรับการยกเลิกการกระทำล่าสุด ( Undo)",
+    "choices": {
+      "A": "Ctrl + Y",
+      "B": "Ctrl + Z",
+      "C": "Ctrl + U",
+      "D": "Ctrl + X"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "หากต้องการให้ข้อความใน Microsoft Word อยู่กึ่งกลางหน้ากระดาษ ต้องใช้คีย์ลัดใด",
+    "choices": {
+      "A": "Ctrl + L",
+      "B": "Ctrl + R",
+      "C": "Ctrl + E",
+      "D": "Ctrl + J"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "ไฟล์เอกสาร PDF สามารถสร้างจากโปรแกรม Microsoft Word โดยใช้คำสั่งใด",
+    "choices": {
+      "A": "Save as",
+      "B": "Export",
+      "C": "Print",
+      "D": "ถูกทุกข้อ"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "เมนูใดใน Microsoft Word ที่ใช้สำหรับสร้างตาราง",
+    "choices": {
+      "A": "แทรก ( Insert)",
+      "B": "หน้าแรก ( Home)",
+      "C": "ออกแบบ ( Design)",
+      "D": "มุมมอง ( View)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "ฟีเจอร์ \" จดหมายเวียน \" ( Mail Merge) ในโปรแกรม Word มีประโยชน์อย่างไร",
+    "choices": {
+      "A": "ช่วยส่งอีเมลผ่านอินเทอร์เน็ต",
+      "B": "ช่วยสร้างซองจดหมายและป้ายผนึกจำนวนมากได้อย่างรวดเร็ว",
+      "C": "ช่วยแปลภาษาในจดหมาย",
+      "D": "ช่วยตรวจสอบการสะกดคำในจดหมาย"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "คีย์ลัด Ctrl + P ในโปรแกรมชุดคำสั่งสำเร็จรูปทั่วไปใช้สำหรับทำอะไร",
+    "choices": {
+      "A": "วางข้อความ",
+      "B": "เปิดหน้าต่างใหม่",
+      "C": "สั่งพิมพ์เอกสาร",
+      "D": "บันทึกเอกสาร"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "โปรแกรม Microsoft Excel เหมาะสำหรับงานประเภทใดมากที่สุด",
+    "choices": {
+      "A": "พิมพ์หนังสือราชการ",
+      "B": "จัดการภาพถ่าย",
+      "C": "นำเสนอผลงาน",
+      "D": "คำนวณและสร้างกราฟ"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 17,
+    "q": "ใน Microsoft Excel การเริ่มต้นพิมพ์สูตรคำนวณต้องขึ้นต้นด้วยเครื่องหมายใดเสมอ",
+    "choices": {
+      "A": "=",
+      "B": "-",
+      "C": "+",
+      "D": "*"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "นามสกุลไฟล์มาตรฐานของ Microsoft Excel รุ่นปัจจุบันคือข้อใด",
+    "choices": {
+      "A": ". xls",
+      "B": ". xlsx",
+      "C": ". xlt",
+      "D": ". csv"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "ฟังก์ชันใดใน Microsoft Excel ใช้สำหรับหาผลรวมของกลุ่มตัวเลข",
+    "choices": {
+      "A": "AVERAGE",
+      "B": "MAX",
+      "C": "SUM",
+      "D": "MIN"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "ฟังก์ชันใดใช้สำหรับการหาค่าเฉลี่ยใน Microsoft Excel",
+    "choices": {
+      "A": "SUM",
+      "B": "COUNT",
+      "C": "MAX",
+      "D": "AVERAGE"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "หากปรากฏเครื่องหมาย ##### ในช่องเซลล์ ( Cell) ของ Excel หมายความว่าอย่างไร",
+    "choices": {
+      "A": "ความกว้างของคอลัมน์ไม่พอที่จะแสดงข้อมูล",
+      "B": "พิมพ์สูตรผิดพลาด",
+      "C": "ข้อมูลในเซลล์ถูกลบ",
+      "D": "เครื่องคอมพิวเตอร์ติดไวรัส"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "การอ้างอิงเซลล์แบบสัมบูรณ์ ( Absolute Reference) ใน Excel เพื่อไม่ให้ตำแหน่งเปลี่ยนเมื่อคัดลอก สูตร   ต้องใช้เครื่องหมายใด",
+    "choices": {
+      "A": "@",
+      "B": "$",
+      "C": "#",
+      "D": "&"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "ข้อใดคือเซลล์ที่เกิดจากการตัดกันของคอลัมน์ C และแถวที่ 5 ใน Excel",
+    "choices": {
+      "A": "5C",
+      "B": "C - 5",
+      "C": "C5",
+      "D": "5 - C"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "ใน Microsoft Excel หากต้องการนับจำนวนเซลล์ที่มีตัวเลขอยู่ ต้องใช้ฟังก์ชันใด",
+    "choices": {
+      "A": "COUNTA",
+      "B": "SUM",
+      "C": "COUNTBLANK",
+      "D": "COUNT"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "ฟังก์ชัน IF ใน Microsoft Excel ใช้สำหรับวัตถุประสงค์ใด",
+    "choices": {
+      "A": "ตรวจสอบเงื่อนไขว่าจริงหรือเท็จเพื่อแสดงผลตามที่กำหนด",
+      "B": "หาผลรวมแบบมีเงื่อนไข",
+      "C": "นับจำนวนข้อมูลที่มีเงื่อนไข",
+      "D": "ค้นหาข้อมูลในตาราง"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "โปรแกรม Microsoft PowerPoint ออกแบบมาเพื่องานลักษณะใด",
+    "choices": {
+      "A": "งานจัดการฐานข้อมูล",
+      "B": "งานนำเสนอข้อมูล",
+      "C": "งานพิมพ์เอกสาร",
+      "D": "งานคำนวณทางบัญชี"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "นามสกุลไฟล์มาตรฐานของ Microsoft PowerPoint รุ่นปัจจุบันคือข้อใด",
+    "choices": {
+      "A": ". ppt",
+      "B": ". pps",
+      "C": ". pptx",
+      "D": ". pot"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "มุมมองใดใน PowerPoint ที่เหมาะสำหรับการจัดเรียงลำดับสไลด์มากที่สุด",
+    "choices": {
+      "A": "Normal View",
+      "B": "Slide Show View",
+      "C": "Reading View",
+      "D": "Slide Sorter View"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "คีย์ลัดใดใช้สำหรับการเริ่มนำเสนอสไลด์ ( Slide Show) ตั้งแต่หน้าแรก",
+    "choices": {
+      "A": "F5",
+      "B": "F1",
+      "C": "F3",
+      "D": "F7"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "หากต้องการเริ่มนำเสนอสไลด์จากหน้าปัจจุบัน ( Current Slide) ต้องใช้คีย์ลัดใด",
+    "choices": {
+      "A": "Ctrl + F5",
+      "B": "Shift + F5",
+      "C": "Alt + F5",
+      "D": "F5"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "การตั้งค่าการเปลี่ยนแผ่นสไลด์ ( Slide Transition) มีจุดประสงค์เพื่ออะไร",
+    "choices": {
+      "A": "กำหนดการเคลื่อนไหวของข้อความในสไลด์",
+      "B": "กำหนดเวลาในการนำเสนอ",
+      "C": "กำหนดรูปแบบการแสดงผลเมื่อเปลี่ยนจากสไลด์หนึ่งไปยังอีกสไลด์หนึ่ง",
+      "D": "กำหนดพื้นหลังของสไลด์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "การใส่ Effect การเคลื่อนไหวให้กับข้อความหรือรูปภาพในหน้าสไลด์ ต้องใช้คำสั่งในแท็บใด",
+    "choices": {
+      "A": "Transitions ( การเปลี่ยน )",
+      "B": "Design ( ออกแบบ )",
+      "C": "View ( มุมมอง )",
+      "D": "Animations ( ภาพเคลื่อนไหว )"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "ใน PowerPoint หากต้องการออกจากโหมดนำเสนอ ( Slide Show) ต้องกดปุ่มใด",
+    "choices": {
+      "A": "Esc",
+      "B": "Spacebar",
+      "C": "Enter",
+      "D": "Tab"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "การตั้งค่า Slide Master ใน PowerPoi nt มีประโยชน์อย่างไร",
+    "choices": {
+      "A": "เพื่อสร้างสไลด์ใหม่ทั้งหมดอย่างรวดเร็ว",
+      "B": "เพื่อควบคุมรูปแบบและโครงสร้างหลักของสไลด์ทั้งหมดให้เป็นมาตรฐานเดียวกัน",
+      "C": "เพื่อลบสไลด์ที่ซํ้าซ้อน",
+      "D": "เพื่อแทรกวิดีโอลงในสไลด์ทุกหน้า"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "ไฟล์นำเสนอ PowerPoint สามารถบันทึกเป็นรูปแบบวิดีโอได้หรือไม่",
+    "choices": {
+      "A": "ได้ แต่จะไม่มีเสียงประกอบ",
+      "B": "ไม่ได้ ต้องใช้โปรแกรมอื่นช่วยแปลงไฟล์",
+      "C": "ได้ โดยสามารถบันทึกเป็นนามสกุล . mp4 หรือ . wmv",
+      "D": "ไม่ได้ เพราะ PowerPoint รองรับเฉพาะภาพนิ่งเท่านั้น"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "ซอฟต์แวร์จัดการฐานข้อมูลที่มักมาพร้อมกับชุด Microsoft Office Professional คือโปรแกรมใด",
+    "choices": {
+      "A": "Oracle",
+      "B": "SQL Server",
+      "C": "MySQL",
+      "D": "Microsoft Access"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "ออบเจกต์ ( Object) ใดใน Microsoft Access ที่ใช้สำหรับเก็บข้อมูลหลัก",
+    "choices": {
+      "A": "Table ( ตาราง )",
+      "B": "Form ( ฟอร์ม )",
+      "C": "Query ( คิวรี )",
+      "D": "Report ( รายงาน )"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "ในระบบฐานข้อมูล Primary Key ( คีย์หลัก ) มีลักษณะอย่างไร",
+    "choices": {
+      "A": "เป็นรหัสผ่านสำหรับเข้าใช้ฐานข้อมูล",
+      "B": "เป็นฟิลด์ที่ใช้ระบุความแตกต่างของแต่ละระเบียน ข้อมูลห้ามซํ้ากันและห้ามว่าง",
+      "C": "เป็นฟิลด์ที่มีค่าข้อมูลซํ้ากันได้",
+      "D": "เป็นคีย์บอร์ดที่ใช้คีย์ข้อมูลลงฐานข้อมูล"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "ออบเจกต์ใดใน Microsoft Access ที่ออกแบบมาเพื่อใช้เป็นหน้าจอรับข้อมูลจากผู้ใช้งาน",
+    "choices": {
+      "A": "Table",
+      "B": "Query",
+      "C": "Form",
+      "D": "Report"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "หากต้องการกรองข้อมูลเฉพาะส่วนที่ต้องการใน Microsoft Access ต้องใช้ออบเจกต์ใด",
+    "choices": {
+      "A": "Table",
+      "B": "Form",
+      "C": "Report",
+      "D": "Query"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "โปรแกรมในชุดไมโครซอฟท์ออฟฟิศที่ใช้สำหรับการจัดการอีเมลและตารางนัดหมายคือโปรแกรมใด",
+    "choices": {
+      "A": "Microsoft Outlook",
+      "B": "Microsoft Publisher",
+      "C": "Microsoft OneNote",
+      "D": "Microsoft OneDrive"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "โปรแกรมใดจัดเป็นชุดคำสั่งสำเร็จรูปประเภทโปรแกรมค้นดูเว็บ ( Web Browser)",
+    "choices": {
+      "A": "Microsoft Excel",
+      "B": "Google Chrome",
+      "C": "Adobe Acrobat",
+      "D": "Windows Explorer"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "ซอฟต์แวร์ประเภท Open Source ใดที่สามารถนำมาใช้งานเอกสาร ตารางงาน และนำเสนอ แทน Microsoft Office  ได้",
+    "choices": {
+      "A": "Adobe Creative Cloud",
+      "B": "Corel Office",
+      "C": "LibreOffice",
+      "D": "iCloud"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "ชุดโปรแกรม Microsoft Office ที่ให้บริการในรูปแบบคลาวด์ ( Cloud - based) และเก็บค่าบริการเป็น รายเดือน / รายปี   เรียกว่าอะไร",
+    "choices": {
+      "A": "Microsoft Windows",
+      "B": "Microsoft Server",
+      "C": "Microsoft Azure",
+      "D": "Microsoft 365"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "โปรแกรม Microsoft Publisher นิยมนำมาใช้งานประเภทใด",
+    "choices": {
+      "A": "ออกแบบสิ่งพิมพ์และโบรชัวร์",
+      "B": "คำนวณภาษีประจำปี",
+      "C": "ตัดต่อวิดีโอสั้น",
+      "D": "สร้างฐานข้อมูลพนักงานขนาดใหญ่"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "ซอฟต์แวร์สำเร็จรูปประเภทใดที่อนุญาตให้ผู้ใช้ทดลองใช้งานได้ฟรีก่อนตัดสินใจซื้อ",
+    "choices": {
+      "A": "Freeware",
+      "B": "Shareware",
+      "C": "Open Source",
+      "D": "Public Domain"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "ฟีเจอร์ Format Painter ( ตัวคัดลอกรูปแบบ ) ในโปรแกรมชุด Microsoft Office ใช้สำหรับทำสิ่งใด",
+    "choices": {
+      "A": "วาดรูปทรงเรขาคณิตพื้นฐาน",
+      "B": "ระบายสีพื้นหลังเอกสารทั้งหมด",
+      "C": "คัดลอกเฉพาะรูปแบบของข้อความหรือวัตถุเพื่อนำไปใช้กับส่วนอื่น",
+      "D": "แก้ไขและตกแต่งรูปภาพ"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "ฟีเจอร์ \" AutoSave\" ในชุดโปรแกรมสำเร็จรูปปัจจุบันมักจะทำงานได้สมบูรณ์เมื่อใด",
+    "choices": {
+      "A": "เมื่อคอมพิวเตอร์ไม่ได้เชื่อมต่ออินเทอร์เน็ต",
+      "B": "เมื่อบันทึกไฟล์ลงในฮาร์ดดิสก์ของเครื่องเท่านั้น",
+      "C": "เมื่อเปิดคอมพิวเตอร์ทิ้งไว้โดยไม่ปิดเครื่อง",
+      "D": "เมื่อบันทึกไฟล์ลงในพื้นที่เก็บข้อมูลบนคลาวด์ เช่น OneDrive"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "การเลือกข้อความหรือออบเจกต์ทั้งหมดในเอกสาร สามารถใช้คีย์ลัดใด",
+    "choices": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + B",
+      "C": "Ctrl + C",
+      "D": "Ctrl + D"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "ไวรัสคอมพิวเตอร์ประเภทใดที่มักแฝงตัวมากับโค้ดการทำงานอัตโนมัติในไฟล์เอกสารชุดคำสั่งสำเร็จรูป ( เช่น   ไฟล์  . docm  หรือ  . xlsm)",
+    "choices": {
+      "A": "Trojan Horse",
+      "B": "Worm",
+      "C": "Spyware",
+      "D": "Macro Virus"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  }
+]

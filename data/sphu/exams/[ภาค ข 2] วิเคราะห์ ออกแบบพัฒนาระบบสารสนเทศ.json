@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "q": "ข้อใดคือความหมายที่ถูกต้องที่สุดของ SDLC",
+    "choices": {
+      "A": "Software Development Life Circle",
+      "B": "Structure Design Logic Control",
+      "C": "System Development Life Cycle",
+      "D": "System Design Life Cycle"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "ขั้นตอนใดใน SDLC ที่มีความสำคัญที่สุด หากวิเคราะห์ผิดพลาดจะส่งผลกระทบต่อขั้นตอนอื่นทั้งหมด",
+    "choices": {
+      "A": "การกำหนดปัญหาและความต้องการ ( Problem Definition & Requirement Analysis)",
+      "B": "การพัฒนาระบบ ( System Development)",
+      "C": "การติดตั้งระบบ ( System Implementation)",
+      "D": "การออกแบบระบบ ( System Design)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "\" การศึกษาความเป็นไปได้ ( Feasibility Study)\" อยู่ในขั้นตอนใดของ SDLC",
+    "choices": {
+      "A": "การออกแบบ ( Design)",
+      "B": "การวางแผน ( Planning)",
+      "C": "การวิเคราะห์ ( Analysis)",
+      "D": "การพัฒนา ( Development)"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "ข้อใด ไม่ใช่ ประเภทของการศึกษาความเป็นไปได้ ( Feasibility Study)",
+    "choices": {
+      "A": "ความเป็นไปได้ทางเศรษฐศาสตร์ ( Economic)",
+      "B": "ความเป็นไปได้ทางปฏิบัติ ( Operational)",
+      "C": "ความเป็นไปได้ทางเทคนิค ( Technical)",
+      "D": "ความเป็นไปได้ทางสังคม ( Social)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "แผนภาพใดที่ใช้แสดงการไหลของข้อมูลในระบบ โดยไม่คำนึงถึงลำดับเวลา",
+    "choices": {
+      "A": "Data Flow Diagram (DFD)",
+      "B": "ER - Diagram",
+      "C": "Structure Chart",
+      "D": "Flowchart"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "สัญลักษณ์ \" สี่เหลี่ยมผืนผ้าปลายเปิดข้างหนึ่ง \" หรือ \" เส้นขนานสองเส้น \" ใน DFD หมายถึงอะไร",
+    "choices": {
+      "A": "Process ( การประมวลผล )",
+      "B": "External Entity ( สิ่งที่อยู่ภายนอก )",
+      "C": "Data Store ( แหล่งเก็บข้อมูล )",
+      "D": "Data Flow ( เส้นทางการไหลของข้อมูล )"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "Context Diagram (DFD Level 0) มีวัตถุประสงค์เพื่ออะไร",
+    "choices": {
+      "A": "แสดงความสัมพันธ์ระหว่างระบบกับสิ่งแวดล้อมภายนอก",
+      "B": "แสดงขั้นตอนการทำงานของโปรแกรมแบบละเอียด",
+      "C": "แสดงโครงสร้างฐานข้อมูล",
+      "D": "แสดงรายละเอียดภายในของ Process ทั้งหมด"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "ความสัมพันธ์ระหว่าง Entity ใน ER - Diagram แบบใด ที่บ่งบอกว่า \" นักศึกษา 1 คน ลงทะเบียนเรียนได้ หลายวิชา   และวิชา   1  วิชา   มีนักศึกษาเรียนได้หลายคน \"",
+    "choices": {
+      "A": "One - to - Many (1:M)",
+      "B": "Many - to - One (M:1)",
+      "C": "Many - to - Many (M:N)",
+      "D": "One - to - One (1:1)"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "ในการออกแบบฐานข้อมูล \" Primary Key\" มีหน้าที่สำคัญอย่างไร",
+    "choices": {
+      "A": "ระบุแถวข้อมูลที่ไม่ซํ้ากันในตาราง ( Uniquely Identify)",
+      "B": "เชื่อมโยงข้อมูลระหว่างตาราง",
+      "C": "เก็บข้อมูลที่เป็นตัวเลขเท่านั้น",
+      "D": "ระบุความซํ้าซ้อนของข้อมูล"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "การแปลง ER - Diagram ให้เป็นตาราง ( Relational Schema) ความสัมพันธ์แบบ Many - to - Many จะต้องทำอย่างไร",
+    "choices": {
+      "A": "นำ PK ฝั่งหนึ่งไปเป็น FK อีกฝั่งหนึ่ง",
+      "B": "รวมสองตารางเข้าด้วยกัน",
+      "C": "ไม่สามารถแปลงเป็นตารางได้",
+      "D": "สร้างตารางใหม่ขึ้นมาเชื่อมความสัมพันธ์ ( Junction Table)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "ข้อใดคือลักษณะเด่นของแบบจำลอง Waterfall Model",
+    "choices": {
+      "A": "ทำงานเป็นลำดับขั้นตอน ข้ามขั้นตอนไม่ได้และย้อนกลับยาก",
+      "B": "มีความยืดหยุ่นสูง ปรับเปลี่ยน requirement ได้ตลอด",
+      "C": "ทำงานเป็นรอบๆ วนซํ้า",
+      "D": "เน้นการสร้างระบบต้นแบบให้ผู้ใช้ทดลองก่อน"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "Agile Methodology ให้ความสำคัญกับสิ่งใดมากที่สุด",
+    "choices": {
+      "A": "เอกสารที่ครบถ้วนสมบูรณ์",
+      "B": "คนและการปฏิสัมพันธ์",
+      "C": "เครื่องมือและกระบวนการ",
+      "D": "การทำตามสัญญาอย่างเคร่งครัด"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "Scrum เป็นรูปแบบการทำงานแบบใด",
+    "choices": {
+      "A": "Agile",
+      "B": "Waterfall",
+      "C": "V - Model",
+      "D": "Prototyping"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "ใน Scrum ใครคือผู้รับผิดชอบในการจัดลำดับความสำคัญของงาน ( Product Backlog)",
+    "choices": {
+      "A": "Development Team",
+      "B": "Product Owner",
+      "C": "Scrum Master",
+      "D": "Stakeholder"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "UML ย่อมาจากอะไร",
+    "choices": {
+      "A": "Unique Management Logic",
+      "B": "Universal Modeling Language",
+      "C": "User Manual Linkage",
+      "D": "Unified Modeling Language"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "แผนภาพ UML ใดที่ใช้แสดงพฤติกรรม ( Behavior) ของผู้ใช้ที่มีต่อระบบ ( ใครทำอะไรกับระบบบ้าง )",
+    "choices": {
+      "A": "Component Diagram",
+      "B": "Sequence Diagram",
+      "C": "Use Case Diagram",
+      "D": "Class Diagram"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 17,
+    "q": "สัญลักษณ์ \" Actor\" ใน Use Case Diagram แทนสิ่งใด",
+    "choices": {
+      "A": "ฐานข้อมูล",
+      "B": "ผู้ใช้ระบบหรือระบบอื่นๆ ที่มาเชื่อมต่อ",
+      "C": "ฮาร์ดแวร์",
+      "D": "ฟังก์ชันการทำงาน"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "Sequence Diagram ใช้สำหรับแสดงสิ่งใด",
+    "choices": {
+      "A": "ลำดับการโต้ตอบระหว่าง Object ตามเวลา",
+      "B": "โครงสร้างของคลาสและความสัมพันธ์",
+      "C": "การจัดวาง Hardware ในระบบ",
+      "D": "สถานะต่างๆ ของ Object"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "การทดสอบระบบโดยที่ผู้ทดสอบ ไม่รู้ โค้ดภายในหรือโครงสร้างภายใน เรียกว่าอะไร",
+    "choices": {
+      "A": "Unit Testing",
+      "B": "Grey Box Testing",
+      "C": "Black Box Testing",
+      "D": "White Box Testing"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "การทดสอบหน่วยย่อยที่สุดของโปรแกรม ( เช่น ฟังก์ชัน หรือ เมธอด ) เรียกว่าอะไร",
+    "choices": {
+      "A": "Unit Testing",
+      "B": "System Testing",
+      "C": "Acceptance Testing",
+      "D": "Integration Testing"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "User Acceptance Testing (UAT) คือการทดสอบเพื่ออะไร",
+    "choices": {
+      "A": "ทดสอบความปลอดภัยของระบบ",
+      "B": "ทดสอบเพื่อการยอมรับระบบโดยผู้ใช้งานจริง",
+      "C": "ทดสอบการเชื่อมต่อของระบบเครือข่าย",
+      "D": "หาข้อผิดพลาดทางไวยากรณ์ของโปรแกรม"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "กิจกรรมใดเกิดขึ้นในขั้นตอน Maintenance",
+    "choices": {
+      "A": "การเขียนโปรแกรมใหม่ทั้งหมด",
+      "B": "การออกแบบหน้าจอ ( User Interface)",
+      "C": "การแก้ไขข้อผิดพลาด ( Bug) ที่พบหลังใช้งานจริง",
+      "D": "การสัมภาษณ์ผู้ใช้เพื่อเก็บข้อมูล"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "การบำรุงรักษาแบบ \" Adaptive Maintenance\" หมายถึงอะไร",
+    "choices": {
+      "A": "ป้องกันปัญหาที่อาจเกิดในอนาคต",
+      "B": "ปรับปรุงระบบให้ทำงานเร็วขึ้นหรือดีขึ้น",
+      "C": "แก้ไขเมื่อเกิด Error",
+      "D": "ปรับปรุงระบบเพื่อรองรับสภาพแวดล้อมที่เปลี่ยนไป"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "เครื่องมือที่ชื่อว่า \" Gantt Chart\" นิยมใช้ทำอะไรในการพัฒนาระบบ",
+    "choices": {
+      "A": "ทดสอบระบบ",
+      "B": "เขียนโปรแกรม",
+      "C": "วางแผนและติดตามตารางเวลาโครงการ",
+      "D": "ออกแบบฐานข้อมูล"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "เส้นทางวิกฤต ( Critical Path) ในการบริหารโครงการหมายถึงอะไร",
+    "choices": {
+      "A": "เส้นทางที่ไม่มีความสำคัญ",
+      "B": "เส้นทางที่ใช้เวลานานที่สุด ซึ่งกำหนดเวลาเสร็จสิ้นของโครงการ",
+      "C": "เส้นทางที่สั้นที่สุดในการทำงาน",
+      "D": "เส้นทางที่มีค่าใช้จ่ายมากที่สุด"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "ข้อใดคือวัตถุประสงค์หลักของ \" Data Dictionary\"",
+    "choices": {
+      "A": "อธิบายความหมายและรายละเอียดของข้อมูลในระบบ",
+      "B": "ใช้สำรองข้อมูล ( Backup)",
+      "C": "ใช้แปลภาษาในโปรแกรม",
+      "D": "เก็บข้อมูลรหัสผ่านของผู้ใช้"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "การรวบรวมความต้องการ ( Requirement Gathering) วิธีการใดที่ทำให้ได้ข้อมูลเชิงลึกและสามารถ สังเกตพฤติกรรมผู้ใช้ได้ดีที่สุด",
+    "choices": {
+      "A": "การสัมภาษณ์ ( Interview)",
+      "B": "การใช้แบบสอบถาม ( Questionnaire)",
+      "C": "การระดมสมอง ( Brainstorming)",
+      "D": "การสังเกตการณ์ ( Observation)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "Prototyping Model เหมาะกับสถานการณ์ใด",
+    "choices": {
+      "A": "ต้องการเอกสารที่สมบูรณ์ที่สุด",
+      "B": "ทีมงานมีความเชี่ยวชาญสูงมาก",
+      "C": "ผู้ใช้ยังไม่ทราบความต้องการที่แน่ชัด",
+      "D": "ระบบมีความซับซ้อนน้อยและต้องการความรวดเร็ว"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "การทำ Normalization มีจุดประสงค์หลักเพื่ออะไร",
+    "choices": {
+      "A": "ลดความซํ้าซ้อนของข้อมูลและป้องกันความผิดปกติของข้อมูล",
+      "B": "เพิ่มความซับซ้อนในการเขียน Query",
+      "C": "ทำให้ข้อมูลมีความปลอดภัยสูงสุด",
+      "D": "ทำให้ฐานข้อมูลมีขนาดใหญ่ขึ้น"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "Normalization ระดับใดที่เพียงพอสำหรับการใช้งานทั่วไปและลดความซํ้าซ้อนได้ดี",
+    "choices": {
+      "A": "1NF",
+      "B": "3NF",
+      "C": "2NF",
+      "D": "5NF"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "การออกแบบ User Interface (UI) ที่ดีควรคำนึงถึงสิ่งใดเป็นหลัก",
+    "choices": {
+      "A": "การใช้สีสันให้มากที่สุด",
+      "B": "ความยากในการใช้งานเพื่อความปลอดภัย",
+      "C": "ความสวยงามตระการตา",
+      "D": "ความง่ายในการใช้งาน ( Usability) และประสบการณ์ผู้ใช้ ( UX)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "ข้อใด ไม่ใช่ คุณสมบัติของข้อมูลสารสนเทศที่ดี",
+    "choices": {
+      "A": "ความซับซ้อน ( Complexity)",
+      "B": "ความถูกต้อง ( Accuracy)",
+      "C": "ความสอดคล้อง ( Relevance)",
+      "D": "ความทันสมัย ( Timeliness)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "การวิเคราะห์ระบบแบบ Structured Analysis จะเน้นสิ่งใด",
+    "choices": {
+      "A": "ข้อมูล ( Data) เป็นหลัก",
+      "B": "วัตถุ ( Object)",
+      "C": "กระบวนการ ( Process)",
+      "D": "ผู้ใช้งาน ( User)"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "การวิเคราะห์ระบบแบบ Object - Oriented Analysis (OOA) จะมองระบบเป็นอะไร",
+    "choices": {
+      "A": "กลุ่มของวัตถุที่มีปฏิสัมพันธ์กัน",
+      "B": "ลำดับขั้นตอนการทำงาน",
+      "C": "ตารางข้อมูล",
+      "D": "การไหลของข้อมูล"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "คำว่า \" Encapsulation\" ในแนวคิด OOP หมายถึงอะไร",
+    "choices": {
+      "A": "การนำโค้ดกลับมาใช้ใหม่",
+      "B": "การสืบทอดคุณสมบัติ",
+      "C": "การมีหลายรูปของวัตถุ",
+      "D": "การห่อหุ้มข้อมูลและเมธอดไว้ด้วยกันเพื่อซ่อนรายละเอียด"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "CASE Tools ย่อมาจากอะไร",
+    "choices": {
+      "A": "Coding And Software Editing",
+      "B": "Computer - Aided Software Engineering",
+      "C": "Control And System Engineering",
+      "D": "Computer Analysis System Equipment"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "ข้อใดคือประโยชน์ของ CASE Tools",
+    "choices": {
+      "A": "ใช้ซ่อมคอมพิวเตอร์",
+      "B": "ช่วยเขียนโปรแกรมแทนมนุษย์ได้ 100%",
+      "C": "ช่วยวาดไดอะแกรม สร้างโค้ด และจัดการเอกสารให้เป็นมาตรฐาน",
+      "D": "ใช้ทดสอบความเร็วอินเทอร์เน็ต"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "ปัจจัยใดที่มักทำให้โครงการพัฒนาระบบล้มเหลวมากที่สุด",
+    "choices": {
+      "A": "การสื่อสารที่ไม่ชัดเจนและความต้องการที่ไม่นิ่ง ( Unclear Requirements)",
+      "B": "คอมพิวเตอร์ประมวลผลช้า",
+      "C": "ขาดแคลนงบประมาณ",
+      "D": "เทคโนโลยีไม่ทันสมัย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "Coupling ในการออกแบบ Software ที่ดีควรเป็นอย่างไร",
+    "choices": {
+      "A": "High Coupling ( เกี่ยวข้องกันมาก )",
+      "B": "Random Coupling",
+      "C": "No Coupling ( ไม่เกี่ยวข้องกันเลย )",
+      "D": "Low Coupling ( เกี่ยวข้องกันน้อย )"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "Cohesion ในการออกแบบ Module ที่ดีควรเป็นอย่างไร",
+    "choices": {
+      "A": "Variable Cohesion",
+      "B": "Zero Cohesion",
+      "C": "High Cohesion ( ทำงานเรื่องเดียวอย่างเหนียวแน่น )",
+      "D": "Low Cohesion ( ทำงานหลายเรื่องปนกัน )"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "การแปลงข้อมูล ( Data Migration) มักเกิดขึ้นในขั้นตอนใด",
+    "choices": {
+      "A": "Implementation",
+      "B": "Analysis",
+      "C": "Maintenance",
+      "D": "Design"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "\"Alpha Testing\" แตกต่างจาก \" Beta Testing\" อย่างไร",
+    "choices": {
+      "A": "ไม่มีความแตกต่างกัน",
+      "B": "Alpha ใช้ทดสอบ Hardware, Beta ใช้ทดสอบ Software",
+      "C": "Alpha ทำโดยผู้ใช้จริง , Beta ทำโดยทีมพัฒนา",
+      "D": "Alpha ทำโดยทีมพัฒนาในสภาพแวดล้อมจำลอง , Beta ทำโดยผู้ใช้จริงในสภาพแวดล้อมจริง"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "เอกสาร SRS ย่อมาจากอะไร",
+    "choices": {
+      "A": "Software Role Structure",
+      "B": "System Requirements Specification",
+      "C": "Software Recovery System",
+      "D": "System Rule Standard"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "ข้อใดคือ Non - functional Requirement",
+    "choices": {
+      "A": "ระบบต้องตอบสนองภายในเวลาไม่เกิน 2 วินาที",
+      "B": "ระบบต้องคำนวณภาษีได้ถูกต้อง",
+      "C": "ระบบต้องพิมพ์ใบเสร็จรับเงินได้",
+      "D": "ระบบต้องสามารถบันทึกข้อมูลลูกค้าได้"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "การโจมตีระบบแบบ SQL Injection เกิดจากสาเหตุใด",
+    "choices": {
+      "A": "ไวรัสคอมพิวเตอร์",
+      "B": "การตั้งรหัสผ่านที่ง่ายเกินไป",
+      "C": "การไม่ตรวจสอบค่าที่รับมาจากผู้ใช้ ในการเขียน Query",
+      "D": "เครื่องเซิร์ฟเวอร์ทำงานหนักเกินไป"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "การสำรองข้อมูล ( Backup) ที่เก็บเฉพาะข้อมูลที่มีการเปลี่ยนแปลงจากการสำรองครั้งล่าสุด เรียกว่าอะไร",
+    "choices": {
+      "A": "Full Backup",
+      "B": "Incremental Backup",
+      "C": "Differential Backup",
+      "D": "Mirror Backup"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "Decision Tree และ Decision Table ใช้สำหรับทำอะไรในการวิเคราะห์ระบบ",
+    "choices": {
+      "A": "ออกแบบหน้าจอ",
+      "B": "แสดงความสัมพันธ์ของตาราง",
+      "C": "จัดเก็บข้อมูลลงฐานข้อมูล",
+      "D": "อธิบายตรรกะหรือเงื่อนไขที่ซับซ้อนใน Process"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "SWOT Analysis ใช้ในการวิเคราะห์สิ่งใดขององค์กรก่อนพัฒนาระบบ",
+    "choices": {
+      "A": "ฮาร์ดแวร์ ซอฟต์แวร์ บุคลากร ข้อมูล",
+      "B": "รายรับ รายจ่าย กำไร ขาดทุน",
+      "C": "จุดแข็ง จุดอ่อน โอกาส อุปสรรค",
+      "D": "ความเร็ว ความจุ ความทนทาน"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "ข้อใดคือความหมายของคำว่า Stakeholder ในโครงการพัฒนาระบบ",
+    "choices": {
+      "A": "โปรแกรมเมอร์เท่านั้น",
+      "B": "ผู้ที่มีส่วนได้ส่วนเสียหรือได้รับผลกระทบจากระบบทั้งหมด",
+      "C": "ผู้ถือหุ้นบริษัทเท่านั้น",
+      "D": "ผู้จัดการโครงการ"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "การทำ System Documentation คู่มือระบบ มีประโยชน์อย่างไรในระยะยาว",
+    "choices": {
+      "A": "เพื่อใช้ในการโฆษณาระบบ",
+      "B": "เพื่อให้ครบตามสัญญาจ้าง",
+      "C": "ไม่จำเป็นต้องทำก็ได้",
+      "D": "เพื่อช่วยในการบำรุงรักษาและแก้ไขระบบในอนาคตได้ง่ายขึ้น"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 51,
+    "q": "ในการเปลี่ยนผ่านระบบ ( System Conversion) วิธีการใดที่มีความเสี่ยงน้อยที่สุด แต่เสียค่าใช้จ่ายและ เวลามากที่สุด",
+    "choices": {
+      "A": "Parallel Strategy",
+      "B": "Pilot Operation",
+      "C": "Direct Cutover",
+      "D": "Phased Operation"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 52,
+    "q": "ข้อใดเป็นกฎที่ถูกต้องที่สุดในการเขียน Data Flow Diagram (DFD)",
+    "choices": {
+      "A": "ข้อมูลสามารถไหลระหว่าง External Entity ได้โดยตรง",
+      "B": "Process ต้องมีทั้งข้อมูลเข้าและข้อมูลออกเสมอ",
+      "C": "ข้อมูลสามารถไหลจาก Data Store ไปยัง Data Store ได้โดยตรง",
+      "D": "Data Store สามารถส่งข้อมูลให้ External Entity ได้โดยตรง"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 53,
+    "q": "ผลลัพธ์ ( Deliverable) ที่สำคัญที่สุดของขั้นตอนการวิเคราะห์ระบบ ( System Analysis) คืออะไร",
+    "choices": {
+      "A": "Database Schema ( โครงสร้างฐานข้อมูล )",
+      "B": "Test Plan ( แผนการทดสอบ )",
+      "C": "System Specification ( ข้อกำหนดของระบบ )",
+      "D": "Source Code ( รหัสโปรแกรม )"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 54,
+    "q": "แผนภาพ Class Diagram ใน UML แสดงความสัมพันธ์แบบใดที่หมายถึง \" การสืบทอดคุณสมบัติ \" ( Inheritance)",
+    "choices": {
+      "A": "Association",
+      "B": "Composition",
+      "C": "Aggregation",
+      "D": "Generalization"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 55,
+    "q": "การเก็บรวบรวมข้อมูลด้วยเทคนิค Joint Application Development (JAD) มีลักษณะเด่นอย่างไร",
+    "choices": {
+      "A": "การประชุมร่วมกันแบบมีโครงสร้างระหว่างผู้ใช้ ผู้บริหาร และนักวิเคราะห์ระบบ",
+      "B": "การสัมภาษณ์ผู้ใช้ทีละคนเพื่อเจาะลึกปัญหา",
+      "C": "ใช้แบบสอบถามออนไลน์ส่งให้ผู้ใช้จำนวนมาก",
+      "D": "นักวิเคราะห์ระบบเข้าไปนั่งสังเกตการทำงานของผู้ใช้เงียบๆ"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 56,
+    "q": "ความสัมพันธ์แบบ Composition ในเชิงวัตถุ ( Object - Oriented) หมายถึงอะไร",
+    "choices": {
+      "A": "วัตถุหนึ่งสามารถใช้งานวิธีการของอีกวัตถุหนึ่งได้",
+      "B": "วัตถุหนึ่งเป็นส่วนหนึ่งของอีกวัตถุหนึ่งและไม่สามารถอยู่ตามลำพังได้เมื่อวัตถุหลักถูกทำลาย",
+      "C": "วัตถุสองชิ้นมีการแลกเปลี่ยนข้อมูลกันชั่วคราว",
+      "D": "วัตถุหนึ่งเป็นส่วนหนึ่งของอีกวัตถุหนึ่งแต่สามารถอยู่รอดได้แม้วัตถุหลักจะถูกทำลาย"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 57,
+    "q": "สถาปัตยกรรมซอฟต์แวร์แบบ 3 - Tier Architecture โดยทั่วไปประกอบด้วยชั้น ( Tier) ใดบ้าง",
+    "choices": {
+      "A": "Client, Network, Server",
+      "B": "Web, Application, Security",
+      "C": "Presentation, Business Logic, Data",
+      "D": "Input, Process, Output"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 58,
+    "q": "แผนภาพ UML ใดที่เหมาะสมที่สุดในการแสดงการเปลี่ยนสถานะของระบบตามเหตุการณ์ต่างๆ ที่เกิดขึ้น",
+    "choices": {
+      "A": "Activity Diagram",
+      "B": "Deployment Diagram",
+      "C": "Component Diagram",
+      "D": "State Machine Diagram"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 59,
+    "q": "กุญแจต่างประเทศ ( Foreign Key) ในฐานข้อมูลเชิงสัมพันธ์มีหน้าที่อะไร",
+    "choices": {
+      "A": "เชื่อมโยงความสัมพันธ์ระหว่างตารางสองตาราง",
+      "B": "ป้องกันไม่ให้ใครเข้าถึงข้อมูลได้",
+      "C": "ระบุรายการข้อมูลในตารางไม่ให้ซํ้ากัน",
+      "D": "เข้ารหัสข้อมูลเพื่อความปลอดภัย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 60,
+    "q": "การประเมินความคุ้มค่าของการลงทุนพัฒนาระบบด้วยวิธีหาจุดคุ้มทุนเรียกว่าอะไร",
+    "choices": {
+      "A": "Return on Investment (ROI)",
+      "B": "Break - Even Analysis",
+      "C": "Payback Period",
+      "D": "Net Present Value (NPV)"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 61,
+    "q": "การทดสอบระบบระดับใดที่มีเป้าหมายเพื่อตรวจสอบว่าโมดูลย่อยต่างๆ สามารถนำมาประกอบกันและ ทำงานร่วมกันได้",
+    "choices": {
+      "A": "Acceptance Testing",
+      "B": "System Testing",
+      "C": "Integration Testing",
+      "D": "Unit Testing"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 62,
+    "q": "ข้อใดคือตัวอย่างของ Non - Functional Requirement",
+    "choices": {
+      "A": "ระบบสามารถคำนวณภาษีมูลค่าเพิ่มได้ถูกต้อง",
+      "B": "ระบบสามารถตรวจสอบสิทธิ์ผู้ใช้ก่อนเข้าใช้งาน",
+      "C": "ระบบสามารถออกรายงานยอดขายรายเดือนได้",
+      "D": "ระบบต้องสามารถรองรับผู้ใช้งานพร้อมกันได้ 1,000 คน โดยไม่หน่วง"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 63,
+    "q": "ในการออกแบบสถาปัตยกรรมซอฟต์แวร์ที่ดี ควรมีลักษณะของ Coupling และ Cohesion อย่างไร",
+    "choices": {
+      "A": "Low Coupling, High Cohesion",
+      "B": "Low Coupling, Low Cohesion",
+      "C": "High Coupling, High Cohesion",
+      "D": "High Coupling, Low Cohesion"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 64,
+    "q": "การพัฒนาระบบสารสนเทศแบบใดที่เน้นการทำซํ้า ( Iterative) และส่งมอบซอฟต์แวร์ที่ใช้งานได้จริงอย่าง ต่อเนื่อง",
+    "choices": {
+      "A": "V - Model",
+      "B": "Agile Development",
+      "C": "Waterfall Model",
+      "D": "Spiral Model"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 65,
+    "q": "การออกแบบอินเทอร์เฟซ ( User Interface Design) กฎของความสมํ่าเสมอ ( Consistency) หมายถึง อะไร",
+    "choices": {
+      "A": "การออกแบบให้ใช้เวลาโหลดหน้าจอน้อยที่สุด",
+      "B": "การจำกัดจำนวนสีในหน้าจอไม่ให้เกิน 3 สี",
+      "C": "การใช้สีตัวอักษรและปุ่มที่เหมือนกันในทุกหน้าจอที่มีฟังก์ชันระดับเดียวกัน",
+      "D": "การใช้รูปภาพมากกว่าข้อความเสมอ"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 66,
+    "q": "สัญลักษณ์รูปสี่เหลี่ยมข้าวหลามตัด ( Diamond) ใน Flowchart ใช้แทนสิ่งใด",
+    "choices": {
+      "A": "การรับเข้า / ส่งออกข้อมูล ( Input / Output)",
+      "B": "การประมวลผล ( Process)",
+      "C": "จุดเริ่มต้น / สิ้นสุด",
+      "D": "การตัดสินใจ ( Decision)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 67,
+    "q": "ข้อใดไม่ใช่สาเหตุที่ทำให้ต้องมีการบำรุงรักษาระบบ ( System Maintenance)",
+    "choices": {
+      "A": "ต้องการจัดทำคู่มือผู้ใช้ใหม่ก่อนส่งมอบงาน",
+      "B": "รัฐบาลออกกฎหมายภาษีใหม่ที่ต้องปรับโครงสร้างการคำนวณ",
+      "C": "ผู้ใช้ต้องการเพิ่มคุณสมบัติใหม่ในระบบ",
+      "D": "พบข้อผิดพลาดของโปรแกรมหลังการติดตั้ง"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 68,
+    "q": "การออกแบบรหัสข้อมูล ( Coding Scheme) แบบ M=Male, F=Female เป็นการออกแบบรหัสประเภท ใด",
+    "choices": {
+      "A": "Cipher Code",
+      "B": "Mnemonic Code",
+      "C": "Sequence Code",
+      "D": "Block Code"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 69,
+    "q": "แผนภาพ Deployment Diagram ใน UML มีไว้เพื่อแสดงสิ่งใด",
+    "choices": {
+      "A": "ความสัมพันธ์ระหว่างคลาสในมุมมองของนักออกแบบ",
+      "B": "หน้าจอติดต่อผู้ใช้ ( GUI) ของแอปพลิเคชัน",
+      "C": "การกระจายของซอฟต์แวร์และฮาร์ดแวร์ในระบบเครือข่าย",
+      "D": "ลำดับการทำงานของโปรแกรมแบบเรียลไทม์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 70,
+    "q": "การใช้ Cloud Computing มาช่วยในการพัฒาระบบสารสนเทศขององค์กร มีข้อดีที่โดดเด่นที่ตามข้อใด",
+    "choices": {
+      "A": "ลดปัญหาเรื่องไวรัสคอมพิวเตอร์ได้ 100%",
+      "B": "ผู้พัฒนาไม่ต้องเขียนโค้ดเอง ( No - code Development)",
+      "C": "ไม่ต้องมีการวิเคราะห์และออกแบบระบบก่อนพัฒนา",
+      "D": "มีความยืดหยุ่นในการขยายทรัพยากรและลดต้นทุนฮาร์ดแวร์เริ่มต้น"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  }
+]

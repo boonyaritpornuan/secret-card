@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "She ___ to the store yesterday.",
+    "choices": {
+      "A": "went",
+      "B": "go",
+      "C": "gone",
+      "D": "goes"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "went - ประโยคมีคำบอกเวลาคือ \" yesterday\" จึงต้องใช้ Past Simple Tense ( กริยาช่องที่ 2 ของ   go  คือ   went)"
+  },
+  {
+    "id": 2,
+    "q": "I have been living here ___ 2010.",
+    "choices": {
+      "A": "in",
+      "B": "since",
+      "C": "for",
+      "D": "on"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "since - ประโยค Present Perfect Continuous (have been living) ใช้ \" since\" เพื่อบอก จุดเริ่มต้นของเวลา  ( ตั้งแต่ปี   2010)"
+  },
+  {
+    "id": 3,
+    "q": "If it rains tomorrow, we ___ at home.",
+    "choices": {
+      "A": "stay",
+      "B": "would stay",
+      "C": "will stay",
+      "D": "stayed"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "will stay - ประโยคเงื่อนไขแบบที่ 1 (First Conditional) โครงสร้างคือ If + Present Simple, Future Simple (will + V.infinitive)"
+  },
+  {
+    "id": 4,
+    "q": "The book ___ was on the table is mine.",
+    "choices": {
+      "A": "whose",
+      "B": "where",
+      "C": "who",
+      "D": "which"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "which - relative pronoun ที่ใช้แทนสิ่งของ ( the book) และทำหน้าที่เป็นประธานของ ประโยคย่อยคือ   which"
+  },
+  {
+    "id": 5,
+    "q": "They ___ finished their homework yet.",
+    "choices": {
+      "A": "hasn't",
+      "B": "haven't",
+      "C": "don't",
+      "D": "didn't"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "haven't - They เป็นพหูพจน์ ต้องใช้กับ have ประโยคปฏิเสธที่มีคำว่า yet จึงใช้ haven't"
+  },
+  {
+    "id": 6,
+    "q": "By the time he arrived, the train ___.",
+    "choices": {
+      "A": "had left",
+      "B": "leaves",
+      "C": "has left",
+      "D": "left"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "had left - เป็นการใช้ Past Perfect คู่กับ Past Simple เหตุการณ์ที่เกิดก่อนและจบไปแล้ว ( รถไฟออกไปแล้ว )  ใช้   Past Perfect (had + V3)  เหตุการณ์ที่เกิดทีหลังใช้   Past Simple (arrived)"
+  },
+  {
+    "id": 7,
+    "q": "I am looking forward to ___ you.",
+    "choices": {
+      "A": "see",
+      "B": "have seen",
+      "C": "seeing",
+      "D": "be seeing"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "seeing - สำนวน \" look forward to\" ( ตั้งตารอคอย ) ต้องตามด้วย V.ing เสมอ"
+  },
+  {
+    "id": 8,
+    "q": "Neither of the boys ___ the answer.",
+    "choices": {
+      "A": "knowing",
+      "B": "know",
+      "C": "are knowing",
+      "D": "knows"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "knows - โครงสร้าง \" Neither of + คำนามพหูพจน์ \" จะใช้กับกริยาเอกพจน์เสมอ จึงเติม s ที่ know"
+  },
+  {
+    "id": 9,
+    "q": "___ you mind closing the window?",
+    "choices": {
+      "A": "Would",
+      "B": "May",
+      "C": "Should",
+      "D": "Could"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Would - การขอร้องอย่างสุภาพใช้โครงสร้าง \" Would you mind + V.ing\" ( คุณจะรังเกียจไหม ถ้า ...)"
+  },
+  {
+    "id": 10,
+    "q": "The cake ___ by Mary.",
+    "choices": {
+      "A": "was made",
+      "B": "made",
+      "C": "make",
+      "D": "was making"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "was made - ประโยคนี้อยู่ในรูป Passive Voice ( ประธานถูกกระทำ ) เค้กถูกทำโดยแมรี่ โครงสร้างของอดีตคือ   was/were + V3"
+  },
+  {
+    "id": 11,
+    "q": "He asked me what time ___.",
+    "choices": {
+      "A": "it is",
+      "B": "is it",
+      "C": "was it",
+      "D": "it was"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "it was - ประโยคคำถามรอง ( Indirect Question) ต้องเรียงประโยคแบบบอกเล่าคือ ประธาน +  กริยา   และต้องเปลี่ยน   Tense  เป็นอดีตตามกริยาหลัก  ( asked)  จึงเป็น   it was"
+  },
+  {
+    "id": 12,
+    "q": "We had better ___ now before it gets dark.",
+    "choices": {
+      "A": "to leave",
+      "B": "leave",
+      "C": "left",
+      "D": "leaving"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "leave - สำนวน \" had better\" ( ควรจะ ... ดีกว่า ) ตามด้วย V.infinitive แบบไม่ต้องมี to"
+  },
+  {
+    "id": 13,
+    "q": "She is used to ___ up early.",
+    "choices": {
+      "A": "waking",
+      "B": "wake",
+      "C": "woke",
+      "D": "wakes"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "waking - โครงสร้าง \" Verb to be + used to\" ( เคยชินกับ ) ต้องตามด้วย V.ing หรือ Noun เสมอ"
+  },
+  {
+    "id": 14,
+    "q": "Hardly ___ entered the room when the phone rang.",
+    "choices": {
+      "A": "I have",
+      "B": "have I",
+      "C": "I had",
+      "D": "had I"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "had I - โครงสร้าง Inversion ( การสลับที่ประธานกับกริยา ) เมื่อขึ้นต้นประโยคด้วย Hardly จะ ใช้โครงสร้าง   Hardly + had + Subject + V3... when..."
+  },
+  {
+    "id": 15,
+    "q": "He is the man ___ car was stolen.",
+    "choices": {
+      "A": "whom",
+      "B": "whose",
+      "C": "that",
+      "D": "who"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "whose - ใช้ relative pronoun เพื่อแสดงความเป็นเจ้าของแปลว่า \" ผู้ซึ่งรถของเขา ...\""
+  },
+  {
+    "id": 16,
+    "q": "Despite ___ hard, he failed the exam.",
+    "choices": {
+      "A": "studying",
+      "B": "study",
+      "C": "studied",
+      "D": "he studied"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "studying - คำว่า Despite ( แม้ว่า ) ต้องตามด้วยคำนาม ( Noun) หรือ กริยาเติม ing (Gerund) เสมอ"
+  },
+  {
+    "id": 17,
+    "q": "You must have your car ___ soon.",
+    "choices": {
+      "A": "fixing",
+      "B": "to fix",
+      "C": "fixed",
+      "D": "fix"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "fixed - โครงสร้าง Causative form แบบถูกกระทำ ( have + something + V3) หมายถึง นำ รถไปให้คนอื่นซ่อม"
+  },
+  {
+    "id": 18,
+    "q": "Not only ___ late, but he also forgot his books.",
+    "choices": {
+      "A": "he was",
+      "B": "did he",
+      "C": "he did",
+      "D": "was he"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "was he - เมื่อขึ้นต้นประโยคด้วยปฏิเสธ ( Not only) ต้องสลับตำแหน่งกริยาช่วยกับประธาน เป็น   Not only + V. ช่วย  +  Subject..."
+  },
+  {
+    "id": 19,
+    "q": "I wish I ___ more money.",
+    "choices": {
+      "A": "had",
+      "B": "have",
+      "C": "having",
+      "D": "has"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "had - ประโยคแสดงความปรารถนาในสิ่งที่ไม่เป็นจริงในปัจจุบัน ( Wish) ต้องใช้ Past Simple Tense"
+  },
+  {
+    "id": 20,
+    "q": "The meeting was called ___ due to the storm.",
+    "choices": {
+      "A": "on",
+      "B": "off",
+      "C": "up",
+      "D": "out"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "off - เป็น Phrasal Verb คำว่า \" call off\" มีความหมายว่า ยกเลิก"
+  },
+  {
+    "id": 21,
+    "q": "It's time we ___.",
+    "choices": {
+      "A": "went",
+      "B": "go",
+      "C": "to go",
+      "D": "going"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "went - โครงสร้าง It's time ( ถึงเวลาแล้วที่ ...) ตามด้วยประโยคในรูป Past Simple Tense เสมอ   เพื่อเน้นยํ้า"
+  },
+  {
+    "id": 22,
+    "q": "She accused him ___ stealing her purse.",
+    "choices": {
+      "A": "with",
+      "B": "about",
+      "C": "of",
+      "D": "for"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "of - กริยา accuse ( กล่าวหา ) ต้องใช้คู่กับบุพบท \" of\" เสมอ ( accuse someone of something)"
+  },
+  {
+    "id": 23,
+    "q": "They let me ___ early yesterday.",
+    "choices": {
+      "A": "leaving",
+      "B": "leave",
+      "C": "left",
+      "D": "to leave"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "leave - กริยา let โครงสร้างคือ let + บุคคล + V.infinitive แบบไม่มี to ( ปล่อยให้ใครทำ อะไร )"
+  },
+  {
+    "id": 24,
+    "q": "I would rather you ___ it right now.",
+    "choices": {
+      "A": "to do",
+      "B": "do",
+      "C": "doing",
+      "D": "did"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "did - โครงสร้าง would rather + ประธานตัวที่สอง + V.2 ใช้เพื่อบอกว่าอยากให้ใครอีกคนทำ อะไรในปัจจุบัน"
+  },
+  {
+    "id": 25,
+    "q": "That is the restaurant ___ we ate last night.",
+    "choices": {
+      "A": "where",
+      "B": "when",
+      "C": "which",
+      "D": "that"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "where - relative adverb ที่ใช้แทนสถานที่และตามด้วยประโยค ( Subject + V) คือ where"
+  },
+  {
+    "id": 26,
+    "q": "He denied ___ the money.",
+    "choices": {
+      "A": "stole",
+      "B": "stealing",
+      "C": "to steal",
+      "D": "steal"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "stealing - กริยา deny ( ปฏิเสธ ) ต้องตามด้วย V.ing (Gerund) เสมอ"
+  },
+  {
+    "id": 27,
+    "q": "The news ___ surprisingly good.",
+    "choices": {
+      "A": "be",
+      "B": "are",
+      "C": "is",
+      "D": "were"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "is - The news ( ข่าว ) เป็นคำนามนับไม่ได้ ต้องใช้กริยาเอกพจน์"
+  },
+  {
+    "id": 28,
+    "q": "If I ___ you, I wouldn't do that.",
+    "choices": {
+      "A": "was",
+      "B": "were",
+      "C": "am",
+      "D": "been"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "were - ประโยคเงื่อนไขแบบที่ 2 ( สมมติในสิ่งที่ไม่เป็นจริง ) If I were you ใช้ were กับ ประธานทุกตัว"
+  },
+  {
+    "id": 29,
+    "q": "The furniture in this room ___ very old.",
+    "choices": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "have been"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "is - คำว่า furniture เป็นคำนามนับไม่ได้ ( Uncountable Noun) ในภาษาอังกฤษ จึงต้องใช้ กริยาเอกพจน์"
+  },
+  {
+    "id": 30,
+    "q": "___ of the students passed the test.",
+    "choices": {
+      "A": "None",
+      "B": "Any",
+      "C": "Every",
+      "D": "Much"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "None - None of + คำนามพหูพจน์ ( ไม่มีใครเลยในกลุ่มนักเรียน ) Any จะใช้ในประโยค คำถาม / ปฏิเสธ   ส่วน   Every  ต้องตามด้วยนามเอกพจน์"
+  },
+  {
+    "id": 31,
+    "q": "We will wait here until she ___.",
+    "choices": {
+      "A": "came",
+      "B": "will come",
+      "C": "is coming",
+      "D": "comes"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "comes - ใน Time clause ( ประโยคบอกเวลาหลัง until) ที่พูดถึงอนาคต จะต้องใช้ Present Simple Tense"
+  },
+  {
+    "id": 32,
+    "q": "He is tall enough ___ the ceiling.",
+    "choices": {
+      "A": "to touch",
+      "B": "touched",
+      "C": "touching",
+      "D": "touch"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "to touch - โครงสร้าง adjective + enough + to infinitive ( สูงพอที่จะ ...)"
+  },
+  {
+    "id": 33,
+    "q": "I remember ___ him at the party last year.",
+    "choices": {
+      "A": "meeting",
+      "B": "to meet",
+      "C": "meet",
+      "D": "met"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "meeting - กริยา remember + V.ing หมายถึง จำได้ว่าได้ทำสิ่งนั้นไปแล้วในอดีต"
+  },
+  {
+    "id": 34,
+    "q": "The more you read, the ___ you learn.",
+    "choices": {
+      "A": "more",
+      "B": "much",
+      "C": "most",
+      "D": "many"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "more - โครงสร้าง The + ขั้นกว่า , the + ขั้นกว่า ( ยิ่ง ... ก็ยิ่ง ...)"
+  },
+  {
+    "id": 35,
+    "q": "She has a brother, ___?",
+    "choices": {
+      "A": "hasn't she",
+      "B": "has she",
+      "C": "doesn't she",
+      "D": "does she"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "doesn't she - Question tag ของประโยคที่มี has/have เป็นกริยาแท้ ( แปลว่า มี ) และ ประโยคเป็นบอกเล่า   tag  ต้องเป็นปฏิเสธและใช้   Verb to do  เข้ามาช่วย"
+  },
+  {
+    "id": 36,
+    "q": "I object ___ treated like a child.",
+    "choices": {
+      "A": "to be",
+      "B": "be",
+      "C": "being",
+      "D": "to being"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "to being - สำนวน object to ( คัดค้าน ) ต้องตามด้วย V.ing และเนื่องจากประธานถูกกระทำ ( ถูกทำเหมือนเด็ก )  จึงต้องเป็น   Passive (being + V3)"
+  },
+  {
+    "id": 37,
+    "q": "It is important that he ___ the meeting.",
+    "choices": {
+      "A": "attending",
+      "B": "attends",
+      "C": "attend",
+      "D": "attended"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "attend - โครงสร้าง Subjunctive หลัง It is important that ประธานทุกตัวต้องตามด้วย V.infinitive  แบบไม่มี   to  และไม่ผันตามประธาน"
+  },
+  {
+    "id": 38,
+    "q": "He didn't know how ___ the problem.",
+    "choices": {
+      "A": "to solve",
+      "B": "solving",
+      "C": "solve",
+      "D": "solved"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "to solve - คำแสดงคำถาม ( Question word) เช่น how, what, where หากตามด้วยกริยา ต้องใช้   to infinitive"
+  },
+  {
+    "id": 39,
+    "q": "I am not good ___ math.",
+    "choices": {
+      "A": "with",
+      "B": "on",
+      "C": "at",
+      "D": "in"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "at - สำนวน good at แปลว่า เก่งในเรื่อง ... ตามด้วยคำนามหรือ V.ing"
+  },
+  {
+    "id": 40,
+    "q": "She made me ___ my room.",
+    "choices": {
+      "A": "cleaning",
+      "B": "to clean",
+      "C": "cleaned",
+      "D": "clean"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "clean - กริยา make ( บังคับ / ทำให้ ) โครงสร้างคือ make + บุคคล + V.infinitive แบบไม่มี to"
+  },
+  {
+    "id": 41,
+    "q": "He works as ___ engineer.",
+    "choices": {
+      "A": "an",
+      "B": "a",
+      "C": "or",
+      "D": "the"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "an - engineer เริ่มต้นด้วยเสียงสระ ( อ ) จึงต้องใช้ an"
+  },
+  {
+    "id": 42,
+    "q": "Unless you hurry, you ___ the bus.",
+    "choices": {
+      "A": "would miss",
+      "B": "will miss",
+      "C": "miss",
+      "D": "missed"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "will miss - ประโยคเงื่อนไขแบบที่ 1 (Unless = If not) Unless + Present Simple, Future Simple (will + V.infinitive)"
+  },
+  {
+    "id": 43,
+    "q": "The dog ___ is barking loudly belongs to my neighbor.",
+    "choices": {
+      "A": "whose",
+      "B": "that",
+      "C": "whom",
+      "D": "who"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "that - ใช้ relative pronoun แทนนามที่เป็นสัตว์ ในที่นี้ 'that' ถูกต้องตามไวยากรณ์และมีอยู่ ในตัวเลือก"
+  },
+  {
+    "id": 44,
+    "q": "He always prefers tea ___ coffee.",
+    "choices": {
+      "A": "over",
+      "B": "to",
+      "C": "than",
+      "D": "more"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "to - กริยา prefer ( ชอบมากกว่า ) โครงสร้างคือ prefer A to B"
+  },
+  {
+    "id": 45,
+    "q": "The bridge ___ built in 1990.",
+    "choices": {
+      "A": "had been",
+      "B": "is",
+      "C": "was",
+      "D": "has been"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "was - ประโยคกล่าวถึงการสร้างสะพานในอดีต ( 1990) เป็น Passive Voice ในอดีต โครงสร้าง คือ   was/were + V3"
+  },
+  {
+    "id": 46,
+    "q": "We discussed ___ the issue for hours.",
+    "choices": {
+      "A": "-",
+      "B": "over",
+      "C": "about",
+      "D": "on"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "- - กริยา discuss แปลว่า ถกเถียงหรือพูดคุยเกี่ยวกับ เป็นกริยาที่ต้องการกรรมตรง ไม่ต้องมี preposition (about)  ตามหลัง"
+  },
+  {
+    "id": 47,
+    "q": "She suggested ___ for a walk.",
+    "choices": {
+      "A": "going",
+      "B": "went",
+      "C": "go",
+      "D": "to go"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "going - กริยา suggest ( แนะนำ ) ต้องตามด้วย V.ing เสมอ"
+  },
+  {
+    "id": 48,
+    "q": "I haven't seen him ___ a long time.",
+    "choices": {
+      "A": "in",
+      "B": "since",
+      "C": "during",
+      "D": "for"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "for - ประโยค Present Perfect tense บอกระยะเวลา ( a long time) ต้องใช้บุพบท for"
+  },
+  {
+    "id": 49,
+    "q": "Everyone in the class ___ finished the assignment.",
+    "choices": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "has - คำสรรพนาม Everyone ถือเป็นเอกพจน์เสมอ จึงต้องใช้กริยาเอกพจน์คือ has"
+  },
+  {
+    "id": 50,
+    "q": "Let's go to the cinema, ___?",
+    "choices": {
+      "A": "let us",
+      "B": "don't we",
+      "C": "shall we",
+      "D": "will we"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "shall we - ประโยคชักชวนที่ขึ้นต้นด้วย Let's ... จะมี Question tag เป็น shall we เสมอ"
+  }
+]

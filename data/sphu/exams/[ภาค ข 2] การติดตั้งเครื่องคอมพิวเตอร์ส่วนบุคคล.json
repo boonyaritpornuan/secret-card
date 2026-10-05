@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "อุปกรณ์ใดช่วยป้องกันความเสียหายจากไฟฟ้าสถิตขณะประกอบคอมพิวเตอร์",
+    "choices": {
+      "A": "สายรัดข้อมือกันไฟฟ้าสถิต",
+      "B": "รองเท้าหนัง",
+      "C": "ถุงมือยาง",
+      "D": "แว่นตานิรภัย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "ข้อใดเป็นสิ่งแรกที่ต้องทำก่อนเปิดฝาเคสเพื่อติดตั้งอุปกรณ์ภายใน",
+    "choices": {
+      "A": "ถอดสายเมาส์และคีย์บอร์ด",
+      "B": "ถอดปลั๊กไฟออกจากแหล่งจ่ายไฟ",
+      "C": "สวมถุงมือผ้า",
+      "D": "กดปุ่มเปิดเครื่องค้างไว้"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "ไขควงประเภทใดที่เหมาะสมที่สุดในการประกอบเครื่องคอมพิวเตอร์",
+    "choices": {
+      "A": "ไขควงปากแบน",
+      "B": "ไขควงวัดไฟ",
+      "C": "ไขควงปากแฉก ที่มีหัวแม่เหล็ก",
+      "D": "ไขควงหกเหลี่ยม"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "ซิลิโคน ( Thermal Paste) ทาไว้ที่ส่วนใดของการติดตั้งคอมพิวเตอร์",
+    "choices": {
+      "A": "ระหว่างเมนบอร์ดกับเคส",
+      "B": "ระหว่างชิปเซตกับแรม",
+      "C": "ระหว่างการ์ดจอกับสล็อต PCIe",
+      "D": "ระหว่างซีพียูกับฮีตซิงก์ ( Heatsink)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "อุปกรณ์ใดใช้สำหรับรองเมนบอร์ดไม่ให้สัมผัสกับตัวเคสโดยตรงเพื่อป้องกันไฟฟ้าลัดวงจร",
+    "choices": {
+      "A": "เสารองเมนบอร์ด ( Standoffs)",
+      "B": "สายรัดสายไฟ ( Cable Tie)",
+      "C": "ซิลิโคนระบายความร้อน",
+      "D": "สกรูยึดฮาร์ดดิสก์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "การติดตั้ง CPU ลงบนซ็อกเก็ต ( Socket) ต้องสังเกตสิ่งใดเป็นหลักเพื่อไม่ให้ขา CPU หัก",
+    "choices": {
+      "A": "ความหนาของตัว CPU",
+      "B": "รอยบากและเครื่องหมายสามเหลี่ยมมุมซ็อกเก็ต",
+      "C": "ตัวอักษรบนกระดอง CPU",
+      "D": "สีของแผงวงจร"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "ซ็อกเก็ต CPU แบบใดที่ขาสัมผัส ( Pins) อยู่บนเมนบอร์ด ไม่ใช่อยู่บนตัว CPU",
+    "choices": {
+      "A": "PGA (Pin Grid Array)",
+      "B": "BGA (Ball Grid Array)",
+      "C": "LGA (Land Grid Array)",
+      "D": "ZIF (Zero Insertion Force)"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "หากมี RAM 2 ตัว และเมนบอร์ดมี 4 สล็อต ( A1, A2, B1, B2) ควรติดตั้งที่สล็อตใดเพื่อให้ทำงานแบบ Dual Channel  ตามคู่มือทั่วไป",
+    "choices": {
+      "A": "A1 และ A2",
+      "B": "ติดตั้งช่องใดก็ได้",
+      "C": "B1 และ B2",
+      "D": "A2 และ B2 ( หรือ A1 และ B1)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "ข้อใดกล่าวถูกต้องเกี่ยวกับการอัปเกรดหรือติดตั้ง RAM เพิ่ม",
+    "choices": {
+      "A": "ควรใช้ RAM ที่มีความจุและบัส ( Bus) เท่ากันเพื่อประสิทธิภาพสูงสุด",
+      "B": "สามารถใช้ RAM DDR3 ร่วมกับ DDR4 ได้",
+      "C": "เมนบอร์ดทุกรุ่นรองรับ RAM ได้สูงสุด 128GB",
+      "D": "ความเร็วของ RAM จะวิ่งตามตัวที่เร็วกว่าเสมอ"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "RAM ชนิด SO - DIMM นิยมใช้ติดตั้งในอุปกรณ์ใด",
+    "choices": {
+      "A": "เครื่องพิมพ์เครือข่าย",
+      "B": "คอมพิวเตอร์พกพา ( Notebook/Laptop)",
+      "C": "เซิร์ฟเวอร์ ( Server)",
+      "D": "คอมพิวเตอร์ตั้งโต๊ะ ( Desktop PC)"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "อินเทอร์เฟซ ( Interface) ใดที่ให้ความเร็วในการถ่ายโอนข้อมูลสูงสุดสำหรับ SSD ในปัจจุบัน",
+    "choices": {
+      "A": "IDE",
+      "B": "SATA III",
+      "C": "PCIe NVMe (M.2)",
+      "D": "USB 3.0"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "สายเคเบิลใดใช้สำหรับเชื่อมต่อรับส่งข้อมูลระหว่างเมนบอร์ดกับฮาร์ดดิสก์ ( HDD) รุ่นทั่วไป",
+    "choices": {
+      "A": "สาย HDMI",
+      "B": "สาย VGA",
+      "C": "สาย 24 - pin ATX",
+      "D": "สาย SATA"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "การติดตั้ง M.2 SSD บนเมนบอร์ด สิ่งที่ขาดไม่ได้ในการยึดคืออะไร",
+    "choices": {
+      "A": "นอตยึด M.2 (Standoff & Screw)",
+      "B": "สาย PCIe 8 - pin",
+      "C": "สาย SATA",
+      "D": "สายไฟเลี้ยง SATA Power"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "สายไฟเส้นใดจาก Power Supply (PSU) ที่เป็นสายหลักสำหรับจ่ายไฟให้เมนบอร์ด",
+    "choices": {
+      "A": "สาย SATA Power",
+      "B": "สาย 24 - Pin ATX",
+      "C": "สาย 4+4 Pin EPS",
+      "D": "สาย 6+2 Pin PCIe"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "สายไฟ 4 - pin หรือ 8 - pin (EPS) จาก Power Supply ใช้สำหรับจ่ายไฟให้อุปกรณ์ใด",
+    "choices": {
+      "A": "การ์ดจอ",
+      "B": "พัดลมเคส",
+      "C": "ซีพียู ( CPU)",
+      "D": "ฮาร์ดดิสก์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "สายไฟ 6 - pin หรือ 8 - pin (PCIe) จาก PSU ใช้สำหรับจ่ายพลังงานให้กับอุปกรณ์ใด",
+    "choices": {
+      "A": "ไดรฟ์ดีวีดี",
+      "B": "ซีพียู",
+      "C": "เมนบอร์ด",
+      "D": "กราฟิกการ์ด"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "( VGA/GPU)"
+  },
+  {
+    "id": 17,
+    "q": "สาย Front Panel ใดที่ใช้สำหรับเปิด - ปิดเครื่องคอมพิวเตอร์",
+    "choices": {
+      "A": "POWER SW",
+      "B": "HDD LED",
+      "C": "POWER LED",
+      "D": "RESET SW"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "สาย Front Panel ชุดใดที่ต้องคำนึงถึงขั้วบวก (+) และขั้วลบ ( - ) เสมอเวลาติดตั้ง",
+    "choices": {
+      "A": "POWER SW และ RESET SW",
+      "B": "POWER LED และ HDD LED",
+      "C": "HD Audio Header",
+      "D": "USB 2.0 Header"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "การติดตั้งพัดลมระบายอากาศในเคส ( Airflow) ที่เหมาะสมที่สุดคือข้อใด",
+    "choices": {
+      "A": "ดูดลมเข้าทุกทิศทาง",
+      "B": "เป่าลมออกทุกทิศทาง",
+      "C": "ดูดลมเข้าด้านหน้า - ล่าง เป่าลมร้อนออกด้านบน - หลัง",
+      "D": "ดูดลมเข้าทางด้านหลัง เป่าออกด้านหน้า"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "มาตรฐานขนาดของเมนบอร์ดคอมพิวเตอร์ทั่วไปที่นิยมใช้มากที่สุดคือข้อใด",
+    "choices": {
+      "A": "Mini - ITX",
+      "B": "Micro - ATX",
+      "C": "E - ATX",
+      "D": "ATX"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "แผ่นโลหะหรือพลาสติกที่ใช้ปิดช่องพอร์ตด้านหลังของเมนบอร์ดเรียกว่าอะไร",
+    "choices": {
+      "A": "I/O Shield",
+      "B": "Backplate",
+      "C": "Heatsink",
+      "D": "Bracket"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "กราฟิกการ์ด ( VGA) ควรติดตั้งลงบนสล็อตใดของเมนบอร์ดเพื่อประสิทธิภาพสูงสุด",
+    "choices": {
+      "A": "PCIe x1",
+      "B": "PCIe x16",
+      "C": "M.2 Slot",
+      "D": "PCI รุ่นเก่า"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "ถ่านกระดุม ( CR2032) บนเมนบอร์ดมีหน้าที่หลักคืออะไร",
+    "choices": {
+      "A": "จ่ายไฟสำรองเมื่อไฟดับแทน UPS",
+      "B": "เพิ่มความเร็วให้ระบบประมวลผล",
+      "C": "เก็บรักษาการตั้งค่า BIOS/UEFI และเวลาของระบบ",
+      "D": "จ่ายไฟให้ CPU ทำงาน"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "เมื่อเปิดเครื่องคอมพิวเตอร์แล้วมีเสียงร้อง ( Beep Code) แจ้งเตือนข้อผิดพลาดเกี่ยวกับการแสดงผล มัก เกิดจากอุปกรณ์ใด",
+    "choices": {
+      "A": "พาวเวอร์ซัพพลาย",
+      "B": "ซีพียู",
+      "C": "ฮาร์ดดิสก์",
+      "D": "การ์ดจอ VGA"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "อาการเครื่องดับเอง เมื่อใช้งานหนัก ( เช่น เรนเดอร์งาน ) มักเกิดจากสาเหตุใดมากที่สุด",
+    "choices": {
+      "A": "ความร้อนสะสมของ CPU หรือ VGA สูงเกินไป",
+      "B": "ฮาร์ดดิสก์เต็ม",
+      "C": "ไวรัสคอมพิวเตอร์",
+      "D": "ติดตั้ง Windows ไม่สมบูรณ์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "หลังจากประกอบชิ้นส่วนฮาร์ดแวร์เสร็จ สิ่งแรกที่ควรทำเมื่อเปิดเครื่องคืออะไร",
+    "choices": {
+      "A": "อัปเดต Windows",
+      "B": "เข้าสู่ BIOS/UEFI เพื่อตรวจสอบว่าระบบเห็นฮาร์ดแวร์ครบหรือไม่",
+      "C": "ติดตั้งไดรเวอร์การ์ดจอทันที",
+      "D": "ฟอร์แมตฮาร์ดดิสก์ทั้งหมด"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "ปุ่มกดใดที่มักใช้ในการเข้าสู่เมนู BIOS/UEFI ขณะเปิดเครื่อง",
+    "choices": {
+      "A": "Enter",
+      "B": "Spacebar",
+      "C": "Delete (Del) หรือ F2",
+      "D": "Alt + F4"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "หากต้องการให้ RAM ทำงานที่ความเร็วตามสเปคที่ระบุไว้ข้างกล่อง ต้องเปิดฟีเจอร์ใดใน BIOS",
+    "choices": {
+      "A": "Secure Boot",
+      "B": "Fast Boot",
+      "C": "Virtualization",
+      "D": "XMP ( หรือ DOCP)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "เมื่อต้องการติดตั้ง Windows จากแฟลชไดรฟ์ ต้องตั้งค่าสิ่งใดใน BIOS",
+    "choices": {
+      "A": "ปรับ Boot Priority ให้บูตจาก USB เป็นอันดับแรก",
+      "B": "เปิดใช้งาน Overclocking",
+      "C": "อัปเดตเวอร์ชัน BIOS",
+      "D": "ปิดการทำงานของฮาร์ดดิสก์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "โปรแกรมใดของ Microsoft ที่ใช้สำหรับสร้าง USB Flash Drive เพื่อติดตั้ง Windows",
+    "choices": {
+      "A": "Rufus",
+      "B": "Windows Media Creation Tool",
+      "C": "Win32 Disk Imager",
+      "D": "Daemon Tools"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "มาตรฐานตารางพาร์ทิชัน ( Partition Style) สำหรับ Windows สมัยใหม่ที่ใช้ระบบ UEFI คือข้อใด",
+    "choices": {
+      "A": "FAT32",
+      "B": "MBR",
+      "C": "GPT",
+      "D": "NTFS"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "ระบบไฟล์ ( File System) หลักที่ใช้ในการติดตั้งระบบปฏิบัติการ Windows คือข้อใด",
+    "choices": {
+      "A": "exFAT",
+      "B": "FAT32",
+      "C": "ext4",
+      "D": "NTFS"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "ระบบปฏิบัติการ Windows 11 บังคับให้เมนบอร์ดต้องรองรับและเปิดใช้งานฟีเจอร์ความปลอดภัยใด",
+    "choices": {
+      "A": "TPM 2.0 และ Secure Boot",
+      "B": "Windows Defender",
+      "C": "Hyper - V",
+      "D": "BitLocker"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "โปรแกรมที่ทำหน้าที่เป็นตัวกลางให้ระบบปฏิบัติการรู้จักและสั่งงานฮาร์ดแวร์ได้คือข้อใด",
+    "choices": {
+      "A": "Application Software",
+      "B": "Driver",
+      "C": "Firmware",
+      "D": "Utility Program"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "ข้อใดคือวิธีที่ง่ายและปลอดภัยที่สุดในการหาไดรเวอร์พื้นฐานหลังติดตั้ง Windows เสร็จ",
+    "choices": {
+      "A": "ดาวน์โหลดจากเว็บไซต์ใดก็ได้",
+      "B": "คัดลอกโฟลเดอร์จากเครื่องอื่นมาใส่",
+      "C": "เชื่อมต่ออินเทอร์เน็ตแล้วเรียกใช้ Windows Update",
+      "D": "ใช้แผ่นซีดีรวมไดรเวอร์เถื่อน"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "หากติดตั้งการ์ดจอของ NVIDIA โปรแกรมใดที่ใช้ดาวน์โหลดและอัปเดตไดรเวอร์อย่างเป็นทางการ",
+    "choices": {
+      "A": "DirectX",
+      "B": "AMD Adrenalin",
+      "C": "Intel Arc Control",
+      "D": "GeForce Experience"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "หากต้องการตรวจสอบว่าฮาร์ดแวร์ตัวใดในเครื่องยังไม่ได้ติดตั้งไดรเวอร์ ต้องเข้าไปดูที่ใด",
+    "choices": {
+      "A": "Device Manager",
+      "B": "Task Manager",
+      "C": "Control Panel",
+      "D": "Registry Editor"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "สัญลักษณ์ใดใน Device Manager ที่แสดงว่าอุปกรณ์นั้นทำงานผิดปกติหรือยังไม่มีไดรเวอร์",
+    "choices": {
+      "A": "เครื่องหมายถูกสีเขียว",
+      "B": "เครื่องหมายตกใจสีเหลือง",
+      "C": "เครื่องหมายคำถามสีนํ้าเงิน",
+      "D": "เครื่องหมายกากบาทสีแดง"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "คีย์ลัดใดที่ใช้เปิด Task Manager เพื่อตรวจสอบสถานะการทำงานของเครื่องได้ทันที",
+    "choices": {
+      "A": "Alt + F4",
+      "B": "Ctrl + Alt + Tab",
+      "C": "Ctrl + Shift + Esc",
+      "D": "Windows Key + R"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "หัวต่อสายแลน ( LAN) ที่ใช้เชื่อมต่ออินเทอร์เน็ตเข้ากับเมนบอร์ดเรียกว่าหัวต่อแบบใด",
+    "choices": {
+      "A": "RJ - 11",
+      "B": "USB Type - C",
+      "C": "HDMI",
+      "D": "RJ - 45"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "พอร์ตเสียง ( Audio Port) สีใดที่แผงหลังเมนบอร์ด ที่ใช้สำหรับต่อลำโพงคู่หน้า",
+    "choices": {
+      "A": "สีเขียว",
+      "B": "สีชมพู",
+      "C": "สีส้ม",
+      "D": "สีฟ้า"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "หากประกอบเครื่องคอมพิวเตอร์ที่มีการ์ดจอแยก ควรเสียบสายจอภาพ ( HDMI/DP) ที่ช่องใด",
+    "choices": {
+      "A": "ช่องเสียบด้านบนสุดที่เมนบอร์ด",
+      "B": "ช่องเสียบที่ตัวการ์ดจอแยก",
+      "C": "ช่องพอร์ต USB Type - A",
+      "D": "ช่องใดก็ได้ ใช้งานได้เหมือนกัน"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "สัญลักษณ์ \" 80 PLUS\" บน Power Supply หมายถึงอะไร",
+    "choices": {
+      "A": "รับประกันอายุการใช้งาน 80 เดือน",
+      "B": "รองรับการเชื่อมต่ออุปกรณ์ได้ 80 ชิ้น",
+      "C": "มาตรฐานการันตีประสิทธิภาพในการแปลงพลังงานไฟฟ้าที่ 80% ขึ้นไป",
+      "D": "สามารถจ่ายไฟได้สูงสุด 800 วัตต์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "อาการคอมพิวเตอร์เปิดติด พัดลมหมุน แต่ไม่มีภาพขึ้นจอภาพ สาเหตุพื้นฐานที่พบบ่อยคือข้อใด",
+    "choices": {
+      "A": "Windows ล่ม",
+      "B": "ฮาร์ดดิสก์เสีย",
+      "C": "ปุ่มเปิดหน้าจอเสีย",
+      "D": "หน้าสัมผัสของ RAM สกปรก หรือใส่ RAM ไม่แน่น"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "อุปกรณ์ใดที่ช่วยป้องกันคอมพิวเตอร์จากปัญหาไฟตก ไฟดับ และไฟกระชาก",
+    "choices": {
+      "A": "เครื่องสำรองไฟ ( UPS)",
+      "B": "Power Supply (PSU)",
+      "C": "สวิตช์ฮับ ( Switch Hub)",
+      "D": "สายกราวด์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "เมื่อใช้งานคอมพิวเตอร์ไประยะหนึ่ง หากอุณหภูมิ CPU สูงผิดปกติ ควรบำรุงรักษาด้วยวิธีใด",
+    "choices": {
+      "A": "เปลี่ยนพาวเวอร์ซัพพลาย",
+      "B": "ทำความสะอาดฝุ่นและทาซิลิโคนระบายความร้อนใหม่",
+      "C": "เปิดฝาเคสทิ้งไว้ถาวร",
+      "D": "เปลี่ยนเมนบอร์ดใหม่"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "ฟังก์ชันใดของ Windows ที่ช่วยดูแลรักษาและยืดอายุการใช้งานของ SSD ให้เต็มประสิทธิภาพ",
+    "choices": {
+      "A": "Disk Defragmenter",
+      "B": "System Restore",
+      "C": "TRIM Command",
+      "D": "Windows Firewall"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "โปรแกรมใดที่มีประโยชน์ในการสำรองข้อมูลทั้งระบบปฏิบัติการหรือการโคลนฮาร์ดดิสก์",
+    "choices": {
+      "A": "Web Browser",
+      "B": "Microsoft Office",
+      "C": "PDF Reader",
+      "D": "Disk Cloning Software"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "ข้อใดคือซอฟต์แวร์ป้องกันมัลแวร์และไวรัสพื้นฐานที่มาพร้อมกับ Windows 10/11",
+    "choices": {
+      "A": "Windows Security (Windows Defender)",
+      "B": "McAfee",
+      "C": "Kaspersky",
+      "D": "Norton"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "หากต้องการให้คอมพิวเตอร์ตั้งโต๊ะสามารถเชื่อมต่อ Wi - Fi ได้ โดยที่เมนบอร์ดไม่มีชิปไร้สาย ต้องใช้ อุปกรณ์ใด",
+    "choices": {
+      "A": "สายแพ SATA",
+      "B": "USB Wi - Fi Adapter ( หรือ PCIe Wi - Fi Card)",
+      "C": "การ์ดจอแยก",
+      "D": "สาย HDMI"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  }
+]

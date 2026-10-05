@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "What is the main idea of the passage?",
+    "choices": {
+      "A": "Administrative regulations prohibit the use of RPA.",
+      "B": "RPA is completely replacing human workers in offices.",
+      "C": "Training is the only challenge in implementing RPA.",
+      "D": "RPA improves office productivity by automating routine administrative tasks."
+    },
+    "answer": "D",
+    "passage": "Passage 1 (Questions 1 - 5)\nThe rise of robotic process automation (RPA) in office management has transformed how\nadministrative tasks are handled. By automating routine and repetitive tasks such as document\narchiving, data entry, and record management, organizations can significantl y increase\nproductivity. Employees who previously spent hours on manual filing can now focus on\ncomplex problem - solving and strategic planning. However, the implementation of RPA requires\ncareful system analysis to ensure that the automated workflows align   with existing\nadministrative regulations. Furthermore, staff members need adequate training to monitor and\nmaintain these new systems, highlighting a shift in necessary office skills rather than a complete\nreplacement of human workers.",
+    "explanation": "บทความระบุว่า RPA ช่วยเพิ่มความสามารถในการทำงาน ( productivity) โดยการทำงานที่เป็น งานประจำ  ( routine administrative tasks)  แบบอัตโนมัติ"
+  },
+  {
+    "id": 2,
+    "q": "According to the passage, what can employees focus on after RPA implementation?",
+    "choices": {
+      "A": "Routine and repetitive tasks",
+      "B": "Complex problem - solving and strategic planning",
+      "C": "Replacing automated workflows",
+      "D": "Manual filing and data entry"
+    },
+    "answer": "B",
+    "passage": "Passage 1 (Questions 1 - 5)\nThe rise of robotic process automation (RPA) in office management has transformed how\nadministrative tasks are handled. By automating routine and repetitive tasks such as document\narchiving, data entry, and record management, organizations can significantl y increase\nproductivity. Employees who previously spent hours on manual filing can now focus on\ncomplex problem - solving and strategic planning. However, the implementation of RPA requires\ncareful system analysis to ensure that the automated workflows align   with existing\nadministrative regulations. Furthermore, staff members need adequate training to monitor and\nmaintain these new systems, highlighting a shift in necessary office skills rather than a complete\nreplacement of human workers.",
+    "explanation": "พนักงานที่เคยต้องเสียเวลาไปกับการจัดเก็บเอกสารด้วยมือ จะสามารถหันไปมุ่งเน้นที่การ แก้ปัญหาที่ซับซ้อนและการวางแผนเชิงกลยุทธ์  ( complex problem - solving and strategic planning)  ได้"
+  },
+  {
+    "id": 3,
+    "q": "The word “ routine ” in the passage is closest in meaning to:",
+    "choices": {
+      "A": "Complicated",
+      "B": "Unpredictable",
+      "C": "Rare",
+      "D": "Standard"
+    },
+    "answer": "D",
+    "passage": "Passage 1 (Questions 1 - 5)\nThe rise of robotic process automation (RPA) in office management has transformed how\nadministrative tasks are handled. By automating routine and repetitive tasks such as document\narchiving, data entry, and record management, organizations can significantl y increase\nproductivity. Employees who previously spent hours on manual filing can now focus on\ncomplex problem - solving and strategic planning. However, the implementation of RPA requires\ncareful system analysis to ensure that the automated workflows align   with existing\nadministrative regulations. Furthermore, staff members need adequate training to monitor and\nmaintain these new systems, highlighting a shift in necessary office skills rather than a complete\nreplacement of human workers.",
+    "explanation": "คำว่า \" routine\" หมายถึง สิ่งที่ทำเป็นประจำ เป็นมาตรฐานหรือกิจวัตร ตรงกับคำว่า Standard"
+  },
+  {
+    "id": 4,
+    "q": "What is necessary before implementing RPA, according to the text?",
+    "choices": {
+      "A": "Careful system analysis",
+      "B": "Hiring more manual workers",
+      "C": "Decreasing overall productivity",
+      "D": "Discarding all old documents"
+    },
+    "answer": "A",
+    "passage": "Passage 1 (Questions 1 - 5)\nThe rise of robotic process automation (RPA) in office management has transformed how\nadministrative tasks are handled. By automating routine and repetitive tasks such as document\narchiving, data entry, and record management, organizations can significantl y increase\nproductivity. Employees who previously spent hours on manual filing can now focus on\ncomplex problem - solving and strategic planning. However, the implementation of RPA requires\ncareful system analysis to ensure that the automated workflows align   with existing\nadministrative regulations. Furthermore, staff members need adequate training to monitor and\nmaintain these new systems, highlighting a shift in necessary office skills rather than a complete\nreplacement of human workers.",
+    "explanation": "บทความระบุว่าการนำ RPA มาใช้ต้องอาศัยการวิเคราะห์ระบบอย่างรอบคอบ ( careful system analysis)  ก่อน"
+  },
+  {
+    "id": 5,
+    "q": "What can be inferred about the future of human workers in this context?",
+    "choices": {
+      "A": "They will refuse to work with new technology.",
+      "B": "They will be entirely replaced by robots.",
+      "C": "Their productivity will decrease due to RPA.",
+      "D": "Their roles will shift towards monitoring and maintaining systems."
+    },
+    "answer": "D",
+    "passage": "Passage 1 (Questions 1 - 5)\nThe rise of robotic process automation (RPA) in office management has transformed how\nadministrative tasks are handled. By automating routine and repetitive tasks such as document\narchiving, data entry, and record management, organizations can significantl y increase\nproductivity. Employees who previously spent hours on manual filing can now focus on\ncomplex problem - solving and strategic planning. However, the implementation of RPA requires\ncareful system analysis to ensure that the automated workflows align   with existing\nadministrative regulations. Furthermore, staff members need adequate training to monitor and\nmaintain these new systems, highlighting a shift in necessary office skills rather than a complete\nreplacement of human workers.",
+    "explanation": "บทความสรุปว่า พนักงานจำเป็นต้องได้รับการฝึกอบรมเพื่อมาควบคุมและดูแลรักษาระบบ ( monitoring and maintaining systems)  ซึ่งเป็นเพียงการปรับเปลี่ยนทักษะ   ไม่ใช่การนำหุ่นยนต์มา แทนที่มนุษย์ทั้งหมด"
+  },
+  {
+    "id": 6,
+    "q": "What is the primary difference between teaching children and adults mentioned in the text?",
+    "choices": {
+      "A": "Adults need more interactive activities.",
+      "B": "Children prefer formal lectures.",
+      "C": "Children have shorter attention spans.",
+      "D": "Adults learn best through games."
+    },
+    "answer": "C",
+    "passage": "Passage 2 (Questions 6 - 10)\nTeaching English to young learners requires a different approach than teaching adults.\nChildren have shorter attention spans and learn best through interactive and engaging activities\nrather than formal lectures. Organizing weekend group classes that focus   on speaking and\nlistening can build their confidence in a natural setting. Games, songs, and role - playing are\neffective tools to keep them motivated. Furthermore, clear communication with parents\nregarding course objectives and booking policies is essent ial for maintaining a structured learning\nenvironment. When parents are informed and involved, students tend to perform better and\nattend classes more consistently.",
+    "explanation": "บทความระบุชัดเจนว่าเด็กๆ มีสมาธิหรือความสนใจในระยะเวลาที่สั้นกว่า ( shorter attention spans)  เมื่อเทียบกับผู้ใหญ่"
+  },
+  {
+    "id": 7,
+    "q": "Which activities are suggested for young learners?",
+    "choices": {
+      "A": "Games, songs, and role - playing",
+      "B": "Silent reading and memorization",
+      "C": "Formal lectures and written exams",
+      "D": "Extended grammar drills"
+    },
+    "answer": "A",
+    "passage": "Passage 2 (Questions 6 - 10)\nTeaching English to young learners requires a different approach than teaching adults.\nChildren have shorter attention spans and learn best through interactive and engaging activities\nrather than formal lectures. Organizing weekend group classes that focus   on speaking and\nlistening can build their confidence in a natural setting. Games, songs, and role - playing are\neffective tools to keep them motivated. Furthermore, clear communication with parents\nregarding course objectives and booking policies is essent ial for maintaining a structured learning\nenvironment. When parents are informed and involved, students tend to perform better and\nattend classes more consistently.",
+    "explanation": "กิจกรรมที่บทความแนะนำสำหรับเด็กเล็กคือ เกม เพลง และการแสดงบทบาทสมมติ ( Games, songs, and role - playing)"
+  },
+  {
+    "id": 8,
+    "q": "Why is organizing weekend group classes beneficial?",
+    "choices": {
+      "A": "It gives teachers more free time.",
+      "B": "It allows parents to attend the classes.",
+      "C": "It focuses strictly on advanced reading skills.",
+      "D": "It builds children's confidence in a natural setting."
+    },
+    "answer": "D",
+    "passage": "Passage 2 (Questions 6 - 10)\nTeaching English to young learners requires a different approach than teaching adults.\nChildren have shorter attention spans and learn best through interactive and engaging activities\nrather than formal lectures. Organizing weekend group classes that focus   on speaking and\nlistening can build their confidence in a natural setting. Games, songs, and role - playing are\neffective tools to keep them motivated. Furthermore, clear communication with parents\nregarding course objectives and booking policies is essent ial for maintaining a structured learning\nenvironment. When parents are informed and involved, students tend to perform better and\nattend classes more consistently.",
+    "explanation": "การจัดคลาสเรียนแบบกลุ่มในวันหยุดช่วยสร้างความมั่นใจให้กับเด็กๆ ในสภาพแวดล้อมที่เป็น ธรรมชาติ  ( builds children's confidence in a natural setting)"
+  },
+  {
+    "id": 9,
+    "q": "What is required to maintain a structured learning environment?",
+    "choices": {
+      "A": "Keeping course objectives a secret",
+      "B": "Clear communication with parents about policies",
+      "C": "Ignoring parents' concerns",
+      "D": "Allowing students to skip classes"
+    },
+    "answer": "B",
+    "passage": "Passage 2 (Questions 6 - 10)\nTeaching English to young learners requires a different approach than teaching adults.\nChildren have shorter attention spans and learn best through interactive and engaging activities\nrather than formal lectures. Organizing weekend group classes that focus   on speaking and\nlistening can build their confidence in a natural setting. Games, songs, and role - playing are\neffective tools to keep them motivated. Furthermore, clear communication with parents\nregarding course objectives and booking policies is essent ial for maintaining a structured learning\nenvironment. When parents are informed and involved, students tend to perform better and\nattend classes more consistently.",
+    "explanation": "การจะรักษาสภาพแวดล้อมการเรียนรู้ให้เป็นระบบได้นั้น จำเป็นต้องมีการสื่อสารที่ชัดเจนกับ ผู้ปกครองเกี่ยวกับนโยบายต่างๆ  ( clear communication with parents about policies)"
+  },
+  {
+    "id": 10,
+    "q": "The word \"consistently\" in the passage can best be replaced by:",
+    "choices": {
+      "A": "Regularly",
+      "B": "Reluctantly",
+      "C": "Irregularly",
+      "D": "Rarely"
+    },
+    "answer": "A",
+    "passage": "Passage 2 (Questions 6 - 10)\nTeaching English to young learners requires a different approach than teaching adults.\nChildren have shorter attention spans and learn best through interactive and engaging activities\nrather than formal lectures. Organizing weekend group classes that focus   on speaking and\nlistening can build their confidence in a natural setting. Games, songs, and role - playing are\neffective tools to keep them motivated. Furthermore, clear communication with parents\nregarding course objectives and booking policies is essent ial for maintaining a structured learning\nenvironment. When parents are informed and involved, students tend to perform better and\nattend classes more consistently.",
+    "explanation": "\"consistently\" แปลว่า อย่างสมํ่าเสมอ ตรงกับความหมายของคำว่า Regularly"
+  },
+  {
+    "id": 11,
+    "q": "What must be understood to govern the southern border provinces effectively?",
+    "choices": {
+      "A": "Only national laws",
+      "B": "International trade agreements",
+      "C": "Both national laws and local traditions",
+      "D": "Only local traditions"
+    },
+    "answer": "C",
+    "passage": "Passage 3 (Questions 11 - 15)\nThe southern border provinces are known for their rich cultural diversity and unique\nadministrative frameworks. Governing these areas requires an understanding of both national\nlaws and local traditions. Recent initiatives have focused on improving economi c opportunities\nand enhancing the efficiency of local government agencies. By updating recruitment processes,\nofficials aim to place qualified individuals in crucial administrative and auditing roles. This\nensures transparency and promotes sustainable deve lopment in the region. Tourism is also\nbeing promoted as a key economic driver, highlighting the natural beauty and historical sites\nthat the provinces have to offer.",
+    "explanation": "การปกครองในพื้นที่นี้ต้องมีความเข้าใจทั้งกฎหมายระดับชาติและประเพณีท้องถิ่นควบคู่กัน ( Both national laws and local traditions)"
+  },
+  {
+    "id": 12,
+    "q": "What is the purpose of updating recruitment processes?",
+    "choices": {
+      "A": "To centralize all auditing roles",
+      "B": "To place qualified individuals in key roles",
+      "C": "To reduce the number of government workers",
+      "D": "To eliminate local government agencies"
+    },
+    "answer": "B",
+    "passage": "Passage 3 (Questions 11 - 15)\nThe southern border provinces are known for their rich cultural diversity and unique\nadministrative frameworks. Governing these areas requires an understanding of both national\nlaws and local traditions. Recent initiatives have focused on improving economi c opportunities\nand enhancing the efficiency of local government agencies. By updating recruitment processes,\nofficials aim to place qualified individuals in crucial administrative and auditing roles. This\nensures transparency and promotes sustainable deve lopment in the region. Tourism is also\nbeing promoted as a key economic driver, highlighting the natural beauty and historical sites\nthat the provinces have to offer.",
+    "explanation": "การปรับปรุงกระบวนการสรรหามีจุดประสงค์เพื่อจัดวางบุคคลที่มีคุณสมบัติเหมาะสมเข้าสู่ ตำแหน่งสำคัญ  ( place qualified individuals in key roles)"
+  },
+  {
+    "id": 13,
+    "q": "According to the passage, what does placing qualified individuals in auditing roles ensure?",
+    "choices": {
+      "A": "Cultural diversity",
+      "B": "An increase in national taxes",
+      "C": "Transparency and sustainable development",
+      "D": "The decline of tourism"
+    },
+    "answer": "C",
+    "passage": "Passage 3 (Questions 11 - 15)\nThe southern border provinces are known for their rich cultural diversity and unique\nadministrative frameworks. Governing these areas requires an understanding of both national\nlaws and local traditions. Recent initiatives have focused on improving economi c opportunities\nand enhancing the efficiency of local government agencies. By updating recruitment processes,\nofficials aim to place qualified individuals in crucial administrative and auditing roles. This\nensures transparency and promotes sustainable deve lopment in the region. Tourism is also\nbeing promoted as a key economic driver, highlighting the natural beauty and historical sites\nthat the provinces have to offer.",
+    "explanation": "การให้คนที่มีความสามารถเข้ามาตรวจสอบดูแล จะช่วยให้เกิดความโปร่งใสและการพัฒนาอย่าง ยั่งยืนในพื้นที่  ( Transparency and sustainable development)"
+  },
+  {
+    "id": 14,
+    "q": "What is highlighted to promote tourism in the region?",
+    "choices": {
+      "A": "Urban traffic",
+      "B": "Natural beauty and historical sites",
+      "C": "Modern shopping malls",
+      "D": "Industrial factories"
+    },
+    "answer": "B",
+    "passage": "Passage 3 (Questions 11 - 15)\nThe southern border provinces are known for their rich cultural diversity and unique\nadministrative frameworks. Governing these areas requires an understanding of both national\nlaws and local traditions. Recent initiatives have focused on improving economi c opportunities\nand enhancing the efficiency of local government agencies. By updating recruitment processes,\nofficials aim to place qualified individuals in crucial administrative and auditing roles. This\nensures transparency and promotes sustainable deve lopment in the region. Tourism is also\nbeing promoted as a key economic driver, highlighting the natural beauty and historical sites\nthat the provinces have to offer.",
+    "explanation": "เพื่อส่งเสริมการท่องเที่ยว มีการชูจุดเด่นเรื่องความงามทางธรรมชาติและสถานที่ทาง ประวัติศาสตร์  ( Natural beauty and historical sites)"
+  },
+  {
+    "id": 15,
+    "q": "The word “ driver ” in the phrase “ economic driver ” refers to:",
+    "choices": {
+      "A": "A computer program",
+      "B": "A person operating a vehicle",
+      "C": "A tool used for fixing machinery",
+      "D": "A factor that causes a particular phenomenon to happen or develop"
+    },
+    "answer": "D",
+    "passage": "Passage 3 (Questions 11 - 15)\nThe southern border provinces are known for their rich cultural diversity and unique\nadministrative frameworks. Governing these areas requires an understanding of both national\nlaws and local traditions. Recent initiatives have focused on improving economi c opportunities\nand enhancing the efficiency of local government agencies. By updating recruitment processes,\nofficials aim to place qualified individuals in crucial administrative and auditing roles. This\nensures transparency and promotes sustainable deve lopment in the region. Tourism is also\nbeing promoted as a key economic driver, highlighting the natural beauty and historical sites\nthat the provinces have to offer.",
+    "explanation": "\"economic driver\" ในที่นี้หมายถึง ปัจจัยหลักที่ขับเคลื่อนให้เกิดการเติบโตหรือการพัฒนาทาง เศรษฐกิจ  ( A factor that causes a particular phenomenon to happen or develop)"
+  },
+  {
+    "id": 16,
+    "q": "What is the main responsibility of an internal auditor mentioned in the text?",
+    "choices": {
+      "A": "Evaluating financial records and compliance",
+      "B": "Managing public relations",
+      "C": "Creating advertising campaigns",
+      "D": "Hiring new employees"
+    },
+    "answer": "A",
+    "passage": "Passage 4 (Questions 16 - 20)\nAn internal auditor plays a vital role in ensuring that a government organization operates\nefficiently and ethically. They evaluate financial records, assess risk management processes, and\ncheck for compliance with established laws and regulations. During  a recruitment interview for\nan auditing position, candidates are often asked about their ability to handle confidential\ndocuments and their understanding of administrative procedures. A successful auditor must be\ndetail - oriented, objective, and capable of   communicating complex findings to senior\nmanagement. Their work ultimately protects the organization from fraud and helps optimize\nresource allocation.",
+    "explanation": "หน้าที่หลักของผู้ตรวจสอบภายในตามที่ระบุในเนื้อหาคือ การประเมินบันทึกทางการเงินและการ ปฏิบัติตามกฎระเบียบ  ( Evaluating financial records and compliance)"
+  },
+  {
+    "id": 17,
+    "q": "Which quality is essential for a successful auditor?",
+    "choices": {
+      "A": "Avoiding communication with management",
+      "B": "Being subjective",
+      "C": "Ignoring details",
+      "D": "Being detail - oriented and objective"
+    },
+    "answer": "D",
+    "passage": "Passage 4 (Questions 16 - 20)\nAn internal auditor plays a vital role in ensuring that a government organization operates\nefficiently and ethically. They evaluate financial records, assess risk management processes, and\ncheck for compliance with established laws and regulations. During  a recruitment interview for\nan auditing position, candidates are often asked about their ability to handle confidential\ndocuments and their understanding of administrative procedures. A successful auditor must be\ndetail - oriented, objective, and capable of   communicating complex findings to senior\nmanagement. Their work ultimately protects the organization from fraud and helps optimize\nresource allocation.",
+    "explanation": "คุณสมบัติที่จำเป็นสำหรับผู้ตรวจสอบคือ ต้องใส่ใจในรายละเอียดและมีความเป็นกลาง ( detail - oriented and objective)"
+  },
+  {
+    "id": 18,
+    "q": "What are candidates often asked about during an auditing job interview?",
+    "choices": {
+      "A": "Their travel preferences",
+      "B": "Their experience in teaching children",
+      "C": "Their ability to handle confidential documents",
+      "D": "Their favorite hobbies"
+    },
+    "answer": "C",
+    "passage": "Passage 4 (Questions 16 - 20)\nAn internal auditor plays a vital role in ensuring that a government organization operates\nefficiently and ethically. They evaluate financial records, assess risk management processes, and\ncheck for compliance with established laws and regulations. During  a recruitment interview for\nan auditing position, candidates are often asked about their ability to handle confidential\ndocuments and their understanding of administrative procedures. A successful auditor must be\ndetail - oriented, objective, and capable of   communicating complex findings to senior\nmanagement. Their work ultimately protects the organization from fraud and helps optimize\nresource allocation.",
+    "explanation": "ในการสัมภาษณ์งานตำแหน่งนี้ มักจะถามถึงความสามารถในการจัดการกับเอกสารที่เป็น ความลับ  ( ability to handle confidential documents)"
+  },
+  {
+    "id": 19,
+    "q": "What is the ultimate goal of an auditor's work?",
+    "choices": {
+      "A": "To hide financial errors from management",
+      "B": "To increase the organization's spending",
+      "C": "To replace senior management",
+      "D": "To protect the organization from fraud and optimize resources"
+    },
+    "answer": "D",
+    "passage": "Passage 4 (Questions 16 - 20)\nAn internal auditor plays a vital role in ensuring that a government organization operates\nefficiently and ethically. They evaluate financial records, assess risk management processes, and\ncheck for compliance with established laws and regulations. During  a recruitment interview for\nan auditing position, candidates are often asked about their ability to handle confidential\ndocuments and their understanding of administrative procedures. A successful auditor must be\ndetail - oriented, objective, and capable of   communicating complex findings to senior\nmanagement. Their work ultimately protects the organization from fraud and helps optimize\nresource allocation.",
+    "explanation": "เป้าหมายสูงสุดคือการปกป้ององค์กรจากการทุจริตและช่วยเพิ่มประสิทธิภาพในการจัดสรร ทรัพยากร  ( protect the organization from fraud and optimize resources)"
+  },
+  {
+    "id": 20,
+    "q": "The word \"vital\" in the passage means:",
+    "choices": {
+      "A": "Essential",
+      "B": "Optional",
+      "C": "Temporary",
+      "D": "Unimportant"
+    },
+    "answer": "A",
+    "passage": "Passage 4 (Questions 16 - 20)\nAn internal auditor plays a vital role in ensuring that a government organization operates\nefficiently and ethically. They evaluate financial records, assess risk management processes, and\ncheck for compliance with established laws and regulations. During  a recruitment interview for\nan auditing position, candidates are often asked about their ability to handle confidential\ndocuments and their understanding of administrative procedures. A successful auditor must be\ndetail - oriented, objective, and capable of   communicating complex findings to senior\nmanagement. Their work ultimately protects the organization from fraud and helps optimize\nresource allocation.",
+    "explanation": "\"vital\" หมายถึง สำคัญมาก หรือ จำเป็นอย่างยิ่ง ตรงกับคำว่า Essential"
+  },
+  {
+    "id": 21,
+    "q": "Why do many people choose destinations close to home for weekend trips?",
+    "choices": {
+      "A": "To avoid seeing nature",
+      "B": "To maximize relaxation and minimize travel fatigue",
+      "C": "To increase travel fatigue",
+      "D": "To spend more money on transportation"
+    },
+    "answer": "B",
+    "passage": "Passage 5 (Questions 21 - 25)\nPlanning a weekend recreational trip requires careful consideration of several factors,\nincluding distance, budget, and activities. Many people opt for destinations within a few hours'\ndrive from their home to maximize relaxation time and minimize travel f atigue. Coastal towns\noffer a serene environment for those looking to unwind by the beach, while mountainous\nregions provide opportunities for hiking and nature photography. Preparing an itinerary helps\ntravelers make the most of their short vacation, ensu ring they visit key attractions without\nfeeling rushed. Additionally, packing light and booking accommodations in advance can prevent\nunnecessary stress during the journey.",
+    "explanation": "ผู้คนเลือกเที่ยวใกล้บ้านเพื่อต้องการใช้เวลาพักผ่อนให้คุ้มค่าที่สุดและลดความเหนื่อยล้าจากการ เดินทางให้น้อยที่สุด  ( maximize relaxation and minimize travel fatigue)"
+  },
+  {
+    "id": 22,
+    "q": "What activity is specifically associated with mountainous regions in the text?",
+    "choices": {
+      "A": "Attending formal lectures",
+      "B": "Shopping",
+      "C": "Swimming",
+      "D": "Hiking and nature photography"
+    },
+    "answer": "D",
+    "passage": "Passage 5 (Questions 21 - 25)\nPlanning a weekend recreational trip requires careful consideration of several factors,\nincluding distance, budget, and activities. Many people opt for destinations within a few hours'\ndrive from their home to maximize relaxation time and minimize travel f atigue. Coastal towns\noffer a serene environment for those looking to unwind by the beach, while mountainous\nregions provide opportunities for hiking and nature photography. Preparing an itinerary helps\ntravelers make the most of their short vacation, ensu ring they visit key attractions without\nfeeling rushed. Additionally, packing light and booking accommodations in advance can prevent\nunnecessary stress during the journey.",
+    "explanation": "กิจกรรมที่เชื่อมโยงกับพื้นที่ภูเขาในบทความคือ การเดินป่าและการถ่ายภาพธรรมชาติ ( Hiking and nature photography)"
+  },
+  {
+    "id": 23,
+    "q": "What is the benefit of preparing an itinerary?",
+    "choices": {
+      "A": "It makes travelers feel rushed.",
+      "B": "It ensures travelers visit key attractions efficiently.",
+      "C": "It increases the cost of the trip.",
+      "D": "It prevents travelers from leaving their hotel."
+    },
+    "answer": "B",
+    "passage": "Passage 5 (Questions 21 - 25)\nPlanning a weekend recreational trip requires careful consideration of several factors,\nincluding distance, budget, and activities. Many people opt for destinations within a few hours'\ndrive from their home to maximize relaxation time and minimize travel f atigue. Coastal towns\noffer a serene environment for those looking to unwind by the beach, while mountainous\nregions provide opportunities for hiking and nature photography. Preparing an itinerary helps\ntravelers make the most of their short vacation, ensu ring they visit key attractions without\nfeeling rushed. Additionally, packing light and booking accommodations in advance can prevent\nunnecessary stress during the journey.",
+    "explanation": "การเตรียมแผนการเดินทางช่วยให้สามารถเยี่ยมชมสถานที่ท่องเที่ยวสำคัญๆ ได้อย่างมี ประสิทธิภาพโดยไม่รู้สึกเร่งรีบ  ( ensures travelers visit key attractions efficiently)"
+  },
+  {
+    "id": 24,
+    "q": "How can travelers prevent unnecessary stress, according to the passage?",
+    "choices": {
+      "A": "By packing heavy bags and booking late",
+      "B": "By driving for many hours",
+      "C": "By packing light and booking accommodations in advance",
+      "D": "By bringing work documents on the trip"
+    },
+    "answer": "C",
+    "passage": "Passage 5 (Questions 21 - 25)\nPlanning a weekend recreational trip requires careful consideration of several factors,\nincluding distance, budget, and activities. Many people opt for destinations within a few hours'\ndrive from their home to maximize relaxation time and minimize travel f atigue. Coastal towns\noffer a serene environment for those looking to unwind by the beach, while mountainous\nregions provide opportunities for hiking and nature photography. Preparing an itinerary helps\ntravelers make the most of their short vacation, ensu ring they visit key attractions without\nfeeling rushed. Additionally, packing light and booking accommodations in advance can prevent\nunnecessary stress during the journey.",
+    "explanation": "นักท่องเที่ยวสามารถหลีกเลี่ยงความเครียดได้โดยการจัดกระเป๋าให้เบาและจองที่พักล่วงหน้า ( packing light and booking accommodations in advance)"
+  },
+  {
+    "id": 25,
+    "q": "The word \"unwind\" is closest in meaning to:",
+    "choices": {
+      "A": "Relax",
+      "B": "Work hard",
+      "C": "Prepare",
+      "D": "Travel"
+    },
+    "answer": "A",
+    "passage": "Passage 5 (Questions 21 - 25)\nPlanning a weekend recreational trip requires careful consideration of several factors,\nincluding distance, budget, and activities. Many people opt for destinations within a few hours'\ndrive from their home to maximize relaxation time and minimize travel f atigue. Coastal towns\noffer a serene environment for those looking to unwind by the beach, while mountainous\nregions provide opportunities for hiking and nature photography. Preparing an itinerary helps\ntravelers make the most of their short vacation, ensu ring they visit key attractions without\nfeeling rushed. Additionally, packing light and booking accommodations in advance can prevent\nunnecessary stress during the journey.",
+    "explanation": "คำว่า \" unwind\" หมายถึง การผ่อนคลายจากความตึงเครียด ตรงกับคำว่า Relax"
+  },
+  {
+    "id": 26,
+    "q": "What does the transition in document management primarily involve?",
+    "choices": {
+      "A": "Moving from digital to physical paperwork",
+      "B": "Destroying all existing documents",
+      "C": "Moving from physical paperwork to digital archives",
+      "D": "Ignoring data security"
+    },
+    "answer": "C",
+    "passage": "Passage 6 (Questions 26 - 30)\nEffective document management is crucial for any modern organization. With the\ntransition from physical paperwork to digital archives, companies must implement robust\nsystems to ensure data security and easy retrieval. Archival procedures dictate how long  certain\nrecords must be kept and when they can be legally destroyed. Proper categorization and\ntagging of electronic files prevent information from becoming lost in vast digital storage spaces.\nFurthermore, training employees on standard operating procedur es for document handling\nminimizes the risk of data breaches and ensures that the organization complies with privacy\nlaws.",
+    "explanation": "การเปลี่ยนแปลงในการจัดการเอกสารในปัจจุบันคือ การเปลี่ยนจากงานเอกสารกระดาษไปสู่การ จัดเก็บถาวรแบบดิจิทัล  ( Moving from physical paperwork to digital archives)"
+  },
+  {
+    "id": 27,
+    "q": "What is the purpose of archival procedures?",
+    "choices": {
+      "A": "To ensure documents are lost",
+      "B": "To increase physical storage space",
+      "C": "To prevent employees from accessing any files",
+      "D": "To dictate retention periods and legal destruction of records"
+    },
+    "answer": "D",
+    "passage": "Passage 6 (Questions 26 - 30)\nEffective document management is crucial for any modern organization. With the\ntransition from physical paperwork to digital archives, companies must implement robust\nsystems to ensure data security and easy retrieval. Archival procedures dictate how long  certain\nrecords must be kept and when they can be legally destroyed. Proper categorization and\ntagging of electronic files prevent information from becoming lost in vast digital storage spaces.\nFurthermore, training employees on standard operating procedur es for document handling\nminimizes the risk of data breaches and ensures that the organization complies with privacy\nlaws.",
+    "explanation": "ขั้นตอนการจัดเก็บเอกสารมีไว้เพื่อกำหนดระยะเวลาที่ต้องเก็บรักษาและเวลาที่สามารถทำลาย เอกสารได้อย่างถูกกฎหมาย  ( dictate retention periods and legal destruction of records)"
+  },
+  {
+    "id": 28,
+    "q": "How can organizations prevent digital files from getting lost?",
+    "choices": {
+      "A": "By proper categorization and tagging",
+      "B": "By deleting files daily",
+      "C": "By avoiding electronic files entirely",
+      "D": "By storing all files in one large folder"
+    },
+    "answer": "A",
+    "passage": "Passage 6 (Questions 26 - 30)\nEffective document management is crucial for any modern organization. With the\ntransition from physical paperwork to digital archives, companies must implement robust\nsystems to ensure data security and easy retrieval. Archival procedures dictate how long  certain\nrecords must be kept and when they can be legally destroyed. Proper categorization and\ntagging of electronic files prevent information from becoming lost in vast digital storage spaces.\nFurthermore, training employees on standard operating procedur es for document handling\nminimizes the risk of data breaches and ensures that the organization complies with privacy\nlaws.",
+    "explanation": "องค์กรสามารถป้องกันไม่ให้ไฟล์ดิจิทัลสูญหายได้ด้วยการจัดหมวดหมู่และติดแท็กอย่างเหมาะสม ( proper categorization and tagging)"
+  },
+  {
+    "id": 29,
+    "q": "Why is training employees on document handling important?",
+    "choices": {
+      "A": "It allows them to bypass privacy laws.",
+      "B": "It encourages the use of physical paper.",
+      "C": "It minimizes data breach risks and ensures compliance.",
+      "D": "It increases the risk of data breaches."
+    },
+    "answer": "C",
+    "passage": "Passage 6 (Questions 26 - 30)\nEffective document management is crucial for any modern organization. With the\ntransition from physical paperwork to digital archives, companies must implement robust\nsystems to ensure data security and easy retrieval. Archival procedures dictate how long  certain\nrecords must be kept and when they can be legally destroyed. Proper categorization and\ntagging of electronic files prevent information from becoming lost in vast digital storage spaces.\nFurthermore, training employees on standard operating procedur es for document handling\nminimizes the risk of data breaches and ensures that the organization complies with privacy\nlaws.",
+    "explanation": "การอบรมพนักงานเกี่ยวกับการจัดการเอกสารช่วยลดความเสี่ยงที่ข้อมูลจะรั่วไหลและทำให้มั่นใจ ว่าองค์กรปฏิบัติตามกฎหมายความเป็นส่วนตัว"
+  },
+  {
+    "id": 30,
+    "q": "The word “ robust ” in this context means:",
+    "choices": {
+      "A": "Temporary",
+      "B": "Strong and effective",
+      "C": "Fragile",
+      "D": "Weak"
+    },
+    "answer": "B",
+    "passage": "Passage 6 (Questions 26 - 30)\nEffective document management is crucial for any modern organization. With the\ntransition from physical paperwork to digital archives, companies must implement robust\nsystems to ensure data security and easy retrieval. Archival procedures dictate how long  certain\nrecords must be kept and when they can be legally destroyed. Proper categorization and\ntagging of electronic files prevent information from becoming lost in vast digital storage spaces.\nFurthermore, training employees on standard operating procedur es for document handling\nminimizes the risk of data breaches and ensures that the organization complies with privacy\nlaws.",
+    "explanation": "\"robust\" หมายถึง แข็งแกร่งและมีประสิทธิภาพสูง ตรงกับ Strong and effective"
+  },
+  {
+    "id": 31,
+    "q": "How does the traditional linear economy operate?",
+    "choices": {
+      "A": "Take, repair, reuse",
+      "B": "Reuse, recycle, renew",
+      "C": "Take, make, dispose",
+      "D": "Protect, preserve, produce"
+    },
+    "answer": "C",
+    "passage": "Passage 7 (Questions 31 - 35)\nThe concept of a \"circular economy\" is gaining traction as a solution to global\nenvironmental challenges. Unlike the traditional linear economy, which follows a \"take, make,\ndispose\" model, a circular economy aims to minimize waste and make the most of res ources.\nProducts are designed for durability, reuse, and recyclability. When a product reaches the end\nof its life, its materials are kept within the economy wherever possible to be used productively\nagain and again. This approach not only helps protect th e environment by reducing pollution\nand greenhouse gas emissions but also offers economic benefits by creating new industries and\njobs focused on resource recovery.",
+    "explanation": "ระบบเศรษฐกิจแบบเส้นตรงแบบดั้งเดิมดำเนินการในรูปแบบ \" นำมาใช้ ผลิต และทิ้ง \" ( Take, make, dispose)"
+  },
+  {
+    "id": 32,
+    "q": "What is the primary goal of a circular economy?",
+    "choices": {
+      "A": "To minimize waste and maximize resource use",
+      "B": "To ignore environmental challenges",
+      "C": "To increase waste production",
+      "D": "To encourage single - use products"
+    },
+    "answer": "A",
+    "passage": "Passage 7 (Questions 31 - 35)\nThe concept of a \"circular economy\" is gaining traction as a solution to global\nenvironmental challenges. Unlike the traditional linear economy, which follows a \"take, make,\ndispose\" model, a circular economy aims to minimize waste and make the most of res ources.\nProducts are designed for durability, reuse, and recyclability. When a product reaches the end\nof its life, its materials are kept within the economy wherever possible to be used productively\nagain and again. This approach not only helps protect th e environment by reducing pollution\nand greenhouse gas emissions but also offers economic benefits by creating new industries and\njobs focused on resource recovery.",
+    "explanation": "เป้าหมายหลักของเศรษฐกิจหมุนเวียนคือการลดขยะให้เหลือน้อยที่สุดและใช้ประโยชน์จาก ทรัพยากรให้คุ้มค่าที่สุด  ( minimize waste and maximize resource use)"
+  },
+  {
+    "id": 33,
+    "q": "How are products designed in a circular economy?",
+    "choices": {
+      "A": "For maximum pollution",
+      "B": "For single use only",
+      "C": "For quick disposal",
+      "D": "For durability, reuse, and recyclability"
+    },
+    "answer": "D",
+    "passage": "Passage 7 (Questions 31 - 35)\nThe concept of a \"circular economy\" is gaining traction as a solution to global\nenvironmental challenges. Unlike the traditional linear economy, which follows a \"take, make,\ndispose\" model, a circular economy aims to minimize waste and make the most of res ources.\nProducts are designed for durability, reuse, and recyclability. When a product reaches the end\nof its life, its materials are kept within the economy wherever possible to be used productively\nagain and again. This approach not only helps protect th e environment by reducing pollution\nand greenhouse gas emissions but also offers economic benefits by creating new industries and\njobs focused on resource recovery.",
+    "explanation": "ในระบบเศรษฐกิจหมุนเวียน สินค้าจะถูกออกแบบมาให้มีความทนทาน สามารถนำกลับมาใช้ ใหม่   และรีไซเคิลได้  ( durability, reuse, and recyclability)"
+  },
+  {
+    "id": 34,
+    "q": "What happens to a product at the end of its life in a circular economy?",
+    "choices": {
+      "A": "It is abandoned in natural environments.",
+      "B": "Its materials are kept within the economy for further use.",
+      "C": "It is immediately sent to a landfill.",
+      "D": "It is incinerated without energy recovery."
+    },
+    "answer": "B",
+    "passage": "Passage 7 (Questions 31 - 35)\nThe concept of a \"circular economy\" is gaining traction as a solution to global\nenvironmental challenges. Unlike the traditional linear economy, which follows a \"take, make,\ndispose\" model, a circular economy aims to minimize waste and make the most of res ources.\nProducts are designed for durability, reuse, and recyclability. When a product reaches the end\nof its life, its materials are kept within the economy wherever possible to be used productively\nagain and again. This approach not only helps protect th e environment by reducing pollution\nand greenhouse gas emissions but also offers economic benefits by creating new industries and\njobs focused on resource recovery.",
+    "explanation": "เมื่อสินค้าหมดอายุการใช้งาน วัสดุของสินค้านั้นจะถูกเก็บไว้ในระบบเศรษฐกิจเพื่อนำไปใช้ ประโยชน์ต่อไป  ( materials are kept within the economy for further use)"
+  },
+  {
+    "id": 35,
+    "q": "The phrase \"gaining traction\" means:",
+    "choices": {
+      "A": "Losing importance",
+      "B": "Remaining unchanged",
+      "C": "Slipping backward",
+      "D": "Becoming more popular or accepted"
+    },
+    "answer": "D",
+    "passage": "Passage 7 (Questions 31 - 35)\nThe concept of a \"circular economy\" is gaining traction as a solution to global\nenvironmental challenges. Unlike the traditional linear economy, which follows a \"take, make,\ndispose\" model, a circular economy aims to minimize waste and make the most of res ources.\nProducts are designed for durability, reuse, and recyclability. When a product reaches the end\nof its life, its materials are kept within the economy wherever possible to be used productively\nagain and again. This approach not only helps protect th e environment by reducing pollution\nand greenhouse gas emissions but also offers economic benefits by creating new industries and\njobs focused on resource recovery.",
+    "explanation": "วลี \" gaining traction\" หมายถึง การได้รับความสนใจ ความนิยม หรือเป็นที่ยอมรับมากขึ้น ( Becoming more popular or accepted)"
+  },
+  {
+    "id": 36,
+    "q": "According to the passage, what is one cognitive process supported by adequate sleep?",
+    "choices": {
+      "A": "Digestion",
+      "B": "Muscle building",
+      "C": "Memory consolidation",
+      "D": "Bone growth"
+    },
+    "answer": "C",
+    "passage": "Passage 8 (Questions 36 - 40)\nAdequate sleep is essential for cognitive processes such as memory consolidation,\nlearning, and emotional regulation. Chronic sleep deprivation has been linked to an increased\nrisk of several health issues, including cardiovascular disease, obesity, and we akened immune\nfunction. Despite its importance, modern lifestyles often prioritize work and entertainment over\nrest, leading to widespread sleep deficits. Health experts recommend that adults aim for seven\nto nine hours of quality sleep per night and maint ain a consistent sleep schedule to promote\nlong - term well - being.",
+    "explanation": "กระบวนการทางปัญญาอย่างหนึ่งที่ได้รับการสนับสนุนจากการนอนหลับที่เพียงพอคือ การ รวบรวมและบันทึกความจำ  ( Memory consolidation)"
+  },
+  {
+    "id": 37,
+    "q": "What is a consequence of chronic sleep deprivation?",
+    "choices": {
+      "A": "Increased risk of cardiovascular disease",
+      "B": "Improved immune function",
+      "C": "Enhanced emotional regulation",
+      "D": "Decreased risk of obesity"
+    },
+    "answer": "A",
+    "passage": "Passage 8 (Questions 36 - 40)\nAdequate sleep is essential for cognitive processes such as memory consolidation,\nlearning, and emotional regulation. Chronic sleep deprivation has been linked to an increased\nrisk of several health issues, including cardiovascular disease, obesity, and we akened immune\nfunction. Despite its importance, modern lifestyles often prioritize work and entertainment over\nrest, leading to widespread sleep deficits. Health experts recommend that adults aim for seven\nto nine hours of quality sleep per night and maint ain a consistent sleep schedule to promote\nlong - term well - being.",
+    "explanation": "ผลที่ตามมาจากการอดนอนเรื้อรังคือความเสี่ยงที่เพิ่มขึ้นของโรคหลอดเลือดหัวใจ ( Increased risk of cardiovascular disease)"
+  },
+  {
+    "id": 38,
+    "q": "Why do many people suffer from sleep deficits nowadays?",
+    "choices": {
+      "A": "Because health experts advise against sleeping",
+      "B": "Because sleep is no longer biologically necessary",
+      "C": "Because modern lifestyles prioritize work and entertainment over rest",
+      "D": "Because they sleep too much"
+    },
+    "answer": "C",
+    "passage": "Passage 8 (Questions 36 - 40)\nAdequate sleep is essential for cognitive processes such as memory consolidation,\nlearning, and emotional regulation. Chronic sleep deprivation has been linked to an increased\nrisk of several health issues, including cardiovascular disease, obesity, and we akened immune\nfunction. Despite its importance, modern lifestyles often prioritize work and entertainment over\nrest, leading to widespread sleep deficits. Health experts recommend that adults aim for seven\nto nine hours of quality sleep per night and maint ain a consistent sleep schedule to promote\nlong - term well - being.",
+    "explanation": "คนจำนวนมากเผชิญปัญหาการนอนไม่พอเพราะวิถีชีวิตยุคใหม่มักให้ความสำคัญกับงานและ ความบันเทิงมากกว่าการพักผ่อน"
+  },
+  {
+    "id": 39,
+    "q": "How many hours of sleep are recommended for adults?",
+    "choices": {
+      "A": "Less than five hours",
+      "B": "Seven to nine hours",
+      "C": "Four to six hours",
+      "D": "Ten to twelve hours"
+    },
+    "answer": "B",
+    "passage": "Passage 8 (Questions 36 - 40)\nAdequate sleep is essential for cognitive processes such as memory consolidation,\nlearning, and emotional regulation. Chronic sleep deprivation has been linked to an increased\nrisk of several health issues, including cardiovascular disease, obesity, and we akened immune\nfunction. Despite its importance, modern lifestyles often prioritize work and entertainment over\nrest, leading to widespread sleep deficits. Health experts recommend that adults aim for seven\nto nine hours of quality sleep per night and maint ain a consistent sleep schedule to promote\nlong - term well - being.",
+    "explanation": "ผู้เชี่ยวชาญด้านสุขภาพแนะนำให้ผู้ใหญ่นอนหลับ 7 - 9 ชั่วโมงต่อคืน ( Seven to nine hours)"
+  },
+  {
+    "id": 40,
+    "q": "The word \"consistent\" in the final sentence suggests:",
+    "choices": {
+      "A": "Steady and regular",
+      "B": "Irregular and unpredictable",
+      "C": "Short and interrupted",
+      "D": "Changing frequently"
+    },
+    "answer": "A",
+    "passage": "Passage 8 (Questions 36 - 40)\nAdequate sleep is essential for cognitive processes such as memory consolidation,\nlearning, and emotional regulation. Chronic sleep deprivation has been linked to an increased\nrisk of several health issues, including cardiovascular disease, obesity, and we akened immune\nfunction. Despite its importance, modern lifestyles often prioritize work and entertainment over\nrest, leading to widespread sleep deficits. Health experts recommend that adults aim for seven\nto nine hours of quality sleep per night and maint ain a consistent sleep schedule to promote\nlong - term well - being.",
+    "explanation": "\"consistent\" หมายถึง ความสมํ่าเสมอและเป็นเวลา ตรงกับคำว่า Steady and regular"
+  },
+  {
+    "id": 41,
+    "q": "What is a primary focus of Mars exploration according to scientists?",
+    "choices": {
+      "A": "Mining for gold",
+      "B": "Finding evidence of past water activity",
+      "C": "Relocating Earth's population immediately",
+      "D": "Building amusement parks"
+    },
+    "answer": "B",
+    "passage": "Passage 9 (Questions 41 - 45)\nThe exploration of Mars has been a major objective for space agencies worldwide. Recent\nmissions involving rovers and orbiters have gathered substantial data about the planet's geology\nand climate. Scientists are particularly interested in finding evidence   of past water activity, as\nthis could indicate that Mars once harbored microbial life. While current conditions on the\nsurface are harsh and inhospitable, subsurface environments might still hold preserved\nbiosignatures. The ultimate goal of these continu ous exploratory efforts is to pave the way for\nfuture human missions, which will require advanced technology to sustain life in extreme\nenvironments.",
+    "explanation": "จุดเน้นหลักของนักวิทยาศาสตร์ในการสำรวจดาวอังคารคือการหาหลักฐานการมีอยู่ของนํ้าใน อดีต  ( Finding evidence of past water activity)"
+  },
+  {
+    "id": 42,
+    "q": "Why is evidence of past water activity important?",
+    "choices": {
+      "A": "It could indicate that Mars once harbored microbial life.",
+      "B": "It shows that Mars has large oceans today.",
+      "C": "It guarantees that Mars is currently habitable.",
+      "D": "It proves that humans can breathe the air on Mars."
+    },
+    "answer": "A",
+    "passage": "Passage 9 (Questions 41 - 45)\nThe exploration of Mars has been a major objective for space agencies worldwide. Recent\nmissions involving rovers and orbiters have gathered substantial data about the planet's geology\nand climate. Scientists are particularly interested in finding evidence   of past water activity, as\nthis could indicate that Mars once harbored microbial life. While current conditions on the\nsurface are harsh and inhospitable, subsurface environments might still hold preserved\nbiosignatures. The ultimate goal of these continu ous exploratory efforts is to pave the way for\nfuture human missions, which will require advanced technology to sustain life in extreme\nenvironments.",
+    "explanation": "หลักฐานการมีอยู่ของนํ้าในอดีตเป็นสิ่งสำคัญ เพราะอาจบ่งชี้ว่าดาวอังคารเคยเป็นที่อยู่อาศัยของ สิ่งมีชีวิตขนาดเล็ก  ( จุลินทรีย์ )"
+  },
+  {
+    "id": 43,
+    "q": "Where might preserved biosignatures be found on Mars?",
+    "choices": {
+      "A": "In the harsh surface conditions",
+      "B": "On the solar panels of rovers",
+      "C": "In subsurface environments",
+      "D": "In the planet's orbit"
+    },
+    "answer": "C",
+    "passage": "Passage 9 (Questions 41 - 45)\nThe exploration of Mars has been a major objective for space agencies worldwide. Recent\nmissions involving rovers and orbiters have gathered substantial data about the planet's geology\nand climate. Scientists are particularly interested in finding evidence   of past water activity, as\nthis could indicate that Mars once harbored microbial life. While current conditions on the\nsurface are harsh and inhospitable, subsurface environments might still hold preserved\nbiosignatures. The ultimate goal of these continu ous exploratory efforts is to pave the way for\nfuture human missions, which will require advanced technology to sustain life in extreme\nenvironments.",
+    "explanation": "ร่องรอยทางชีวภาพที่ถูกเก็บรักษาไว้อาจจะยังคงพบได้ในสภาพแวดล้อมใต้พื้นผิวของดาวอังคาร ( subsurface environments)"
+  },
+  {
+    "id": 44,
+    "q": "What is the ultimate goal of continuous Mars exploration?",
+    "choices": {
+      "A": "To stop building advanced technology",
+      "B": "To destroy the planet's surface",
+      "C": "To abandon space travel",
+      "D": "To pave the way for future human missions"
+    },
+    "answer": "D",
+    "passage": "Passage 9 (Questions 41 - 45)\nThe exploration of Mars has been a major objective for space agencies worldwide. Recent\nmissions involving rovers and orbiters have gathered substantial data about the planet's geology\nand climate. Scientists are particularly interested in finding evidence   of past water activity, as\nthis could indicate that Mars once harbored microbial life. While current conditions on the\nsurface are harsh and inhospitable, subsurface environments might still hold preserved\nbiosignatures. The ultimate goal of these continu ous exploratory efforts is to pave the way for\nfuture human missions, which will require advanced technology to sustain life in extreme\nenvironments.",
+    "explanation": "เป้าหมายสูงสุดในการพยายามสำรวจอย่างต่อเนื่องคือการปูทางสำหรับภารกิจของมนุษย์ใน อนาคต  ( pave the way for future human missions)"
+  },
+  {
+    "id": 45,
+    "q": "The word \"inhospitable\" is closest in meaning to:",
+    "choices": {
+      "A": "Welcoming",
+      "B": "Warm and comfortable",
+      "C": "Unfriendly and harsh",
+      "D": "Populated"
+    },
+    "answer": "C",
+    "passage": "Passage 9 (Questions 41 - 45)\nThe exploration of Mars has been a major objective for space agencies worldwide. Recent\nmissions involving rovers and orbiters have gathered substantial data about the planet's geology\nand climate. Scientists are particularly interested in finding evidence   of past water activity, as\nthis could indicate that Mars once harbored microbial life. While current conditions on the\nsurface are harsh and inhospitable, subsurface environments might still hold preserved\nbiosignatures. The ultimate goal of these continu ous exploratory efforts is to pave the way for\nfuture human missions, which will require advanced technology to sustain life in extreme\nenvironments.",
+    "explanation": "\"inhospitable\" หมายถึง สภาพที่ไม่เอื้ออำนวย ไม่เป็นมิตร และโหดร้าย ตรงกับคำว่า Unfriendly and harsh"
+  },
+  {
+    "id": 46,
+    "q": "How is AI assisting in the medical field?",
+    "choices": {
+      "A": "By replacing doctors completely",
+      "B": "By analyzing complex medical images for early diagnosis",
+      "C": "By ignoring patient data",
+      "D": "By performing surgeries independently"
+    },
+    "answer": "B",
+    "passage": "Passage 10 (Questions 46 - 50)\nArtificial Intelligence (AI) is rapidly transforming various sectors, from healthcare to\nfinance. In medicine, AI algorithms can analyze complex medical images with high accuracy,\nassisting doctors in early diagnosis of diseases. In the financial sector, m achine learning models\nare used to detect fraudulent transactions in real time. However, the rapid advancement of AI\nalso raises ethical concerns, particularly regarding data privacy and the potential displacement\nof human jobs. As AI systems become more  integrated into daily life, policymakers face the\nchallenge of creating regulations that foster innovation while protecting individuals' rights and\nsocietal stability.",
+    "explanation": "AI ช่วยเหลือในวงการแพทย์โดยการวิเคราะห์ภาพทางการแพทย์ที่ซับซ้อนเพื่อการวินิจฉัยโรคได้ ตั้งแต่ระยะเริ่มต้น"
+  },
+  {
+    "id": 47,
+    "q": "What is a use of machine learning models in finance mentioned in the text?",
+    "choices": {
+      "A": "Offering loans to everyone",
+      "B": "Closing bank branches",
+      "C": "Printing physical money",
+      "D": "Detecting fraudulent transactions in real time"
+    },
+    "answer": "D",
+    "passage": "Passage 10 (Questions 46 - 50)\nArtificial Intelligence (AI) is rapidly transforming various sectors, from healthcare to\nfinance. In medicine, AI algorithms can analyze complex medical images with high accuracy,\nassisting doctors in early diagnosis of diseases. In the financial sector, m achine learning models\nare used to detect fraudulent transactions in real time. However, the rapid advancement of AI\nalso raises ethical concerns, particularly regarding data privacy and the potential displacement\nof human jobs. As AI systems become more  integrated into daily life, policymakers face the\nchallenge of creating regulations that foster innovation while protecting individuals' rights and\nsocietal stability.",
+    "explanation": "ในภาคการเงิน แบบจำลอง Machine Learning ถูกนำมาใช้ในการตรวจจับธุรกรรมที่ฉ้อโกง แบบเรียลไทม์  ( Detecting fraudulent transactions in real time)"
+  },
+  {
+    "id": 48,
+    "q": "What is one major concern raised by the advancement of AI?",
+    "choices": {
+      "A": "It operates too slowly.",
+      "B": "Data privacy and potential job displacement",
+      "C": "It discourages innovation.",
+      "D": "It cannot be used in finance."
+    },
+    "answer": "B",
+    "passage": "Passage 10 (Questions 46 - 50)\nArtificial Intelligence (AI) is rapidly transforming various sectors, from healthcare to\nfinance. In medicine, AI algorithms can analyze complex medical images with high accuracy,\nassisting doctors in early diagnosis of diseases. In the financial sector, m achine learning models\nare used to detect fraudulent transactions in real time. However, the rapid advancement of AI\nalso raises ethical concerns, particularly regarding data privacy and the potential displacement\nof human jobs. As AI systems become more  integrated into daily life, policymakers face the\nchallenge of creating regulations that foster innovation while protecting individuals' rights and\nsocietal stability.",
+    "explanation": "ข้อกังวลหลักที่เกิดขึ้นคือปัญหาความเป็นส่วนตัวของข้อมูลและโอกาสที่ AI จะเข้ามาแย่งงานของ มนุษย์  ( Data privacy and potential job displacement)"
+  },
+  {
+    "id": 49,
+    "q": "What challenge do policymakers face regarding AI?",
+    "choices": {
+      "A": "Stopping all technological progress",
+      "B": "Replacing human jobs with AI",
+      "C": "Creating regulations that balance innovation and protection",
+      "D": "Forcing everyone to learn programming"
+    },
+    "answer": "C",
+    "passage": "Passage 10 (Questions 46 - 50)\nArtificial Intelligence (AI) is rapidly transforming various sectors, from healthcare to\nfinance. In medicine, AI algorithms can analyze complex medical images with high accuracy,\nassisting doctors in early diagnosis of diseases. In the financial sector, m achine learning models\nare used to detect fraudulent transactions in real time. However, the rapid advancement of AI\nalso raises ethical concerns, particularly regarding data privacy and the potential displacement\nof human jobs. As AI systems become more  integrated into daily life, policymakers face the\nchallenge of creating regulations that foster innovation while protecting individuals' rights and\nsocietal stability.",
+    "explanation": "ผู้กำหนดนโยบายต้องเผชิญกับความท้าทายในการสร้างกฎระเบียบที่สร้างสมดุลระหว่างการ ส่งเสริมนวัตกรรมและการคุ้มครองสิทธิบุคคล"
+  },
+  {
+    "id": 50,
+    "q": "The word \"transforming\" means:",
+    "choices": {
+      "A": "Completely changing",
+      "B": "Ignoring",
+      "C": "Destroying",
+      "D": "Maintaining the status quo"
+    },
+    "answer": "A",
+    "passage": "Passage 10 (Questions 46 - 50)\nArtificial Intelligence (AI) is rapidly transforming various sectors, from healthcare to\nfinance. In medicine, AI algorithms can analyze complex medical images with high accuracy,\nassisting doctors in early diagnosis of diseases. In the financial sector, m achine learning models\nare used to detect fraudulent transactions in real time. However, the rapid advancement of AI\nalso raises ethical concerns, particularly regarding data privacy and the potential displacement\nof human jobs. As AI systems become more  integrated into daily life, policymakers face the\nchallenge of creating regulations that foster innovation while protecting individuals' rights and\nsocietal stability.",
+    "explanation": "\"transforming\" แปลว่า การเปลี่ยนแปลงรูปร่างหรือลักษณะไปอย่างสิ้นเชิง ตรงกับคำว่า Completely changing"
+  }
+]

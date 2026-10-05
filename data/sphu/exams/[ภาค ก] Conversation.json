@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "What position is Sarah applying for?",
+    "choices": {
+      "A": "HR Director",
+      "B": "Financial Analyst",
+      "C": "Sales Manager",
+      "D": "Marketing Manager"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "Marketing Manager: ผู้สัมภาษณ์กล่าวอย่างชัดเจนว่า \" I see you are applying for the Marketing Manager position.\""
+  },
+  {
+    "id": 2,
+    "q": "How many years of experience does Sarah have in her field?",
+    "choices": {
+      "A": "10 years",
+      "B": "7 years",
+      "C": "5 years",
+      "D": "3 years"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "5 years: ซาร่าห์ตอบผู้สัมภาษณ์ว่า \" I have been working in marketing for five years.\" ( ทำงานมาแล้ว   5  ปี )"
+  },
+  {
+    "id": 3,
+    "q": "What does Sarah consider her greatest strength?",
+    "choices": {
+      "A": "Graphic design",
+      "B": "Data analysis",
+      "C": "Coding",
+      "D": "Public speaking"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Data analysis: เมื่อถูกถามถึงจุดแข็ง ซาร่าห์ตอบว่า \" I believe my greatest strength is data analysis.\" ( การวิเคราะห์ข้อมูล )"
+  },
+  {
+    "id": 4,
+    "q": "Why did Sarah leave her previous job?",
+    "choices": {
+      "A": "Seeking career growth",
+      "B": "Low salary",
+      "C": "Changing career paths",
+      "D": "Relocation"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Seeking career growth: ซาร่าห์ให้เหตุผลในการออกจากงานเก่าว่า \"... I am seeking career growth and looking for a company where I can take on more leadership responsibilities.\" ( ต้องการเติบโตในสายอาชีพ )"
+  },
+  {
+    "id": 5,
+    "q": "When will Mr. Davis contact Sarah with a decision?",
+    "choices": {
+      "A": "In two weeks",
+      "B": "Tomorrow",
+      "C": "By the end of the week",
+      "D": "Next Monday Part   2:   Conversation   (Questions   6 - 10) Directions:   Read   the   conversation   and   answer   the   questions. Agent:   Welcome to Global Travels. How can I help you today? Mark: Hi, I'd like to book a flight and a hotel. I'm planning to travel to Tokyo next month. Agent:   Tokyo is beautiful in autumn. What is your preferred departure date? Mark:   I need to leave on October 15th and return on the 22nd. Agent:   Let me check the flights. Would you like to fly Economy, Business, or First Class? Mark:   Economy is fine, but I'd like a window seat if possible. Agent:   No problem. I have a direct flight available. Now, regarding the hotel, how many nights will you be staying? Mark:   I will be staying for 7 nights. I prefer something close to a train station. Agent:   I have a great option in Shinjuku. The total cost for the flight and the 7 - night hotel stay is $1,500. Mark:   That sounds perfect. Let's go ahead and book it."
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "By the end of the week: ผู้สัมภาษณ์บอกว่าจะติดต่อกลับเมื่อตัดสินใจได้ภายในสิ้นสัปดาห์ \" I will contact you with a decision by the end of the week.\" Part   2:   Travel   Agency"
+  },
+  {
+    "id": 6,
+    "q": "Where does Mark want to travel?",
+    "choices": {
+      "A": "Tokyo",
+      "B": "London",
+      "C": "New York",
+      "D": "Paris"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Tokyo: มาร์คบอกตัวแทนบริษัททัวร์ว่า \" I'm planning to travel to Tokyo next month.\""
+  },
+  {
+    "id": 7,
+    "q": "What is Mark's departure date?",
+    "choices": {
+      "A": "October 20th",
+      "B": "October 15th",
+      "C": "October 12th",
+      "D": "October 10th"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "October 15th: มาร์คระบุวันที่ต้องการเดินทางไปว่า \" I need to leave on October 15th...\""
+  },
+  {
+    "id": 8,
+    "q": "What class of flight does Mark want to book?",
+    "choices": {
+      "A": "Business",
+      "B": "First Class",
+      "C": "Economy",
+      "D": "Premium Economy"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Economy: เมื่อถูกถามว่าจะบินชั้นไหน มาร์คตอบว่า \" Economy is fine...\""
+  },
+  {
+    "id": 9,
+    "q": "How many nights will Mark stay in the hotel?",
+    "choices": {
+      "A": "5 nights",
+      "B": "10 nights",
+      "C": "3 nights",
+      "D": "7 nights"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "7 nights: มาร์คบอกจำนวนคืนที่จะพักว่า \" I will be staying for 7 nights.\""
+  },
+  {
+    "id": 10,
+    "q": "What is the total cost of the travel package?",
+    "choices": {
+      "A": "$1,800",
+      "B": "$1,200",
+      "C": "$2,000",
+      "D": "$1,500 Part   3:   Conversation   (Questions   11 - 15) Directions:   Read   the   conversation   and   answer   the   questions. Dr. Smith:   Good afternoon, Emily. What seems to be the problem today? Emily:   Hi, Dr. Smith. I haven't been feeling well lately. I have a severe headache and extreme fatigue. Dr. Smith:   I see. How long have you been experiencing these symptoms? Emily:   It started about three days ago. I thought it was just from working late, but it hasn't gone away. Dr. Smith:   Have you had a fever or any coughing? Emily:   No fever, just the headache and feeling very tired all the time. Dr. Smith:   Given your symptoms and the absence of a fever, I suspect this is mainly due to stress and a lack of sleep, rather than a viral infection. Emily:   That makes sense. Work has been incredibly busy this month. Dr. Smith:   I will prescribe some painkillers to help with the headache. However, the most important thing is that you need to rest and drink plenty of water. Emily:   Thank you, doctor. I'll make sure to take a few days off."
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "$1,500: ตัวแทนแจ้งราคารวมทั้งหมดว่า \" The total cost for the flight and the 7 - night hotel stay is $1,500.\" Part   3:   At   the   Doctor"
+  },
+  {
+    "id": 11,
+    "q": "What are Emily's main symptoms?",
+    "choices": {
+      "A": "Stomachache and nausea",
+      "B": "Sore throat and chills",
+      "C": "Headache and fatigue",
+      "D": "Cough and fever"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Headache and fatigue: เอมิลี่บอกอาการของเธอว่า \" I have a severe headache and extreme fatigue.\" ( ปวดหัวรุนแรงและอ่อนเพลียมาก )"
+  },
+  {
+    "id": 12,
+    "q": "How long has Emily been experiencing these symptoms?",
+    "choices": {
+      "A": "Three days",
+      "B": "One day",
+      "C": "A week",
+      "D": "Two days"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Three days: เมื่อหมอถามว่าเป็นมานานแค่ไหน เธอตอบว่า \" It started about three days ago.\""
+  },
+  {
+    "id": 13,
+    "q": "What does Dr. Smith suspect is the cause of the problem?",
+    "choices": {
+      "A": "A viral infection",
+      "B": "Allergies",
+      "C": "Food poisoning",
+      "D": "Stress and lack of sleep"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "Stress and lack of sleep: หมอวินิจฉัยจากอาการว่าไม่มีไข้ จึงสรุปว่า \" I suspect this is mainly due to stress and a lack of sleep...\" ( ความเครียดและพักผ่อนไม่พอ )"
+  },
+  {
+    "id": 14,
+    "q": "What medication does Dr. Smith prescribe?",
+    "choices": {
+      "A": "Painkillers",
+      "B": "Vitamins",
+      "C": "Antibiotics",
+      "D": "Antihistamines"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Painkillers: หมอสั่งยาแก้ปวดให้โดยพูดว่า \" I will prescribe some painkillers to help with the headache.\""
+  },
+  {
+    "id": 15,
+    "q": "What lifestyle advice does Dr. Smith give Emily?",
+    "choices": {
+      "A": "Go on a strict diet",
+      "B": "Rest and drink water",
+      "C": "Exercise intensely",
+      "D": "Drink more coffee Part   4:   Conversation   (Questions   16 - 20) Directions:   Read   the   conversation   and   answer   the   questions. Manager:   Hello, sir. How can I assist you today? John:  I need to return this laptop I bought from your store. Manager:   I'm sorry to hear that. What exactly is the problem with it? John:   The screen and keyboard are fine, but the battery drains too fast. It only lasts about an hour on a full charge. Manager:   That definitely shouldn't happen. When did you purchase the item? John:   I bought it last week, on Tuesday. Manager:   Okay. Do you happen to have your original receipt with you? John:   Yes, here it is. I made sure to keep it just in case. Manager:   Thank you. Since it's within the 14 - day return window and the unit is defective, I can exchange it for a new one right now. John:   That would be great. I need it for my work."
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Rest and drink water: คำแนะนำด้านการใช้ชีวิตที่สำคัญที่สุดจากหมอคือ \"... you need to rest and drink plenty of water.\" ( พักผ่อนและดื่มนํ้าเยอะๆ ) Part   4:   Store   Return"
+  },
+  {
+    "id": 16,
+    "q": "What item is John returning?",
+    "choices": {
+      "A": "A monitor",
+      "B": "A smartphone",
+      "C": "A laptop",
+      "D": "A tablet"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "A laptop: จอห์นบอกผู้จัดการตั้งแต่ต้นว่า \" I need to return this laptop I bought from your store.\""
+  },
+  {
+    "id": 17,
+    "q": "What is the problem with the item?",
+    "choices": {
+      "A": "It won't turn on",
+      "B": "The battery drains too fast",
+      "C": "The screen is cracked",
+      "D": "The keyboard is missing keys"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "The battery drains too fast: จอห์นอธิบายปัญหาว่า \" the battery drains too fast.\" ( แบตเตอรี่หมดเร็วเกินไป )"
+  },
+  {
+    "id": 18,
+    "q": "When did John purchase the item?",
+    "choices": {
+      "A": "Last week",
+      "B": "Two weeks ago",
+      "C": "A month ago",
+      "D": "Yesterday"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Last week: จอห์นบอกวันที่ซื้อไปว่า \" I bought it last week, on Tuesday.\""
+  },
+  {
+    "id": 19,
+    "q": "Does John have his receipt?",
+    "choices": {
+      "A": "No, he lost it",
+      "B": "He only has a digital copy",
+      "C": "Yes, he has the original",
+      "D": "No, he threw it away"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Yes, he has the original: เมื่อผู้จัดการถามหาใบเสร็จ จอห์นตอบว่า \" Yes, here it is.\" ( มี ใบเสร็จตัวจริงมาด้วย )"
+  },
+  {
+    "id": 20,
+    "q": "How does the manager resolve the issue?",
+    "choices": {
+      "A": "Gives store credit",
+      "B": "Exchanges it for a new one",
+      "C": "Offers a refund",
+      "D": "Replaces the battery Part   5:   Conversation   (Questions   21 - 25) Directions:   Read   the   conversation   and   answer   the   questions. Alice:  Alright team, let's discuss our university presentation on climate change. Bob:   Sounds good. We need to divide the work so we can meet the deadline. Carol:   Agreed. What should our main focus areas be? Alice:   I think we should cover the causes, the effects, and potential solutions. I can take responsibility for researching the causes. Bob:   That works for me. I'll focus on the effects of climate change on coastal cities. Carol:   Perfect. That leaves me with finding solutions and policies. I'll also start designing the PowerPoint slides once we have our research. Alice:   Great. Let's do our research over the weekend. When should we meet next to combine our work? Bob:   How about Tuesday afternoon? Carol:   Tuesday is busy for me. Thursday works better. Alice:   Thursday is fine with me too. Let's meet at the library."
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Exchanges it for a new one: ผู้จัดการแก้ปัญหาโดยการเปลี่ยนเครื่องใหม่ให้ \" I can exchange it for a new one right now.\" Part   5:   Group   Project"
+  },
+  {
+    "id": 21,
+    "q": "What is the topic of their presentation?",
+    "choices": {
+      "A": "Ocean pollution",
+      "B": "Climate change",
+      "C": "Renewable energy",
+      "D": "Global warming history"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Climate change: อลิซเปิดบทสนทนาว่า \" let's discuss our university presentation on climate change.\" ( งานนำเสนอเรื่องการเปลี่ยนแปลงสภาพภูมิอากาศ )"
+  },
+  {
+    "id": 22,
+    "q": "Who is responsible for researching the causes?",
+    "choices": {
+      "A": "The professor",
+      "B": "Carol",
+      "C": "Alice",
+      "D": "Bob"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Alice: อลิซเสนอตัวรับผิดชอบหัวข้อนี้เองว่า \" I can take responsibility for researching the causes.\""
+  },
+  {
+    "id": 23,
+    "q": "What will Bob focus on for the presentation?",
+    "choices": {
+      "A": "The effects on coastal cities",
+      "B": "Creating the slides",
+      "C": "The introduction",
+      "D": "The conclusion"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "The effects on coastal cities: บ็ อบอาสาทำในส่วนของผลกระทบว่า \" I'll focus on the effects of climate change on coastal cities.\""
+  },
+  {
+    "id": 24,
+    "q": "What is one of Carol's main tasks?",
+    "choices": {
+      "A": "Editing the research paper",
+      "B": "Presenting the data",
+      "C": "Writing the final script",
+      "D": "Finding solutions and policies"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "Finding solutions and policies: แครอลสรุปหน้าที่ของตัวเองว่า \" That leaves me with finding solutions and policies.\""
+  },
+  {
+    "id": 25,
+    "q": "When are they meeting next to combine their work?",
+    "choices": {
+      "A": "Thursday",
+      "B": "Wednesday",
+      "C": "Friday",
+      "D": "Tuesday Part   6:   Conversation   (Questions   26 - 30) Directions:   Read   the   conversation   and   answer   the   questions. Landlord:   Hello, Lisa. Welcome to the Oakwood Apartments. I'll be showing you the one - bedroom unit today. Lisa:   Thank you. The building looks very nice from the outside. How much is the monthly rent? Landlord:   The rent for this unit is $1,200 per month. Lisa:   Does that include any utilities? Landlord:   Yes, it includes water and trash removal. You will be responsible for electricity and internet. Lisa:   Okay. Is the apartment furnished? Landlord:   This specific unit is unfurnished, so you'll need to bring your own furniture. Lisa:   I actually prefer that. What is your pet policy? I have a small dog. Landlord:   Small pets are allowed, provided you pay an additional pet deposit. Lisa:   That's completely understandable. When is the apartment available for move - in? Landlord:   The current tenant leaves at the end of this month, so it will be ready by the first of next month."
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Thursday: แครอลบอกว่าวันอังคารไม่ว่าง วันพฤหัสบดีสะดวกกว่า (\" Thursday works better\") และอลิซก็ตกลง  (\" Thursday is fine with me too\") Part   6:   Renting   an   Apartment"
+  },
+  {
+    "id": 26,
+    "q": "How much is the monthly rent for the apartment?",
+    "choices": {
+      "A": "$1,200",
+      "B": "$800",
+      "C": "$1,500",
+      "D": "$1,000"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "$1,200: เจ้าของบ้านแจ้งราคาว่า \" The rent for this unit is $1,200 per month.\""
+  },
+  {
+    "id": 27,
+    "q": "What utilities are included in the rent?",
+    "choices": {
+      "A": "Electricity and internet",
+      "B": "None of them",
+      "C": "Water and trash removal",
+      "D": "All of them"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Water and trash removal: เมื่อลิซ่าถามถึงค่านํ้าค่าไฟ เจ้าของบอกว่ารวมแค่นํ้ากับค่าเก็บขยะ \" Yes, it includes water and trash removal.\""
+  },
+  {
+    "id": 28,
+    "q": "Is the apartment furnished?",
+    "choices": {
+      "A": "Unfurnished",
+      "B": "Fully furnished",
+      "C": "Only includes a bed and sofa",
+      "D": "Partially furnished"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Unfurnished: เจ้าของบ้านระบุชัดเจนว่าห้องนี้ไม่มีเฟอร์นิเจอร์ให้ \" This specific unit is unfurnished...\""
+  },
+  {
+    "id": 29,
+    "q": "What is the pet policy for the building?",
+    "choices": {
+      "A": "Small pets are allowed with a deposit",
+      "B": "All pets are welcome without a deposit",
+      "C": "No pets allowed",
+      "D": "Only cats are allowed"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Small pets are allowed with a deposit: เจ้าของบ้านบอกนโยบายสัตว์เลี้ยงว่า \" Small pets are allowed, provided you pay an additional pet deposit.\" ( อนุญาตสัตว์เลี้ยงขนาดเล็กแต่ต้องจ่ายค่ามัด จำเพิ่ม )"
+  },
+  {
+    "id": 30,
+    "q": "When is the apartment available for move - in?",
+    "choices": {
+      "A": "The middle of next month",
+      "B": "Next year",
+      "C": "Immediately",
+      "D": "The first of next month Part   7:   Conversation   (Questions   31 - 35) Directions:   Read   the   conversation   and   answer   the   questions. Karen:   Hi David, thanks for coming in for your annual performance review. David:   Hi Karen, thanks for having me. I've been looking forward to our discussion. Karen:   Overall, you've had a strong year. You particularly excelled in meeting your sales targets. You actually exceeded them by 15%. David:   Thank you. I put a lot of effort into client outreach this year. Karen:   It definitely shows. However, one area I'd like to see some improvement in is time management. A few of your internal reports were submitted late. David:   I understand. I admit my current workload feels slightly overwhelming sometimes. Karen:   Let's look into some training to help with that. I suggest taking the project management course we offer next quarter. David:   That sounds like a great idea. I'll sign up for it. Karen:   Excellent. Because of your strong sales performance, I'm happy to inform you that you'll be receiving a 5% raise starting next month."
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "The first of next month: เจ้าของบ้านบอกว่าผู้เช่าเดิมจะออกสิ้นเดือน ดังนั้นห้องจะพร้อมเข้า อยู่ตอน  \" the first of next month.\" ( วันที่   1  ของเดือนหน้า ) Part   7:   Performance   Review"
+  },
+  {
+    "id": 31,
+    "q": "What area did David excel in this year?",
+    "choices": {
+      "A": "Punctuality",
+      "B": "Report writing",
+      "C": "Teamwork",
+      "D": "Meeting sales targets"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "Meeting sales targets: แคเรนชมเดวิดว่า \" You particularly excelled in meeting your sales targets.\" ( ทำยอดขายได้ทะลุเป้าหมาย )"
+  },
+  {
+    "id": 32,
+    "q": "What is a suggested area of improvement for David?",
+    "choices": {
+      "A": "Time management",
+      "B": "Leadership abilities",
+      "C": "Communication skills",
+      "D": "Technical knowledge"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Time management: แคเรนแนะนำเรื่องที่ต้องปรับปรุงว่า \" one area I'd like to see some improvement in is time management.\" ( การบริหารเวลา )"
+  },
+  {
+    "id": 33,
+    "q": "How does David feel about his current workload?",
+    "choices": {
+      "A": "It's slightly overwhelming",
+      "B": "It's too light",
+      "C": "He wants more tasks",
+      "D": "It's manageable"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "It's slightly overwhelming: เดวิดยอมรับสภาพการทำงานของตัวเองว่า \" my current workload feels slightly overwhelming sometimes.\" ( งานล้นมือและหนักเกินไปบ้างในบางครั้ง )"
+  },
+  {
+    "id": 34,
+    "q": "What training does Karen suggest for David?",
+    "choices": {
+      "A": "Customer service",
+      "B": "Project management",
+      "C": "Advanced Excel",
+      "D": "Public speaking"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Project management: แคเรนแนะนำให้เดวิดเข้าอบรมหลักสูตร \" project management course\" ( การบริหารโครงการ )"
+  },
+  {
+    "id": 35,
+    "q": "What is the outcome of the review regarding David's compensation?",
+    "choices": {
+      "A": "A yearly bonus",
+      "B": "No change in salary",
+      "C": "A 5% raise",
+      "D": "A promotion Part   8:   Conversation   (Questions   36 - 40) Directions:   Read   the   conversation   and   answer   the   questions. Rachel:   Good morning, Tom. Let's talk about the corporate holiday party you want to plan. Tom:   Good morning, Rachel. Yes, we want to do something special for the employees this year. Rachel:   Great. First, how many guests are we expecting? Tom:   We have 100 employees, and they can bring a plus one, so we are expecting around 150 guests in total based on RSVPs. Rachel:   Understood. Have you thought about a theme? Tom:   I was debating between a Casino Night and a Winter Wonderland, but I think Winter Wonderland fits the season better. Rachel:   Winter Wonderland it is. What kind of food service do you prefer? A sit - down dinner or buffet style? Tom:   Buffet style is probably best. It allows people to mingle more easily. Rachel:   Agreed. Finally, for entertainment, would you like a live band or a DJ? Tom:   Let's go with a DJ, and I'd also like to add a photo booth for fun memories."
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "A 5% raise: แคเรนแจ้งข่าวดีเรื่องผลตอบแทนว่า \" you'll be receiving a 5% raise starting next month.\" ( ได้ขึ้นเงินเดือน   5%) Part   8:   Party   Planning"
+  },
+  {
+    "id": 36,
+    "q": "What type of event is being planned?",
+    "choices": {
+      "A": "A corporate holiday party",
+      "B": "A product launch",
+      "C": "A charity gala",
+      "D": "A wedding reception"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "A corporate holiday party: ราเชลเริ่มคุยถึงงานที่กำลังจะจัดว่า \" Let's talk about the corporate holiday party you want to plan.\""
+  },
+  {
+    "id": 37,
+    "q": "How many guests are expected to attend?",
+    "choices": {
+      "A": "200",
+      "B": "150",
+      "C": "50",
+      "D": "100"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "150: ทอมประเมินจากพนักงาน 100 คน และผู้ติดตาม จึงคาดหวังจำนวนคนรวม \" around 150 guests in total\""
+  },
+  {
+    "id": 38,
+    "q": "What theme did Tom choose for the party?",
+    "choices": {
+      "A": "Masquerade Ball",
+      "B": "Hollywood Glamour",
+      "C": "Winter Wonderland",
+      "D": "Casino Night"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Winter Wonderland: ทอมตัดสินใจเลือกธีมงานว่า \" I think Winter Wonderland fits the season better.\""
+  },
+  {
+    "id": 39,
+    "q": "What kind of food service does Tom prefer?",
+    "choices": {
+      "A": "Buffet style",
+      "B": "Food trucks",
+      "C": "Sit - down dinner",
+      "D": "Passed appetizers only"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Buffet style: ทอมเลือกรูปแบบอาหารแบบบุฟเฟต์เพราะ \" Buffet style is probably best. It allows people to mingle more easily.\" ( ทำให้คนเดินคุยกันได้ง่าย )"
+  },
+  {
+    "id": 40,
+    "q": "Which entertainment option did they agree on?",
+    "choices": {
+      "A": "A magician",
+      "B": "A live band",
+      "C": "Stand - up comedy",
+      "D": "A DJ and a photo booth Part   9:   Conversation   (Questions   41 - 45) Directions:   Read   the   conversation   and   answer   the   questions. Mike:   Thank you for calling Tech Support. My name is Mike. How can I help you? Susan:   Hi Mike, this is Susan. I have no internet connection at my house. Mike:   I'm sorry for the inconvenience, Susan. Let's troubleshoot this. Are you near your router right now? Susan:   Yes, I am standing right in front of it. Mike:   Okay. Can you tell me what color the light on the front of the router is? Susan:   It's usually green, but right now it's solid red. Mike:   A red light indicates a connection error. The first step I suggest is to unplug the router's power cable from the wall. Susan:   Okay, it's unplugged. Should I plug it back in immediately? Mike:   No, please wait for about 30 seconds before plugging it back in. This allows the system to completely reset. Susan:   Alright, I've plugged it back in. The light is blinking yellow... now it's turned green! The internet is working again. Thank you!"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "A DJ and a photo booth: ทอมระบุความบันเทิงในงานว่า \" Let's go with a DJ, and I'd also like to add a photo booth...\" Part   9:   Tech   Support"
+  },
+  {
+    "id": 41,
+    "q": "What problem is Susan experiencing?",
+    "choices": {
+      "A": "She forgot her password",
+      "B": "Her printer won't print",
+      "C": "She has no internet connection",
+      "D": "Her computer crashed"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "She has no internet connection: ซูซานแจ้งปัญหาตั้งแต่แรกว่า \" I have no internet connection at my house.\" ( ที่บ้านไม่มีสัญญาณอินเทอร์เน็ต )"
+  },
+  {
+    "id": 42,
+    "q": "What color is the light on Susan's router when she first checks it?",
+    "choices": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Blinking yellow",
+      "D": "Blue"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Red: ซูซานบอกสถานะไฟบนเราเตอร์ว่า \" right now it's solid red.\" ( ตอนนี้ไฟเป็นสีแดงค้าง )"
+  },
+  {
+    "id": 43,
+    "q": "What is the first troubleshooting step Mike suggests?",
+    "choices": {
+      "A": "Restart the computer",
+      "B": "Unplug the router's power cable",
+      "C": "Check the ethernet cables",
+      "D": "Replace the router entirely"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Unplug the router's power cable: ไมค์แนะนำขั้นตอนการแก้ปัญหาเบื้องต้นว่า \" The first step I suggest is to unplug the router's power cable from the wall.\" ( ให้ถอดปลั๊กออก )"
+  },
+  {
+    "id": 44,
+    "q": "How long does Mike tell Susan to wait before plugging the router back in?",
+    "choices": {
+      "A": "5 minutes",
+      "B": "1 minute",
+      "C": "10 seconds",
+      "D": "30 seconds"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "30 seconds: ไมค์บอกให้ซูซานรอเพื่อรีเซ็ตระบบ \" please wait for about 30 seconds before plugging it back in.\""
+  },
+  {
+    "id": 45,
+    "q": "Does the issue get resolved during the phone call?",
+    "choices": {
+      "A": "No, a technician needs to visit",
+      "B": "Yes, immediately after restarting",
+      "C": "Susan gives up and hangs up",
+      "D": "The call drops before it's fixed Part   10:   Conversation   (Questions   46 - 50) Directions:   Read   the   conversation   and   answer   the   questions. Mr. Green:   Hello, Linda. It's nice to see you again. Let's review your financial portfolio. Linda:   Hi Mr. Green. I'm eager to hear your thoughts. I want to make sure I'm on track. Mr. Green:   Let's start with your goals. What is your primary financial goal right now? Linda:   My main focus is saving for retirement. I want to ensure I'm financially secure when I stop working. Mr. Green:   A smart priority. At what age do you hope to retire? Linda:   I am aiming for 60. That gives me about 25 more years to build my savings. Mr. Green:   Based on that timeline and your desire for lower risk, I recommend shifting more of your funds into mutual funds and bonds, rather than single stocks. Linda:   That sounds like a safe approach. How much of my monthly income should I be saving? Mr. Green:   To reach your goal by 60, I suggest you save 15% of your monthly income. Linda:   I can manage that by cutting down on some expenses. Mr. Green:  Excellent. Let's implement these changes, and we will meet again in six months to review your portfolio's progress."
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "Yes, immediately after restarting: หลังจากเสียบปลั๊กใหม่ ไฟกลับมาเป็นสีเขียวและซูซาน บอกว่า  \" The internet is working again.\"  ซึ่งแสดงว่าปัญหาได้รับการแก้ไขทันที Part   10:   Financial   Planning"
+  },
+  {
+    "id": 46,
+    "q": "What is Linda's primary financial goal?",
+    "choices": {
+      "A": "Saving for a vacation",
+      "B": "Paying off student debt",
+      "C": "Saving for retirement",
+      "D": "Buying a new house"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "Saving for retirement: ลินดาบอกเป้าหมายทางการเงินของเธอว่า \" My main focus is saving for retirement.\" ( ออมเงินเพื่อการเกษียณ )"
+  },
+  {
+    "id": 47,
+    "q": "At what age does Linda hope to retire?",
+    "choices": {
+      "A": "65",
+      "B": "70",
+      "C": "55",
+      "D": "60"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": "60: ลิน ดาคาดหวังว่าจะเกษียณตอนอายุ 60 ปี \" I am aiming for 60.\""
+  },
+  {
+    "id": 48,
+    "q": "What type of investment does Mr. Green recommend for lower risk?",
+    "choices": {
+      "A": "Mutual funds and bonds",
+      "B": "Cryptocurrency",
+      "C": "Real estate properties",
+      "D": "Single stocks"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": "Mutual funds and bonds: เพื่อลดความเสี่ยง คุณกรีนแนะนำให้ลงทุนในกองทุนรวมและ พันธบัตร  \"... recommend shifting more of your funds into mutual funds and bonds...\""
+  },
+  {
+    "id": 49,
+    "q": "How much does Mr. Green suggest Linda save from her monthly income?",
+    "choices": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "5%"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": "15%: คุณกรีนแนะนำให้ลินดาออมเงินในสัดส่วน 15% ของรายได้ต่อเดือน \" I suggest you save 15% of your monthly income.\""
+  },
+  {
+    "id": 50,
+    "q": "When will Mr. Green and Linda meet again to review the portfolio?",
+    "choices": {
+      "A": "In three months",
+      "B": "In one month",
+      "C": "In six months",
+      "D": "Next year Answer   Key Part   1:   Interview"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": "In six months: คุณกรีนนัดหมายเพื่อดูความคืบหน้าอีกครั้งในอีก 6 เดือน \" we will meet again in six months to review your portfolio's progress.\""
+  }
+]

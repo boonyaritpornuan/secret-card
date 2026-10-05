@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "ข้อใดคือความหมายที่ถูกต้องที่สุดของระบบฐานข้อมูล ( Database System)",
+    "choices": {
+      "A": "โปรแกรมที่ใช้ในการสร้างตารางข้อมูล",
+      "B": "ระบบเครือข่ายที่เชื่อมต่อคอมพิวเตอร์หลายเครื่องเข้าด้วยกัน",
+      "C": "แหล่งรวบรวมข้อมูลที่มีความสัมพันธ์กันและถูกจัดเก็บไว้อย่างเป็นระบบ",
+      "D": "อุปกรณ์ฮาร์ดแวร์สำหรับจัดเก็บข้อมูลขนาดใหญ่"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "ระบบจัดการฐานข้อมูล ( DBMS) ทำหน้าที่อะไร",
+    "choices": {
+      "A": "เป็นตัวกลางระหว่างผู้ใช้กับฐานข้อมูลในการจัดการและเข้าถึงข้อมูล",
+      "B": "ป้องกันไวรัสคอมพิวเตอร์",
+      "C": "ออกแบบหน้าจอสำหรับผู้ใช้งาน",
+      "D": "ซ่อมแซมคอมพิวเตอร์เมื่อเกิดความเสียหาย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "บุคคลใดมีหน้าที่รับผิดชอบในการบริหารและควบคุมดูแลระบบฐานข้อมูลทั้งหมด",
+    "choices": {
+      "A": "System Analyst",
+      "B": "End User",
+      "C": "Programmer",
+      "D": "Database Administrator (DBA)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "ข้อใดคือสถาปัตยกรรมฐานข้อมูลระดับที่แสดงถึงการจัดเก็บข้อมูลทางกายภาพในฮาร์ดดิสก์",
+    "choices": {
+      "A": "Internal Level",
+      "B": "External Level",
+      "C": "Conceptual Level",
+      "D": "Logical Level"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "ในแบบจำลอง E - R Diagram สัญลักษณ์ \" สี่เหลี่ยมผืนผ้า \" หมายถึงสิ่งใด",
+    "choices": {
+      "A": "ความสัมพันธ์ ( Relationship)",
+      "B": "เอนทิตี ( Entity)",
+      "C": "คีย์หลัก ( Primary Key)",
+      "D": "แอตทริบิวต์ ( Attribute)"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "คีย์หลัก ( Primary Key) มีคุณสมบัติที่สำคัญที่สุดอย่างไร",
+    "choices": {
+      "A": "อนุญาตให้มีค่าว่างได้หากยังไม่ทราบข้อมูล",
+      "B": "ต้องเป็นตัวเลขเท่านั้น",
+      "C": "ข้อมูลต้องไม่ซํ้ากันและไม่เป็นค่าว่าง ( Null)",
+      "D": "สามารถมีข้อมูลซํ้ากันได้ในบางกรณี"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "Foreign Key ( คีย์นอก ) มีหน้าที่หลักเพื่อสิ่งใดในฐานข้อมูลเชิงสัมพันธ์",
+    "choices": {
+      "A": "กำหนดขนาดของข้อมูลในแต่ละคอลัมน์",
+      "B": "เชื่อมโยงความสัมพันธ์ระหว่างตาราง",
+      "C": "ค้นหาข้อมูลให้เร็วขึ้น",
+      "D": "เข้ารหัสข้อมูลเพื่อความปลอดภัย"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "ข้อใดกล่าวถึง Data Dictionary ได้ถูกต้องที่สุด",
+    "choices": {
+      "A": "แหล่งเก็บข้อมูลที่อธิบายโครงสร้างและรายละเอียดของข้อมูลในฐานข้อมูล ( Metadata)",
+      "B": "แหล่งเก็บรวบรวมคำสั่ง SQL",
+      "C": "พจนานุกรมแปลภาษาสำหรับโปรแกรมเมอร์",
+      "D": "คู่มือการใช้งานระบบสำหรับผู้ใช้ทั่วไป"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "กระบวนการ Normalization มีวัตถุประสงค์หลักเพื่ออะไร",
+    "choices": {
+      "A": "เพิ่มความซํ้าซ้อนเพื่อให้ค้นหาข้อมูลได้เร็วขึ้น",
+      "B": "รวมตารางทั้งหมดให้เป็นตารางเดียว",
+      "C": "ลดความซํ้าซ้อนของข้อมูลและป้องกันความผิดปกติในการจัดการข้อมูล",
+      "D": "เข้ารหัสข้อมูลให้มีความปลอดภัยสูงสุด"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "กฎ First Normal Form (1NF) กำหนดไว้อย่างไร",
+    "choices": {
+      "A": "ต้องไม่มีความสัมพันธ์แบบ Many - to - Many",
+      "B": "ทุกแอตทริบิวต์ต้องขึ้นอยู่กับคีย์หลักเพียงอย่างเดียว",
+      "C": "ต้องไม่มีคีย์นอก ( Foreign Key)",
+      "D": "ข้อมูลในแต่ละคอลัมน์ต้องเป็นค่าเดียว ไม่สามารถแบ่งแยกได้อีก"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "ข้อใดคือคำสั่งในกลุ่ม Data Definition Language (DDL)",
+    "choices": {
+      "A": "SELECT",
+      "B": "CREATE",
+      "C": "DELETE",
+      "D": "UPDATE"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "หากต้องการดึงข้อมูลจากฐานข้อมูลมาแสดงผล ต้องใช้คำสั่งใด",
+    "choices": {
+      "A": "SELECT",
+      "B": "INSERT",
+      "C": "ALTER",
+      "D": "DROP"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "สัญลักษณ์ \" วงรี \" ใน E - R Diagram หมายถึงอะไร",
+    "choices": {
+      "A": "เอนทิตี ( Entity)",
+      "B": "คีย์หลัก ( Primary Key)",
+      "C": "ความสัมพันธ์ ( Relationship)",
+      "D": "คุณลักษณะ ( Attribute)"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "ข้อใดคือชนิดของความสัมพันธ์ ( Relationship) ในฐานข้อมูล",
+    "choices": {
+      "A": "One - to - Many",
+      "B": "Zero - to - Many",
+      "C": "One - to - Two",
+      "D": "Many - to - One - to - Many"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "ข้อใดไม่ใช่คุณสมบัติของ ACID ในระบบฐานข้อมูล ( Transaction Management)",
+    "choices": {
+      "A": "Durability",
+      "B": "Independence",
+      "C": "Atomicity",
+      "D": "Consistency"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "สถาปัตยกรรมแบบ Client - Server ในระบบฐานข้อมูล เครื่อง Server ทำหน้าที่อะไร",
+    "choices": {
+      "A": "รับคำสั่งจากผู้ใช้เพื่อประมวลผลเบื้องต้น",
+      "B": "เป็นหน้าจอแสดงผลให้ผู้ใช้",
+      "C": "ให้บริการจัดการฐานข้อมูลและตอบสนองการร้องขอจาก Client",
+      "D": "พิมพ์รายงานออกทา งเครื่องพิมพ์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 17,
+    "q": "คำสั่ง SQL ใดที่ใช้ในการแก้ไขข้อมูลที่อยู่ในตาราง",
+    "choices": {
+      "A": "ALTER",
+      "B": "MODIFY",
+      "C": "CHANGE",
+      "D": "UPDATE"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "ข้อใดคือคำสั่งที่ใช้ลบโครงสร้างตารางออกจากฐานข้อมูล",
+    "choices": {
+      "A": "DROP TABLE",
+      "B": "DELETE TABLE",
+      "C": "TRUNCATE TABLE",
+      "D": "REMOVE TABLE"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "คำสั่ง GRANT และ REVOKE จัดอยู่ในกลุ่มคำสั่งประเภทใดของ SQL",
+    "choices": {
+      "A": "DCL (Data Control Language)",
+      "B": "TCL (Transaction Control Language)",
+      "C": "DDL (Data Definition Language)",
+      "D": "DML (Data Manipulation Language)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "ระบบฐานข้อมูลประเภทใดที่เก็บข้อมูลในรูปแบบของ Document หรือ Key - Value ซึ่งเหมาะกับ Big Data",
+    "choices": {
+      "A": "Relational Database",
+      "B": "NoSQL Database",
+      "C": "Hierarchical Database",
+      "D": "Network Database"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "ฐานข้อมูลแบบลำดับชั้น ( Hierarchical Model) มีโครงสร้างลักษณะคล้ายกับอะไร",
+    "choices": {
+      "A": "กราฟ ( Graph)",
+      "B": "ตาราง ( Table)",
+      "C": "ต้นไม้ ( Tree)",
+      "D": "ใยแมงมุม ( Web)"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "หากต้องการรวมข้อมูลจาก 2 ตารางที่มีความสัมพันธ์กัน จะต้องใช้คำสั่งใดใน SQL",
+    "choices": {
+      "A": "UNION",
+      "B": "COMBINE",
+      "C": "MERGE",
+      "D": "JOIN"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "ข้อใดคือความหมายของ Data Integrity ในระบบฐานข้อมูล",
+    "choices": {
+      "A": "ความถูกต้อง สมบูรณ์ และความน่าเชื่อถือของข้อมูล",
+      "B": "การสำรองข้อมูลเพื่อป้องกันข้อมูลสูญหาย",
+      "C": "ความเร็วในการเข้าถึงข้อมูล",
+      "D": "ความสวยงามของการออกแบบฐานข้อมูล"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "การ Backup ข้อมูลแบบใดที่สำรองเฉพาะข้อมูลที่มีการเปลี่ยนแปลงจากการ Backup ครั้งล่าสุด",
+    "choices": {
+      "A": "Full Backup",
+      "B": "Incremental Backup",
+      "C": "Normal Backup",
+      "D": "Copy Backup"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "วงจรการพัฒนาระบบฐานข้อมูล ( Database Life Cycle: DBLC) ขั้นตอนใดที่นำโครงสร้างเชิงตรรกะมา แปลงเป็นโครงสร้างทางกายภาพ",
+    "choices": {
+      "A": "Conceptual Design",
+      "B": "Logical Design",
+      "C": "Physical Design",
+      "D": "Requirement Analysis"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "คำสั่งใดใน SQL ที่ใช้เรียงลำดับผลลัพธ์การค้นหาข้อมูล",
+    "choices": {
+      "A": "GROUP BY",
+      "B": "SORT BY",
+      "C": "ARRANGE BY",
+      "D": "ORDER BY"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "สัญลักษณ์ \" ข้าวหลามตัด \" ใน E - R Diagram หมายถึงอะไร",
+    "choices": {
+      "A": "ความสัมพันธ์ ( Relationship)",
+      "B": "เอนทิตีอ่อนแอ ( Weak Entity)",
+      "C": "แอตทริบิวต์ ( Attribute)",
+      "D": "เอนทิตี ( Entity)"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "ซอฟต์แวร์ข้อใดคือระบบจัดการฐานข้อมูล ( DBMS) แบบ Open Source",
+    "choices": {
+      "A": "Microsoft SQL Server",
+      "B": "Oracle Database",
+      "C": "MySQL",
+      "D": "Microsoft Access"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "Composite Key คืออะไร",
+    "choices": {
+      "A": "คีย์ที่ระบบสร้างขึ้นอัตโนมัติ",
+      "B": "คีย์ที่ใช้สำหรับเชื่อมโยงไปยังตารางอื่น",
+      "C": "คีย์ที่อนุญาตให้มีค่าว่างได้",
+      "D": "คีย์ที่ประกอบด้วยแอตทริบิวต์ตั้งแต่ 2 ตัวขึ้นไปมาทำหน้าที่ร่วมกันเป็นคีย์หลัก"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "ฟังก์ชัน COUNT() ใน SQL ใช้ทำอะไร",
+    "choices": {
+      "A": "หาค่าเฉลี่ยของข้อมูล",
+      "B": "นับจำนวนแถว ของข้อมูล",
+      "C": "หาผลรวมของข้อมูล",
+      "D": "หาค่าที่มากที่สุดของข้อมูล"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "SQL ย่อมาจากอะไร",
+    "choices": {
+      "A": "Sequential Query Language",
+      "B": "Structured Query Language",
+      "C": "System Query Language",
+      "D": "Standard Query Logic"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "การออกแบบฐานข้อมูลระดับแนวคิด ( Conceptual Database Design) มักใช้เครื่องมือใดในการ ออกแบบ",
+    "choices": {
+      "A": "Flowchart",
+      "B": "Use Case Diagram",
+      "C": "E - R Diagram",
+      "D": "Data Dictionary"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "ข้อใดคือการควบคุมภาวะพร้อมกัน ( Concurrency Control) ในระบบฐานข้อมูล",
+    "choices": {
+      "A": "การกู้คืนข้อมูลเมื่อฮาร์ดดิสก์พัง",
+      "B": "การป้องกันไม่ให้ผู้ใช้ลบข้อมูลทิ้ง",
+      "C": "การจัดการเมื่อมีผู้ใช้หลายคนพยายามเข้าถึงหรือแก้ไขข้อมูลเดียวกันในเวลาเดียวกัน",
+      "D": "การบีบอัดข้อมูลให้มีขนาดเล็กลง"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "คีย์คู่แข่ง ( Candidate Key) คืออะไร",
+    "choices": {
+      "A": "แอตทริบิวต์ที่เก็บข้อมูลประเภทตัวอักษรเท่านั้น",
+      "B": "คีย์นอกที่ซํ้าซ้อนกัน",
+      "C": "แอตทริบิวต์ใดๆ ที่มีคุณสมบัติพร้อมที่จะเป็นคีย์หลักได้",
+      "D": "คีย์หลักที่มีสองคอลัมน์"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "ระบบจัดการฐานข้อมูลเชิงสัมพันธ์ ( RDBMS) เก็บข้อมูลในรูปแบบใด",
+    "choices": {
+      "A": "Table ตาราง 2 มิติ",
+      "B": "Tree",
+      "C": "Object",
+      "D": "Graph"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "ชนิดข้อมูล ( Data Type) แบบใดที่เหมาะสำหรับเก็บข้อความที่มีความยาวไม่แน่นอน",
+    "choices": {
+      "A": "DATE",
+      "B": "INT",
+      "C": "VARCHAR",
+      "D": "CHAR"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "ปัญหา Data Redundancy หมายถึงอะไร",
+    "choices": {
+      "A": "ข้อมูลถูกทำลายโดยไวรัส",
+      "B": "ข้อมูลไม่สามารถค้นหาได้",
+      "C": "ข้อมูลสูญหายระหว่างการส่ง",
+      "D": "ข้อมูลมีความซํ้าซ้อนกัน"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "การกระทำในข้อใดที่ทำให้เกิดความผิดปกติในการปรับปรุงข้อมูล ( Modification Anomaly)",
+    "choices": {
+      "A": "การออกแบบตารางที่ยังไม่ผ่านกระบวนการ Normalization",
+      "B": "การลบข้อมูล",
+      "C": "การใช้คำสั่ง SELECT ดึงข้อมูลจำนวนมาก",
+      "D": "การตั้งรหัสผ่านฐานข้อมูลที่ง่ายเกินไป"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "ตารางที่ไม่มีกลุ่มข้อมูลซํ้า ( Repeating Groups) ถือว่าอยู่ในรูปแบบ Normal Form ระดับใด",
+    "choices": {
+      "A": "3NF",
+      "B": "1NF",
+      "C": "BCNF",
+      "D": "2NF"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "โครงสร้างฐานข้อมูลแบบกราฟ ( Graph Database) เหมาะกับงานลักษณะใดมากที่สุด",
+    "choices": {
+      "A": "ระบบบริหารจัดการบุคลากร",
+      "B": "ระบบโซเชียลเน็ตเวิร์ก ที่เน้นความสัมพันธ์ที่ซับซ้อน",
+      "C": "ระบบบัญชีการเงิน",
+      "D": "ระบบจัดการสินค้าคงคลัง"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "คำสั่งใดที่ใช้เพิ่มข้อมูลใหม่เข้าไปในตาราง",
+    "choices": {
+      "A": "ADD",
+      "B": "CREATE",
+      "C": "APPEND",
+      "D": "INSERT"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "วิว ( View) ในฐานข้อมูลคืออะไร",
+    "choices": {
+      "A": "ไฟล์สำหรับสำรองข้อมูล",
+      "B": "สิทธิ์การใช้งานของผู้ดูแลระบบ",
+      "C": "ตารางเสมือนที่สร้างจากผลลัพธ์ของคำสั่ง SELECT",
+      "D": "เครื่องมือสำหรับสร้างกราฟิก"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "ฟังก์ชันใดใน SQL ที่ใช้สำหรับหาค่าเฉลี่ย",
+    "choices": {
+      "A": "MAX()",
+      "B": "MIN()",
+      "C": "SUM()",
+      "D": "AVG()"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "ดัชนี ( Index) มีประโยชน์อย่างไรในระบบฐานข้อมูล",
+    "choices": {
+      "A": "ช่วยให้การค้นหาข้อมูลทำได้รวดเร็วขึ้น",
+      "B": "ป้องกันการลบข้อมูลโดยไม่ตั้งใจ",
+      "C": "ประหยัดพื้นที่จัดเก็บข้อมูล",
+      "D": "เพิ่มความสวยงามในการแสดงผล"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "ข้อใดกล่าวถึง Data Warehouse ( คลังข้อมูล ) ได้อย่างถูกต้อง",
+    "choices": {
+      "A": "โปรแกรมที่ใช้ตรวจจับไวรัสในฐานข้อมูล",
+      "B": "ฐานข้อมูลขนาดใหญ่ที่รวบรวมข้อมูลจากหลายแหล่งเพื่อใช้ในการวิเคราะห์และตัดสินใจ",
+      "C": "แฟ้มข้อมูลสำหรับเก็บรูปภาพและวิดีโอเท่านั้น",
+      "D": "ระบบเซิร์ฟเวอร์สำรองเมื่อเซิร์ฟเวอร์หลักมีปัญหา"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "หากต้องการเลือกดูข้อมูลที่ไม่มีค่าซํ้ากันเลย ต้องใช้คีย์เวิร์ดใดคู่กับคำสั่ง SELECT",
+    "choices": {
+      "A": "UNIQUE",
+      "B": "DIFFERENT",
+      "C": "DISTINCT",
+      "D": "SPECIFIC"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "ข้อใดไม่ใช่ภัยคุกคามที่มีผลต่อความปลอดภัยของฐานข้อมูล",
+    "choices": {
+      "A": "มัลแวร์และไวรัสคอมพิวเตอร์",
+      "B": "การเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต",
+      "C": "SQL Injection",
+      "D": "การทำ Normalization"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "การทำ Data Mining มีวัตถุประสงค์หลักเพื่อสิ่งใด",
+    "choices": {
+      "A": "ค้นหารูปแบบหรือความสัมพันธ์ที่ซ่อนอยู่ในชุดข้อมูลขนาดใหญ่",
+      "B": "สร้างตารางเก็บข้อมูลใหม่",
+      "C": "ป้องกันการเจาะระบบฐานข้อมูล",
+      "D": "สำรองข้อมูลบนระบบคลาวด์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "ข้อใดคือลักษณะสำคัญของฐานข้อมูลแบบกระจาย ( Distributed Database)",
+    "choices": {
+      "A": "ระบบฐานข้อมูลที่ไม่มีการสำรองข้อมูล",
+      "B": "ระบบฐานข้อมูลที่ใช้ระบบปฏิบัติการต่างกันไม่ได้",
+      "C": "ข้อมูลถูกจัดเก็บกระจายอยู่ในหลายๆ เครื่องเซิร์ฟเวอร์ที่เชื่อมต่อกันผ่านเครือข่าย",
+      "D": "ข้อมูลถูกจัดเก็บไว้ในฮาร์ดดิสก์เพียงลูกเดียว"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "ข้อใดคือความหมายของทริกเกอร์ ( Trigger) ในระบบฐานข้อมูล",
+    "choices": {
+      "A": "คำสั่งที่ใช้ปิดการทำงานของฐานข้อมูล",
+      "B": "ระบบป้องกันการลบตารางข้อมูล",
+      "C": "เครื่องมือสร้างรายงานอัตโนมัติ",
+      "D": "โปรแกรมย่อยที่จะถูกเรียกทำงานโดยอัตโนมัติเมื่อมีเหตุการณ์ที่กำหนดเกิดขึ้นกับตาราง"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  }
+]

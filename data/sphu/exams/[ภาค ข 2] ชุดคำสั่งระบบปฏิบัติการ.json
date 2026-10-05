@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "q": "คำสั่งใดในระบบปฏิบัติการ Windows ใช้สำหรับแสดงรายชื่อไฟล์และโฟลเดอร์ในไดเรกทอรีปัจจุบัน",
+    "choices": {
+      "A": "ls",
+      "B": "show",
+      "C": "list",
+      "D": "dir"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "คำสั่งใดในระบบปฏิบัติการ Linux ใช้สำหรับแสดงรายชื่อไฟล์และโฟลเดอร์",
+    "choices": {
+      "A": "show",
+      "B": "dir",
+      "C": "ls",
+      "D": "list"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับดาวน์โหลดไฟล์จากอินเทอร์เน็ตผ่านคอมมานด์ไลน์",
+    "choices": {
+      "A": "download",
+      "B": "wget",
+      "C": "fetch",
+      "D": "get"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับการแสดงโครงสร้างของโฟลเดอร์ในรูปแบบลำดับชั้น ( Tree)",
+    "choices": {
+      "A": "tree",
+      "B": "show",
+      "C": "list",
+      "D": "dir"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "คำสั่งใดในระบบปฏิบัติการ Linux ใช้สำหรับแสดงพาธของไดเรกทอรีปัจจุบันที่กำลังทำงานอยู่",
+    "choices": {
+      "A": "path",
+      "B": "cd",
+      "C": "pwd",
+      "D": "dir"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "ใน Windows คำสั่งใดใช้สำหรับย้ายตำแหน่งการทำงานไปยังไดเรกทอรีอื่น",
+    "choices": {
+      "A": "move",
+      "B": "go",
+      "C": "mv",
+      "D": "cd"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับคัดลอกไฟล์และโครงสร้างไดเรกทอรีทั้งหมดพร้อมกัน",
+    "choices": {
+      "A": "cp",
+      "B": "xcopy",
+      "C": "copy",
+      "D": "clone"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับบีบอัดหรือขยายไฟล์อาร์ไคฟ์",
+    "choices": {
+      "A": "tar",
+      "B": "zip",
+      "C": "rar",
+      "D": "gzip"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "หากต้องการสร้างไดเรกทอรีใหม่ใน Command Prompt ของ Windows ต้องใช้คำสั่งใด",
+    "choices": {
+      "A": "build",
+      "B": "md",
+      "C": "create",
+      "D": "new"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับสร้างไดเรกทอรีใหม่",
+    "choices": {
+      "A": "mkdir",
+      "B": "create",
+      "C": "md",
+      "D": "newdir"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "คำสั่ง clear ใน Linux มีหน้าที่เหมือนกับคำสั่งใดใน Windows",
+    "choices": {
+      "A": "exit",
+      "B": "clean",
+      "C": "cls",
+      "D": "del"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "คำสั่ง systeminfo ใน Windows มีหน้าที่อะไร",
+    "choices": {
+      "A": "แสดงข้อมูลรายละเอียดของระบบและฮาร์ดแวร์",
+      "B": "แสดงโปรเซสที่ทำงานอยู่",
+      "C": "แสดงผู้ใช้ทั้งหมดในระบบ",
+      "D": "ปรับแต่งระบบปฏิบัติการ"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับลบไฟล์",
+    "choices": {
+      "A": "erase",
+      "B": "remove",
+      "C": "rm",
+      "D": "del"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "หากต้องการลบไดเรกทอรีที่ว่างเปล่าใน Windows ใช้คำสั่งใด",
+    "choices": {
+      "A": "del",
+      "B": "rd",
+      "C": "rm",
+      "D": "erase"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "หากต้องการสั่งปิดเครื่องคอมพิวเตอร์ผ่าน Command Prompt ใน Windows ใช้คำสั่งใด",
+    "choices": {
+      "A": "stop",
+      "B": "halt",
+      "C": "poweroff",
+      "D": "shutdown"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "หากต้องการรีสตาร์ทเครื่องในระบบ Linux ด้วยคอมมานด์ไลน์ ใช้คำสั่งใด",
+    "choices": {
+      "A": "init 0",
+      "B": "reboot",
+      "C": "restart",
+      "D": "boot"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 17,
+    "q": "คำสั่ง cls ในระบบปฏิบัติการ Windows มีหน้าที่อะไร",
+    "choices": {
+      "A": "ยกเลิกการทำงาน",
+      "B": "ล้างหน้าจอคำสั่ง",
+      "C": "ค้นหาไฟล์",
+      "D": "ปิดโปรแกรม"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับคัดลอกไฟล์หรือไดเรกทอรี",
+    "choices": {
+      "A": "cp",
+      "B": "copy",
+      "C": "clone",
+      "D": "xcopy"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับดูขนาดพื้นที่ที่ระบบเมานท์ไว้ในภาพรวม",
+    "choices": {
+      "A": "df",
+      "B": "free",
+      "C": "size",
+      "D": "du"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับกำหนดหรือเปลี่ยนชื่อไดรฟ์ ( Volume Label)",
+    "choices": {
+      "A": "rename",
+      "B": "label",
+      "C": "name",
+      "D": "title"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับเปลี่ยนสิทธิ์การเข้าถึงไฟล์ ( Permissions)",
+    "choices": {
+      "A": "chgrp",
+      "B": "chmod",
+      "C": "chperm",
+      "D": "chown"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "คำสั่ง tasklist ใน Windows มีหน้าที่อะไร",
+    "choices": {
+      "A": "แสดงโปรแกรมและโปรเซสที่กำลังทำงานอยู่",
+      "B": "แสดงรายชื่อไฟล์ในระบบ",
+      "C": "ปิดโปรแกรมที่ค้าง",
+      "D": "ตั้งเวลาการทำงาน"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "คำสั่ง format ใน Windows ทำหน้าที่อะไร",
+    "choices": {
+      "A": "สแกนไวรัสในแฟลชไดรฟ์",
+      "B": "เปลี่ยนนามสกุลไฟล์",
+      "C": "จัดรูปแบบข้อความในไฟล์",
+      "D": "เตรียมพื้นที่จัดเก็บข้อมูลบนดิสก์"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับตรวจสอบโปรเซสที่ใช้ทรัพยากรระบบสูงแบบเรียลไทม์",
+    "choices": {
+      "A": "mem",
+      "B": "free",
+      "C": "top",
+      "D": "ps"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับแสดงการตั้งค่าเครือข่ายของเครื่องคอมพิวเตอร์ เช่น IP Address",
+    "choices": {
+      "A": "ping",
+      "B": "ifconfig",
+      "C": "netstat",
+      "D": "ipconfig"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "ใน Linux หากต้องการดูขนาดพื้นที่ที่ไฟล์หรือไดเรกทอรีหนึ่งๆ ใช้งานอยู่ ต้องใช้คำสั่งใด",
+    "choices": {
+      "A": "du",
+      "B": "fdisk",
+      "C": "df",
+      "D": "free"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "ใน Linux หากต้องการสลับสิทธิ์เป็นผู้ดูแลระบบ ( Superuser) ในเทอร์มินัล ต้องใช้คำสั่งใด",
+    "choices": {
+      "A": "super",
+      "B": "root",
+      "C": "admin",
+      "D": "su"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "ใน Windows คำสั่ง sfc / scannow มีวัตถุประสงค์เพื่ออะไร",
+    "choices": {
+      "A": "ตรวจสอบและซ่อมแซมไฟล์ระบบที่เสียหาย",
+      "B": "สแกนไวรัส",
+      "C": "สแกนพอร์ตเครือข่าย",
+      "D": "จัดเรียงข้อมูลในดิสก์"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับแสดงคู่มือการใช้งานของคำสั่งอื่นๆ",
+    "choices": {
+      "A": "info",
+      "B": "guide",
+      "C": "man",
+      "D": "help"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับลบไฟล์",
+    "choices": {
+      "A": "del",
+      "B": "kill",
+      "C": "remove",
+      "D": "rm"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "คำสั่งใดใน Windows ใช้แสดงและตรวจสอบเส้นทาง ( Path) การส่งข้อมูลไปยังปลายทาง",
+    "choices": {
+      "A": "netstat",
+      "B": "tracert",
+      "C": "ping",
+      "D": "route"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "คำสั่ง echo ในระบบปฏิบัติการ ทำหน้าที่อะไร",
+    "choices": {
+      "A": "แสดงตัวแปรระบบ",
+      "B": "ตรวจสอบการเชื่อมต่อเครือข่าย",
+      "C": "พิมพ์ข้อความที่กำหนดออกทางหน้าจอ",
+      "D": "เล่นเสียงเตือน"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "หากต้องการเปลี่ยนชื่อไฟล์ในระบบปฏิบัติการ Windows ต้องใช้คำสั่งใด",
+    "choices": {
+      "A": "chname",
+      "B": "name",
+      "C": "mv",
+      "D": "ren"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับเปลี่ยนเจ้าของไฟล์ ( Owner)",
+    "choices": {
+      "A": "useradd",
+      "B": "chown",
+      "C": "chmod",
+      "D": "chgrp"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับสร้างไฟล์ว่างเปล่าหรือเปลี่ยนเวลาเข้าถึงไฟล์",
+    "choices": {
+      "A": "touch",
+      "B": "new",
+      "C": "mkfile",
+      "D": "create"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "คำสั่งใดใน Linux ใช้บังคับหยุดการทำงานของโปรเซสด้วยรหัส PID",
+    "choices": {
+      "A": "end",
+      "B": "exit",
+      "C": "kill",
+      "D": "stop"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "คำสั่ง ps ใน Linux มีหน้าที่อะไร",
+    "choices": {
+      "A": "แสดงข้อมูลเครือข่าย",
+      "B": "แสดงพื้นที่ฮาร์ดดิสก์",
+      "C": "แสดงผู้ใช้งานในระบบ",
+      "D": "แสดงโปรเซสที่กำลังทำงานอยู่"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "หากต้องการย้ายไฟล์หรือเปลี่ยนชื่อไฟล์ใน Linux ใช้คำสั่งใด",
+    "choices": {
+      "A": "mv",
+      "B": "ren",
+      "C": "cp",
+      "D": "move"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "คำสั่ง chkdsk ใน Windows ใช้สำหรับทำอะไร",
+    "choices": {
+      "A": "ตรวจสอบสถานะหน่วยความจำ",
+      "B": "ตรวจสอบและซ่อมแซมข้อผิดพลาดบนดิสก์",
+      "C": "ตรวจสอบไวรัสในระบบ",
+      "D": "ตรวจสอบความเร็วของอินเทอร์เน็ต"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "ใน Windows คำสั่งใดใช้สำหรับออกจากโหมด Command Prompt",
+    "choices": {
+      "A": "close",
+      "B": "quit",
+      "C": "exit",
+      "D": "bye"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "คำสั่งใดใน Windows ใช้สำหรับตรวจสอบการเชื่อมต่อเครือข่ายระดับพื้นฐานไปยังปลายทาง",
+    "choices": {
+      "A": "ipconfig",
+      "B": "ping",
+      "C": "netstat",
+      "D": "tracert"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "คำสั่ง type ใน Windows ใช้ทำอะไร",
+    "choices": {
+      "A": "แสดงเนื้อหาของไฟล์ข้อความบนหน้าจอ",
+      "B": "พิมพ์เอกสารออกทางเครื่องพิมพ์",
+      "C": "ตรวจสอบชนิดของไฟล์",
+      "D": "กำหนดประเภทคีย์บอร์ด"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "คำสั่งใดใน Linux ใช้ดูประวัติคำสั่งที่เคยพิมพ์ไปแล้วในเทอร์มินัล",
+    "choices": {
+      "A": "past",
+      "B": "previous",
+      "C": "history",
+      "D": "log"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "คำสั่งใดใน Linux ใช้แสดงปริมาณหน่วยความจำ ( RAM) ที่ว่างและถูกใช้งานอยู่",
+    "choices": {
+      "A": "mem",
+      "B": "df",
+      "C": "free",
+      "D": "top"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับอ่านและแสดงเนื้อหาของไฟล์ข้อความทั้งหมดบนหน้าจออย่างรวดเร็ว",
+    "choices": {
+      "A": "type",
+      "B": "cat",
+      "C": "read",
+      "D": "show"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "คำสั่งใดใน Linux ใช้สำหรับค้นหาข้อความหรือแพตเทิร์นภายในไฟล์",
+    "choices": {
+      "A": "locate",
+      "B": "search",
+      "C": "grep",
+      "D": "find"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "ในสภาพแวดล้อมเครือข่ายแบบเก่าของ Linux มักใช้คำสั่งใดเพื่อดูการตั้งค่า IP Address",
+    "choices": {
+      "A": "network",
+      "B": "netstat",
+      "C": "ipconfig",
+      "D": "ifconfig"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "ในระบบปฏิบัติการ Linux คำสั่งใดใช้สำหรับค้นหาตำแหน่งที่ตั้งของไฟล์โปรแกรมที่รันได้ในระบบ",
+    "choices": {
+      "A": "which",
+      "B": "search",
+      "C": "find",
+      "D": "locate"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "คำสั่ง attrib ใน Windows ใช้สำหรับทำอะไร",
+    "choices": {
+      "A": "ลบไฟล์ที่ซ่อนอยู่",
+      "B": "กำหนดหรือแสดงคุณลักษณะของไฟล์",
+      "C": "ฟอร์แมตดิสก์",
+      "D": "ค้นหาไฟล์ในไดรฟ์"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "ใน Windows การหยุดการทำงานของโปรเซสที่กำลังรันอยู่ผ่านคอมมานด์ไลน์ ใช้คำสั่งใด",
+    "choices": {
+      "A": "close",
+      "B": "taskkill",
+      "C": "end",
+      "D": "stop"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  }
+]

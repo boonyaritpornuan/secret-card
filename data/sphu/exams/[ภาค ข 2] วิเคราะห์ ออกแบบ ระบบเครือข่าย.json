@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "q": "อุปกรณ์ใดทำงานในระดับ Network Layer ของ OSI Model",
+    "choices": {
+      "A": "Router",
+      "B": "Switch",
+      "C": "Hub",
+      "D": "Repeater"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 2,
+    "q": "เลเยอร์ใดใน OSI Model ทำหน้าที่เข้ารหัสและบีบอัดข้อมูล",
+    "choices": {
+      "A": "Session",
+      "B": "Presentation",
+      "C": "Transport",
+      "D": "Application"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 3,
+    "q": "โปรโตคอล IP (Int ernet Protocol) ทำงานอยู่ในชั้นใดของ OSI Model",
+    "choices": {
+      "A": "Data Link",
+      "B": "Transport",
+      "C": "Network",
+      "D": "Physical"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 4,
+    "q": "การตรวจสอบข้อผิดพลาดของข้อมูล ( Error Detection) ด้วย MAC Address เกิดขึ้นที่เลเยอร์ใด",
+    "choices": {
+      "A": "Physical",
+      "B": "Network",
+      "C": "Transport",
+      "D": "Data Link"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 5,
+    "q": "อุปกรณ์ใดทำงานครอบคลุมทั้ง 7 เลเยอร์ของ OSI Model",
+    "choices": {
+      "A": "Application Gateway / Firewall",
+      "B": "Switch Layer 3",
+      "C": "Bridge",
+      "D": "Router"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 6,
+    "q": "โทโพโลยีแบบใดที่หากสายเคเบิลเส้นแกนหลักขาด จะทำให้เครือข่ายทั้งหมดหยุดทำงาน",
+    "choices": {
+      "A": "Star Topology",
+      "B": "Bus Topology",
+      "C": "Ring Topology",
+      "D": "Mesh Topology"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 7,
+    "q": "โทโพโลยีเครือข่ายใดที่มีความทนทานต่อความเสียหายมากที่สุด",
+    "choices": {
+      "A": "Star",
+      "B": "Bus",
+      "C": "Mesh",
+      "D": "Ring"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 8,
+    "q": "โครงสร้างเครือข่ายแบบใดที่ต้องใช้อุปกรณ์ศูนย์กลาง ( Central Device) เช่น Switch ในการเชื่อมต่อ",
+    "choices": {
+      "A": "Bus",
+      "B": "Ring",
+      "C": "Mesh",
+      "D": "Star"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 9,
+    "q": "สถาปัตยกรรมเครือข่ายแบบใดที่ไม่มีเซิร์ฟเวอร์เป็นศูนย์กลาง และทุกเครื่องมีสิทธิเท่าเทียมกัน",
+    "choices": {
+      "A": "Peer - to - Peer",
+      "B": "Client - Server",
+      "C": "Mainframe",
+      "D": "Hybrid"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 10,
+    "q": "โทโพโลยีแบบใดที่ส่งข้อมูลไปในทิศทางเดียวและเครื่องคอมพิวเตอร์เชื่อมต่อกันเป็นวงกลม",
+    "choices": {
+      "A": "Bus",
+      "B": "Ring",
+      "C": "Star",
+      "D": "Mesh"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 11,
+    "q": "อุปกรณ์ใดใช้สำหรับเชื่อมต่อเครือข่ายที่มีสถาปัตยกรรมต่างกันให้สามารถสื่อสารกันได้",
+    "choices": {
+      "A": "Switch",
+      "B": "Repeater",
+      "C": "Gateway",
+      "D": "Hub"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 12,
+    "q": "อุปกรณ์ใดทำหน้าที่ลดการชนกันของข้อมูล ( Collision Domain) ในเครือข่าย LAN ได้ดีที่สุดในระดับ Layer 2",
+    "choices": {
+      "A": "Hub",
+      "B": "Repeater",
+      "C": "Amplifier",
+      "D": "Switch"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 13,
+    "q": "หน้าที่หลักของ Router คืออะไร",
+    "choices": {
+      "A": "หาเส้นทางที่ดีที่สุดในการส่งข้อมูลข้ามเครือข่าย",
+      "B": "แจก IP Address",
+      "C": "ป้องกันไวรัสคอมพิวเตอร์",
+      "D": "ขยายสัญญาณไร้สาย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 14,
+    "q": "อุปกรณ์ใดที่ทำหน้าที่กระจายสัญญาณโดยไม่มีการจดจำ MAC Address ทำให้เกิด Broadcast ตลอดเวลา",
+    "choices": {
+      "A": "Switch",
+      "B": "Hub",
+      "C": "Bridge",
+      "D": "Router"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 15,
+    "q": "อุปกรณ์ใดใช้เชื่อมต่อเครือข่าย LAN สองวงเข้าด้วยกันโดยใช้ MAC Address ในการกรองข้อมูล",
+    "choices": {
+      "A": "Hub",
+      "B": "Repeater",
+      "C": "Bridge",
+      "D": "Gateway"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 16,
+    "q": "IPv4 Address มีขนาดกี่บิต",
+    "choices": {
+      "A": "16 บิต",
+      "B": "24 บิต",
+      "C": "128 บิต",
+      "D": "32 บิต"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 17,
+    "q": "IPv6 Address มีขนาดกี่บิต",
+    "choices": {
+      "A": "128 บิต",
+      "B": "32 บิต",
+      "C": "64 บิต",
+      "D": "96 บิต"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 18,
+    "q": "หมายเลข IP Address ใดเป็น Loopback Address สำหรับทดสอบการทำงานของการ์ดแลนในเครื่อง ตัวเอง",
+    "choices": {
+      "A": "192.168.1.1",
+      "B": "127.0.0.1",
+      "C": "255.255.255.0",
+      "D": "10.0.0.1"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 19,
+    "q": "IP Address 192.168.10.50 จัดอยู่ในคลาสใด",
+    "choices": {
+      "A": "Class A",
+      "B": "Class B",
+      "C": "Class C",
+      "D": "Class D"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 20,
+    "q": "หมายเลข Subnet Mask มาตรฐาน ( Default Subnet Mask) ของ IP Class B คือข้อใด",
+    "choices": {
+      "A": "255.0.0.0",
+      "B": "255.255.255.0",
+      "C": "255.255.255.255",
+      "D": "255.255.0.0"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 21,
+    "q": "คำสั่งใดใน Windows ใช้ตรวจสอบหมายเลข IP Address ของเครื่องคอมพิวเตอร์",
+    "choices": {
+      "A": "ipconfig",
+      "B": "ifconfig",
+      "C": "ping",
+      "D": "netstat"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 22,
+    "q": "IP Address Class A รองรับจำนวนโฮสต์ได้สูงสุดประมาณกี่เครื่องต่อเครือข่าย",
+    "choices": {
+      "A": "254 เครื่อง",
+      "B": "16 ล้านเครื่อง",
+      "C": "65,534 เครื่อง",
+      "D": "1,024 เครื่อง"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 23,
+    "q": "การแบ่ง Subnet มีจุดประสงค์หลักเพื่ออะไร",
+    "choices": {
+      "A": "เพิ่มความเร็วอินเทอร์เน็ต",
+      "B": "ป้องกันแฮกเกอร์",
+      "C": "ลดขนาด Broadcast Domain และจัดการหมายเลข IP ให้มีประสิทธิภาพ",
+      "D": "แปลง IPv4 เป็น IPv6"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "q": "โปรโตคอลใดทำหน้าที่แจกหมายเลข IP Address ให้กับเครื่องลูกข่ายโดยอัตโนมัติ",
+    "choices": {
+      "A": "DNS",
+      "B": "FTP",
+      "C": "SNMP",
+      "D": "DHCP"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 25,
+    "q": "หมายเลข IP ใดเป็น Private IP Address",
+    "choices": {
+      "A": "10.1.1.5",
+      "B": "8.8.8.8",
+      "C": "172.64.1.1",
+      "D": "200.10.10.1"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 26,
+    "q": "หมายเลขพอร์ต ( Port Number) มาตรฐานของโปรโตคอล HTTP คือข้อใด",
+    "choices": {
+      "A": "21",
+      "B": "80",
+      "C": "443",
+      "D": "53"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 27,
+    "q": "หมายเลขพอร์ตมาตรฐานของโปรโตคอล HTTPS คือข้อใด",
+    "choices": {
+      "A": "25",
+      "B": "110",
+      "C": "443",
+      "D": "8080"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 28,
+    "q": "โปรโตคอลใดใช้สำหรับการส่งอีเมล",
+    "choices": {
+      "A": "POP3",
+      "B": "IMAP",
+      "C": "SNMP",
+      "D": "SMTP"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 29,
+    "q": "โปรโตคอลใดทำหน้าที่แปลงชื่อโดเมน ( Domain Name) ให้เป็นหมายเลข IP Address",
+    "choices": {
+      "A": "DNS",
+      "B": "DHCP",
+      "C": "ARP",
+      "D": "NAT"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 30,
+    "q": "โปรโตคอลใดใช้สำหรับรับอีเมลจากเซิร์ฟเวอร์มายังเครื่องไคลเอนต์",
+    "choices": {
+      "A": "SMTP",
+      "B": "POP3",
+      "C": "FTP",
+      "D": "Telnet"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 31,
+    "q": "โปรโตคอลใดที่ใช้สำหรับการจัดการและตรวจสอบอุปกรณ์ในระบบเครือข่าย",
+    "choices": {
+      "A": "SMTP",
+      "B": "ICMP",
+      "C": "SNMP",
+      "D": "IGMP"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 32,
+    "q": "โปรโตคอลในข้อใดทำงานโดยไม่มีการตรวจสอบความถูกต้องของการส่งข้อมูล ( Connectionless)",
+    "choices": {
+      "A": "TCP",
+      "B": "HTTP",
+      "C": "FTP",
+      "D": "UDP"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 33,
+    "q": "โปรโตคอลใดใช้สำหรับการเข้าควบคุมเครื่องคอมพิวเตอร์ระยะไกล ( Remote Login) โดยมีการเข้ารหัส ข้อมูล",
+    "choices": {
+      "A": "SSH",
+      "B": "Telnet",
+      "C": "FTP",
+      "D": "TFTP"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 34,
+    "q": "พอร์ตมาตรฐานที่ใช้สำหรับบริการ FTP เพื่อถ่ายโอนไฟล์คือพอร์ตใด",
+    "choices": {
+      "A": "25",
+      "B": "21",
+      "C": "23",
+      "D": "53"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 35,
+    "q": "ARP (Address Resolution Protocol) มีหน้าที่อะไร",
+    "choices": {
+      "A": "แปลง IP Address เป็น Domain Name",
+      "B": "แปลง Domain Name เป็น MAC Address",
+      "C": "แปลง IP Address เป็น MAC Address",
+      "D": "แปลง MAC Address เป็น IP Address"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 36,
+    "q": "สายแลน UTP Cat6 รองรับความเร็วในการรับส่งข้อมูลสูงสุดได้เท่าใดที่ระยะไม่เกิน 55 เมตร",
+    "choices": {
+      "A": "10 Mbps",
+      "B": "100 Mbps",
+      "C": "1 Gbps",
+      "D": "10 Gbps"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 37,
+    "q": "หัวต่อมาตรฐานที่ใช้กับสาย UTP ในเครือข่าย LAN คือข้อใด",
+    "choices": {
+      "A": "RJ - 45",
+      "B": "RJ - 11",
+      "C": "BNC",
+      "D": "ST"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 38,
+    "q": "สื่อกลางประเภทใดที่มีความเร็วในการส่งข้อมูลสูงที่สุดและต้านทานสัญญาณรบกวนได้ดีที่สุด",
+    "choices": {
+      "A": "สาย UTP",
+      "B": "สาย Fiber Optic",
+      "C": "สาย Coaxial",
+      "D": "คลื่นไมโครเวฟ"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 39,
+    "q": "ข้อใดคือความถี่มาตรฐานที่ใช้งานในระบบเครือข่ายไร้สาย ( Wi - Fi)",
+    "choices": {
+      "A": "1.5 GHz และ 3.0 GHz",
+      "B": "2.0 GHz และ 4.0 GHz",
+      "C": "2.4 GHz และ 5.0 GHz",
+      "D": "3.5 GHz และ 6.0 GHz"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 40,
+    "q": "มาตรฐาน IEEE ใดที่กำหนดรูปแบบของระบบเครือข่ายแบบไร้สาย ( WLAN)",
+    "choices": {
+      "A": "IEEE 802.3",
+      "B": "IEEE 802.5",
+      "C": "IEEE 802.15",
+      "D": "IEEE 802.11"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 41,
+    "q": "สาย Fiber Optic ชนิดใดที่เหมาะสำหรับการเดินสายในระยะทางไกลๆ",
+    "choices": {
+      "A": "Single - mode",
+      "B": "Multi - mode",
+      "C": "Step - index",
+      "D": "Graded - index"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 42,
+    "q": "ข้อใดคือข้อเสียหลักของสาย UTP (Unshielded Twisted Pair)",
+    "choices": {
+      "A": "ราคาแพง",
+      "B": "ถูกรบกวนด้วยคลื่นแม่เหล็กไฟฟ้าได้ง่าย",
+      "C": "ติดตั้งยาก",
+      "D": "รองรับระยะทางได้ไกลกว่าสายใยแก้วนำแสง"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 43,
+    "q": "อุปกรณ์หรือซอฟต์แวร์ใดที่ใช้ตรวจสอบและป้องกันการเข้าถึงเครือข่ายโดยไม่ได้รับอนุญาต",
+    "choices": {
+      "A": "Router",
+      "B": "Switch",
+      "C": "Firewall",
+      "D": "Hub"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 44,
+    "q": "การสร้างเครือข่ายส่วนตัวเสมือนผ่านอินเทอร์เน็ตสาธารณะเรียกว่าอะไร",
+    "choices": {
+      "A": "VLAN",
+      "B": "NAT",
+      "C": "DMZ",
+      "D": "VPN"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 45,
+    "q": "คำสั่งใดใช้เพื่อตรวจสอบเส้นทางที่แพ็กเก็ตข้อมูลเดินทางจากต้นทางไปยังปลายทาง",
+    "choices": {
+      "A": "tracert",
+      "B": "ping",
+      "C": "netstat",
+      "D": "ipconfig"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 46,
+    "q": "เทคโนโลยีใดที่ช่วยให้คอมพิวเตอร์หลายเครื่องในเครือข่ายภายใน ( Private IP) สามารถออกสู่ อินเทอร์เน็ตด้วย   Public IP  เดียวได้",
+    "choices": {
+      "A": "DHCP",
+      "B": "NAT",
+      "C": "DNS",
+      "D": "ARP"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 47,
+    "q": "ข้อใดคือวัตถุประสงค์หลักของการทำ VLAN (Virtual LAN)",
+    "choices": {
+      "A": "เพิ่มระยะทางการส่งสัญญาณไร้สาย",
+      "B": "แปลง IPv4 เป็น IPv6",
+      "C": "แบ่งแยก Broadcast Domain ภายในสวิตช์ตัวเดียวกัน",
+      "D": "เปลี่ยน MAC Address ของอุปกรณ์เครือข่าย"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 48,
+    "q": "เขตปลอดทหาร ( DMZ) ในการออกแบบเครือข่ายมีไว้เพื่อวัตถุประสงค์ใด",
+    "choices": {
+      "A": "เก็บข้อมูลลับของบริษัท",
+      "B": "เป็นโซนสำหรับทดสอบไวรัส",
+      "C": "เป็นพื้นที่สำหรับผู้ดูแลระบบเท่านั้น",
+      "D": "วางเซิร์ฟเวอร์ที่ให้บริการบุคคลภายนอกเพื่อความปลอดภัยของเครือข่ายภายใน"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 49,
+    "q": "มาตรฐานความปลอดภัยของเครือข่ายไร้สาย ( Wi - Fi) ในข้อใดมีความปลอดภัยสูงสุดในปัจจุบัน",
+    "choices": {
+      "A": "WPA3",
+      "B": "WEP",
+      "C": "WPA",
+      "D": "WPA2"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 50,
+    "q": "หากต้องการให้เครือข่ายมีความพร้อมใช้งานสูง ( High Availability) ควรออกแบบโดยใช้หลักการใด",
+    "choices": {
+      "A": "Spanning Tree Protocol",
+      "B": "Redundancy",
+      "C": "Quality of Service (QoS)",
+      "D": "Bandwidth Limitation"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 51,
+    "q": "ข้อใดคือความหมายที่ถูกต้องที่สุดของเครือข่ายคอมพิวเตอร์ ( Computer Network)",
+    "choices": {
+      "A": "การเชื่อมต่ออินเทอร์เน็ตผ่านสายไฟเบอร์ออปติก",
+      "B": "ระบบที่ใช้สำหรับประมวลผลข้อมูลขนาดใหญ่เพียงอย่างเดียว",
+      "C": "อุปกรณ์ที่ทำหน้าที่จัดเก็บข้อมูลสำรองขององค์กร",
+      "D": "การเชื่อมต่อคอมพิวเตอร์ตั้งแต่ 2 เครื่องขึ้นไปเพื่อสื่อสารและใช้ทรัพยากรร่วมกัน"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 52,
+    "q": "โพรโทคอล ( Protocol) ในระบบเครือข่ายมีความหมายตรงกับข้อใด",
+    "choices": {
+      "A": "กฎกติกาหรือข้อตกลงที่ใช้ในการสื่อสารข้อมูล",
+      "B": "ซอฟต์แวร์สำหรับป้องกันไวรัส",
+      "C": "สายสัญญาณที่เชื่อมต่อระหว่างอุปกรณ์",
+      "D": "อุปกรณ์กระจายสัญญาณเครือข่ายแบบไร้สาย"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 53,
+    "q": "เลเยอร์ใดใน OSI Model ที่ทำหน้าที่กำหนดรูปแบบและโครงสร้างของข้อมูล เช่น ASCII, EBCDIC, JPEG",
+    "choices": {
+      "A": "Application Layer",
+      "B": "Presentation Layer",
+      "C": "Session Layer",
+      "D": "Transport Layer"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 54,
+    "q": "พอร์ต ( Port) หมายเลขใดที่ใช้สำหรับการรับส่งอีเมลด้วยโพรโทคอล SMTP โดยมาตรฐาน",
+    "choices": {
+      "A": "21",
+      "B": "110",
+      "C": "25",
+      "D": "80"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 55,
+    "q": "อุปกรณ์ใดทำหน้าที่แปลงสัญญาณแอนะล็อกเป็นดิจิทัล และแปลงสัญญาณดิจิทัลเป็นแอนะล็อก",
+    "choices": {
+      "A": "Bridge",
+      "B": "Switch",
+      "C": "Router",
+      "D": "Modem"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 56,
+    "q": "มาตรฐาน IEEE 802.3 เป็นการกำหนดมาตรฐานสำหรับเครือข่ายประเภทใด",
+    "choices": {
+      "A": "Ethernet LAN",
+      "B": "WiMAX",
+      "C": "Bluetooth",
+      "D": "Wireless LAN"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 57,
+    "q": "การเชื่อมต่อเครือข่ายแบบใดที่มีโอกาสเกิดปัญหาคอขวด ( Bottleneck) ที่จุดศูนย์กลางมากที่สุด",
+    "choices": {
+      "A": "Ring Topology",
+      "B": "Star Topology",
+      "C": "Bus Topology",
+      "D": "Mesh Topology"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 58,
+    "q": "การสื่อสารข้อมูลแบบ Full - duplex มีลักษณะการทำงานอย่างไร",
+    "choices": {
+      "A": "ส่งข้อมูลได้ทิศทางเดียวตลอดเวลา",
+      "B": "ส่งและรับข้อมูลได้สองทิศทาง แต่สลับกันทำทีละเวลา",
+      "C": "ส่งและรับข้อมูลได้สองทิศทางในเวลาเดียวกัน",
+      "D": "ส่งข้อมูลจากจุดหนึ่งไปยังหลายจุดพร้อมกันเท่านั้น"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 59,
+    "q": "หมายเลข IP Address ในข้อใดเป็น Public IP Address",
+    "choices": {
+      "A": "10.255.255.255",
+      "B": "192.168.100.1",
+      "C": "172.16.0.5",
+      "D": "203.146.20.50"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 60,
+    "q": "หน้าที่หลักของโพรโทคอล ICMP (Internet Control Message Protocol) คืออะไร",
+    "choices": {
+      "A": "ตรวจสอบและรายงานข้อผิดพลาดที่เกิดขึ้นในระบบเครือข่าย",
+      "B": "แปลงชื่อโดเมนเป็นหมายเลข IP",
+      "C": "แจกหมายเลข IP Address อัตโนมัติ",
+      "D": "เข้ารหัสข้อมูลก่อนส่งออกอินเทอร์เน็ต"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 61,
+    "q": "ข้อใดคือประโยชน์หลักของการทำ Subnetting ในระบบเครือข่าย",
+    "choices": {
+      "A": "เพิ่มความเร็วในการประมวลผลของ CPU",
+      "B": "ลดขนาดของ Broadcast Domain และบริหารจัดการ IP ได้อย่างมีประสิทธิภาพ",
+      "C": "ป้องกันการโจมตีจากไวรัสและมัลแวร์",
+      "D": "ขยายความกว้างของช่องสัญญาณ ( Bandwidth)"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 62,
+    "q": "รูปแบบ CIDR Notation /24 มีค่า Subnet Mask ตรงกับข้อใด",
+    "choices": {
+      "A": "255.255.0.0",
+      "B": "255.255.255.128",
+      "C": "255.255.255.0",
+      "D": "255.0.0.0"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 63,
+    "q": "หากคอมพิวเตอร์ ( ระบบปฏิบัติการ Windows) ไม่สามารถรับหมายเลข IP จาก DHCP Server ได้ จะมี การกำหนด   IP  อัตโนมัติ  ( APIPA)  ในช่วงใด",
+    "choices": {
+      "A": "192.168.x.x",
+      "B": "172.16.x.x",
+      "C": "10.0.0.x",
+      "D": "169.254.x.x"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 64,
+    "q": "สวิตช์ ( Switch) ในเครือข่าย LAN ระดับ Layer 2 ใช้ข้อมูลใดในการตัดสินใจส่งต่อเฟรมข้อมูล",
+    "choices": {
+      "A": "MAC Address",
+      "B": "Port Number",
+      "C": "IP Address",
+      "D": "Domain Name"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 65,
+    "q": "สายคู่ตีเกลียว ( Twisted Pair) ชนิดใดที่มีการหุ้มฉนวนเพื่อป้องกันสัญญาณรบกวนทางแม่เหล็กไฟฟ้า ( EMI)",
+    "choices": {
+      "A": "UTP",
+      "B": "STP",
+      "C": "Fiber Optic",
+      "D": "Coaxial"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 66,
+    "q": "อุปกรณ์ใดสามารถตรวจสอบและกรองข้อมูลถึงระดับ Application Layer เพื่อป้องกันเครือข่ายภายใน ได้",
+    "choices": {
+      "A": "Hub",
+      "B": "Layer 2 Switch",
+      "C": "Proxy Server / Application Firewall",
+      "D": "Repeater"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 67,
+    "q": "เทคโนโลยีเครือข่าย WAN ใดที่ใช้วิธีการส่งข้อมูลแบบเซลล์ขนาดคงที่ 53 ไบต์ ( Cell Switching)",
+    "choices": {
+      "A": "Frame Relay",
+      "B": "X.25",
+      "C": "ISDN",
+      "D": "ATM"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 68,
+    "q": "โพรโทคอลใดที่ใช้สำหรับการเทียบเวลามาตรฐาน ( Time Synchronization) ของอุปกรณ์ในระบบ เครือข่ายคอมพิวเตอร์",
+    "choices": {
+      "A": "NTP",
+      "B": "SMTP",
+      "C": "SNMP",
+      "D": "FTP"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 69,
+    "q": "มาตรฐานเครือข่ายไร้สาย IEEE 802.11ax เป็นที่รู้จักกันในชื่อการตลาดว่าอะไร",
+    "choices": {
+      "A": "Wi - Fi 4",
+      "B": "Wi - Fi 6",
+      "C": "Wi - Fi 5",
+      "D": "Wi - Fi 7"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 70,
+    "q": "หมายเลข IP Address คลาสใดที่ถูกสำรองไว้สำหรับการส่งข้อมูลแบบ Multicast",
+    "choices": {
+      "A": "Class B",
+      "B": "Class C",
+      "C": "Class D",
+      "D": "Class E"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 71,
+    "q": "รหัส MAC Address ของการ์ดเครือข่าย ( NIC) มีความยาวทั้งหมดกี่บิต",
+    "choices": {
+      "A": "32 บิต",
+      "B": "16 บิต",
+      "C": "64 บิต",
+      "D": "48 บิต"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 72,
+    "q": "เทคโนโลยี PoE (Power over Ethernet) หมายถึงอะไร",
+    "choices": {
+      "A": "การส่งกระแสไฟฟ้าไปพร้อมกับสัญญาณข้อมูลผ่านสาย UTP",
+      "B": "การใช้อุปกรณ์เครือข่ายเพื่อประหยัดพลังงาน",
+      "C": "ระบบสำรองไฟฟ้าสำหรับเซิร์ฟเวอร์",
+      "D": "การส่งข้อมูลผ่านระบบสายไฟฟ้าภายในอาคาร"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 73,
+    "q": "โพรโทคอลใดใช้สำหรับการโอนย้ายไฟล์ข้ามเครือข่าย โดยมีการเข้ารหัสข้อมูลเพื่อความปลอดภัยที่ มากกว่า   FTP",
+    "choices": {
+      "A": "TFTP",
+      "B": "SFTP",
+      "C": "HTTP",
+      "D": "SNMP"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 74,
+    "q": "การโจมตีเป้าหมายด้วยการส่งปริมาณข้อมูล ( Traffic) จำนวนมหาศาลจากหลายๆ แหล่งพร้อมกันเพื่อให้ ระบบหยุดให้บริการ   เรียกว่าอะไร",
+    "choices": {
+      "A": "Man - in - the - Middle",
+      "B": "SQL Injection",
+      "C": "DDoS",
+      "D": "Phishing"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 75,
+    "q": "อุปกรณ์ IDS (Intrusion Detection System) มีหน้าที่หลักตามข้อใด",
+    "choices": {
+      "A": "จัดสรรแบนด์วิดท์ ( Bandwidth) ให้กับผู้ใช้งาน",
+      "B": "สกัดกั้นไวรัสและมัลแวร์ในไฟล์แนบอีเมล",
+      "C": "เข้ารหัสข้อมูลที่รับส่งผ่าน Wi - Fi",
+      "D": "ตรวจจับและแจ้งเตือนเมื่อพบพฤติกรรมที่น่าสงสัยหรือการบุกรุกเครือข่าย"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 76,
+    "q": "ในการกำหนดค่า IP ของเครื่องลูกข่าย ( Client) ค่า Default Gateway หมายถึงข้อใด",
+    "choices": {
+      "A": "หมายเลข IP ของเราเตอร์หรืออุปกรณ์ที่ใช้เป็นทางออกสู่เครือข่ายอื่น",
+      "B": "หมายเลข IP ของอินเทอร์เน็ตที่ได้จากผู้ให้บริการ ( ISP)",
+      "C": "หมายเลข IP ของ Switch ตัวแรกที่เชื่อมต่อ",
+      "D": "หมายเลข IP ของเครื่องเซิร์ฟเวอร์หลัก"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 77,
+    "q": "โปรแกรมที่ใช้สำหรับการวิเคราะห์การจราจรบนเครือข่าย ( Network Packet Analyzer) หรือดักจับแพ็ก เก็ตคือข้อใด",
+    "choices": {
+      "A": "FileZilla",
+      "B": "Wireshark",
+      "C": "Nmap",
+      "D": "Putty"
+    },
+    "answer": "B",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 78,
+    "q": "โพรโทคอลใดใช้สำหรับการเข้าควบคุมเครื่องและบริหารจัดการเซิร์ฟเวอร์ระยะไกลด้วยการเข้ารหัสข้อมูล ที่ปลอดภัย",
+    "choices": {
+      "A": "RDP",
+      "B": "VNC",
+      "C": "SSH",
+      "D": "Telnet"
+    },
+    "answer": "C",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 79,
+    "q": "การทำ Load Balancing ในระบบเครือข่ายมีวัตถุประสงค์เพื่ออะไร",
+    "choices": {
+      "A": "สำรองข้อมูลของระบบทั้งหมดไว้อีกสถานที่หนึ่ง",
+      "B": "ป้องกันการเข้าถึงเว็บไซต์ที่ไม่เหมาะสม",
+      "C": "จำกัดความเร็วอินเทอร์เน็ตของผู้ใช้",
+      "D": "กระจายภาระงานหรือปริมาณข้อมูลไปยังเซิร์ฟเวอร์หลายเครื่องเพื่อไม่ให้เครื่องใดเครื่องหนึ่งทำงาน หนักเกินไป"
+    },
+    "answer": "D",
+    "passage": null,
+    "explanation": null
+  },
+  {
+    "id": 80,
+    "q": "เครือข่ายแบบ Intranet มีลักษณะเด่นอย่างไร",
+    "choices": {
+      "A": "เป็นเครือข่ายภายในองค์กรที่จำกัดสิทธิ์เฉพาะพนักงานหรือบุคคลที่ได้รับอนุญาตเท่านั้น",
+      "B": "เป็นเครือข่ายสาธารณะที่ทุกคนสามารถเข้าถึงได้ฟรี",
+      "C": "เป็นเครือข่ายที่ครอบคลุมพื้นที่ระดับประเทศ",
+      "D": "เป็นเครือข่ายส่วนบุคคลที่ใช้เฉพาะอุปกรณ์พกพา"
+    },
+    "answer": "A",
+    "passage": null,
+    "explanation": null
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "catName": "ภาค ก",
+    "partNum": 1,
+    "prefix": "k",
+    "sets": [
+      {
+        "id": "sp-k-1",
+        "label": "การแก้ปัญหาโดยใช้เซต",
+        "cardKey": "rawCards_k_1",
+        "count": 50
+      },
+      {
+        "id": "sp-k-2",
+        "label": "Conversation",
+        "cardKey": "rawCards_k_2",
+        "count": 50
+      },
+      {
+        "id": "sp-k-3",
+        "label": "Grammar",
+        "cardKey": "rawCards_k_3",
+        "count": 50
+      },
+      {
+        "id": "sp-k-4",
+        "label": "Reading comprehension",
+        "cardKey": "rawCards_k_4",
+        "count": 50
+      },
+      {
+        "id": "sp-k-5",
+        "label": "การคำนวณขั้นพื้นฐาน",
+        "cardKey": "rawCards_k_5",
+        "count": 50
+      },
+      {
+        "id": "sp-k-6",
+        "label": "การอ่าน การเขียน",
+        "cardKey": "rawCards_k_6",
+        "count": 50
+      },
+      {
+        "id": "sp-k-7",
+        "label": "การเลือกใช้ภาษา",
+        "cardKey": "rawCards_k_7",
+        "count": 50
+      },
+      {
+        "id": "sp-k-8",
+        "label": "การใช้ถ้อยคำ สำนวน",
+        "cardKey": "rawCards_k_8",
+        "count": 50
+      },
+      {
+        "id": "sp-k-9",
+        "label": "ความน่าจะเป็น",
+        "cardKey": "rawCards_k_9",
+        "count": 50
+      },
+      {
+        "id": "sp-k-10",
+        "label": "คำศัพท์ (Vocabulary)",
+        "cardKey": "rawCards_k_10",
+        "count": 50
+      },
+      {
+        "id": "sp-k-11",
+        "label": "บทความยาว",
+        "cardKey": "rawCards_k_11",
+        "count": 50
+      },
+      {
+        "id": "sp-k-12",
+        "label": "บทความสั้น",
+        "cardKey": "rawCards_k_12",
+        "count": 50
+      },
+      {
+        "id": "sp-k-13",
+        "label": "มิติสัมพันธ์",
+        "cardKey": "rawCards_k_13",
+        "count": 50
+      },
+      {
+        "id": "sp-k-14",
+        "label": "สถิติพื้นฐาน",
+        "cardKey": "rawCards_k_14",
+        "count": 50
+      },
+      {
+        "id": "sp-k-15",
+        "label": "สมการและอสมการ",
+        "cardKey": "rawCards_k_15",
+        "count": 50
+      },
+      {
+        "id": "sp-k-16",
+        "label": "อนุกรม",
+        "cardKey": "rawCards_k_16",
+        "count": 50
+      },
+      {
+        "id": "sp-k-17",
+        "label": "อัตราส่วนและร้อยละ",
+        "cardKey": "rawCards_k_17",
+        "count": 50
+      },
+      {
+        "id": "sp-k-18",
+        "label": "อุปมาอุปไมย",
+        "cardKey": "rawCards_k_18",
+        "count": 50
+      }
+    ]
+  },
+  {
+    "catName": "ภาค ข 1",
+    "partNum": 2,
+    "prefix": "kb1",
+    "sets": [
+      {
+        "id": "sp-kb1-1",
+        "label": "กระทรวงศึกษาธิการ",
+        "cardKey": "rawCards_kb1_1",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-2",
+        "label": "คำขึ้นต้น สรรพนาม คำลงท้าย",
+        "cardKey": "rawCards_kb1_2",
+        "count": 70
+      },
+      {
+        "id": "sp-kb1-3",
+        "label": "จริยธรรมข้าราชการครู",
+        "cardKey": "rawCards_kb1_3",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-4",
+        "label": "นโยบายการศึกษา",
+        "cardKey": "rawCards_kb1_4",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-5",
+        "label": "นโยบายรัฐบาล",
+        "cardKey": "rawCards_kb1_5",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-6",
+        "label": "ประวัติศาสตร์",
+        "cardKey": "rawCards_kb1_6",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-7",
+        "label": "พรฎ กิจการบ้านเมืองที่ดี",
+        "cardKey": "rawCards_kb1_7",
+        "count": 150
+      },
+      {
+        "id": "sp-kb1-8",
+        "label": "พรบ กระทรวงศึกษาธิการ",
+        "cardKey": "rawCards_kb1_8",
+        "count": 150
+      },
+      {
+        "id": "sp-kb1-9",
+        "label": "พรบ การศึกษาแห่งชาติ",
+        "cardKey": "rawCards_kb1_9",
+        "count": 147
+      },
+      {
+        "id": "sp-kb1-10",
+        "label": "พรบ ข้อมูลข่าวสาร",
+        "cardKey": "rawCards_kb1_10",
+        "count": 150
+      },
+      {
+        "id": "sp-kb1-11",
+        "label": "พรบ ข้าราชการครู",
+        "cardKey": "rawCards_kb1_11",
+        "count": 150
+      },
+      {
+        "id": "sp-kb1-12",
+        "label": "พรบ ภาครัฐผ่านระบบดิจิทัล",
+        "cardKey": "rawCards_kb1_12",
+        "count": 100
+      },
+      {
+        "id": "sp-kb1-13",
+        "label": "ยุทธศาสตร์ชาติ 20 ปี",
+        "cardKey": "rawCards_kb1_13",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-14",
+        "label": "ระเบียบ สารบรรณ",
+        "cardKey": "rawCards_kb1_14",
+        "count": 150
+      },
+      {
+        "id": "sp-kb1-15",
+        "label": "ระเบียบการลา",
+        "cardKey": "rawCards_kb1_15",
+        "count": 100
+      },
+      {
+        "id": "sp-kb1-16",
+        "label": "สถานการณ์",
+        "cardKey": "rawCards_kb1_16",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-17",
+        "label": "สถาบันหลักของชาติ",
+        "cardKey": "rawCards_kb1_17",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-18",
+        "label": "สพฐ",
+        "cardKey": "rawCards_kb1_18",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-19",
+        "label": "สารบรรณอิเล็กทรอนิกส์",
+        "cardKey": "rawCards_kb1_19",
+        "count": 80
+      },
+      {
+        "id": "sp-kb1-20",
+        "label": "หน้าที่พลเมือง",
+        "cardKey": "rawCards_kb1_20",
+        "count": 50
+      },
+      {
+        "id": "sp-kb1-21",
+        "label": "แผนพัฒนาเศรษฐกิจและสังคม",
+        "cardKey": "rawCards_kb1_21",
+        "count": 80
+      },
+      {
+        "id": "sp-kb1-22",
+        "label": "แผนแม่บทภายใต้ยุทธศาสตร์ชาติ",
+        "cardKey": "rawCards_kb1_22",
+        "count": 80
+      }
+    ]
+  },
+  {
+    "catName": "ภาค ข 2",
+    "partNum": 3,
+    "prefix": "kb2",
+    "sets": [
+      {
+        "id": "sp-orig-1",
+        "label": "การติดตั้งและบำรุงรักษาคอมพิวเตอร์ส่วนบุคคล (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s1",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-2",
+        "label": "ความมั่นคงปลอดภัยสารสนเทศ และการบริหารความเสี่ยง (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s2",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-3",
+        "label": "พ.ร.บ. คอมพิวเตอร์ และกฎหมายที่เกี่ยวข้อง (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s3",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-4",
+        "label": "ภาษาคอมพิวเตอร์ และการเขียนโปรแกรม (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s4",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-5",
+        "label": "ระบบปฏิบัติการและซอฟต์แวร์สำเร็จรูป (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s5",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-6",
+        "label": "ระบบสารสนเทศ การวิเคราะห์ระบบ และฐานข้อมูล (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s6",
+        "count": 100
+      },
+      {
+        "id": "sp-orig-7",
+        "label": "ระบบเครือข่ายคอมพิวเตอร์ และอุปกรณ์ที่เกี่ยวข้อง (ชุด 100 ข้อ)",
+        "cardKey": "rawCards_s7",
+        "count": 100
+      },
+      {
+        "id": "sp-kb2-1",
+        "label": "การติดตั้งเครื่องคอมพิวเตอร์ส่วนบุคคล",
+        "cardKey": "rawCards_kb2_1",
+        "count": 50
+      },
+      {
+        "id": "sp-kb2-2",
+        "label": "การพัฒนาระบบฐานข้อมูล",
+        "cardKey": "rawCards_kb2_2",
+        "count": 50
+      },
+      {
+        "id": "sp-kb2-3",
+        "label": "การใช้ภาษาทางคอมพิวเตอร์",
+        "cardKey": "rawCards_kb2_3",
+        "count": 100
+      },
+      {
+        "id": "sp-kb2-4",
+        "label": "ชุดคำสั่งระบบปฏิบัติการ",
+        "cardKey": "rawCards_kb2_4",
+        "count": 50
+      },
+      {
+        "id": "sp-kb2-5",
+        "label": "ชุดคำสั่งสำเร็จรูป",
+        "cardKey": "rawCards_kb2_5",
+        "count": 50
+      },
+      {
+        "id": "sp-kb2-6",
+        "label": "พรบ ความผิดทางคอมพิวเตอร์",
+        "cardKey": "rawCards_kb2_6",
+        "count": 97
+      },
+      {
+        "id": "sp-kb2-7",
+        "label": "ระบบการบริหารความปลอดภัย....",
+        "cardKey": "rawCards_kb2_7",
+        "count": 100
+      },
+      {
+        "id": "sp-kb2-8",
+        "label": "ระบบสารสนเทศ",
+        "cardKey": "rawCards_kb2_8",
+        "count": 100
+      },
+      {
+        "id": "sp-kb2-9",
+        "label": "วิเคราะห์ ออกแบบ ระบบเครือข่าย",
+        "cardKey": "rawCards_kb2_9",
+        "count": 80
+      },
+      {
+        "id": "sp-kb2-10",
+        "label": "วิเคราะห์ ออกแบบพัฒนาระบบสารสนเทศ",
+        "cardKey": "rawCards_kb2_10",
+        "count": 70
+      }
+    ]
+  }
+]
